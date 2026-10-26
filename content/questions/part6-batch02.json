@@ -1,0 +1,1100 @@
+{
+  "batch": "part6-batch02",
+  "part": 6,
+  "passages": [
+    {
+      "id": "p6-b02-pass-01",
+      "kind": "text",
+      "title": "Email: new supplier",
+      "body": "To: All department heads\nFrom: Paula Ruiz, Purchasing\nSubject: Change of office-supply vendor\n\nStarting next month, our company (1) ___ all office supplies from Delta Stationery instead of our previous vendor. The change will reduce our annual costs by about eight percent. (2) ___. Orders can be placed through the same online form, and delivery will remain free for orders over fifty dollars. (3) ___ you have any questions about the transition, please contact my office. We appreciate your (4) ___ during this period.",
+      "transcript": null,
+      "image": null
+    },
+    {
+      "id": "p6-b02-pass-02",
+      "kind": "text",
+      "title": "Memo: system maintenance",
+      "body": "MEMO\nTo: All staff\nFrom: IT Services\nDate: October 3\n\nThe company network will be unavailable (1) ___ Saturday, October 12, from 10 p.m. until Sunday at 6 a.m. During this time, our technicians will install a security update. (2) ___, you will not be able to access e-mail, shared files or the customer database. (3) ___ the maintenance is completed, all services will return to normal. We recommend that you save your work and (4) ___ out of all applications before leaving on Friday.",
+      "transcript": null,
+      "image": null
+    },
+    {
+      "id": "p6-b02-pass-03",
+      "kind": "text",
+      "title": "Announcement: store opening",
+      "body": "GREENFIELD MARKET OPENS IN DOWNTOWN OAKVILLE\n\nGreenfield Market, a well-known (1) ___ of organic groceries, will open its newest location on Elm Street on March 15. The store, which has been designed to be energy efficient, will employ more than forty local residents. (2) ___. On opening day, the first hundred customers will receive a reusable shopping bag. (3) ___, the store will offer a ten percent discount on all fresh produce throughout the weekend. Greenfield Market is open daily (4) ___ 7 a.m. and 9 p.m.",
+      "transcript": null,
+      "image": null
+    },
+    {
+      "id": "p6-b02-pass-04",
+      "kind": "text",
+      "title": "Letter: customer complaint",
+      "body": "Dear Mr. Ahmed,\n\nThank you for your letter of June 4 (1) ___ the damaged package you received. We sincerely apologize for the inconvenience. (2) ___. A replacement item was shipped to your address this morning, and it should reach you within three business days. (3) ___ the original package, you do not need to return it. In order to prevent similar problems, we have asked our carrier to (4) ___ the way it handles fragile items.\n\nSincerely,\nLaura Chen, Customer Care",
+      "transcript": null,
+      "image": null
+    },
+    {
+      "id": "p6-b02-pass-05",
+      "kind": "text",
+      "title": "Article: remote work",
+      "body": "Remote work has become much more common over the past few years, and many companies now offer flexible schedules. A recent survey (1) ___ that sixty percent of employees prefer working from home at least two days a week. (2) ___. Managers, however, say that teamwork can suffer when people rarely meet in person. To solve this problem, several firms have introduced \"anchor days\", (3) ___ everyone comes to the office on the same days. Experts agree that the (4) ___ approach is the one that combines flexibility with regular face-to-face contact.",
+      "transcript": null,
+      "image": null
+    },
+    {
+      "id": "p6-b02-pass-06",
+      "kind": "text",
+      "title": "Advertisement: language courses",
+      "body": "LEARN ENGLISH WITH BRIDGEWAY ACADEMY\n\nAre you ready to improve your career prospects? Bridgeway Academy (1) ___ business English courses for beginners and advanced learners for over fifteen years. Our classes are small, and every teacher is (2) ___ in teaching professionals. (3) ___. Enroll before April 30 and receive a free e-book with 500 useful expressions. Call 555-0142 (4) ___ visit our website to register today.",
+      "transcript": null,
+      "image": null
+    },
+    {
+      "id": "p6-b02-pass-07",
+      "kind": "text",
+      "title": "Notice: safety rules",
+      "body": "NOTICE TO ALL WAREHOUSE EMPLOYEES\n\nEffective November 1, all employees (1) ___ the loading area must wear a safety helmet and reflective vest. This rule applies to visitors as well. (2) ___. Helmets and vests are available at the entrance, and new employees will receive their own set during orientation. (3) ___ the policy is not followed, the shift supervisor may ask the person to leave the area. We (4) ___ your understanding and cooperation.",
+      "transcript": null,
+      "image": null
+    }
+  ],
+  "questions": [
+    {
+      "id": "p6-b02-01",
+      "part": 6,
+      "difficulty": 2,
+      "category": "gram-verb-tenses",
+      "stem": "Blank (1)",
+      "choices": [
+        "buy",
+        "will be buying",
+        "bought",
+        "has bought"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "« Starting next month » situe l'action dans le futur.",
+          "why_wrong": [
+            "A : forme de base sans auxiliaire.",
+            "C : le prétérit contredit « Starting next month ».",
+            "D : present perfect : fait déjà accompli."
+          ],
+          "example": "We will be using the new system."
+        },
+        "en": {
+          "rule": "'Starting next month' places the action in the future.",
+          "why_wrong": [
+            "A: base form without an auxiliary.",
+            "C: the past tense contradicts 'Starting next month'.",
+            "D: present perfect: already done."
+          ],
+          "example": "We will be using the new system."
+        }
+      },
+      "vocab": [],
+      "passage": "p6-b02-pass-01",
+      "position": 1
+    },
+    {
+      "id": "p6-b02-02",
+      "part": 6,
+      "difficulty": 3,
+      "category": "qt-sentence-insertion",
+      "stem": "Which sentence best fits blank (2)?",
+      "choices": [
+        "The previous vendor closed its warehouse last year.",
+        "Employees will notice no difference in product quality.",
+        "Please return the old catalogs immediately.",
+        "Delta Stationery was founded in 1975."
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "La phrase doit rassurer sur le changement, comme la suite sur la commande.",
+          "why_wrong": [
+            "A : sans lien avec la phrase précédente (coûts).",
+            "C : ne se rattache pas au sens du paragraphe.",
+            "D : détail historique sans rapport avec la transition."
+          ],
+          "example": "Employees will notice no difference in product quality."
+        },
+        "en": {
+          "rule": "The sentence should reassure about the change, like the next one about ordering.",
+          "why_wrong": [
+            "A: unrelated to the previous sentence (costs).",
+            "C: does not connect to the meaning of the paragraph.",
+            "D: historical detail unrelated to the transition."
+          ],
+          "example": "Employees will notice no difference in product quality."
+        }
+      },
+      "vocab": [],
+      "passage": "p6-b02-pass-01",
+      "position": 2
+    },
+    {
+      "id": "p6-b02-03",
+      "part": 6,
+      "difficulty": 3,
+      "category": "gram-conditionals",
+      "stem": "Blank (3)",
+      "choices": [
+        "Unless",
+        "Would",
+        "Because",
+        "Should"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Should + sujet = If you should (inversion formelle).",
+          "why_wrong": [
+            "A : sens contraire.",
+            "B : ne convient pas à cette inversion.",
+            "C : ne s'inverse pas."
+          ],
+          "example": "Should you need help, call us."
+        },
+        "en": {
+          "rule": "Should + subject = If you should (formal inversion).",
+          "why_wrong": [
+            "A: opposite meaning.",
+            "B: does not fit this inversion.",
+            "C: does not invert."
+          ],
+          "example": "Should you need help, call us."
+        }
+      },
+      "vocab": [],
+      "passage": "p6-b02-pass-01",
+      "position": 3
+    },
+    {
+      "id": "p6-b02-04",
+      "part": 6,
+      "difficulty": 1,
+      "category": "gram-word-forms",
+      "stem": "Blank (4)",
+      "choices": [
+        "cooperate",
+        "cooperative",
+        "cooperation",
+        "cooperatively"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Après « your » : nom.",
+          "why_wrong": [
+            "A : verbe.",
+            "B : adjectif.",
+            "D : adverbe."
+          ],
+          "example": "Thank you for your cooperation."
+        },
+        "en": {
+          "rule": "After 'your': noun.",
+          "why_wrong": [
+            "A: verb.",
+            "B: adjective.",
+            "D: adverb."
+          ],
+          "example": "Thank you for your cooperation."
+        }
+      },
+      "vocab": [],
+      "passage": "p6-b02-pass-01",
+      "position": 4
+    },
+    {
+      "id": "p6-b02-05",
+      "part": 6,
+      "difficulty": 1,
+      "category": "gram-prepositions",
+      "stem": "Blank (1)",
+      "choices": [
+        "in",
+        "on",
+        "at",
+        "by"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "On + jour de la semaine.",
+          "why_wrong": [
+            "A : « in Saturday » est incorrect.",
+            "C : « at » s'emploie avec une heure.",
+            "D : « by » = au plus tard."
+          ],
+          "example": "See you on Saturday."
+        },
+        "en": {
+          "rule": "On + day of the week.",
+          "why_wrong": [
+            "A: 'in Saturday' is incorrect.",
+            "C: 'at' is used with a time.",
+            "D: 'by' = no later than."
+          ],
+          "example": "See you on Saturday."
+        }
+      },
+      "vocab": [],
+      "passage": "p6-b02-pass-02",
+      "position": 1
+    },
+    {
+      "id": "p6-b02-06",
+      "part": 6,
+      "difficulty": 2,
+      "category": "gram-conjunctions",
+      "stem": "Blank (2)",
+      "choices": [
+        "As a result",
+        "However",
+        "For example",
+        "Otherwise"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "As a result = en conséquence de la mise à jour.",
+          "why_wrong": [
+            "B : oppose deux idées, ce n'est pas le cas.",
+            "C : ne présente pas ici un exemple.",
+            "D : introduit une conséquence négative d'une condition."
+          ],
+          "example": "It rained; as a result, we stayed in."
+        },
+        "en": {
+          "rule": "As a result = consequently.",
+          "why_wrong": [
+            "B: contrasts two ideas, which is not the case here.",
+            "C: does not introduce an example here.",
+            "D: introduces a negative result of a condition."
+          ],
+          "example": "It rained; as a result, we stayed in."
+        }
+      },
+      "vocab": [],
+      "passage": "p6-b02-pass-02",
+      "position": 2
+    },
+    {
+      "id": "p6-b02-07",
+      "part": 6,
+      "difficulty": 2,
+      "category": "gram-conjunctions",
+      "stem": "Blank (3)",
+      "choices": [
+        "Whereas",
+        "Once",
+        "Despite",
+        "During"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Once + sujet + verbe : dès que.",
+          "why_wrong": [
+            "A : exprime l'opposition.",
+            "C : préposition suivie d'un nom.",
+            "D : préposition suivie d'un nom."
+          ],
+          "example": "Once you finish, call me."
+        },
+        "en": {
+          "rule": "Once + subject + verb: as soon as.",
+          "why_wrong": [
+            "A: expresses contrast.",
+            "C: preposition followed by a noun.",
+            "D: preposition followed by a noun."
+          ],
+          "example": "Once you finish, call me."
+        }
+      },
+      "vocab": [],
+      "passage": "p6-b02-pass-02",
+      "position": 3
+    },
+    {
+      "id": "p6-b02-08",
+      "part": 6,
+      "difficulty": 2,
+      "category": "voc-technology",
+      "stem": "Blank (4)",
+      "choices": [
+        "run",
+        "log",
+        "sign up",
+        "switch up"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Log out of = se déconnecter de.",
+          "why_wrong": [
+            "A : ne s'emploie pas avec « out of » ici.",
+            "C : ne s'emploie pas avec « out of ».",
+            "D : expression incorrecte."
+          ],
+          "example": "Log out of your account."
+        },
+        "en": {
+          "rule": "Log out of = disconnect from.",
+          "why_wrong": [
+            "A: not used with 'out of' here.",
+            "C: not used with 'out of'.",
+            "D: incorrect expression."
+          ],
+          "example": "Log out of your account."
+        }
+      },
+      "vocab": [],
+      "passage": "p6-b02-pass-02",
+      "position": 4
+    },
+    {
+      "id": "p6-b02-09",
+      "part": 6,
+      "difficulty": 2,
+      "category": "gram-word-forms",
+      "stem": "Blank (1)",
+      "choices": [
+        "supplied",
+        "supplying",
+        "supply",
+        "supplier"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Après « a well-known » : nom de personne ou d'entreprise (-er).",
+          "why_wrong": [
+            "A : participe passé.",
+            "B : gérondif.",
+            "C : verbe ou nom, mais pas la personne qui fournit."
+          ],
+          "example": "A leading supplier."
+        },
+        "en": {
+          "rule": "After 'a well-known': a person/company noun (-er).",
+          "why_wrong": [
+            "A: past participle.",
+            "B: gerund.",
+            "C: verb or noun, but not the one who supplies."
+          ],
+          "example": "A leading supplier."
+        }
+      },
+      "vocab": [],
+      "passage": "p6-b02-pass-03",
+      "position": 1
+    },
+    {
+      "id": "p6-b02-10",
+      "part": 6,
+      "difficulty": 3,
+      "category": "qt-sentence-insertion",
+      "stem": "Which sentence best fits blank (2)?",
+      "choices": [
+        "Many of the new positions are full-time and include health benefits.",
+        "The Elm Street bridge is closed for repairs.",
+        "Other supermarkets in the area have closed.",
+        "Customers can pay only in cash."
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "La phrase prolonge l'information sur les emplois créés.",
+          "why_wrong": [
+            "B : sans rapport avec l'emploi.",
+            "C : ne prolonge pas l'idée.",
+            "D : sans lien avec le paragraphe."
+          ],
+          "example": "Many of the new positions are full-time and include health benefits."
+        },
+        "en": {
+          "rule": "The sentence extends the information about the jobs created.",
+          "why_wrong": [
+            "B: unrelated to jobs.",
+            "C: does not extend the idea.",
+            "D: unrelated to the paragraph."
+          ],
+          "example": "Many of the new positions are full-time and include health benefits."
+        }
+      },
+      "vocab": [],
+      "passage": "p6-b02-pass-03",
+      "position": 2
+    },
+    {
+      "id": "p6-b02-11",
+      "part": 6,
+      "difficulty": 2,
+      "category": "gram-conjunctions",
+      "stem": "Blank (3)",
+      "choices": [
+        "In addition",
+        "Otherwise",
+        "Therefore",
+        "Instead"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "In addition = de plus (ajout d'avantage).",
+          "why_wrong": [
+            "B : introduit « sinon ».",
+            "C : exprime la conséquence, ce n'est pas le cas.",
+            "D : indique un remplacement."
+          ],
+          "example": "In addition, we offer free delivery."
+        },
+        "en": {
+          "rule": "In addition = also.",
+          "why_wrong": [
+            "B: introduces 'if not'.",
+            "C: expresses result, which is not the case.",
+            "D: indicates replacement."
+          ],
+          "example": "In addition, we offer free delivery."
+        }
+      },
+      "vocab": [],
+      "passage": "p6-b02-pass-03",
+      "position": 3
+    },
+    {
+      "id": "p6-b02-12",
+      "part": 6,
+      "difficulty": 1,
+      "category": "gram-prepositions",
+      "stem": "Blank (4)",
+      "choices": [
+        "through",
+        "among",
+        "between",
+        "beside"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Between X and Y : deux bornes.",
+          "why_wrong": [
+            "A : ne s'emploie pas pour des heures d'ouverture.",
+            "B : demande un groupe de plus de deux.",
+            "D : à côté de."
+          ],
+          "example": "Open between nine and five."
+        },
+        "en": {
+          "rule": "Between X and Y: two limits.",
+          "why_wrong": [
+            "A: not used for opening hours.",
+            "B: needs a group of more than two.",
+            "D: next to."
+          ],
+          "example": "Open between nine and five."
+        }
+      },
+      "vocab": [],
+      "passage": "p6-b02-pass-03",
+      "position": 4
+    },
+    {
+      "id": "p6-b02-13",
+      "part": 6,
+      "difficulty": 2,
+      "category": "gram-prepositions",
+      "stem": "Blank (1)",
+      "choices": [
+        "regarded",
+        "regards",
+        "regard",
+        "regarding"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Regarding = au sujet de (préposition).",
+          "why_wrong": [
+            "A : participe passé.",
+            "B : nom pluriel ou verbe.",
+            "C : verbe ou nom, pas une préposition seule."
+          ],
+          "example": "Regarding your request, yes."
+        },
+        "en": {
+          "rule": "Regarding = about (preposition).",
+          "why_wrong": [
+            "A: past participle.",
+            "B: plural noun or verb.",
+            "C: verb or noun, not a preposition alone."
+          ],
+          "example": "Regarding your request, yes."
+        }
+      },
+      "vocab": [],
+      "passage": "p6-b02-pass-04",
+      "position": 1
+    },
+    {
+      "id": "p6-b02-14",
+      "part": 6,
+      "difficulty": 3,
+      "category": "qt-sentence-insertion",
+      "stem": "Which sentence best fits blank (2)?",
+      "choices": [
+        "We have investigated the matter and found that the box was not properly sealed.",
+        "Our offices will be closed on Monday for a holiday.",
+        "We have added several new products to our catalog.",
+        "Please visit our new store in the north of the city."
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "La phrase suit les excuses en expliquant la cause du problème.",
+          "why_wrong": [
+            "B : hors sujet.",
+            "C : ne répond pas à la réclamation.",
+            "D : hors sujet."
+          ],
+          "example": "We have investigated the matter and found that the box was not properly sealed."
+        },
+        "en": {
+          "rule": "The sentence follows the apology by explaining the cause.",
+          "why_wrong": [
+            "B: off topic.",
+            "C: does not answer the complaint.",
+            "D: off topic."
+          ],
+          "example": "We have investigated the matter and found that the box was not properly sealed."
+        }
+      },
+      "vocab": [],
+      "passage": "p6-b02-pass-04",
+      "position": 2
+    },
+    {
+      "id": "p6-b02-15",
+      "part": 6,
+      "difficulty": 3,
+      "category": "gram-prepositions",
+      "stem": "Blank (3)",
+      "choices": [
+        "As for",
+        "According",
+        "Because of",
+        "Instead"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "As for = quant à.",
+          "why_wrong": [
+            "B : incomplet sans « to ».",
+            "C : cause : sens inadapté.",
+            "D : sans « of » ici."
+          ],
+          "example": "As for me, I agree."
+        },
+        "en": {
+          "rule": "As for = regarding.",
+          "why_wrong": [
+            "B: incomplete without 'to'.",
+            "C: cause: unsuitable meaning.",
+            "D: without 'of' here."
+          ],
+          "example": "As for me, I agree."
+        }
+      },
+      "vocab": [],
+      "passage": "p6-b02-pass-04",
+      "position": 3
+    },
+    {
+      "id": "p6-b02-16",
+      "part": 6,
+      "difficulty": 2,
+      "category": "voc-general",
+      "stem": "Blank (4)",
+      "choices": [
+        "cancel",
+        "forget",
+        "remove",
+        "review"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Review = réexaminer.",
+          "why_wrong": [
+            "A : sens inadapté.",
+            "B : sens inadapté.",
+            "C : sens inadapté."
+          ],
+          "example": "We will review the process."
+        },
+        "en": {
+          "rule": "Review = examine again.",
+          "why_wrong": [
+            "A: unsuitable meaning.",
+            "B: unsuitable meaning.",
+            "C: unsuitable meaning."
+          ],
+          "example": "We will review the process."
+        }
+      },
+      "vocab": [],
+      "passage": "p6-b02-pass-04",
+      "position": 4
+    },
+    {
+      "id": "p6-b02-17",
+      "part": 6,
+      "difficulty": 2,
+      "category": "gram-verb-tenses",
+      "stem": "Blank (1)",
+      "choices": [
+        "will find",
+        "found",
+        "is finding",
+        "finds"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "« A recent survey » : fait passé, prétérit.",
+          "why_wrong": [
+            "A : futur.",
+            "C : présent continu.",
+            "D : le sondage est passé : prétérit."
+          ],
+          "example": "The study found a link."
+        },
+        "en": {
+          "rule": "'A recent survey': past fact, simple past.",
+          "why_wrong": [
+            "A: future.",
+            "C: present continuous.",
+            "D: the survey is past: simple past."
+          ],
+          "example": "The study found a link."
+        }
+      },
+      "vocab": [],
+      "passage": "p6-b02-pass-05",
+      "position": 1
+    },
+    {
+      "id": "p6-b02-18",
+      "part": 6,
+      "difficulty": 3,
+      "category": "qt-sentence-insertion",
+      "stem": "Which sentence best fits blank (2)?",
+      "choices": [
+        "Many of them say they are more productive because they have fewer interruptions.",
+        "Office rents have risen in most cities.",
+        "The number of remote workers in Asia is falling.",
+        "Some employees do not own a computer."
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "La phrase donne la raison de la préférence, avant le contraste avec « Managers, however ».",
+          "why_wrong": [
+            "B : hors sujet.",
+            "C : contredit l'idée du paragraphe.",
+            "D : ne prolonge pas l'idée."
+          ],
+          "example": "Many of them say they are more productive because they have fewer interruptions."
+        },
+        "en": {
+          "rule": "The sentence gives the reason for the preference, before the contrast of 'Managers, however'.",
+          "why_wrong": [
+            "B: off topic.",
+            "C: contradicts the paragraph.",
+            "D: does not extend the idea."
+          ],
+          "example": "Many of them say they are more productive because they have fewer interruptions."
+        }
+      },
+      "vocab": [],
+      "passage": "p6-b02-pass-05",
+      "position": 2
+    },
+    {
+      "id": "p6-b02-19",
+      "part": 6,
+      "difficulty": 3,
+      "category": "gram-relative-pronouns",
+      "stem": "Blank (3)",
+      "choices": [
+        "whose",
+        "who",
+        "which",
+        "when"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "When relie une relative de temps à « days ».",
+          "why_wrong": [
+            "A : possession.",
+            "B : personne.",
+            "C : ne s'emploie pas avec « days » dans cette relative de temps."
+          ],
+          "example": "The day when we met."
+        },
+        "en": {
+          "rule": "'When' links a time relative clause to 'days'.",
+          "why_wrong": [
+            "A: possession.",
+            "B: person.",
+            "C: not used for time here."
+          ],
+          "example": "The day when we met."
+        }
+      },
+      "vocab": [],
+      "passage": "p6-b02-pass-05",
+      "position": 3
+    },
+    {
+      "id": "p6-b02-20",
+      "part": 6,
+      "difficulty": 2,
+      "category": "gram-word-forms",
+      "stem": "Blank (4)",
+      "choices": [
+        "effected",
+        "effect",
+        "effectively",
+        "most effective"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "The most + adjectif : superlatif avant un nom.",
+          "why_wrong": [
+            "A : participe passé de « to effect ».",
+            "B : nom.",
+            "C : adverbe."
+          ],
+          "example": "The most effective plan."
+        },
+        "en": {
+          "rule": "The most + adjective: superlative before a noun.",
+          "why_wrong": [
+            "A: past participle of 'to effect'.",
+            "B: noun.",
+            "C: adverb."
+          ],
+          "example": "The most effective plan."
+        }
+      },
+      "vocab": [],
+      "passage": "p6-b02-pass-05",
+      "position": 4
+    },
+    {
+      "id": "p6-b02-21",
+      "part": 6,
+      "difficulty": 2,
+      "category": "gram-verb-tenses",
+      "stem": "Blank (1)",
+      "choices": [
+        "will offer",
+        "has offered",
+        "offers",
+        "is offering"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "For + durée : present perfect.",
+          "why_wrong": [
+            "A : futur.",
+            "C : « for over fifteen years » appelle un temps composé.",
+            "D : ne marque pas la durée."
+          ],
+          "example": "She has worked here for ten years."
+        },
+        "en": {
+          "rule": "For + duration: present perfect.",
+          "why_wrong": [
+            "A: future.",
+            "C: 'for over fifteen years' calls for a perfect tense.",
+            "D: does not show duration."
+          ],
+          "example": "She has worked here for ten years."
+        }
+      },
+      "vocab": [],
+      "passage": "p6-b02-pass-06",
+      "position": 1
+    },
+    {
+      "id": "p6-b02-22",
+      "part": 6,
+      "difficulty": 2,
+      "category": "gram-participles",
+      "stem": "Blank (2)",
+      "choices": [
+        "experiences",
+        "experience",
+        "experiencing",
+        "experienced"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Experienced = expérimenté (participe passé).",
+          "why_wrong": [
+            "A : nom pluriel.",
+            "B : nom ou verbe.",
+            "C : sens actif inadapté."
+          ],
+          "example": "An experienced teacher."
+        },
+        "en": {
+          "rule": "Experienced = skilled (past participle).",
+          "why_wrong": [
+            "A: plural noun.",
+            "B: noun or verb.",
+            "C: unsuitable active meaning."
+          ],
+          "example": "An experienced teacher."
+        }
+      },
+      "vocab": [],
+      "passage": "p6-b02-pass-06",
+      "position": 2
+    },
+    {
+      "id": "p6-b02-23",
+      "part": 6,
+      "difficulty": 3,
+      "category": "qt-sentence-insertion",
+      "stem": "Which sentence best fits blank (3)?",
+      "choices": [
+        "Several students have moved to other countries.",
+        "Bridgeway Academy was founded by a former pilot.",
+        "Classes are offered in the morning, in the evening and on weekends.",
+        "Parking is difficult in the city center."
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "La phrase prolonge les avantages de l'offre avant l'incitation à s'inscrire.",
+          "why_wrong": [
+            "A : hors sujet.",
+            "B : hors sujet.",
+            "D : sans rapport avec l'offre."
+          ],
+          "example": "Classes are offered in the morning, in the evening and on weekends."
+        },
+        "en": {
+          "rule": "The sentence extends the benefits before the call to enroll.",
+          "why_wrong": [
+            "A: off topic.",
+            "B: off topic.",
+            "D: unrelated to the offer."
+          ],
+          "example": "Classes are offered in the morning, in the evening and on weekends."
+        }
+      },
+      "vocab": [],
+      "passage": "p6-b02-pass-06",
+      "position": 3
+    },
+    {
+      "id": "p6-b02-24",
+      "part": 6,
+      "difficulty": 1,
+      "category": "gram-conjunctions",
+      "stem": "Blank (4)",
+      "choices": [
+        "but",
+        "or",
+        "so",
+        "nor"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Or relie deux options.",
+          "why_wrong": [
+            "A : oppose, ce n'est pas le sens.",
+            "C : conséquence.",
+            "D : négation."
+          ],
+          "example": "Call or visit."
+        },
+        "en": {
+          "rule": "'Or' links two options.",
+          "why_wrong": [
+            "A: contrasts, not the meaning here.",
+            "C: result.",
+            "D: negation."
+          ],
+          "example": "Call or visit."
+        }
+      },
+      "vocab": [],
+      "passage": "p6-b02-pass-06",
+      "position": 4
+    },
+    {
+      "id": "p6-b02-25",
+      "part": 6,
+      "difficulty": 3,
+      "category": "gram-participles",
+      "stem": "Blank (1)",
+      "choices": [
+        "to be entering",
+        "enter",
+        "entering",
+        "entered"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Participe présent = proposition relative réduite (employees who enter).",
+          "why_wrong": [
+            "A : forme incorrecte.",
+            "B : forme de base : il faudrait « who enter ».",
+            "D : sens passif inadapté : ils entrent."
+          ],
+          "example": "Employees entering the area."
+        },
+        "en": {
+          "rule": "Present participle = reduced relative clause (employees who enter).",
+          "why_wrong": [
+            "A: incorrect form.",
+            "B: base form: 'who enter' would be needed.",
+            "D: unsuitable passive meaning: they enter."
+          ],
+          "example": "Employees entering the area."
+        }
+      },
+      "vocab": [],
+      "passage": "p6-b02-pass-07",
+      "position": 1
+    },
+    {
+      "id": "p6-b02-26",
+      "part": 6,
+      "difficulty": 3,
+      "category": "qt-sentence-insertion",
+      "stem": "Which sentence best fits blank (2)?",
+      "choices": [
+        "Many employees have worked here for years.",
+        "The loading dock was painted last summer.",
+        "Deliveries are made every Tuesday.",
+        "Anyone who enters the area without protection will be stopped by security."
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "La phrase précise l'application de la règle.",
+          "why_wrong": [
+            "A : ne prolonge pas la règle.",
+            "B : hors sujet.",
+            "C : hors sujet."
+          ],
+          "example": "Anyone who enters the area without protection will be stopped by security."
+        },
+        "en": {
+          "rule": "The sentence clarifies how the rule is applied.",
+          "why_wrong": [
+            "A: does not extend the rule.",
+            "B: off topic.",
+            "C: off topic."
+          ],
+          "example": "Anyone who enters the area without protection will be stopped by security."
+        }
+      },
+      "vocab": [],
+      "passage": "p6-b02-pass-07",
+      "position": 2
+    },
+    {
+      "id": "p6-b02-27",
+      "part": 6,
+      "difficulty": 1,
+      "category": "gram-conjunctions",
+      "stem": "Blank (3)",
+      "choices": [
+        "If",
+        "Since",
+        "Although",
+        "While"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "If introduit une condition.",
+          "why_wrong": [
+            "B : cause ou temps passé.",
+            "C : opposition.",
+            "D : simultanéité ou opposition."
+          ],
+          "example": "If you are late, call."
+        },
+        "en": {
+          "rule": "If introduces a condition.",
+          "why_wrong": [
+            "B: cause or past time.",
+            "C: contrast.",
+            "D: simultaneity or contrast."
+          ],
+          "example": "If you are late, call."
+        }
+      },
+      "vocab": [],
+      "passage": "p6-b02-pass-07",
+      "position": 3
+    },
+    {
+      "id": "p6-b02-28",
+      "part": 6,
+      "difficulty": 2,
+      "category": "voc-general",
+      "stem": "Blank (4)",
+      "choices": [
+        "apprehend",
+        "appreciate",
+        "appraise",
+        "approach"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Appreciate = être reconnaissant de.",
+          "why_wrong": [
+            "A : arrêter ou craindre : sens différent.",
+            "C : évaluer : sens différent.",
+            "D : aborder : sens différent."
+          ],
+          "example": "We appreciate your help."
+        },
+        "en": {
+          "rule": "Appreciate = be grateful for.",
+          "why_wrong": [
+            "A: arrest or fear: different meaning.",
+            "C: evaluate: different meaning.",
+            "D: come near: different meaning."
+          ],
+          "example": "We appreciate your help."
+        }
+      },
+      "vocab": [],
+      "passage": "p6-b02-pass-07",
+      "position": 4
+    }
+  ]
+}

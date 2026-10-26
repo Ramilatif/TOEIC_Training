@@ -1,0 +1,1797 @@
+{
+  "batch": "part5-batch02",
+  "part": 5,
+  "passages": [],
+  "questions": [
+    {
+      "id": "p5-b02-01",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-verb-tenses",
+      "stem": "The finance department ___ the quarterly figures every Monday morning.",
+      "choices": [
+        "is reviewed",
+        "reviewed",
+        "reviews",
+        "has reviewed"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "« Every Monday » = habitude : présent simple.",
+          "why_wrong": [
+            "A : passif : le service est le sujet actif.",
+            "B : le prétérit ne convient pas à une habitude présente.",
+            "D : le present perfect ne marque pas une habitude hebdomadaire."
+          ],
+          "example": "She checks her mail every morning."
+        },
+        "en": {
+          "rule": "'Every Monday' = habit: simple present.",
+          "why_wrong": [
+            "A: passive: the department is the active subject.",
+            "B: the past tense does not fit a present habit.",
+            "D: the present perfect does not mark a weekly habit."
+          ],
+          "example": "She checks her mail every morning."
+        }
+      },
+      "vocab": [
+        {
+          "term": "quarterly",
+          "fr": "trimestriel"
+        }
+      ]
+    },
+    {
+      "id": "p5-b02-02",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-verb-tenses",
+      "stem": "We ___ for a new supplier since the last one raised its prices in March.",
+      "choices": [
+        "are looking at",
+        "will look",
+        "have been looking",
+        "looked"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Action commencée dans le passé et toujours en cours : present perfect continu (since + point de départ).",
+          "why_wrong": [
+            "A : présent continu sans durée, sens différent.",
+            "B : futur incompatible avec « since ».",
+            "D : « since » appelle un temps composé."
+          ],
+          "example": "I have been waiting since noon."
+        },
+        "en": {
+          "rule": "An action begun in the past and still going on: present perfect continuous (since + starting point).",
+          "why_wrong": [
+            "A: present continuous with no duration, different meaning.",
+            "B: future is incompatible with 'since'.",
+            "D: 'since' calls for a perfect tense."
+          ],
+          "example": "I have been waiting since noon."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "p5-b02-03",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-verb-tenses",
+      "stem": "By next December, the company ___ its tenth store in the region.",
+      "choices": [
+        "opened",
+        "has opened",
+        "opens",
+        "will have opened"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "By + date future : futur antérieur (will have + participe passé).",
+          "why_wrong": [
+            "A : prétérit, incompatible avec « next December ».",
+            "B : le present perfect ne convient pas à une date future.",
+            "C : le présent simple ne marque pas l'achèvement avant une date future."
+          ],
+          "example": "By June, we will have finished."
+        },
+        "en": {
+          "rule": "By + future date: future perfect (will have + past participle).",
+          "why_wrong": [
+            "A: past tense, incompatible with 'next December'.",
+            "B: the present perfect does not fit a future date.",
+            "C: the simple present does not show completion before a future date."
+          ],
+          "example": "By June, we will have finished."
+        }
+      },
+      "vocab": [
+        {
+          "term": "region",
+          "fr": "région"
+        }
+      ]
+    },
+    {
+      "id": "p5-b02-04",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-subject-verb-agreement",
+      "stem": "The CEO, along with two senior managers, ___ attending the trade fair in Berlin.",
+      "choices": [
+        "are",
+        "were",
+        "is",
+        "have been"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Along with / as well as / together with n'affectent pas l'accord : le verbe suit le premier sujet.",
+          "why_wrong": [
+            "A : « along with » n'ajoute pas de sujet : le sujet est « CEO ».",
+            "B : pluriel et passé.",
+            "D : pluriel."
+          ],
+          "example": "The manager, with his team, is here."
+        },
+        "en": {
+          "rule": "Along with / as well as / together with do not change agreement: the verb follows the first subject.",
+          "why_wrong": [
+            "A: 'along with' does not add a subject: the subject is 'CEO'.",
+            "B: plural and past.",
+            "D: plural."
+          ],
+          "example": "The manager, with his team, is here."
+        }
+      },
+      "vocab": [
+        {
+          "term": "trade fair",
+          "fr": "salon professionnel"
+        }
+      ]
+    },
+    {
+      "id": "p5-b02-05",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-subject-verb-agreement",
+      "stem": "Either the supervisors or the plant manager ___ responsible for approving the schedule.",
+      "choices": [
+        "were",
+        "have been",
+        "are",
+        "is"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Either…or : accord avec le sujet le plus proche.",
+          "why_wrong": [
+            "A : pluriel et passé.",
+            "B : pluriel.",
+            "C : avec « either…or », l'accord se fait avec le sujet le plus proche (manager)."
+          ],
+          "example": "Either he or I am wrong."
+        },
+        "en": {
+          "rule": "Either…or: agree with the nearest subject.",
+          "why_wrong": [
+            "A: plural and past.",
+            "B: plural.",
+            "C: with 'either…or', agree with the nearest subject (manager)."
+          ],
+          "example": "Either he or I am wrong."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "p5-b02-06",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-passive-voice",
+      "stem": "Applications for the grant must ___ no later than April 30.",
+      "choices": [
+        "receive",
+        "be received",
+        "have received",
+        "received"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Modal + be + participe passé pour le passif.",
+          "why_wrong": [
+            "A : actif : les candidatures ne reçoivent pas.",
+            "C : actif et mauvaise forme après un modal.",
+            "D : après « must » il faut l'infinitif."
+          ],
+          "example": "The form must be signed."
+        },
+        "en": {
+          "rule": "Modal + be + past participle for the passive.",
+          "why_wrong": [
+            "A: active: applications do not receive.",
+            "C: active and a wrong form after a modal.",
+            "D: after 'must' use the infinitive."
+          ],
+          "example": "The form must be signed."
+        }
+      },
+      "vocab": [
+        {
+          "term": "grant",
+          "fr": "subvention"
+        }
+      ]
+    },
+    {
+      "id": "p5-b02-07",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-passive-voice",
+      "stem": "The new policy ___ to all employees by email yesterday.",
+      "choices": [
+        "has announced",
+        "was announced",
+        "announced",
+        "announces"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Sujet chose + repère passé : was + participe passé.",
+          "why_wrong": [
+            "A : actif.",
+            "C : il manque l'auxiliaire.",
+            "D : présent actif, incompatible avec « yesterday »."
+          ],
+          "example": "The results were posted."
+        },
+        "en": {
+          "rule": "Thing subject + past clue: was + past participle.",
+          "why_wrong": [
+            "A: active.",
+            "C: the auxiliary is missing.",
+            "D: present active, incompatible with 'yesterday'."
+          ],
+          "example": "The results were posted."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "p5-b02-08",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-prepositions",
+      "stem": "The refund will be credited to your account ___ ten business days.",
+      "choices": [
+        "among",
+        "within",
+        "between",
+        "beside"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Within + durée = dans un délai de.",
+          "why_wrong": [
+            "A : s'emploie avec un groupe.",
+            "C : demande deux repères.",
+            "D : signifie « à côté de »."
+          ],
+          "example": "Reply within two days."
+        },
+        "en": {
+          "rule": "Within + duration = no later than that period.",
+          "why_wrong": [
+            "A: is used with a group.",
+            "C: needs two reference points.",
+            "D: means 'next to'."
+          ],
+          "example": "Reply within two days."
+        }
+      },
+      "vocab": [
+        {
+          "term": "credit",
+          "fr": "créditer"
+        }
+      ]
+    },
+    {
+      "id": "p5-b02-09",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-prepositions",
+      "stem": "Ms. Okafor has been responsible ___ the Lagos branch since 2019.",
+      "choices": [
+        "for",
+        "in",
+        "of",
+        "to"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Responsible for + nom : être responsable de.",
+          "why_wrong": [
+            "B : « responsible in » n'existe pas.",
+            "C : « responsible of » n'existe pas.",
+            "D : « responsible to » signifie « responsable devant »."
+          ],
+          "example": "He is responsible for sales."
+        },
+        "en": {
+          "rule": "Responsible for + noun.",
+          "why_wrong": [
+            "B: 'responsible in' does not exist.",
+            "C: 'responsible of' does not exist.",
+            "D: 'responsible to' means 'answerable to'."
+          ],
+          "example": "He is responsible for sales."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "p5-b02-10",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-prepositions",
+      "stem": "All visitors must wear a badge ___ their stay in the building.",
+      "choices": [
+        "since",
+        "by",
+        "during",
+        "while"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "During + nom (événement ou période).",
+          "why_wrong": [
+            "A : point de départ passé.",
+            "B : échéance, pas une durée.",
+            "D : conjonction, suivie d'un sujet + verbe."
+          ],
+          "example": "She slept during the flight."
+        },
+        "en": {
+          "rule": "During + noun (event or period).",
+          "why_wrong": [
+            "A: past starting point.",
+            "B: deadline, not a period.",
+            "D: conjunction, followed by subject + verb."
+          ],
+          "example": "She slept during the flight."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "p5-b02-11",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-prepositions",
+      "stem": "The seminar is open to everyone ___ the company, not only managers.",
+      "choices": [
+        "throughout",
+        "beside",
+        "between",
+        "onto"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Throughout = partout dans / pendant toute la durée.",
+          "why_wrong": [
+            "B : à côté de.",
+            "C : demande deux éléments.",
+            "D : mouvement vers une surface."
+          ],
+          "example": "Throughout the year."
+        },
+        "en": {
+          "rule": "Throughout = everywhere in / the whole time.",
+          "why_wrong": [
+            "B: next to.",
+            "C: needs two elements.",
+            "D: movement onto a surface."
+          ],
+          "example": "Throughout the year."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "p5-b02-12",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-conjunctions",
+      "stem": "Please reply to this invitation by Friday, ___ we cannot reserve a seat for you.",
+      "choices": [
+        "although",
+        "otherwise",
+        "so that",
+        "because"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Otherwise = sinon, introduit la conséquence négative.",
+          "why_wrong": [
+            "A : exprime l'opposition.",
+            "C : exprime le but.",
+            "D : inverserait la logique (cause)."
+          ],
+          "example": "Hurry; otherwise, you will miss it."
+        },
+        "en": {
+          "rule": "Otherwise = if not, introduces the negative result.",
+          "why_wrong": [
+            "A: expresses contrast.",
+            "C: expresses purpose.",
+            "D: reverses the logic (cause)."
+          ],
+          "example": "Hurry; otherwise, you will miss it."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "p5-b02-13",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-conjunctions",
+      "stem": "The meeting will go ahead as planned ___ the weather is bad.",
+      "choices": [
+        "even if",
+        "whereas",
+        "because",
+        "so"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Even if = même si (hypothèse).",
+          "why_wrong": [
+            "B : opposition entre deux faits.",
+            "C : cause : ne convient pas.",
+            "D : conséquence."
+          ],
+          "example": "I will go even if it rains."
+        },
+        "en": {
+          "rule": "Even if = even in the case that.",
+          "why_wrong": [
+            "B: contrast between two facts.",
+            "C: cause: does not fit.",
+            "D: result."
+          ],
+          "example": "I will go even if it rains."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "p5-b02-14",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-conjunctions",
+      "stem": "___ the new system is more expensive, it will save us money in the long run.",
+      "choices": [
+        "Despite",
+        "Because of",
+        "Unless",
+        "Although"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Although + sujet + verbe : opposition.",
+          "why_wrong": [
+            "A : préposition, suivie d'un nom.",
+            "B : préposition de cause.",
+            "C : exprime une condition négative."
+          ],
+          "example": "Although it was late, we stayed."
+        },
+        "en": {
+          "rule": "Although + subject + verb: contrast.",
+          "why_wrong": [
+            "A: preposition, followed by a noun.",
+            "B: preposition of cause.",
+            "C: expresses a negative condition."
+          ],
+          "example": "Although it was late, we stayed."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "p5-b02-15",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-relative-pronouns",
+      "stem": "The software ___ we installed last week has already improved our workflow.",
+      "choices": [
+        "who",
+        "where",
+        "that",
+        "whose"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "That / which pour une chose.",
+          "why_wrong": [
+            "A : personne uniquement.",
+            "B : lieu.",
+            "D : possession."
+          ],
+          "example": "The tool that I use is old."
+        },
+        "en": {
+          "rule": "That / which for a thing.",
+          "why_wrong": [
+            "A: people only.",
+            "B: place.",
+            "D: possession."
+          ],
+          "example": "The tool that I use is old."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "p5-b02-16",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-relative-pronouns",
+      "stem": "Mr. Berg, ___ department won the award, will give a short speech.",
+      "choices": [
+        "who",
+        "which",
+        "whose",
+        "whom"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Whose + nom = possession.",
+          "why_wrong": [
+            "A : il manque l'idée de possession.",
+            "B : ne s'emploie pas pour une personne.",
+            "D : complément."
+          ],
+          "example": "The man whose car was stolen called."
+        },
+        "en": {
+          "rule": "Whose + noun = possession.",
+          "why_wrong": [
+            "A: the idea of possession is missing.",
+            "B: is not used for a person.",
+            "D: object."
+          ],
+          "example": "The man whose car was stolen called."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "p5-b02-17",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-pronouns",
+      "stem": "The new employees introduced ___ to the rest of the team at the welcome lunch.",
+      "choices": [
+        "their",
+        "them",
+        "themselves",
+        "theirs"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Sujet et objet identiques : pronom réfléchi.",
+          "why_wrong": [
+            "A : adjectif possessif.",
+            "B : pronom complément : ne marque pas le retour sur le sujet.",
+            "D : pronom possessif."
+          ],
+          "example": "She introduced herself."
+        },
+        "en": {
+          "rule": "Same subject and object: reflexive pronoun.",
+          "why_wrong": [
+            "A: possessive adjective.",
+            "B: object pronoun: does not refer back to the subject.",
+            "D: possessive pronoun."
+          ],
+          "example": "She introduced herself."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "p5-b02-18",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-pronouns",
+      "stem": "If you have any questions about the schedule, please contact ___ directly.",
+      "choices": [
+        "me",
+        "my",
+        "mine",
+        "I"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Après un verbe : pronom complément.",
+          "why_wrong": [
+            "B : adjectif possessif.",
+            "C : pronom possessif.",
+            "D : pronom sujet."
+          ],
+          "example": "Call me tomorrow."
+        },
+        "en": {
+          "rule": "After a verb: object pronoun.",
+          "why_wrong": [
+            "B: possessive adjective.",
+            "C: possessive pronoun.",
+            "D: subject pronoun."
+          ],
+          "example": "Call me tomorrow."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "p5-b02-19",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-pronouns",
+      "stem": "Our company values customer feedback, and ___ is why we send a survey after every purchase.",
+      "choices": [
+        "that",
+        "those",
+        "them",
+        "this one"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "That is why = c'est pourquoi.",
+          "why_wrong": [
+            "B : pluriel.",
+            "C : pronom complément.",
+            "D : forme incorrecte."
+          ],
+          "example": "That is why we left."
+        },
+        "en": {
+          "rule": "That is why = for that reason.",
+          "why_wrong": [
+            "B: plural.",
+            "C: object pronoun.",
+            "D: incorrect form."
+          ],
+          "example": "That is why we left."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "p5-b02-20",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-comparatives-superlatives",
+      "stem": "This quarter's profit was the ___ in the company's history.",
+      "choices": [
+        "highest",
+        "high",
+        "higher",
+        "more high"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "The + superlatif + in/of.",
+          "why_wrong": [
+            "B : forme de base.",
+            "C : comparatif : « the … in » appelle un superlatif.",
+            "D : forme incorrecte."
+          ],
+          "example": "It is the best in town."
+        },
+        "en": {
+          "rule": "The + superlative + in/of.",
+          "why_wrong": [
+            "B: base form.",
+            "C: comparative: 'the … in' calls for a superlative.",
+            "D: incorrect form."
+          ],
+          "example": "It is the best in town."
+        }
+      },
+      "vocab": [
+        {
+          "term": "profit",
+          "fr": "bénéfice"
+        }
+      ]
+    },
+    {
+      "id": "p5-b02-21",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-comparatives-superlatives",
+      "stem": "The new model is ___ expensive than the old one, but it lasts twice as long.",
+      "choices": [
+        "slightly more",
+        "slightly most",
+        "more slightly",
+        "slight more"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Adverbe + more + adjectif + than.",
+          "why_wrong": [
+            "B : mélange incorrect.",
+            "C : ordre incorrect.",
+            "D : il faut l'adverbe « slightly »."
+          ],
+          "example": "Slightly more difficult."
+        },
+        "en": {
+          "rule": "Adverb + more + adjective + than.",
+          "why_wrong": [
+            "B: incorrect mix.",
+            "C: wrong order.",
+            "D: the adverb 'slightly' is required."
+          ],
+          "example": "Slightly more difficult."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "p5-b02-22",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-articles-determiners",
+      "stem": "Please bring ___ identification with you to the interview.",
+      "choices": [
+        "many",
+        "a",
+        "some",
+        "an"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Nom indénombrable : some / no article.",
+          "why_wrong": [
+            "A : demande un pluriel dénombrable.",
+            "B : « identification » est indénombrable.",
+            "D : « identification » est indénombrable."
+          ],
+          "example": "Bring some information."
+        },
+        "en": {
+          "rule": "Uncountable noun: some / no article.",
+          "why_wrong": [
+            "A: needs a countable plural.",
+            "B: 'identification' is uncountable.",
+            "D: 'identification' is uncountable."
+          ],
+          "example": "Bring some information."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "p5-b02-23",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-articles-determiners",
+      "stem": "___ of the two proposals meets our budget, so we need to ask for new quotes.",
+      "choices": [
+        "Neither",
+        "Each",
+        "Every",
+        "Both"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Neither of the two = ni l'une ni l'autre.",
+          "why_wrong": [
+            "B : ne signifie pas qu'aucune ne convient.",
+            "C : demande un nom singulier.",
+            "D : contredit « so we need new quotes »."
+          ],
+          "example": "Neither of them came."
+        },
+        "en": {
+          "rule": "Neither of the two = not one nor the other.",
+          "why_wrong": [
+            "B: does not mean none fits.",
+            "C: needs a singular noun.",
+            "D: contradicts 'so we need new quotes'."
+          ],
+          "example": "Neither of them came."
+        }
+      },
+      "vocab": [
+        {
+          "term": "quote",
+          "fr": "devis"
+        }
+      ]
+    },
+    {
+      "id": "p5-b02-24",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-articles-determiners",
+      "stem": "She works as ___ assistant manager at a large hotel chain.",
+      "choices": [
+        "an",
+        "a",
+        "one",
+        "the"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "An devant un son voyelle.",
+          "why_wrong": [
+            "B : « assistant » commence par un son voyelle.",
+            "C : ne s'emploie pas pour une profession.",
+            "D : première mention."
+          ],
+          "example": "He is an engineer."
+        },
+        "en": {
+          "rule": "An before a vowel sound.",
+          "why_wrong": [
+            "B: 'assistant' starts with a vowel sound.",
+            "C: is not used for a profession.",
+            "D: first mention."
+          ],
+          "example": "He is an engineer."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "p5-b02-25",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-modals",
+      "stem": "Employees ___ use the main entrance after 8 p.m.; the side door must be used instead.",
+      "choices": [
+        "need not",
+        "do not have to",
+        "must not",
+        "might not"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Must not = interdiction.",
+          "why_wrong": [
+            "A : signifie « pas besoin », pas « interdit ».",
+            "B : pas d'obligation, mais pas d'interdiction.",
+            "D : exprime une possibilité."
+          ],
+          "example": "You must not smoke here."
+        },
+        "en": {
+          "rule": "Must not = prohibition.",
+          "why_wrong": [
+            "A: means 'no need', not 'forbidden'.",
+            "B: no obligation, but no prohibition.",
+            "D: expresses a possibility."
+          ],
+          "example": "You must not smoke here."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "p5-b02-26",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-modals",
+      "stem": "Given the heavy traffic, the delivery truck ___ arrive a little late.",
+      "choices": [
+        "may",
+        "shall to",
+        "will to",
+        "is"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "May exprime une possibilité.",
+          "why_wrong": [
+            "B : pas de « to ».",
+            "C : pas de « to » après un modal.",
+            "D : il manque le modal."
+          ],
+          "example": "It may rain."
+        },
+        "en": {
+          "rule": "May expresses a possibility.",
+          "why_wrong": [
+            "B: no 'to'.",
+            "C: no 'to' after a modal.",
+            "D: the modal is missing."
+          ],
+          "example": "It may rain."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "p5-b02-27",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-modals",
+      "stem": "You ___ have called ahead; the clinic is full today.",
+      "choices": [
+        "should",
+        "could to",
+        "must to",
+        "would to"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Should have + participe passé = reproche, regret.",
+          "why_wrong": [
+            "B : pas de « to ».",
+            "C : pas de « to ».",
+            "D : pas de « to »."
+          ],
+          "example": "You should have told me."
+        },
+        "en": {
+          "rule": "Should have + past participle = regret or criticism.",
+          "why_wrong": [
+            "B: no 'to'.",
+            "C: no 'to'.",
+            "D: no 'to'."
+          ],
+          "example": "You should have told me."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "p5-b02-28",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-conditionals",
+      "stem": "We would extend the offer if our budget ___ larger.",
+      "choices": [
+        "would be",
+        "is",
+        "will be",
+        "were"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Type 2 : If + were/prétérit, would + verbe.",
+          "why_wrong": [
+            "A : pas de « would » dans « if ».",
+            "B : type 2 : prétérit (were).",
+            "C : pas de « will » dans « if »."
+          ],
+          "example": "If I were rich, I would travel."
+        },
+        "en": {
+          "rule": "Type 2: If + were/past, would + verb.",
+          "why_wrong": [
+            "A: no 'would' in the 'if' clause.",
+            "B: type 2: past (were).",
+            "C: no 'will' in the 'if' clause."
+          ],
+          "example": "If I were rich, I would travel."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "p5-b02-29",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-conditionals",
+      "stem": "___ the contract not been signed in time, we would have lost the client.",
+      "choices": [
+        "Would",
+        "If",
+        "Should",
+        "Had"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Inversion : Had + sujet + participe = if + sujet + had.",
+          "why_wrong": [
+            "A : ne convient pas.",
+            "B : avec « if », il faudrait « had ... not been » dans l'ordre normal.",
+            "C : type 1 inversé."
+          ],
+          "example": "Had I known, I would have called."
+        },
+        "en": {
+          "rule": "Inversion: Had + subject + participle = if + subject + had.",
+          "why_wrong": [
+            "A: does not fit.",
+            "B: with 'if' the normal order is 'had ... not been'.",
+            "C: inverted type 1."
+          ],
+          "example": "Had I known, I would have called."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "p5-b02-30",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-gerund-infinitive",
+      "stem": "The manager asked us ___ the report before leaving the office.",
+      "choices": [
+        "finishing",
+        "finish",
+        "finished",
+        "to finish"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Ask + personne + to + verbe.",
+          "why_wrong": [
+            "A : « ask someone to do ».",
+            "B : il faut « to ».",
+            "C : participe passé."
+          ],
+          "example": "She asked me to wait."
+        },
+        "en": {
+          "rule": "Ask + person + to + verb.",
+          "why_wrong": [
+            "A: 'ask someone to do'.",
+            "B: 'to' is required.",
+            "C: past participle."
+          ],
+          "example": "She asked me to wait."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "p5-b02-31",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-gerund-infinitive",
+      "stem": "He denied ___ the confidential file to the press.",
+      "choices": [
+        "to give",
+        "give",
+        "to giving",
+        "giving"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Deny + -ing.",
+          "why_wrong": [
+            "A : « deny » est suivi du gérondif.",
+            "B : forme de base.",
+            "C : mélange."
+          ],
+          "example": "He denied taking it."
+        },
+        "en": {
+          "rule": "Deny + -ing.",
+          "why_wrong": [
+            "A: 'deny' is followed by a gerund.",
+            "B: base form.",
+            "C: mixed structure."
+          ],
+          "example": "He denied taking it."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "p5-b02-32",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-gerund-infinitive",
+      "stem": "We are pleased ___ you that your application has been successful.",
+      "choices": [
+        "informing",
+        "inform",
+        "to inform",
+        "informed"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Pleased + to + verbe.",
+          "why_wrong": [
+            "A : adjectif + to + verbe.",
+            "B : il manque « to ».",
+            "D : participe passé."
+          ],
+          "example": "I am glad to help."
+        },
+        "en": {
+          "rule": "Pleased + to + verb.",
+          "why_wrong": [
+            "A: adjective + to + verb.",
+            "B: 'to' is missing.",
+            "D: past participle."
+          ],
+          "example": "I am glad to help."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "p5-b02-33",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-participles",
+      "stem": "The report, ___ last week, contains several errors.",
+      "choices": [
+        "published",
+        "to publish",
+        "publish",
+        "publishing"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Participe passé = sens passif.",
+          "why_wrong": [
+            "B : infinitif.",
+            "C : forme de base.",
+            "D : sens actif inadapté : le rapport a été publié."
+          ],
+          "example": "The book, written in 2020, is long."
+        },
+        "en": {
+          "rule": "Past participle = passive meaning.",
+          "why_wrong": [
+            "B: infinitive.",
+            "C: base form.",
+            "D: unsuitable active meaning: the report was published."
+          ],
+          "example": "The book, written in 2020, is long."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "p5-b02-34",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-participles",
+      "stem": "Employees ___ in the position should submit their applications online.",
+      "choices": [
+        "interesting",
+        "interested",
+        "interest",
+        "interests"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Une personne qui ressent : -ed.",
+          "why_wrong": [
+            "A : décrit ce qui provoque l'intérêt.",
+            "C : nom.",
+            "D : nom pluriel."
+          ],
+          "example": "Those interested may apply."
+        },
+        "en": {
+          "rule": "A person who feels: -ed.",
+          "why_wrong": [
+            "A: describes what causes interest.",
+            "C: noun.",
+            "D: plural noun."
+          ],
+          "example": "Those interested may apply."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "p5-b02-35",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-participles",
+      "stem": "The ___ costs of raw materials are forcing prices up.",
+      "choices": [
+        "risen",
+        "rising",
+        "rose",
+        "rise"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Participe présent = action en cours.",
+          "why_wrong": [
+            "A : participe passé : sens inadapté.",
+            "C : prétérit.",
+            "D : forme de base."
+          ],
+          "example": "The rising sun."
+        },
+        "en": {
+          "rule": "Present participle = ongoing action.",
+          "why_wrong": [
+            "A: past participle: unsuitable meaning.",
+            "C: past tense.",
+            "D: base form."
+          ],
+          "example": "The rising sun."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "p5-b02-36",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-word-forms",
+      "stem": "The training program was designed to improve employees' ___.",
+      "choices": [
+        "productively",
+        "productive",
+        "productivity",
+        "produce"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Après un possessif : nom.",
+          "why_wrong": [
+            "A : adverbe.",
+            "B : adjectif : un nom est attendu.",
+            "D : verbe."
+          ],
+          "example": "Improve efficiency."
+        },
+        "en": {
+          "rule": "After a possessive: noun.",
+          "why_wrong": [
+            "A: adverb.",
+            "B: adjective: a noun is expected.",
+            "D: verb."
+          ],
+          "example": "Improve efficiency."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "p5-b02-37",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-word-forms",
+      "stem": "The proposal was ___ reviewed by the committee before it was approved.",
+      "choices": [
+        "carefully",
+        "care",
+        "caring",
+        "careful"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Adverbe entre l'auxiliaire et le participe.",
+          "why_wrong": [
+            "B : nom.",
+            "C : adjectif.",
+            "D : adjectif : on attend un adverbe."
+          ],
+          "example": "It was carefully done."
+        },
+        "en": {
+          "rule": "Adverb between the auxiliary and the participle.",
+          "why_wrong": [
+            "B: noun.",
+            "C: adjective.",
+            "D: adjective: an adverb is expected."
+          ],
+          "example": "It was carefully done."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "p5-b02-38",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-word-forms",
+      "stem": "Please read the ___ instructions before operating the machine.",
+      "choices": [
+        "attaching",
+        "attachment",
+        "attached",
+        "attach"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Adjectif (participe passé) avant un nom.",
+          "why_wrong": [
+            "A : sens actif.",
+            "B : nom.",
+            "D : verbe."
+          ],
+          "example": "See the attached file."
+        },
+        "en": {
+          "rule": "Adjective (past participle) before a noun.",
+          "why_wrong": [
+            "A: active meaning.",
+            "B: noun.",
+            "D: verb."
+          ],
+          "example": "See the attached file."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "p5-b02-39",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-word-forms",
+      "stem": "The company's new CEO is known for her ___ approach to problem solving.",
+      "choices": [
+        "innovate",
+        "innovatively",
+        "innovation",
+        "innovative"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Adjectif avant le nom approach.",
+          "why_wrong": [
+            "A : verbe.",
+            "B : adverbe.",
+            "C : nom."
+          ],
+          "example": "An innovative idea."
+        },
+        "en": {
+          "rule": "Adjective before the noun 'approach'.",
+          "why_wrong": [
+            "A: verb.",
+            "B: adverb.",
+            "C: noun."
+          ],
+          "example": "An innovative idea."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "p5-b02-40",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-word-forms",
+      "stem": "Ms. Park was ___ for her outstanding contribution to the project.",
+      "choices": [
+        "recognize",
+        "recognition",
+        "recognizing",
+        "recognized"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Was + participe passé : passif.",
+          "why_wrong": [
+            "A : forme de base.",
+            "B : nom.",
+            "C : participe présent."
+          ],
+          "example": "He was promoted."
+        },
+        "en": {
+          "rule": "Was + past participle: passive.",
+          "why_wrong": [
+            "A: base form.",
+            "B: noun.",
+            "C: present participle."
+          ],
+          "example": "He was promoted."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "p5-b02-41",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-quantifiers",
+      "stem": "Only ___ seats remain for the evening performance, so book early.",
+      "choices": [
+        "much",
+        "less",
+        "a little",
+        "a few"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "A few + dénombrable pluriel.",
+          "why_wrong": [
+            "A : s'emploie avec un indénombrable.",
+            "B : s'emploie avec un indénombrable.",
+            "C : s'emploie avec un indénombrable."
+          ],
+          "example": "A few people came."
+        },
+        "en": {
+          "rule": "A few + countable plural.",
+          "why_wrong": [
+            "A: used with an uncountable noun.",
+            "B: used with an uncountable noun.",
+            "C: used with an uncountable noun."
+          ],
+          "example": "A few people came."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "p5-b02-42",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-quantifiers",
+      "stem": "There is ___ evidence that the new method works better.",
+      "choices": [
+        "several",
+        "many",
+        "little",
+        "few"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Little + indénombrable (sens négatif).",
+          "why_wrong": [
+            "A : demande un dénombrable pluriel.",
+            "B : demande un dénombrable pluriel.",
+            "D : demande un dénombrable pluriel."
+          ],
+          "example": "There is little time."
+        },
+        "en": {
+          "rule": "Little + uncountable (negative sense).",
+          "why_wrong": [
+            "A: needs a countable plural.",
+            "B: needs a countable plural.",
+            "D: needs a countable plural."
+          ],
+          "example": "There is little time."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "p5-b02-43",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-reported-speech",
+      "stem": "The receptionist asked the visitor ___ he had an appointment.",
+      "choices": [
+        "that",
+        "which",
+        "whether",
+        "what"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Question fermée rapportée : if / whether.",
+          "why_wrong": [
+            "A : question fermée : whether / if.",
+            "B : ne convient pas.",
+            "D : ne convient pas."
+          ],
+          "example": "He asked whether I was ready."
+        },
+        "en": {
+          "rule": "Reported yes/no question: if / whether.",
+          "why_wrong": [
+            "A: yes/no question: whether / if.",
+            "B: does not fit.",
+            "D: does not fit."
+          ],
+          "example": "He asked whether I was ready."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "p5-b02-44",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-office",
+      "stem": "Please make sure to ___ all confidential documents before leaving the office.",
+      "choices": [
+        "shred",
+        "rent",
+        "renew",
+        "fill out"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Shred = déchiqueter.",
+          "why_wrong": [
+            "B : louer.",
+            "C : prolonger.",
+            "D : remplir."
+          ],
+          "example": "Shred the papers."
+        },
+        "en": {
+          "rule": "Shred = cut into small pieces.",
+          "why_wrong": [
+            "B: hire.",
+            "C: extend.",
+            "D: complete."
+          ],
+          "example": "Shred the papers."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "p5-b02-45",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-finance",
+      "stem": "The accountant discovered that several ___ had not been paid for more than 60 days.",
+      "choices": [
+        "deposits",
+        "budgets",
+        "receipts",
+        "invoices"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Invoice = facture à payer.",
+          "why_wrong": [
+            "A : acomptes.",
+            "B : pas des éléments payables.",
+            "C : preuves de paiement : déjà payés."
+          ],
+          "example": "Pay the invoice."
+        },
+        "en": {
+          "rule": "Invoice = bill to be paid.",
+          "why_wrong": [
+            "A: advance payments.",
+            "B: not payable items.",
+            "C: proofs of payment: already paid."
+          ],
+          "example": "Pay the invoice."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "p5-b02-46",
+      "part": 5,
+      "difficulty": 1,
+      "category": "voc-hr",
+      "stem": "Applicants must submit a ___ and two letters of recommendation.",
+      "choices": [
+        "probation",
+        "payroll",
+        "vacancy",
+        "résumé"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Résumé = CV.",
+          "why_wrong": [
+            "A : période d'essai.",
+            "B : paie.",
+            "C : poste vacant."
+          ],
+          "example": "Send your résumé."
+        },
+        "en": {
+          "rule": "Résumé = career summary.",
+          "why_wrong": [
+            "A: trial period.",
+            "B: pay list.",
+            "C: open position."
+          ],
+          "example": "Send your résumé."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "p5-b02-47",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-purchasing",
+      "stem": "The store offers a full ___ on items returned within 30 days with a receipt.",
+      "choices": [
+        "coupon",
+        "catalog",
+        "warranty",
+        "refund"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Refund = remboursement.",
+          "why_wrong": [
+            "A : bon.",
+            "B : catalogue.",
+            "C : garantie."
+          ],
+          "example": "Request a refund."
+        },
+        "en": {
+          "rule": "Refund = money back.",
+          "why_wrong": [
+            "A: voucher.",
+            "B: list.",
+            "C: guarantee."
+          ],
+          "example": "Request a refund."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "p5-b02-48",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-meetings",
+      "stem": "The committee agreed to ___ the vote until all members could attend.",
+      "choices": [
+        "adjourn",
+        "postpone",
+        "attend",
+        "chair"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Postpone = reporter.",
+          "why_wrong": [
+            "A : lever la séance.",
+            "C : assister.",
+            "D : présider."
+          ],
+          "example": "Postpone the meeting."
+        },
+        "en": {
+          "rule": "Postpone = move to later.",
+          "why_wrong": [
+            "A: end the meeting.",
+            "C: be present.",
+            "D: lead."
+          ],
+          "example": "Postpone the meeting."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "p5-b02-49",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-travel",
+      "stem": "Because of the storm, all outgoing flights have been ___ until further notice.",
+      "choices": [
+        "boarded",
+        "enclosed",
+        "suspended",
+        "reimbursed"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Suspended = interrompu temporairement.",
+          "why_wrong": [
+            "A : décrit l'embarquement des passagers.",
+            "B : signifie « ci-joint ».",
+            "D : on rembourse les passagers, pas les vols."
+          ],
+          "example": "Service was suspended."
+        },
+        "en": {
+          "rule": "Suspended = stopped for a while.",
+          "why_wrong": [
+            "A: describes passengers getting on.",
+            "B: means 'attached'.",
+            "D: passengers are reimbursed, not flights."
+          ],
+          "example": "Service was suspended."
+        }
+      },
+      "vocab": [
+        {
+          "term": "suspend",
+          "fr": "suspendre"
+        }
+      ]
+    },
+    {
+      "id": "p5-b02-50",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-general",
+      "stem": "The two firms are expected to ___ an agreement by the end of the month.",
+      "choices": [
+        "get in",
+        "do",
+        "make up",
+        "reach"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Reach an agreement.",
+          "why_wrong": [
+            "A : collocation incorrecte.",
+            "B : collocation incorrecte.",
+            "C : collocation incorrecte."
+          ],
+          "example": "We reached a deal."
+        },
+        "en": {
+          "rule": "Reach an agreement.",
+          "why_wrong": [
+            "A: incorrect collocation.",
+            "B: incorrect collocation.",
+            "C: incorrect collocation."
+          ],
+          "example": "We reached a deal."
+        }
+      },
+      "vocab": []
+    }
+  ]
+}
