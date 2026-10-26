@@ -92,6 +92,35 @@ export interface ExamSummary {
   reading_scaled: number | null;
 }
 
+export interface CategoryStat {
+  category: string;
+  kind: string;
+  label_fr: string;
+  label_en: string;
+  correct: number;
+  total: number;
+  accuracy: number | null;
+  lesson_id: string | null;
+}
+
+export interface PartStat {
+  part: number;
+  correct: number;
+  total: number;
+  accuracy: number | null;
+}
+
+export interface Overview {
+  goal_score: number;
+  estimated: { listening: number | null; reading: number | null; total: number | null };
+  gap: number | null;
+  questions_answered: number;
+  accuracy: number | null;
+  parts_covered: number;
+  exams: { finished_at: string; kind: string; listening_scaled: number | null; reading_scaled: number | null }[];
+  weak_categories: CategoryStat[];
+}
+
 const TOKEN_KEY = "toeic_token";
 
 export const getToken = (): string | null => {
@@ -143,8 +172,16 @@ export const api = {
     for (const [k, v] of Object.entries(params)) if (v !== undefined) qs.set(k, String(v));
     return request<Question[]>("GET", `/questions?${qs}`);
   },
-  answer: (id: string, chosen_index: number, time_ms?: number) =>
-    request<AnswerResult>("POST", `/questions/${id}/answer`, { chosen_index, time_ms }),
+  answer: (id: string, chosen_index: number, time_ms?: number, mode?: "practice" | "review") =>
+    request<AnswerResult>("POST", `/questions/${id}/answer`, { chosen_index, time_ms, mode }),
+  overview: () => request<Overview>("GET", "/stats/overview"),
+  byPart: () => request<PartStat[]>("GET", "/stats/by-part"),
+  byCategory: () => request<CategoryStat[]>("GET", "/stats/by-category"),
+  mistakes: (params: { part?: number; category?: string; limit?: number } = {}) => {
+    const qs = new URLSearchParams();
+    for (const [k, v] of Object.entries(params)) if (v !== undefined) qs.set(k, String(v));
+    return request<{ total: number; questions: Question[] }>("GET", `/review/mistakes?${qs}`);
+  },
   createExam: (body: { kind: "full" | "mini"; parts?: number[]; count?: number; timed?: boolean }) =>
     request<Exam>("POST", "/exams", body),
   exam: (id: string) => request<Exam>("GET", `/exams/${id}`),

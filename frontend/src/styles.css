@@ -58,3 +58,14 @@ button.link { background: none; border: none; color: #fff; text-decoration: unde
 .navlink { color: #fff; }
 .inline { margin-right: 0.8rem; }
 fieldset { border: 1px solid var(--border); border-radius: 6px; margin-bottom: 0.6rem; }
+.small { font-size: 0.85rem; }
+.bar-row { display: grid; grid-template-columns: minmax(90px, 40%) 1fr auto; gap: 0.5rem; align-items: center; margin: 0.25rem 0; }
+.bar-track { background: #e4e9ef; border-radius: 4px; height: 10px; overflow: hidden; display: block; }
+.bar-fill { background: var(--accent); height: 100%; display: block; }
+.bar-detail { font-size: 0.85rem; color: var(--muted); white-space: nowrap; }
+.chart { width: 100%; max-width: 480px; }
+.score-line { stroke: var(--accent); stroke-width: 2; }
+.score-dot { fill: var(--accent); }
+.goal-line { stroke: var(--muted); stroke-dasharray: 4 3; }
+.chart-text { font-size: 9px; fill: var(--fg); }
+@media (max-width: 600px) { .topbar { flex-wrap: wrap; gap: 0.4rem; } .topbar nav { flex-wrap: wrap; } }

@@ -4,6 +4,8 @@ import { api } from "./api/client";
 import { t } from "./i18n";
 import Login from "./pages/Login";
 import Home from "./pages/Home";
+import Dashboard from "./pages/Dashboard";
+import Mistakes from "./pages/Mistakes";
 import Practice from "./pages/Practice";
 import ExamSetup from "./pages/ExamSetup";
 import ExamRun from "./pages/ExamRun";
@@ -22,6 +24,12 @@ export default function App() {
           {t(lang, "appName")}
         </Link>
         <nav>
+          <Link to="/train" className="navlink">
+            {t(lang, "trainTitle")}
+          </Link>
+          <Link to="/mistakes" className="navlink">
+            {t(lang, "mistakes")}
+          </Link>
           <Link to="/exams" className="navlink">
             {t(lang, "exams")}
           </Link>
@@ -41,7 +49,9 @@ export default function App() {
       </header>
       <main className="container">
         <Routes>
-          <Route path="/" element={<Home />} />
+          <Route path="/" element={<Dashboard />} />
+          <Route path="/train" element={<Home />} />
+          <Route path="/mistakes" element={<Mistakes />} />
           <Route path="/practice/:part" element={<Practice />} />
           <Route path="/exams" element={<ExamSetup />} />
           <Route path="/exam/:id" element={<ExamRun />} />

@@ -10,6 +10,8 @@ export default function Practice() {
   const { part } = useParams();
   const [params] = useSearchParams();
   const limit = Number(params.get("limit") ?? 10);
+  const review = params.get("review") === "1";
+  const category = params.get("category") ?? undefined;
   const { user } = useAuth();
   const lang = user!.lang_pref;
 
@@ -26,13 +28,16 @@ export default function Practice() {
     setQuestions(null);
     setIndex(0);
     setScore(0);
-    api.questions({ part: Number(part), limit }).then((q) => {
+    const load = review
+      ? api.mistakes({ part: part === "all" ? undefined : Number(part), category, limit }).then((m) => m.questions)
+      : api.questions({ part: part === "all" ? undefined : Number(part), limit, category });
+    load.then((q) => {
       if (!cancelled) setQuestions(q);
     });
     return () => {
       cancelled = true;
     };
-  }, [part, limit, round]);
+  }, [part, limit, round, review, category]);
 
   useEffect(() => {
     setChosen(null);
@@ -63,7 +68,7 @@ export default function Practice() {
 
   const check = async () => {
     if (chosen === null) return;
-    const r = await api.answer(q.id, chosen, Date.now() - shownAt.current);
+    const r = await api.answer(q.id, chosen, Date.now() - shownAt.current, review ? "review" : "practice");
     setResult(r);
     if (r.correct) setScore((s) => s + 1);
   };

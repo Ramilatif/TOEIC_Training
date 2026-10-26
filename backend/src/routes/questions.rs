@@ -157,6 +157,9 @@ pub struct AnswerReq {
     chosen_index: usize,
     #[serde(default)]
     time_ms: Option<i64>,
+    /// "practice" (défaut) ou "review" (rejeu d'une erreur).
+    #[serde(default)]
+    mode: Option<String>,
 }
 
 #[derive(Serialize)]
@@ -202,15 +205,21 @@ pub async fn answer(
         return Err(ApiError::BadRequest("choix hors bornes".into()));
     }
     let correct = req.chosen_index as i64 == row.correct_index;
+    let mode = match req.mode.as_deref() {
+        None | Some("practice") => "practice",
+        Some("review") => "review",
+        Some(_) => return Err(ApiError::BadRequest("mode : practice ou review".into())),
+    };
     sqlx::query(
         "INSERT INTO attempts (id, user_id, question_id, chosen_index, is_correct, mode, answered_at, time_ms)
-         VALUES ($1,$2,$3,$4,$5,'practice',$6,$7)",
+         VALUES ($1,$2,$3,$4,$5,$6,$7,$8)",
     )
     .bind(new_id())
     .bind(&user.id)
     .bind(&id)
     .bind(req.chosen_index as i64)
     .bind(correct)
+    .bind(mode)
     .bind(chrono::Utc::now().to_rfc3339())
     .bind(req.time_ms)
     .execute(&state.pool)

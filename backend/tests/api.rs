@@ -343,3 +343,95 @@ async fn examen_complet_respecte_la_repartition_disponible() {
     let n = exam["questions"].as_array().unwrap().len();
     assert!(n > 0 && n <= 200);
 }
+
+#[tokio::test]
+async fn statistiques_et_revision_des_erreurs() {
+    let app = setup().await;
+    let (_, v) = call(
+        &app,
+        "POST",
+        "/api/auth/login",
+        None,
+        json!({"pseudo": "hugo"}),
+    )
+    .await;
+    let token = v["token"].as_str().unwrap();
+
+    // Sans activité : pas d'estimation.
+    let (s, o) = call(&app, "GET", "/api/stats/overview", Some(token), Value::Null).await;
+    assert_eq!(s, StatusCode::OK);
+    assert!(o["estimated"]["total"].is_null());
+
+    // Une erreur volontaire (on lit la bonne réponse via une première réponse).
+    let id = "p5-b01-001";
+    let (_, a) = call(
+        &app,
+        "POST",
+        &format!("/api/questions/{id}/answer"),
+        Some(token),
+        json!({"chosen_index": 0}),
+    )
+    .await;
+    let right = a["correct_index"].as_i64().unwrap();
+    let wrong = if right == 0 { 1 } else { 0 };
+    if right == 0 {
+        // La première tentative était juste : on enregistre une erreur ensuite.
+        tokio::time::sleep(std::time::Duration::from_millis(5)).await;
+        call(
+            &app,
+            "POST",
+            &format!("/api/questions/{id}/answer"),
+            Some(token),
+            json!({"chosen_index": wrong}),
+        )
+        .await;
+    }
+    let (_, m) = call(
+        &app,
+        "GET",
+        "/api/review/mistakes",
+        Some(token),
+        Value::Null,
+    )
+    .await;
+    assert_eq!(m["total"], 1);
+    assert_eq!(m["questions"][0]["id"], id);
+
+    let (_, o) = call(&app, "GET", "/api/stats/overview", Some(token), Value::Null).await;
+    assert_eq!(o["questions_answered"], 1);
+    assert_eq!(o["parts_covered"], 1);
+    assert!(o["estimated"]["reading"].as_i64().unwrap() >= 5);
+    assert!(o["estimated"]["total"].is_null());
+
+    let (_, cats) = call(
+        &app,
+        "GET",
+        "/api/stats/by-category",
+        Some(token),
+        Value::Null,
+    )
+    .await;
+    assert_eq!(cats[0]["category"], "gram-verb-tenses");
+    assert_eq!(cats[0]["accuracy"], 0.0);
+
+    // Rejouer l'erreur correctement la fait sortir de la liste.
+    tokio::time::sleep(std::time::Duration::from_millis(5)).await;
+    let (s, _) = call(
+        &app,
+        "POST",
+        &format!("/api/questions/{id}/answer"),
+        Some(token),
+        json!({"chosen_index": right, "mode": "review"}),
+    )
+    .await;
+    assert_eq!(s, StatusCode::OK);
+    let (_, m) = call(
+        &app,
+        "GET",
+        "/api/review/mistakes",
+        Some(token),
+        Value::Null,
+    )
+    .await;
+    assert_eq!(m["total"], 0);
+}

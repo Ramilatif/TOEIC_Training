@@ -91,7 +91,7 @@ questions(part, category_id).
 | GET | /exams | historique |
 | GET | /stats/overview | score estimé, évolution, écart à l'objectif |
 | GET | /stats/by-part, /stats/by-category | précision par partie / catégorie |
-| GET | /review/mistakes | erreurs triées par catégorie faible |
+| GET | /review/mistakes?part=&category=&limit= | erreurs (dernière tentative fausse) triées par catégorie faible ; rejouées via POST /questions/{id}/answer avec mode=review |
 | GET | /lessons?type=&category= | liste avec progression |
 | GET | /lessons/{id}?lang= | contenu |
 | POST | /lessons/{id}/read, /lessons/{id}/quiz | marquer lue, soumettre le quiz |

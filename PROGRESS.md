@@ -2,9 +2,9 @@
 
 ## État actuel
 
-- Phase en cours : 4 — Tableau de bord et révision des erreurs
+- Phase en cours : 5 — Zone de cours
 - Dernière mise à jour : 2026-10-26
-- Prochaine action : endpoints /stats/*, /review/mistakes, pages Dashboard et Révision
+- Prochaine action : parseur de leçons Markdown, tables lessons/progress, pages cours, premières leçons grammaire + méthodologie
 
 ## Phases
 
@@ -13,7 +13,7 @@
 - [x] 1. MVP : pseudo, import JSON, entraînement Reading (Parts 5-7)
 - [x] 2. Listening : audio, Parts 1-4, transcriptions
 - [x] 3. Examens blancs et mini-tests, scoring
-- [ ] 4. Tableau de bord et révision des erreurs
+- [x] 4. Tableau de bord et révision des erreurs
 - [ ] 5. Zone de cours
 - [ ] 6. Flashcards SM-2 et planning
 - [ ] 7. Banque complète (400 questions)
@@ -45,6 +45,8 @@ Leçons : grammaire 0/? · vocabulaire 0/? · méthodologie 0/7
 2026-10-26 — Score d'examen : pourcentage de réussite par section ramené sur 100 puis converti (permet de scorer un examen partiel tant que la banque est incomplète et les mini-tests) ; question sans réponse = fausse
 2026-10-26 — Examen complet : sélection par unités (passage entier) en privilégiant les questions jamais vues en examen ; servi même si la banque est incomplète (jusqu'au quota officiel par partie)
 2026-10-26 — Examen chronométré : fin automatique à 0, réponses refusées après 15 s de tolérance ; audio en une seule écoute (bouton désactivé ensuite)
+2026-10-26 — Statistiques basées sur la DERNIÈRE tentative de chaque question (niveau actuel, pas l'historique) ; une erreur rejouée juste sort de la liste de révision
+2026-10-26 — Score estimé du tableau de bord : moyenne des précisions par partie pondérée par le poids officiel ; l'estimation est signalée comme moins fiable tant que les 7 parties ne sont pas travaillées
 2026-10-26 — Questions des quiz de leçon (batch « lesson-* ») exclues de l'entraînement général
 2026-10-26 — Poste de dev Windows 11 (et non Arch comme dans PROMPT.md) — décision de l utilisateur ; commandes Docker/Node identiques
 

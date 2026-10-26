@@ -82,6 +82,29 @@ pub fn pick_units<R: Rng>(
     out
 }
 
+/// Score estimé à partir de la précision par partie : (partie, bonnes réponses, total tenté).
+/// Chaque section est la moyenne des précisions des parties travaillées, pondérée par le poids
+/// officiel de la partie, ramenée sur 100 puis convertie. Retourne (listening, reading, total).
+pub fn estimate_from_parts(stats: &[(i64, u32, u32)]) -> (Option<u32>, Option<u32>, Option<u32>) {
+    let section = |listening: bool| -> Option<u32> {
+        let (mut num, mut den) = (0.0, 0.0);
+        for (part, correct, total) in stats {
+            if *total == 0 || is_listening(*part) != listening {
+                continue;
+            }
+            let w = OFFICIAL_COUNTS
+                .iter()
+                .find(|(p, _)| p == part)
+                .map_or(1.0, |(_, n)| *n as f64);
+            num += w * (*correct as f64 / *total as f64);
+            den += w;
+        }
+        (den > 0.0).then(|| scaled_section((num / den * 100.0).round() as u32))
+    };
+    let (l, r) = (section(true), section(false));
+    (l, r, total_score(l, r))
+}
+
 /// Répartit `count` questions entre les parties demandées, proportionnellement à la répartition
 /// officielle (au moins 1 par partie quand c'est possible).
 pub fn distribute(parts: &[i64], count: usize) -> Vec<(i64, usize)> {
@@ -184,6 +207,22 @@ mod tests {
                 .sum::<usize>(),
             100
         );
+    }
+
+    #[test]
+    fn estimation_par_parties() {
+        // Aucune donnée.
+        assert_eq!(estimate_from_parts(&[]), (None, None, None));
+        // Reading seul : pas de total.
+        let (l, r, tot) = estimate_from_parts(&[(5, 8, 10)]);
+        assert_eq!((l, tot), (None, None));
+        assert_eq!(r, Some(scaled_section(80)));
+        // Pondération : la Part 2 (25) pèse plus que la Part 1 (6).
+        let (l, _, _) = estimate_from_parts(&[(1, 0, 10), (2, 10, 10)]);
+        assert!(l.unwrap() > scaled_section(50));
+        // Les deux sections donnent un total.
+        let (_, _, tot) = estimate_from_parts(&[(3, 5, 10), (7, 5, 10)]);
+        assert_eq!(tot, Some(2 * scaled_section(50)));
     }
 
     #[test]

@@ -2,6 +2,7 @@
 mod account;
 mod exams;
 pub(crate) mod questions;
+mod stats;
 
 use crate::AppState;
 use axum::routing::{get, post};
@@ -15,6 +16,10 @@ pub fn router() -> Router<AppState> {
         .route("/categories", get(account::categories))
         .route("/questions", get(questions::list))
         .route("/questions/{id}/answer", post(questions::answer))
+        .route("/stats/overview", get(stats::overview))
+        .route("/stats/by-part", get(stats::by_part))
+        .route("/stats/by-category", get(stats::by_category))
+        .route("/review/mistakes", get(stats::mistakes))
         .route("/exams", get(exams::list).post(exams::create))
         .route("/exams/{id}", get(exams::get))
         .route("/exams/{id}/answers", post(exams::save_answer))
