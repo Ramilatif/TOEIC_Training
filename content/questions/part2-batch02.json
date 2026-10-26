@@ -1,0 +1,1688 @@
+{
+  "batch": "part2-batch02",
+  "part": 2,
+  "passages": [
+    {
+      "id": "p2-b02-pass-01",
+      "kind": "audio",
+      "title": null,
+      "body": null,
+      "transcript": "N: Number 23.\nW: When is the sales report due?\nN: (A) By the end of the week.\nN: (B) Mr. Chen wrote it.\nN: (C) In the conference room.",
+      "image": null
+    },
+    {
+      "id": "p2-b02-pass-02",
+      "kind": "audio",
+      "title": null,
+      "body": null,
+      "transcript": "N: Number 24.\nM: Where can I find the visitor badges?\nN: (A) Yes, they are red.\nN: (B) Every morning.\nN: (C) At the security desk.",
+      "image": null
+    },
+    {
+      "id": "p2-b02-pass-03",
+      "kind": "audio",
+      "title": null,
+      "body": null,
+      "transcript": "N: Number 25.\nW: Who is organizing the retirement party?\nN: (A) Next Friday afternoon.\nN: (B) I think it's Ms. Abara.\nN: (C) In the cafeteria.",
+      "image": null
+    },
+    {
+      "id": "p2-b02-pass-04",
+      "kind": "audio",
+      "title": null,
+      "body": null,
+      "transcript": "N: Number 26.\nM: How many copies should I print for the meeting?\nN: (A) At two o'clock.\nN: (B) By photocopier.\nN: (C) About twenty.",
+      "image": null
+    },
+    {
+      "id": "p2-b02-pass-05",
+      "kind": "audio",
+      "title": null,
+      "body": null,
+      "transcript": "N: Number 27.\nW: Why is the client meeting being moved?\nN: (A) To the second floor.\nN: (B) At ten o'clock.\nN: (C) The director has a conflict.",
+      "image": null
+    },
+    {
+      "id": "p2-b02-pass-06",
+      "kind": "audio",
+      "title": null,
+      "body": null,
+      "transcript": "N: Number 28.\nM: Which cable do I need for this projector?\nN: (A) About fifty dollars.\nN: (B) The black one on the shelf.\nN: (C) It was a good presentation.",
+      "image": null
+    },
+    {
+      "id": "p2-b02-pass-07",
+      "kind": "audio",
+      "title": null,
+      "body": null,
+      "transcript": "N: Number 29.\nW: How did the negotiation go?\nN: (A) Around the table.\nN: (B) Mr. Kim was there.\nN: (C) Better than we expected.",
+      "image": null
+    },
+    {
+      "id": "p2-b02-pass-08",
+      "kind": "audio",
+      "title": null,
+      "body": null,
+      "transcript": "N: Number 30.\nM: What time does the train to Manchester leave?\nN: (A) It's a fast train.\nN: (B) From platform four.\nN: (C) At a quarter past nine.",
+      "image": null
+    },
+    {
+      "id": "p2-b02-pass-09",
+      "kind": "audio",
+      "title": null,
+      "body": null,
+      "transcript": "N: Number 31.\nW: How much does the express delivery cost?\nN: (A) Within two days.\nN: (B) Twelve dollars extra.\nN: (C) The courier is outside.",
+      "image": null
+    },
+    {
+      "id": "p2-b02-pass-10",
+      "kind": "audio",
+      "title": null,
+      "body": null,
+      "transcript": "N: Number 32.\nM: Who should I send the expense form to?\nN: (A) About two hundred dollars.\nN: (B) Submit it to the accounting office.\nN: (C) It was approved yesterday.",
+      "image": null
+    },
+    {
+      "id": "p2-b02-pass-11",
+      "kind": "audio",
+      "title": null,
+      "body": null,
+      "transcript": "N: Number 33.\nW: What's the best way to reach the technical support team?\nN: (A) They are very helpful.\nN: (B) Through the help line on the website.\nN: (C) Last Tuesday.",
+      "image": null
+    },
+    {
+      "id": "p2-b02-pass-12",
+      "kind": "audio",
+      "title": null,
+      "body": null,
+      "transcript": "N: Number 34.\nM: Why did you choose the second candidate?\nN: (A) In the interview room.\nN: (B) She has more experience with our software.\nN: (C) Yes, the first one too.",
+      "image": null
+    },
+    {
+      "id": "p2-b02-pass-13",
+      "kind": "audio",
+      "title": null,
+      "body": null,
+      "transcript": "N: Number 35.\nW: How long is the warranty on this printer?\nN: (A) It prints very quickly.\nN: (B) Two years from the purchase date.\nN: (C) About three meters.",
+      "image": null
+    },
+    {
+      "id": "p2-b02-pass-14",
+      "kind": "audio",
+      "title": null,
+      "body": null,
+      "transcript": "N: Number 36.\nM: Where will the new employees be sitting?\nN: (A) Near the window on the fourth floor.\nN: (B) Five of them.\nN: (C) Starting next Monday.",
+      "image": null
+    },
+    {
+      "id": "p2-b02-pass-15",
+      "kind": "audio",
+      "title": null,
+      "body": null,
+      "transcript": "N: Number 37.\nW: When did the supplier say the parts would arrive?\nN: (A) Fifty boxes.\nN: (B) On the loading dock.\nN: (C) Sometime next week, I think.",
+      "image": null
+    },
+    {
+      "id": "p2-b02-pass-16",
+      "kind": "audio",
+      "title": null,
+      "body": null,
+      "transcript": "N: Number 38.\nM: Who has the key to the supply cabinet?\nN: (A) In the top drawer.\nN: (B) Only two of them.\nN: (C) Daniel at reception does.",
+      "image": null
+    },
+    {
+      "id": "p2-b02-pass-17",
+      "kind": "audio",
+      "title": null,
+      "body": null,
+      "transcript": "N: Number 39.\nW: Is the conference room available this afternoon?\nN: (A) No, the sales team has it until four.\nN: (B) It's on the third floor.\nN: (C) She asked me to confirm.",
+      "image": null
+    },
+    {
+      "id": "p2-b02-pass-18",
+      "kind": "audio",
+      "title": null,
+      "body": null,
+      "transcript": "N: Number 40.\nM: Did you finish the quarterly budget?\nN: (A) Almost, I'll send it tonight.\nN: (B) Yes, it costs a lot.\nN: (C) Two quarters ago.",
+      "image": null
+    },
+    {
+      "id": "p2-b02-pass-19",
+      "kind": "audio",
+      "title": null,
+      "body": null,
+      "transcript": "N: Number 41.\nW: Do you need help carrying those boxes?\nN: (A) Thanks, that would be great.\nN: (B) I did last week.\nN: (C) They're in the warehouse.",
+      "image": null
+    },
+    {
+      "id": "p2-b02-pass-20",
+      "kind": "audio",
+      "title": null,
+      "body": null,
+      "transcript": "N: Number 42.\nM: Has the new hire started yet?\nN: (A) The hire price is low.\nN: (B) In human resources.\nN: (C) She begins on Monday.",
+      "image": null
+    },
+    {
+      "id": "p2-b02-pass-21",
+      "kind": "audio",
+      "title": null,
+      "body": null,
+      "transcript": "N: Number 43.\nW: Are you taking the early flight or the afternoon one?\nN: (A) A window seat, please.\nN: (B) The afternoon one is cheaper.\nN: (C) Yes, it was early.",
+      "image": null
+    },
+    {
+      "id": "p2-b02-pass-22",
+      "kind": "audio",
+      "title": null,
+      "body": null,
+      "transcript": "N: Number 44.\nM: Isn't the warehouse open on Saturdays?\nN: (A) It's near the harbor.\nN: (B) Only until noon.\nN: (C) No, he didn't.",
+      "image": null
+    },
+    {
+      "id": "p2-b02-pass-23",
+      "kind": "audio",
+      "title": null,
+      "body": null,
+      "transcript": "N: Number 45.\nW: Will the client sign the agreement today?\nN: (A) At the front desk.\nN: (B) He's reading it now.\nN: (C) The agreement was long.",
+      "image": null
+    },
+    {
+      "id": "p2-b02-pass-24",
+      "kind": "audio",
+      "title": null,
+      "body": null,
+      "transcript": "N: Number 46.\nM: Can I use this printer for color copies?\nN: (A) It was printed yesterday.\nN: (B) The copies are on my desk.\nN: (C) Yes, but you need a code.",
+      "image": null
+    },
+    {
+      "id": "p2-b02-pass-25",
+      "kind": "audio",
+      "title": null,
+      "body": null,
+      "transcript": "N: Number 47.\nW: Does the hotel have a shuttle service?\nN: (A) The hotel was nice.\nN: (B) Two nights.\nN: (C) Yes, every thirty minutes.",
+      "image": null
+    },
+    {
+      "id": "p2-b02-pass-26",
+      "kind": "audio",
+      "title": null,
+      "body": null,
+      "transcript": "N: Number 48.\nM: Were you at the training session last Friday?\nN: (A) No, I was out of town.\nN: (B) The training was free.\nN: (C) It starts at nine.",
+      "image": null
+    },
+    {
+      "id": "p2-b02-pass-27",
+      "kind": "audio",
+      "title": null,
+      "body": null,
+      "transcript": "N: Number 49.\nW: Would you mind closing the window?\nN: (A) It's a nice view.\nN: (B) Not at all.\nN: (C) Yes, I'd love to.",
+      "image": null
+    },
+    {
+      "id": "p2-b02-pass-28",
+      "kind": "audio",
+      "title": null,
+      "body": null,
+      "transcript": "N: Number 50.\nM: Let's have lunch together tomorrow.\nN: (A) Sure, what time works for you?\nN: (B) In the cafeteria upstairs.\nN: (C) It was delicious.",
+      "image": null
+    },
+    {
+      "id": "p2-b02-pass-29",
+      "kind": "audio",
+      "title": null,
+      "body": null,
+      "transcript": "N: Number 51.\nW: Could you please forward me the agenda?\nN: (A) It's on the agenda.\nN: (B) I'll send it right away.\nN: (C) Forward to the next speaker.",
+      "image": null
+    },
+    {
+      "id": "p2-b02-pass-30",
+      "kind": "audio",
+      "title": null,
+      "body": null,
+      "transcript": "N: Number 52.\nM: I'd like to reserve a table for six on Friday.\nN: (A) What time would you like to come?\nN: (B) Yes, I do.\nN: (C) The tables are made of oak.",
+      "image": null
+    },
+    {
+      "id": "p2-b02-pass-31",
+      "kind": "audio",
+      "title": null,
+      "body": null,
+      "transcript": "N: Number 53.\nW: Why don't we hire a part-time assistant?\nN: (A) Part of the budget.\nN: (B) That sounds like a good idea.\nN: (C) Because he's busy.",
+      "image": null
+    },
+    {
+      "id": "p2-b02-pass-32",
+      "kind": "audio",
+      "title": null,
+      "body": null,
+      "transcript": "N: Number 54.\nM: Please remember to lock the office when you leave.\nN: (A) At about six.\nN: (B) The lock is broken.\nN: (C) I will, thanks for the reminder.",
+      "image": null
+    },
+    {
+      "id": "p2-b02-pass-33",
+      "kind": "audio",
+      "title": null,
+      "body": null,
+      "transcript": "N: Number 55.\nW: I can't find my access card.\nN: (A) It's a blue card.\nN: (B) Yes, access is open.\nN: (C) Try the lost-and-found box at reception.",
+      "image": null
+    },
+    {
+      "id": "p2-b02-pass-34",
+      "kind": "audio",
+      "title": null,
+      "body": null,
+      "transcript": "N: Number 56.\nM: Would you like me to take your coat?\nN: (A) Thank you, that's kind of you.\nN: (B) It's cold outside.\nN: (C) I took the bus.",
+      "image": null
+    },
+    {
+      "id": "p2-b02-pass-35",
+      "kind": "audio",
+      "title": null,
+      "body": null,
+      "transcript": "N: Number 57.\nW: Have you seen the updated price list?\nN: (A) I haven't checked my inbox yet.\nN: (B) It costs twenty dollars.\nN: (C) Yes, I'm updating it.",
+      "image": null
+    },
+    {
+      "id": "p2-b02-pass-36",
+      "kind": "audio",
+      "title": null,
+      "body": null,
+      "transcript": "N: Number 58.\nM: Should we order lunch for the whole team?\nN: (A) Most of them are going to the client dinner.\nN: (B) Whole wheat, please.\nN: (C) The lunch was great.",
+      "image": null
+    },
+    {
+      "id": "p2-b02-pass-37",
+      "kind": "audio",
+      "title": null,
+      "body": null,
+      "transcript": "N: Number 59.\nW: Do you know when the new software will be ready?\nN: (A) You should ask the IT manager.\nN: (B) About ten o'clock.\nN: (C) It's quite soft.",
+      "image": null
+    },
+    {
+      "id": "p2-b02-pass-38",
+      "kind": "audio",
+      "title": null,
+      "body": null,
+      "transcript": "N: Number 60.\nM: Is Ms. Taylor's presentation scheduled for this morning?\nN: (A) The agenda is long.\nN: (B) She presented well.\nN: (C) The agenda was changed yesterday.",
+      "image": null
+    },
+    {
+      "id": "p2-b02-pass-39",
+      "kind": "audio",
+      "title": null,
+      "body": null,
+      "transcript": "N: Number 61.\nW: Would you rather meet on Tuesday or Wednesday?\nN: (A) I met her on Monday.\nN: (B) Whichever suits your schedule.\nN: (C) Yes, on Wednesday.",
+      "image": null
+    },
+    {
+      "id": "p2-b02-pass-40",
+      "kind": "audio",
+      "title": null,
+      "body": null,
+      "transcript": "N: Number 62.\nM: Is it okay if I leave early today?\nN: (A) Let me check with the manager.\nN: (B) Yes, it's early.\nN: (C) He left an hour ago.",
+      "image": null
+    }
+  ],
+  "questions": [
+    {
+      "id": "p2-b02-01",
+      "part": 2,
+      "difficulty": 1,
+      "category": "qt-wh-questions",
+      "stem": "Listen to the question and the three responses. Choose the best response.",
+      "choices": [
+        "By the end of the week.",
+        "Mr. Chen wrote it.",
+        "In the conference room."
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "« When » attend une date ou une échéance.",
+          "why_wrong": [
+            "B : répond à « Who ».",
+            "C : donne un lieu, pas une échéance."
+          ],
+          "example": "By the end of the week."
+        },
+        "en": {
+          "rule": "'When' expects a date or deadline.",
+          "why_wrong": [
+            "B: answers 'Who'.",
+            "C: gives a place, not a deadline."
+          ],
+          "example": "By the end of the week."
+        }
+      },
+      "vocab": [],
+      "passage": "p2-b02-pass-01",
+      "position": 1
+    },
+    {
+      "id": "p2-b02-02",
+      "part": 2,
+      "difficulty": 1,
+      "category": "qt-wh-questions",
+      "stem": "Listen to the question and the three responses. Choose the best response.",
+      "choices": [
+        "Yes, they are red.",
+        "Every morning.",
+        "At the security desk."
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "« Where » attend un lieu.",
+          "why_wrong": [
+            "A : un « yes » ne répond pas à « Where ».",
+            "B : donne une fréquence."
+          ],
+          "example": "At the security desk."
+        },
+        "en": {
+          "rule": "'Where' expects a place.",
+          "why_wrong": [
+            "A: 'yes' does not answer 'Where'.",
+            "B: gives a frequency."
+          ],
+          "example": "At the security desk."
+        }
+      },
+      "vocab": [],
+      "passage": "p2-b02-pass-02",
+      "position": 1
+    },
+    {
+      "id": "p2-b02-03",
+      "part": 2,
+      "difficulty": 1,
+      "category": "qt-wh-questions",
+      "stem": "Listen to the question and the three responses. Choose the best response.",
+      "choices": [
+        "Next Friday afternoon.",
+        "I think it's Ms. Abara.",
+        "In the cafeteria."
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "« Who » attend une personne.",
+          "why_wrong": [
+            "A : répond à « When ».",
+            "C : répond à « Where »."
+          ],
+          "example": "I think it's Ms. Abara."
+        },
+        "en": {
+          "rule": "'Who' expects a person.",
+          "why_wrong": [
+            "A: answers 'When'.",
+            "C: answers 'Where'."
+          ],
+          "example": "I think it's Ms. Abara."
+        }
+      },
+      "vocab": [],
+      "passage": "p2-b02-pass-03",
+      "position": 1
+    },
+    {
+      "id": "p2-b02-04",
+      "part": 2,
+      "difficulty": 1,
+      "category": "qt-wh-questions",
+      "stem": "Listen to the question and the three responses. Choose the best response.",
+      "choices": [
+        "At two o'clock.",
+        "By photocopier.",
+        "About twenty."
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "« How many » attend un nombre.",
+          "why_wrong": [
+            "A : donne une heure.",
+            "B : répond à « How » (moyen)."
+          ],
+          "example": "About twenty."
+        },
+        "en": {
+          "rule": "'How many' expects a number.",
+          "why_wrong": [
+            "A: gives a time.",
+            "B: answers 'How' (means)."
+          ],
+          "example": "About twenty."
+        }
+      },
+      "vocab": [],
+      "passage": "p2-b02-pass-04",
+      "position": 1
+    },
+    {
+      "id": "p2-b02-05",
+      "part": 2,
+      "difficulty": 2,
+      "category": "qt-wh-questions",
+      "stem": "Listen to the question and the three responses. Choose the best response.",
+      "choices": [
+        "To the second floor.",
+        "At ten o'clock.",
+        "The director has a conflict."
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "« Why » attend une raison.",
+          "why_wrong": [
+            "A : répond à « Where ».",
+            "B : répond à « When »."
+          ],
+          "example": "The director has a conflict."
+        },
+        "en": {
+          "rule": "'Why' expects a reason.",
+          "why_wrong": [
+            "A: answers 'Where'.",
+            "B: answers 'When'."
+          ],
+          "example": "The director has a conflict."
+        }
+      },
+      "vocab": [],
+      "passage": "p2-b02-pass-05",
+      "position": 1
+    },
+    {
+      "id": "p2-b02-06",
+      "part": 2,
+      "difficulty": 2,
+      "category": "qt-wh-questions",
+      "stem": "Listen to the question and the three responses. Choose the best response.",
+      "choices": [
+        "About fifty dollars.",
+        "The black one on the shelf.",
+        "It was a good presentation."
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "« Which » attend un choix parmi plusieurs.",
+          "why_wrong": [
+            "A : répond à « How much ».",
+            "C : hors sujet."
+          ],
+          "example": "The black one on the shelf."
+        },
+        "en": {
+          "rule": "'Which' expects a choice among several.",
+          "why_wrong": [
+            "A: answers 'How much'.",
+            "C: off topic."
+          ],
+          "example": "The black one on the shelf."
+        }
+      },
+      "vocab": [],
+      "passage": "p2-b02-pass-06",
+      "position": 1
+    },
+    {
+      "id": "p2-b02-07",
+      "part": 2,
+      "difficulty": 2,
+      "category": "qt-wh-questions",
+      "stem": "Listen to the question and the three responses. Choose the best response.",
+      "choices": [
+        "Around the table.",
+        "Mr. Kim was there.",
+        "Better than we expected."
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "« How did … go » attend une évaluation.",
+          "why_wrong": [
+            "A : lieu, pas une évaluation.",
+            "B : répond à « Who »."
+          ],
+          "example": "Better than we expected."
+        },
+        "en": {
+          "rule": "'How did … go' expects an evaluation.",
+          "why_wrong": [
+            "A: place, not an evaluation.",
+            "B: answers 'Who'."
+          ],
+          "example": "Better than we expected."
+        }
+      },
+      "vocab": [],
+      "passage": "p2-b02-pass-07",
+      "position": 1
+    },
+    {
+      "id": "p2-b02-08",
+      "part": 2,
+      "difficulty": 1,
+      "category": "qt-wh-questions",
+      "stem": "Listen to the question and the three responses. Choose the best response.",
+      "choices": [
+        "It's a fast train.",
+        "From platform four.",
+        "At a quarter past nine."
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "« What time » attend une heure.",
+          "why_wrong": [
+            "A : décrit le train, pas l'heure.",
+            "B : donne un quai (« Where »)."
+          ],
+          "example": "At a quarter past nine."
+        },
+        "en": {
+          "rule": "'What time' expects a time.",
+          "why_wrong": [
+            "A: describes the train, not the time.",
+            "B: gives a platform ('Where')."
+          ],
+          "example": "At a quarter past nine."
+        }
+      },
+      "vocab": [],
+      "passage": "p2-b02-pass-08",
+      "position": 1
+    },
+    {
+      "id": "p2-b02-09",
+      "part": 2,
+      "difficulty": 1,
+      "category": "qt-wh-questions",
+      "stem": "Listen to the question and the three responses. Choose the best response.",
+      "choices": [
+        "Within two days.",
+        "Twelve dollars extra.",
+        "The courier is outside."
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "« How much » attend un prix.",
+          "why_wrong": [
+            "A : répond à « How long ».",
+            "C : hors sujet."
+          ],
+          "example": "Twelve dollars extra."
+        },
+        "en": {
+          "rule": "'How much' expects a price.",
+          "why_wrong": [
+            "A: answers 'How long'.",
+            "C: off topic."
+          ],
+          "example": "Twelve dollars extra."
+        }
+      },
+      "vocab": [],
+      "passage": "p2-b02-pass-09",
+      "position": 1
+    },
+    {
+      "id": "p2-b02-10",
+      "part": 2,
+      "difficulty": 2,
+      "category": "qt-wh-questions",
+      "stem": "Listen to the question and the three responses. Choose the best response.",
+      "choices": [
+        "About two hundred dollars.",
+        "Submit it to the accounting office.",
+        "It was approved yesterday."
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "« Who » peut recevoir un service comme réponse.",
+          "why_wrong": [
+            "A : répond à « How much ».",
+            "C : ne répond pas à « Who »."
+          ],
+          "example": "Submit it to the accounting office."
+        },
+        "en": {
+          "rule": "'Who' can be answered with a department.",
+          "why_wrong": [
+            "A: answers 'How much'.",
+            "C: does not answer 'Who'."
+          ],
+          "example": "Submit it to the accounting office."
+        }
+      },
+      "vocab": [],
+      "passage": "p2-b02-pass-10",
+      "position": 1
+    },
+    {
+      "id": "p2-b02-11",
+      "part": 2,
+      "difficulty": 2,
+      "category": "qt-wh-questions",
+      "stem": "Listen to the question and the three responses. Choose the best response.",
+      "choices": [
+        "They are very helpful.",
+        "Through the help line on the website.",
+        "Last Tuesday."
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "« What's the best way » attend un moyen.",
+          "why_wrong": [
+            "A : commente, ne répond pas.",
+            "C : répond à « When »."
+          ],
+          "example": "Through the help line on the website."
+        },
+        "en": {
+          "rule": "'What's the best way' expects a means.",
+          "why_wrong": [
+            "A: comments but does not answer.",
+            "C: answers 'When'."
+          ],
+          "example": "Through the help line on the website."
+        }
+      },
+      "vocab": [],
+      "passage": "p2-b02-pass-11",
+      "position": 1
+    },
+    {
+      "id": "p2-b02-12",
+      "part": 2,
+      "difficulty": 2,
+      "category": "qt-wh-questions",
+      "stem": "Listen to the question and the three responses. Choose the best response.",
+      "choices": [
+        "In the interview room.",
+        "She has more experience with our software.",
+        "Yes, the first one too."
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "« Why » attend une cause.",
+          "why_wrong": [
+            "A : répond à « Where ».",
+            "C : « yes » inadapté."
+          ],
+          "example": "She has more experience with our software."
+        },
+        "en": {
+          "rule": "'Why' expects a cause.",
+          "why_wrong": [
+            "A: answers 'Where'.",
+            "C: 'yes' is unsuitable."
+          ],
+          "example": "She has more experience with our software."
+        }
+      },
+      "vocab": [],
+      "passage": "p2-b02-pass-12",
+      "position": 1
+    },
+    {
+      "id": "p2-b02-13",
+      "part": 2,
+      "difficulty": 2,
+      "category": "qt-wh-questions",
+      "stem": "Listen to the question and the three responses. Choose the best response.",
+      "choices": [
+        "It prints very quickly.",
+        "Two years from the purchase date.",
+        "About three meters."
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "« How long » attend une durée.",
+          "why_wrong": [
+            "A : hors sujet.",
+            "C : mesure de longueur, pas une durée."
+          ],
+          "example": "Two years from the purchase date."
+        },
+        "en": {
+          "rule": "'How long' expects a duration.",
+          "why_wrong": [
+            "A: off topic.",
+            "C: length measure, not duration."
+          ],
+          "example": "Two years from the purchase date."
+        }
+      },
+      "vocab": [],
+      "passage": "p2-b02-pass-13",
+      "position": 1
+    },
+    {
+      "id": "p2-b02-14",
+      "part": 2,
+      "difficulty": 2,
+      "category": "qt-wh-questions",
+      "stem": "Listen to the question and the three responses. Choose the best response.",
+      "choices": [
+        "Near the window on the fourth floor.",
+        "Five of them.",
+        "Starting next Monday."
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "« Where » attend un lieu.",
+          "why_wrong": [
+            "B : répond à « How many ».",
+            "C : répond à « When »."
+          ],
+          "example": "Near the window on the fourth floor."
+        },
+        "en": {
+          "rule": "'Where' expects a place.",
+          "why_wrong": [
+            "B: answers 'How many'.",
+            "C: answers 'When'."
+          ],
+          "example": "Near the window on the fourth floor."
+        }
+      },
+      "vocab": [],
+      "passage": "p2-b02-pass-14",
+      "position": 1
+    },
+    {
+      "id": "p2-b02-15",
+      "part": 2,
+      "difficulty": 2,
+      "category": "qt-wh-questions",
+      "stem": "Listen to the question and the three responses. Choose the best response.",
+      "choices": [
+        "Fifty boxes.",
+        "On the loading dock.",
+        "Sometime next week, I think."
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "« When » attend une date approximative.",
+          "why_wrong": [
+            "A : répond à « How many ».",
+            "B : répond à « Where »."
+          ],
+          "example": "Sometime next week, I think."
+        },
+        "en": {
+          "rule": "'When' expects an approximate date.",
+          "why_wrong": [
+            "A: answers 'How many'.",
+            "B: answers 'Where'."
+          ],
+          "example": "Sometime next week, I think."
+        }
+      },
+      "vocab": [],
+      "passage": "p2-b02-pass-15",
+      "position": 1
+    },
+    {
+      "id": "p2-b02-16",
+      "part": 2,
+      "difficulty": 1,
+      "category": "qt-wh-questions",
+      "stem": "Listen to the question and the three responses. Choose the best response.",
+      "choices": [
+        "In the top drawer.",
+        "Only two of them.",
+        "Daniel at reception does."
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "« Who » attend une personne.",
+          "why_wrong": [
+            "A : répond à « Where ».",
+            "B : répond à « How many »."
+          ],
+          "example": "Daniel at reception does."
+        },
+        "en": {
+          "rule": "'Who' expects a person.",
+          "why_wrong": [
+            "A: answers 'Where'.",
+            "B: answers 'How many'."
+          ],
+          "example": "Daniel at reception does."
+        }
+      },
+      "vocab": [],
+      "passage": "p2-b02-pass-16",
+      "position": 1
+    },
+    {
+      "id": "p2-b02-17",
+      "part": 2,
+      "difficulty": 1,
+      "category": "qt-yes-no-questions",
+      "stem": "Listen to the question and the three responses. Choose the best response.",
+      "choices": [
+        "No, the sales team has it until four.",
+        "It's on the third floor.",
+        "She asked me to confirm."
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Une question fermée appelle Yes/No suivi d'une précision.",
+          "why_wrong": [
+            "B : n'indique pas la disponibilité.",
+            "C : hors sujet."
+          ],
+          "example": "No, the sales team has it until four."
+        },
+        "en": {
+          "rule": "A yes/no question gets Yes/No plus a detail.",
+          "why_wrong": [
+            "B: does not say whether it is available.",
+            "C: off topic."
+          ],
+          "example": "No, the sales team has it until four."
+        }
+      },
+      "vocab": [],
+      "passage": "p2-b02-pass-17",
+      "position": 1
+    },
+    {
+      "id": "p2-b02-18",
+      "part": 2,
+      "difficulty": 2,
+      "category": "qt-yes-no-questions",
+      "stem": "Listen to the question and the three responses. Choose the best response.",
+      "choices": [
+        "Almost, I'll send it tonight.",
+        "Yes, it costs a lot.",
+        "Two quarters ago."
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Une réponse partielle est naturelle.",
+          "why_wrong": [
+            "B : « yes » mais la suite est hors sujet.",
+            "C : répond à « When » de façon incohérente."
+          ],
+          "example": "Almost, I'll send it tonight."
+        },
+        "en": {
+          "rule": "A partial answer is natural.",
+          "why_wrong": [
+            "B: 'yes' but the rest is off topic.",
+            "C: answers 'When' incoherently."
+          ],
+          "example": "Almost, I'll send it tonight."
+        }
+      },
+      "vocab": [],
+      "passage": "p2-b02-pass-18",
+      "position": 1
+    },
+    {
+      "id": "p2-b02-19",
+      "part": 2,
+      "difficulty": 1,
+      "category": "qt-yes-no-questions",
+      "stem": "Listen to the question and the three responses. Choose the best response.",
+      "choices": [
+        "Thanks, that would be great.",
+        "I did last week.",
+        "They're in the warehouse."
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Offre d'aide : accepter ou refuser.",
+          "why_wrong": [
+            "B : temps incohérent.",
+            "C : répond à « Where »."
+          ],
+          "example": "Thanks, that would be great."
+        },
+        "en": {
+          "rule": "Offer of help: accept or decline.",
+          "why_wrong": [
+            "B: inconsistent tense.",
+            "C: answers 'Where'."
+          ],
+          "example": "Thanks, that would be great."
+        }
+      },
+      "vocab": [],
+      "passage": "p2-b02-pass-19",
+      "position": 1
+    },
+    {
+      "id": "p2-b02-20",
+      "part": 2,
+      "difficulty": 2,
+      "category": "qt-yes-no-questions",
+      "stem": "Listen to the question and the three responses. Choose the best response.",
+      "choices": [
+        "The hire price is low.",
+        "In human resources.",
+        "She begins on Monday."
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "« Yet » appelle une réponse sur le moment.",
+          "why_wrong": [
+            "A : écho de « hire ».",
+            "B : répond à « Where »."
+          ],
+          "example": "She begins on Monday."
+        },
+        "en": {
+          "rule": "'Yet' calls for an answer about timing.",
+          "why_wrong": [
+            "A: echoes 'hire'.",
+            "B: answers 'Where'."
+          ],
+          "example": "She begins on Monday."
+        }
+      },
+      "vocab": [],
+      "passage": "p2-b02-pass-20",
+      "position": 1
+    },
+    {
+      "id": "p2-b02-21",
+      "part": 2,
+      "difficulty": 3,
+      "category": "qt-yes-no-questions",
+      "stem": "Listen to the question and the three responses. Choose the best response.",
+      "choices": [
+        "A window seat, please.",
+        "The afternoon one is cheaper.",
+        "Yes, it was early."
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Question alternative : choisir implicitement.",
+          "why_wrong": [
+            "A : hors sujet.",
+            "C : « yes » ne répond pas à une question alternative."
+          ],
+          "example": "The afternoon one is cheaper."
+        },
+        "en": {
+          "rule": "Alternative question: choose implicitly.",
+          "why_wrong": [
+            "A: off topic.",
+            "C: 'yes' does not answer an alternative question."
+          ],
+          "example": "The afternoon one is cheaper."
+        }
+      },
+      "vocab": [],
+      "passage": "p2-b02-pass-21",
+      "position": 1
+    },
+    {
+      "id": "p2-b02-22",
+      "part": 2,
+      "difficulty": 2,
+      "category": "qt-yes-no-questions",
+      "stem": "Listen to the question and the three responses. Choose the best response.",
+      "choices": [
+        "It's near the harbor.",
+        "Only until noon.",
+        "No, he didn't."
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Question négative : la réponse précise les horaires.",
+          "why_wrong": [
+            "A : répond à « Where ».",
+            "C : mauvais sujet et mauvais temps."
+          ],
+          "example": "Only until noon."
+        },
+        "en": {
+          "rule": "Negative question: the answer gives the hours.",
+          "why_wrong": [
+            "A: answers 'Where'.",
+            "C: wrong subject and tense."
+          ],
+          "example": "Only until noon."
+        }
+      },
+      "vocab": [],
+      "passage": "p2-b02-pass-22",
+      "position": 1
+    },
+    {
+      "id": "p2-b02-23",
+      "part": 2,
+      "difficulty": 3,
+      "category": "qt-yes-no-questions",
+      "stem": "Listen to the question and the three responses. Choose the best response.",
+      "choices": [
+        "At the front desk.",
+        "He's reading it now.",
+        "The agreement was long."
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Une réponse indirecte (en cours) est acceptable.",
+          "why_wrong": [
+            "A : répond à « Where ».",
+            "C : commente, ne répond pas."
+          ],
+          "example": "He's reading it now."
+        },
+        "en": {
+          "rule": "An indirect (in-progress) answer is acceptable.",
+          "why_wrong": [
+            "A: answers 'Where'.",
+            "C: comments but does not answer."
+          ],
+          "example": "He's reading it now."
+        }
+      },
+      "vocab": [],
+      "passage": "p2-b02-pass-23",
+      "position": 1
+    },
+    {
+      "id": "p2-b02-24",
+      "part": 2,
+      "difficulty": 2,
+      "category": "qt-yes-no-questions",
+      "stem": "Listen to the question and the three responses. Choose the best response.",
+      "choices": [
+        "It was printed yesterday.",
+        "The copies are on my desk.",
+        "Yes, but you need a code."
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Yes + condition.",
+          "why_wrong": [
+            "A : temps incohérent.",
+            "B : hors sujet."
+          ],
+          "example": "Yes, but you need a code."
+        },
+        "en": {
+          "rule": "Yes + condition.",
+          "why_wrong": [
+            "A: inconsistent tense.",
+            "B: off topic."
+          ],
+          "example": "Yes, but you need a code."
+        }
+      },
+      "vocab": [],
+      "passage": "p2-b02-pass-24",
+      "position": 1
+    },
+    {
+      "id": "p2-b02-25",
+      "part": 2,
+      "difficulty": 1,
+      "category": "qt-yes-no-questions",
+      "stem": "Listen to the question and the three responses. Choose the best response.",
+      "choices": [
+        "The hotel was nice.",
+        "Two nights.",
+        "Yes, every thirty minutes."
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Yes + précision de fréquence.",
+          "why_wrong": [
+            "A : commente, ne répond pas.",
+            "B : répond à « How long »."
+          ],
+          "example": "Yes, every thirty minutes."
+        },
+        "en": {
+          "rule": "Yes + frequency detail.",
+          "why_wrong": [
+            "A: comments but does not answer.",
+            "B: answers 'How long'."
+          ],
+          "example": "Yes, every thirty minutes."
+        }
+      },
+      "vocab": [],
+      "passage": "p2-b02-pass-25",
+      "position": 1
+    },
+    {
+      "id": "p2-b02-26",
+      "part": 2,
+      "difficulty": 1,
+      "category": "qt-yes-no-questions",
+      "stem": "Listen to the question and the three responses. Choose the best response.",
+      "choices": [
+        "No, I was out of town.",
+        "The training was free.",
+        "It starts at nine."
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Question au passé : réponse au passé.",
+          "why_wrong": [
+            "B : ne répond pas à « were you ».",
+            "C : temps incohérent."
+          ],
+          "example": "No, I was out of town."
+        },
+        "en": {
+          "rule": "Past question: past answer.",
+          "why_wrong": [
+            "B: does not answer 'were you'.",
+            "C: inconsistent tense."
+          ],
+          "example": "No, I was out of town."
+        }
+      },
+      "vocab": [],
+      "passage": "p2-b02-pass-26",
+      "position": 1
+    },
+    {
+      "id": "p2-b02-27",
+      "part": 2,
+      "difficulty": 3,
+      "category": "qt-statements-requests",
+      "stem": "Listen to the question and the three responses. Choose the best response.",
+      "choices": [
+        "It's a nice view.",
+        "Not at all.",
+        "Yes, I'd love to."
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "« Would you mind » : Not at all / Sure = accord.",
+          "why_wrong": [
+            "A : ne répond pas à la demande.",
+            "C : « Would you mind » demande « Not at all », pas « Yes »."
+          ],
+          "example": "Not at all."
+        },
+        "en": {
+          "rule": "'Would you mind': Not at all / Sure = agreement.",
+          "why_wrong": [
+            "A: does not answer the request.",
+            "C: 'Would you mind' calls for 'Not at all', not 'Yes'."
+          ],
+          "example": "Not at all."
+        }
+      },
+      "vocab": [],
+      "passage": "p2-b02-pass-27",
+      "position": 1
+    },
+    {
+      "id": "p2-b02-28",
+      "part": 2,
+      "difficulty": 1,
+      "category": "qt-statements-requests",
+      "stem": "Listen to the question and the three responses. Choose the best response.",
+      "choices": [
+        "Sure, what time works for you?",
+        "In the cafeteria upstairs.",
+        "It was delicious."
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Proposition : accord ou refus.",
+          "why_wrong": [
+            "B : possible mais ne répond pas à la proposition.",
+            "C : temps incohérent."
+          ],
+          "example": "Sure, what time works for you?"
+        },
+        "en": {
+          "rule": "Suggestion: agree or decline.",
+          "why_wrong": [
+            "B: possible but does not answer the suggestion.",
+            "C: inconsistent tense."
+          ],
+          "example": "Sure, what time works for you?"
+        }
+      },
+      "vocab": [],
+      "passage": "p2-b02-pass-28",
+      "position": 1
+    },
+    {
+      "id": "p2-b02-29",
+      "part": 2,
+      "difficulty": 2,
+      "category": "qt-statements-requests",
+      "stem": "Listen to the question and the three responses. Choose the best response.",
+      "choices": [
+        "It's on the agenda.",
+        "I'll send it right away.",
+        "Forward to the next speaker."
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Demande polie : accepter.",
+          "why_wrong": [
+            "A : écho de « agenda » sans répondre.",
+            "C : écho de « forward » sans répondre."
+          ],
+          "example": "I'll send it right away."
+        },
+        "en": {
+          "rule": "Polite request: accept.",
+          "why_wrong": [
+            "A: echo of 'agenda' without answering.",
+            "C: echo of 'forward' without answering."
+          ],
+          "example": "I'll send it right away."
+        }
+      },
+      "vocab": [],
+      "passage": "p2-b02-pass-29",
+      "position": 1
+    },
+    {
+      "id": "p2-b02-30",
+      "part": 2,
+      "difficulty": 2,
+      "category": "qt-statements-requests",
+      "stem": "Listen to the question and the three responses. Choose the best response.",
+      "choices": [
+        "What time would you like to come?",
+        "Yes, I do.",
+        "The tables are made of oak."
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Le serveur poursuit en demandant l'heure.",
+          "why_wrong": [
+            "B : ne convient pas à une déclaration.",
+            "C : écho de « tables »."
+          ],
+          "example": "What time would you like to come?"
+        },
+        "en": {
+          "rule": "The server continues by asking the time.",
+          "why_wrong": [
+            "B: does not fit a statement.",
+            "C: echo of 'tables'."
+          ],
+          "example": "What time would you like to come?"
+        }
+      },
+      "vocab": [],
+      "passage": "p2-b02-pass-30",
+      "position": 1
+    },
+    {
+      "id": "p2-b02-31",
+      "part": 2,
+      "difficulty": 2,
+      "category": "qt-statements-requests",
+      "stem": "Listen to the question and the three responses. Choose the best response.",
+      "choices": [
+        "Part of the budget.",
+        "That sounds like a good idea.",
+        "Because he's busy."
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "« Why don't we » = suggestion.",
+          "why_wrong": [
+            "A : écho de « part ».",
+            "C : traite la phrase comme une vraie question de cause."
+          ],
+          "example": "That sounds like a good idea."
+        },
+        "en": {
+          "rule": "'Why don't we' = suggestion.",
+          "why_wrong": [
+            "A: echo of 'part'.",
+            "C: treats it as a real cause question."
+          ],
+          "example": "That sounds like a good idea."
+        }
+      },
+      "vocab": [],
+      "passage": "p2-b02-pass-31",
+      "position": 1
+    },
+    {
+      "id": "p2-b02-32",
+      "part": 2,
+      "difficulty": 1,
+      "category": "qt-statements-requests",
+      "stem": "Listen to the question and the three responses. Choose the best response.",
+      "choices": [
+        "At about six.",
+        "The lock is broken.",
+        "I will, thanks for the reminder."
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Rappel : accuser réception.",
+          "why_wrong": [
+            "A : répond à « When ».",
+            "B : écho de « lock »."
+          ],
+          "example": "I will, thanks for the reminder."
+        },
+        "en": {
+          "rule": "Reminder: acknowledge it.",
+          "why_wrong": [
+            "A: answers 'When'.",
+            "B: echo of 'lock'."
+          ],
+          "example": "I will, thanks for the reminder."
+        }
+      },
+      "vocab": [],
+      "passage": "p2-b02-pass-32",
+      "position": 1
+    },
+    {
+      "id": "p2-b02-33",
+      "part": 2,
+      "difficulty": 2,
+      "category": "qt-statements-requests",
+      "stem": "Listen to the question and the three responses. Choose the best response.",
+      "choices": [
+        "It's a blue card.",
+        "Yes, access is open.",
+        "Try the lost-and-found box at reception."
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Face à un problème, proposer une solution.",
+          "why_wrong": [
+            "A : décrit la carte sans aider.",
+            "B : « yes » inadapté à une déclaration."
+          ],
+          "example": "Try the lost-and-found box at reception."
+        },
+        "en": {
+          "rule": "Offer a solution to a problem.",
+          "why_wrong": [
+            "A: describes the card without helping.",
+            "B: 'yes' is unsuitable for a statement."
+          ],
+          "example": "Try the lost-and-found box at reception."
+        }
+      },
+      "vocab": [],
+      "passage": "p2-b02-pass-33",
+      "position": 1
+    },
+    {
+      "id": "p2-b02-34",
+      "part": 2,
+      "difficulty": 1,
+      "category": "qt-statements-requests",
+      "stem": "Listen to the question and the three responses. Choose the best response.",
+      "choices": [
+        "Thank you, that's kind of you.",
+        "It's cold outside.",
+        "I took the bus."
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Offre : remercier ou refuser.",
+          "why_wrong": [
+            "B : commente la météo sans répondre.",
+            "C : temps incohérent."
+          ],
+          "example": "Thank you, that's kind of you."
+        },
+        "en": {
+          "rule": "Offer: thank or decline.",
+          "why_wrong": [
+            "B: comments on the weather without answering.",
+            "C: inconsistent tense."
+          ],
+          "example": "Thank you, that's kind of you."
+        }
+      },
+      "vocab": [],
+      "passage": "p2-b02-pass-34",
+      "position": 1
+    },
+    {
+      "id": "p2-b02-35",
+      "part": 2,
+      "difficulty": 3,
+      "category": "qt-indirect-answers",
+      "stem": "Listen to the question and the three responses. Choose the best response.",
+      "choices": [
+        "I haven't checked my inbox yet.",
+        "It costs twenty dollars.",
+        "Yes, I'm updating it."
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Réponse indirecte : « pas encore lu », donc non.",
+          "why_wrong": [
+            "B : répond à « How much ».",
+            "C : incohérent avec la question."
+          ],
+          "example": "I haven't checked my inbox yet."
+        },
+        "en": {
+          "rule": "Indirect answer: 'not read yet', so no.",
+          "why_wrong": [
+            "B: answers 'How much'.",
+            "C: inconsistent with the question."
+          ],
+          "example": "I haven't checked my inbox yet."
+        }
+      },
+      "vocab": [],
+      "passage": "p2-b02-pass-35",
+      "position": 1
+    },
+    {
+      "id": "p2-b02-36",
+      "part": 2,
+      "difficulty": 3,
+      "category": "qt-indirect-answers",
+      "stem": "Listen to the question and the three responses. Choose the best response.",
+      "choices": [
+        "Most of them are going to the client dinner.",
+        "Whole wheat, please.",
+        "The lunch was great."
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Sous-entendu : inutile de commander.",
+          "why_wrong": [
+            "B : écho de « whole ».",
+            "C : temps incohérent."
+          ],
+          "example": "Most of them are going to the client dinner."
+        },
+        "en": {
+          "rule": "Implication: no need to order.",
+          "why_wrong": [
+            "B: echo of 'whole'.",
+            "C: inconsistent tense."
+          ],
+          "example": "Most of them are going to the client dinner."
+        }
+      },
+      "vocab": [],
+      "passage": "p2-b02-pass-36",
+      "position": 1
+    },
+    {
+      "id": "p2-b02-37",
+      "part": 2,
+      "difficulty": 2,
+      "category": "qt-indirect-answers",
+      "stem": "Listen to the question and the three responses. Choose the best response.",
+      "choices": [
+        "You should ask the IT manager.",
+        "About ten o'clock.",
+        "It's quite soft."
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Renvoi vers la bonne personne.",
+          "why_wrong": [
+            "B : hors sujet, personne n'a donné d'heure.",
+            "C : écho de « software »."
+          ],
+          "example": "You should ask the IT manager."
+        },
+        "en": {
+          "rule": "Pointing to the right person.",
+          "why_wrong": [
+            "B: off topic; no time was requested.",
+            "C: echo of 'software'."
+          ],
+          "example": "You should ask the IT manager."
+        }
+      },
+      "vocab": [],
+      "passage": "p2-b02-pass-37",
+      "position": 1
+    },
+    {
+      "id": "p2-b02-38",
+      "part": 2,
+      "difficulty": 3,
+      "category": "qt-indirect-answers",
+      "stem": "Listen to the question and the three responses. Choose the best response.",
+      "choices": [
+        "The agenda is long.",
+        "She presented well.",
+        "The agenda was changed yesterday."
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Sous-entendu : l'horaire a peut-être changé.",
+          "why_wrong": [
+            "A : écho de « agenda ».",
+            "B : temps incohérent."
+          ],
+          "example": "The agenda was changed yesterday."
+        },
+        "en": {
+          "rule": "Implication: the schedule may have changed.",
+          "why_wrong": [
+            "A: echo of 'agenda'.",
+            "B: inconsistent tense."
+          ],
+          "example": "The agenda was changed yesterday."
+        }
+      },
+      "vocab": [],
+      "passage": "p2-b02-pass-38",
+      "position": 1
+    },
+    {
+      "id": "p2-b02-39",
+      "part": 2,
+      "difficulty": 2,
+      "category": "qt-indirect-answers",
+      "stem": "Listen to the question and the three responses. Choose the best response.",
+      "choices": [
+        "I met her on Monday.",
+        "Whichever suits your schedule.",
+        "Yes, on Wednesday."
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Réponse neutre : « whichever ».",
+          "why_wrong": [
+            "A : temps incohérent.",
+            "C : « yes » inadapté à une question alternative."
+          ],
+          "example": "Whichever suits your schedule."
+        },
+        "en": {
+          "rule": "Neutral answer: 'whichever'.",
+          "why_wrong": [
+            "A: inconsistent tense.",
+            "C: 'yes' does not fit an alternative question."
+          ],
+          "example": "Whichever suits your schedule."
+        }
+      },
+      "vocab": [],
+      "passage": "p2-b02-pass-39",
+      "position": 1
+    },
+    {
+      "id": "p2-b02-40",
+      "part": 2,
+      "difficulty": 2,
+      "category": "qt-indirect-answers",
+      "stem": "Listen to the question and the three responses. Choose the best response.",
+      "choices": [
+        "Let me check with the manager.",
+        "Yes, it's early.",
+        "He left an hour ago."
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Réponse d'attente : « laisse-moi vérifier ».",
+          "why_wrong": [
+            "B : écho de « early ».",
+            "C : mauvais sujet."
+          ],
+          "example": "Let me check with the manager."
+        },
+        "en": {
+          "rule": "Stalling answer: 'let me check'.",
+          "why_wrong": [
+            "B: echo of 'early'.",
+            "C: wrong subject."
+          ],
+          "example": "Let me check with the manager."
+        }
+      },
+      "vocab": [],
+      "passage": "p2-b02-pass-40",
+      "position": 1
+    }
+  ]
+}
