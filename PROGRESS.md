@@ -2,9 +2,9 @@
 
 ## État actuel
 
-- Phase en cours : 3 — Examens blancs et mini-tests, scoring
+- Phase en cours : 4 — Tableau de bord et révision des erreurs
 - Dernière mise à jour : 2026-10-26
-- Prochaine action : module scoring (Rust), endpoints /exams, interface d'examen chronométré
+- Prochaine action : endpoints /stats/*, /review/mistakes, pages Dashboard et Révision
 
 ## Phases
 
@@ -12,7 +12,7 @@
 - [x] Architecture documentée (docs/ARCHITECTURE.md)
 - [x] 1. MVP : pseudo, import JSON, entraînement Reading (Parts 5-7)
 - [x] 2. Listening : audio, Parts 1-4, transcriptions
-- [ ] 3. Examens blancs et mini-tests, scoring
+- [x] 3. Examens blancs et mini-tests, scoring
 - [ ] 4. Tableau de bord et révision des erreurs
 - [ ] 5. Zone de cours
 - [ ] 6. Flashcards SM-2 et planning
@@ -27,8 +27,8 @@
 | Part 3 | 78                | 6                  | oui           |
 | Part 4 | 60                | 6                  | oui           |
 | Part 5 | 60                | 10                 | oui           |
-| Part 6 | 32                | 4                  | non           |
-| Part 7 | 108               | 3                  | non           |
+| Part 6 | 32                | 4                  | oui           |
+| Part 7 | 108               | 3                  | oui           |
 
 Leçons : grammaire 0/? · vocabulaire 0/? · méthodologie 0/7
 
@@ -42,6 +42,9 @@ Leçons : grammaire 0/? · vocabulaire 0/? · méthodologie 0/7
 2026-10-26 — Parts 1 et 2 : les choix ne sont affichés qu'après la réponse (lettres seules avant), comme au vrai TOEIC
 2026-10-26 — Les bonnes réponses sont réparties par mélange déterministe (script de génération hors dépôt) : sinon biais vers « A »
 2026-10-26 — Part 1 : une question dont la photo n'est pas dans content/images/part1/ n'est pas importée (warning) au lieu de bloquer le démarrage
+2026-10-26 — Score d'examen : pourcentage de réussite par section ramené sur 100 puis converti (permet de scorer un examen partiel tant que la banque est incomplète et les mini-tests) ; question sans réponse = fausse
+2026-10-26 — Examen complet : sélection par unités (passage entier) en privilégiant les questions jamais vues en examen ; servi même si la banque est incomplète (jusqu'au quota officiel par partie)
+2026-10-26 — Examen chronométré : fin automatique à 0, réponses refusées après 15 s de tolérance ; audio en une seule écoute (bouton désactivé ensuite)
 2026-10-26 — Questions des quiz de leçon (batch « lesson-* ») exclues de l'entraînement général
 2026-10-26 — Poste de dev Windows 11 (et non Arch comme dans PROMPT.md) — décision de l utilisateur ; commandes Docker/Node identiques
 

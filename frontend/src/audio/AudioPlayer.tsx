@@ -16,14 +16,17 @@ interface Props {
   transcript: string;
   /** Lecture automatique à l'affichage (comme à l'examen). */
   autoPlay?: boolean;
+  /** Examen : une seule écoute, le bouton est désactivé ensuite. */
+  once?: boolean;
   labels: { play: string; stop: string; accent: string; unsupported: string };
 }
 
-export default function AudioPlayer({ transcript, autoPlay, labels }: Props) {
+export default function AudioPlayer({ transcript, autoPlay, once, labels }: Props) {
   const engine = getAudioEngine();
   const [accent, setAccent] = useState<Accent>(loadAccent);
   const [accents, setAccents] = useState<Accent[]>([]);
   const [playing, setPlaying] = useState(false);
+  const [played, setPlayed] = useState(false);
 
   useEffect(() => {
     engine.availableAccents().then(setAccents);
@@ -31,6 +34,7 @@ export default function AudioPlayer({ transcript, autoPlay, labels }: Props) {
 
   const play = () => {
     setPlaying(true);
+    setPlayed(true);
     engine.speak(parseTranscript(transcript), accent, () => setPlaying(false));
   };
   const stop = () => {
@@ -41,6 +45,7 @@ export default function AudioPlayer({ transcript, autoPlay, labels }: Props) {
   useEffect(() => {
     if (autoPlay && engine.isSupported()) {
       setPlaying(true);
+      setPlayed(true);
       engine.speak(parseTranscript(transcript), accent, () => setPlaying(false));
     }
     return () => engine.stop();
@@ -52,7 +57,7 @@ export default function AudioPlayer({ transcript, autoPlay, labels }: Props) {
 
   return (
     <div className="audio">
-      <button className="primary" onClick={playing ? stop : play}>
+      <button className="primary" disabled={!!once && played && !playing} onClick={playing ? stop : play}>
         {playing ? `■ ${labels.stop}` : `▶ ${labels.play}`}
       </button>
       {accents.length > 1 && (

@@ -5,6 +5,7 @@ pub mod content;
 pub mod db;
 pub mod error;
 pub mod routes;
+pub mod scoring;
 
 use axum::Router;
 use sqlx::SqlitePool;

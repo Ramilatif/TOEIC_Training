@@ -86,7 +86,8 @@ questions(part, category_id).
 | POST | /exams | { kind, parts, count, timed } -> crée l'examen (full = 200 questions, 2 h) |
 | GET | /exams/{id} | questions de l'examen (sans réponses) et temps restant |
 | POST | /exams/{id}/answers | enregistre une réponse (sauvegarde au fil de l'eau) |
-| POST | /exams/{id}/finish | calcule les scores, renvoie la correction complète |
+| POST | /exams/{id}/finish | calcule les scores, renvoie la correction complète (idempotent) |
+| GET | /exams/{id}/results | résultats d'un examen terminé |
 | GET | /exams | historique |
 | GET | /stats/overview | score estimé, évolution, écart à l'objectif |
 | GET | /stats/by-part, /stats/by-category | précision par partie / catégorie |

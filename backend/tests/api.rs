@@ -217,3 +217,129 @@ async fn listening_parts_servent_transcription() {
     assert_eq!(s, StatusCode::OK);
     assert!(qs.as_array().unwrap().len() <= 12);
 }
+
+#[tokio::test]
+async fn examen_complet_de_bout_en_bout() {
+    let app = setup().await;
+    let (_, v) = call(
+        &app,
+        "POST",
+        "/api/auth/login",
+        None,
+        json!({"pseudo": "erin"}),
+    )
+    .await;
+    let token = v["token"].as_str().unwrap();
+
+    let (s, exam) = call(
+        &app,
+        "POST",
+        "/api/exams",
+        Some(token),
+        json!({"kind": "mini", "parts": [5, 6], "count": 8, "timed": true}),
+    )
+    .await;
+    assert_eq!(s, StatusCode::OK);
+    let id = exam["id"].as_str().unwrap().to_string();
+    let qs = exam["questions"].as_array().unwrap();
+    assert!(!qs.is_empty() && qs.len() <= 8);
+    assert!(exam["remaining_s"].as_i64().unwrap() > 0);
+    // La correction n'est jamais exposée pendant l'examen.
+    assert!(qs[0].get("correct_index").is_none());
+
+    // Réponse à la première question, puis remplacement (une seule tentative gardée).
+    let q0 = qs[0]["id"].as_str().unwrap();
+    for choice in [0, 1] {
+        let (s, _) = call(
+            &app,
+            "POST",
+            &format!("/api/exams/{id}/answers"),
+            Some(token),
+            json!({"question_id": q0, "chosen_index": choice}),
+        )
+        .await;
+        assert_eq!(s, StatusCode::OK);
+    }
+    let (_, again) = call(
+        &app,
+        "GET",
+        &format!("/api/exams/{id}"),
+        Some(token),
+        Value::Null,
+    )
+    .await;
+    assert_eq!(again["answers"][q0], 1);
+
+    // Les résultats ne sont pas accessibles avant la fin.
+    let (s, _) = call(
+        &app,
+        "GET",
+        &format!("/api/exams/{id}/results"),
+        Some(token),
+        Value::Null,
+    )
+    .await;
+    assert_eq!(s, StatusCode::BAD_REQUEST);
+
+    let (s, r) = call(
+        &app,
+        "POST",
+        &format!("/api/exams/{id}/finish"),
+        Some(token),
+        Value::Null,
+    )
+    .await;
+    assert_eq!(s, StatusCode::OK);
+    assert_eq!(r["listening"]["total"], 0);
+    assert!(r["reading"]["total"].as_i64().unwrap() >= 1);
+    assert!(r["listening"]["scaled"].is_null());
+    assert!(r["reading"]["scaled"].as_i64().unwrap() >= 5);
+    assert_eq!(r["items"].as_array().unwrap().len(), qs.len());
+
+    // Un autre utilisateur ne peut pas lire cet examen.
+    let (_, v2) = call(
+        &app,
+        "POST",
+        "/api/auth/login",
+        None,
+        json!({"pseudo": "frank"}),
+    )
+    .await;
+    let t2 = v2["token"].as_str().unwrap();
+    let (s, _) = call(
+        &app,
+        "GET",
+        &format!("/api/exams/{id}"),
+        Some(t2),
+        Value::Null,
+    )
+    .await;
+    assert_eq!(s, StatusCode::NOT_FOUND);
+}
+
+#[tokio::test]
+async fn examen_complet_respecte_la_repartition_disponible() {
+    let app = setup().await;
+    let (_, v) = call(
+        &app,
+        "POST",
+        "/api/auth/login",
+        None,
+        json!({"pseudo": "gina"}),
+    )
+    .await;
+    let token = v["token"].as_str().unwrap();
+    let (s, exam) = call(
+        &app,
+        "POST",
+        "/api/exams",
+        Some(token),
+        json!({"kind": "full"}),
+    )
+    .await;
+    assert_eq!(s, StatusCode::OK);
+    assert_eq!(exam["duration_limit_s"], 7200);
+    // Tant que la banque est incomplète, on sert tout ce qui existe sans dépasser le quota officiel.
+    let n = exam["questions"].as_array().unwrap().len();
+    assert!(n > 0 && n <= 200);
+}

@@ -5,6 +5,9 @@ import { t } from "./i18n";
 import Login from "./pages/Login";
 import Home from "./pages/Home";
 import Practice from "./pages/Practice";
+import ExamSetup from "./pages/ExamSetup";
+import ExamRun from "./pages/ExamRun";
+import ExamResults from "./pages/ExamResults";
 
 export default function App() {
   const { user, loading, logout, setUser } = useAuth();
@@ -19,6 +22,9 @@ export default function App() {
           {t(lang, "appName")}
         </Link>
         <nav>
+          <Link to="/exams" className="navlink">
+            {t(lang, "exams")}
+          </Link>
           <select
             aria-label={t(lang, "explanationLang")}
             value={lang}
@@ -37,6 +43,9 @@ export default function App() {
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/practice/:part" element={<Practice />} />
+          <Route path="/exams" element={<ExamSetup />} />
+          <Route path="/exam/:id" element={<ExamRun />} />
+          <Route path="/exam/:id/results" element={<ExamResults />} />
           <Route path="*" element={<Navigate to="/" replace />} />
         </Routes>
       </main>

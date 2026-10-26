@@ -233,3 +233,19 @@ pub async fn answer(
         lesson_id: lesson_id.map(|l| l.0),
     }))
 }
+
+/// Charge des questions par ids, en conservant l'ordre demandé.
+pub(crate) async fn fetch_by_ids(state: &AppState, ids: &[String]) -> ApiResult<Vec<QuestionOut>> {
+    let sql = format!("{SELECT} WHERE q.id = $1");
+    let mut out = Vec::with_capacity(ids.len());
+    for id in ids {
+        if let Some(r) = sqlx::query_as::<_, Row>(&sql)
+            .bind(id)
+            .fetch_optional(&state.pool)
+            .await?
+        {
+            out.push(to_out(r)?);
+        }
+    }
+    Ok(out)
+}

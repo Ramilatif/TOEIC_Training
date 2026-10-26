@@ -44,6 +44,54 @@ export interface AnswerResult {
   lesson_id: string | null;
 }
 
+export interface Exam {
+  id: string;
+  kind: "full" | "mini";
+  started_at: string;
+  finished_at: string | null;
+  duration_limit_s: number | null;
+  remaining_s: number | null;
+  questions: Question[];
+  answers: Record<string, number>;
+}
+
+export interface ReviewItem {
+  question: Question;
+  chosen_index: number | null;
+  correct_index: number;
+  correct: boolean;
+  explanation_fr: Explanation;
+  explanation_en: Explanation;
+  transcript: string | null;
+}
+
+export interface SectionScore {
+  correct: number;
+  total: number;
+  scaled: number | null;
+}
+
+export interface ExamResults {
+  id: string;
+  kind: "full" | "mini";
+  started_at: string;
+  finished_at: string;
+  listening: SectionScore;
+  reading: SectionScore;
+  total_scaled: number | null;
+  by_part: { part: number; correct: number; total: number }[];
+  items: ReviewItem[];
+}
+
+export interface ExamSummary {
+  id: string;
+  kind: "full" | "mini";
+  started_at: string;
+  finished_at: string | null;
+  listening_scaled: number | null;
+  reading_scaled: number | null;
+}
+
 const TOKEN_KEY = "toeic_token";
 
 export const getToken = (): string | null => {
@@ -97,4 +145,12 @@ export const api = {
   },
   answer: (id: string, chosen_index: number, time_ms?: number) =>
     request<AnswerResult>("POST", `/questions/${id}/answer`, { chosen_index, time_ms }),
+  createExam: (body: { kind: "full" | "mini"; parts?: number[]; count?: number; timed?: boolean }) =>
+    request<Exam>("POST", "/exams", body),
+  exam: (id: string) => request<Exam>("GET", `/exams/${id}`),
+  exams: () => request<ExamSummary[]>("GET", "/exams"),
+  saveExamAnswer: (id: string, question_id: string, chosen_index: number) =>
+    request<{ ok: boolean }>("POST", `/exams/${id}/answers`, { question_id, chosen_index }),
+  finishExam: (id: string) => request<ExamResults>("POST", `/exams/${id}/finish`),
+  examResults: (id: string) => request<ExamResults>("GET", `/exams/${id}/results`),
 };
