@@ -15,7 +15,7 @@ En cas de contradiction : PROMPT.md fait foi, puis ARCHITECTURE.md.
 
 - Backend : Rust (Axum), sqlx, SQLite (requêtes compatibles PostgreSQL)
 - Frontend : React + TypeScript, responsive
-- Environnement : Docker Compose, poste de dev sous Arch Linux
+- Environnement : Docker Compose, poste de dev sous Windows 11 (shell Git Bash / PowerShell)
 
 ## Structure
 
@@ -29,12 +29,16 @@ En cas de contradiction : PROMPT.md fait foi, puis ARCHITECTURE.md.
 
 ## Commandes
 
-- Lancer l'appli : docker compose up --build
+- Lancer l'appli : docker compose up --build (http://localhost:8080)
+- Backend seul : cd backend && CONTENT_DIR=../content cargo run ; frontend seul : cd frontend && npm run dev
+- Un seul test : cargo test <nom> (backend) ; npx vitest run <fichier> (frontend)
 - Tests backend : cd backend && cargo test
 - Lint backend : cd backend && cargo clippy -- -D warnings && cargo fmt --check
 - Tests frontend : cd frontend && npm test
 - Lint frontend : cd frontend && npm run lint
-- Nouvelle migration : cd backend && sqlx migrate add <nom>
+- Nouvelle migration : ajouter backend/migrations/NNNN_nom.sql (embarquée par sqlx::migrate!, pas de sqlx-cli requis)
+- Node.js n'est pas dans le PATH de Git Bash : export PATH="$PATH:/c/Program Files/nodejs"
+- Éviter les heredocs avec apostrophes dans l'outil Bash : utiliser l'outil Write
 
 ## Règles de travail
 

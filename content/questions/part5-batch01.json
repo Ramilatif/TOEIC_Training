@@ -1,0 +1,434 @@
+{
+  "batch": "part5-batch01",
+  "part": 5,
+  "questions": [
+    {
+      "id": "p5-b01-001",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-verb-tenses",
+      "stem": "The marketing team ___ the final report before the board meeting started.",
+      "choices": [
+        "has finished",
+        "had finished",
+        "finishes",
+        "will finish"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Le plus-que-parfait (had + participe passé) exprime une action terminée avant une autre action passée (ici « started »).",
+          "why_wrong": [
+            "A : le present perfect ne se combine pas avec un repère passé précis.",
+            "C : le présent simple ne convient pas à une action passée.",
+            "D : le futur est incompatible avec « started »."
+          ],
+          "example": "She had left the office before the call began."
+        },
+        "en": {
+          "rule": "The past perfect (had + past participle) shows an action completed before another past action (here 'started').",
+          "why_wrong": [
+            "A: the present perfect cannot be used with a finished past time reference.",
+            "C: the simple present does not fit a past action.",
+            "D: the future contradicts 'started'."
+          ],
+          "example": "She had left the office before the call began."
+        }
+      },
+      "vocab": [
+        {
+          "term": "board meeting",
+          "fr": "réunion du conseil d'administration"
+        }
+      ]
+    },
+    {
+      "id": "p5-b01-002",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-subject-verb-agreement",
+      "stem": "Each of the new employees ___ required to attend the safety training.",
+      "choices": [
+        "are",
+        "is",
+        "were",
+        "have been"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "« Each (of) » est suivi d'un verbe au singulier, même devant un nom pluriel.",
+          "why_wrong": [
+            "A : « are » est pluriel.",
+            "C : « were » est pluriel et au passé.",
+            "D : « have been » est pluriel."
+          ],
+          "example": "Each of the managers has a private office."
+        },
+        "en": {
+          "rule": "'Each (of)' takes a singular verb, even before a plural noun.",
+          "why_wrong": [
+            "A: 'are' is plural.",
+            "C: 'were' is plural and past.",
+            "D: 'have been' is plural."
+          ],
+          "example": "Each of the managers has a private office."
+        }
+      },
+      "vocab": [
+        {
+          "term": "required",
+          "fr": "obligatoire"
+        },
+        {
+          "term": "safety training",
+          "fr": "formation à la sécurité"
+        }
+      ]
+    },
+    {
+      "id": "p5-b01-003",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-passive-voice",
+      "stem": "All invoices must ___ to the accounting department by the end of the month.",
+      "choices": [
+        "submit",
+        "be submitted",
+        "submitting",
+        "have submitted"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Après un modal (must), on utilise l'infinitif sans « to ». Le sujet « invoices » subit l'action : voix passive, donc « be + participe passé ».",
+          "why_wrong": [
+            "A : forme active, mais les factures ne se soumettent pas elles-mêmes.",
+            "C : le gérondif ne suit pas un modal.",
+            "D : « have submitted » est actif et demande un complément d'objet."
+          ],
+          "example": "The documents must be signed before Friday."
+        },
+        "en": {
+          "rule": "After a modal (must) use the bare infinitive. The subject 'invoices' receives the action, so the passive 'be + past participle' is needed.",
+          "why_wrong": [
+            "A: active form, but invoices do not submit themselves.",
+            "C: a gerund cannot follow a modal.",
+            "D: 'have submitted' is active and needs an object."
+          ],
+          "example": "The documents must be signed before Friday."
+        }
+      },
+      "vocab": [
+        {
+          "term": "invoice",
+          "fr": "facture"
+        },
+        {
+          "term": "accounting department",
+          "fr": "service comptabilité"
+        }
+      ]
+    },
+    {
+      "id": "p5-b01-004",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-prepositions",
+      "stem": "The conference will take place ___ Tuesday, March 14, at the Grand Hotel.",
+      "choices": [
+        "in",
+        "at",
+        "on",
+        "by"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "On utilise « on » devant un jour ou une date précise.",
+          "why_wrong": [
+            "A : « in » s'emploie pour les mois, années, saisons.",
+            "B : « at » s'emploie pour les heures et lieux précis.",
+            "D : « by » signifie « avant / au plus tard »."
+          ],
+          "example": "The shipment arrives on Monday."
+        },
+        "en": {
+          "rule": "Use 'on' before a specific day or date.",
+          "why_wrong": [
+            "A: 'in' is for months, years and seasons.",
+            "B: 'at' is for clock times and precise places.",
+            "D: 'by' means 'no later than'."
+          ],
+          "example": "The shipment arrives on Monday."
+        }
+      },
+      "vocab": [
+        {
+          "term": "take place",
+          "fr": "avoir lieu"
+        }
+      ]
+    },
+    {
+      "id": "p5-b01-005",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-conjunctions",
+      "stem": "___ the sales figures were lower than expected, the company decided to expand into new markets.",
+      "choices": [
+        "Although",
+        "Because of",
+        "Despite",
+        "Therefore"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "« Although » introduit une proposition complète (sujet + verbe) exprimant une opposition.",
+          "why_wrong": [
+            "B : « because of » est suivi d'un nom, et exprime la cause.",
+            "C : « despite » est suivi d'un nom ou d'un gérondif, pas d'une proposition.",
+            "D : « therefore » est un adverbe de conséquence, il ne relie pas deux propositions seul."
+          ],
+          "example": "Although it rained, the event went ahead."
+        },
+        "en": {
+          "rule": "'Although' introduces a full clause (subject + verb) showing contrast.",
+          "why_wrong": [
+            "B: 'because of' is followed by a noun and expresses cause.",
+            "C: 'despite' takes a noun or gerund, not a clause.",
+            "D: 'therefore' is a conjunctive adverb of result and cannot join two clauses on its own."
+          ],
+          "example": "Although it rained, the event went ahead."
+        }
+      },
+      "vocab": [
+        {
+          "term": "expand",
+          "fr": "se développer"
+        },
+        {
+          "term": "sales figures",
+          "fr": "chiffres de vente"
+        }
+      ]
+    },
+    {
+      "id": "p5-b01-006",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-relative-pronouns",
+      "stem": "Ms. Tanaka, ___ has managed our Osaka branch for ten years, will join the head office next month.",
+      "choices": [
+        "whom",
+        "which",
+        "who",
+        "whose"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "« who » est sujet du verbe « has managed » et remplace une personne.",
+          "why_wrong": [
+            "A : « whom » est complément, mais ici le pronom est sujet.",
+            "B : « which » remplace une chose.",
+            "D : « whose » exprime la possession et serait suivi d'un nom."
+          ],
+          "example": "The clerk who helped me was very kind."
+        },
+        "en": {
+          "rule": "'who' is the subject of 'has managed' and refers to a person.",
+          "why_wrong": [
+            "A: 'whom' is an object pronoun, but here the pronoun is the subject.",
+            "B: 'which' refers to things.",
+            "D: 'whose' shows possession and would be followed by a noun."
+          ],
+          "example": "The clerk who helped me was very kind."
+        }
+      },
+      "vocab": [
+        {
+          "term": "branch",
+          "fr": "succursale"
+        },
+        {
+          "term": "head office",
+          "fr": "siège social"
+        }
+      ]
+    },
+    {
+      "id": "p5-b01-007",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-word-forms",
+      "stem": "The company's ___ to customer satisfaction has earned it several industry awards.",
+      "choices": [
+        "committed",
+        "commit",
+        "commitment",
+        "committing"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Après « The company's », un nom est attendu (sujet de « has earned »). « commitment » est le nom.",
+          "why_wrong": [
+            "A : participe/adjectif, pas un nom.",
+            "B : verbe.",
+            "D : le gérondif « committing » est un verbe, pas le nom attendu après un possessif."
+          ],
+          "example": "Her commitment to quality impressed the clients."
+        },
+        "en": {
+          "rule": "After 'The company's' a noun is needed (subject of 'has earned'). 'commitment' is the noun.",
+          "why_wrong": [
+            "A: participle/adjective, not a noun.",
+            "B: verb.",
+            "D: the gerund 'committing' is verb-like, not the noun expected after a possessive."
+          ],
+          "example": "Her commitment to quality impressed the clients."
+        }
+      },
+      "vocab": [
+        {
+          "term": "customer satisfaction",
+          "fr": "satisfaction client"
+        },
+        {
+          "term": "award",
+          "fr": "récompense"
+        }
+      ]
+    },
+    {
+      "id": "p5-b01-008",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-conditionals",
+      "stem": "If the shipment ___ on time, we would have met the client's deadline.",
+      "choices": [
+        "arrives",
+        "had arrived",
+        "would arrive",
+        "has arrived"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Condition irréelle dans le passé : If + plus-que-parfait, … would have + participe passé.",
+          "why_wrong": [
+            "A : le présent mène à un conditionnel de type 1.",
+            "C : « would » ne s'emploie pas dans la proposition en « if ».",
+            "D : le present perfect ne convient pas à une condition passée irréelle."
+          ],
+          "example": "If we had left earlier, we would have caught the train."
+        },
+        "en": {
+          "rule": "Third conditional: If + past perfect, … would have + past participle.",
+          "why_wrong": [
+            "A: the present gives a first conditional.",
+            "C: 'would' is not used in the 'if' clause.",
+            "D: the present perfect does not fit an unreal past condition."
+          ],
+          "example": "If we had left earlier, we would have caught the train."
+        }
+      },
+      "vocab": [
+        {
+          "term": "shipment",
+          "fr": "expédition"
+        },
+        {
+          "term": "deadline",
+          "fr": "date limite"
+        }
+      ]
+    },
+    {
+      "id": "p5-b01-009",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-comparatives-superlatives",
+      "stem": "Our new software is ___ than the previous version, so tasks are completed in half the time.",
+      "choices": [
+        "efficient",
+        "more efficient",
+        "most efficient",
+        "the more efficient"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "« than » appelle un comparatif. Pour un adjectif long : more + adjectif.",
+          "why_wrong": [
+            "A : forme de base, sans comparaison.",
+            "C : superlatif, incompatible avec « than ».",
+            "D : « the » est déplacé après « is … than »."
+          ],
+          "example": "This route is more direct than the highway."
+        },
+        "en": {
+          "rule": "'than' requires a comparative. For long adjectives use more + adjective.",
+          "why_wrong": [
+            "A: base form, no comparison.",
+            "C: superlative, which cannot take 'than'.",
+            "D: 'the' does not belong in 'is … than'."
+          ],
+          "example": "This route is more direct than the highway."
+        }
+      },
+      "vocab": [
+        {
+          "term": "previous",
+          "fr": "précédent"
+        }
+      ]
+    },
+    {
+      "id": "p5-b01-010",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-gerund-infinitive",
+      "stem": "The director suggested ___ the launch of the product until the following quarter.",
+      "choices": [
+        "to postpone",
+        "postponing",
+        "postpone",
+        "to postponing"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Le verbe « suggest » est suivi d'un gérondif (-ing), jamais de « to + infinitif ».",
+          "why_wrong": [
+            "A : « suggest to do » est incorrect.",
+            "C : la forme de base ne suit pas « suggested » ici.",
+            "D : « to » + gérondif n'a pas de sens dans cette structure."
+          ],
+          "example": "He suggested meeting on Thursday."
+        },
+        "en": {
+          "rule": "The verb 'suggest' is followed by a gerund (-ing), never 'to + infinitive'.",
+          "why_wrong": [
+            "A: 'suggest to do' is incorrect.",
+            "C: the base form does not follow 'suggested' here.",
+            "D: 'to' + gerund makes no sense in this structure."
+          ],
+          "example": "He suggested meeting on Thursday."
+        }
+      },
+      "vocab": [
+        {
+          "term": "postpone",
+          "fr": "reporter"
+        },
+        {
+          "term": "quarter",
+          "fr": "trimestre"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "batch": "part6-batch01",
+  "part": 6,
+  "passages": [
+    {
+      "id": "p6-b01-t1", "kind": "text", "title": "Notice to all staff",
+      "body": "To: All employees\nFrom: Facilities Management\nSubject: Parking lot closure\n\nPlease be advised that the east parking lot (1) ___ for resurfacing from June 3 to June 7. During this period, employees are asked to use the visitor lot on Maple Street. (2) ___. Shuttle buses will run every ten minutes between the visitor lot and the main entrance. We apologize for any (3) ___ this may cause and thank you for your cooperation. If you have mobility needs, please contact the front desk (4) ___ to arrange a reserved space."
+    }
+  ],
+  "questions": [
+    {
+      "id": "p6-b01-001", "part": 6, "difficulty": 1, "category": "qt-text-completion", "passage": "p6-b01-t1", "position": 1,
+      "stem": "Blank (1)",
+      "choices": ["closes", "will be closed", "has closed", "closing"], "correct": 1,
+      "explanation": {
+        "fr": {"rule": "Une fermeture planifiée pour une période future s'exprime au futur passif : will be closed. Le parking subit l'action.",
+               "why_wrong": ["A : le présent actif ne convient pas, le parking ne ferme pas par lui-même.", "C : le present perfect décrit un fait déjà accompli.", "D : « closing » seul n'est pas une forme verbale conjuguée."],
+               "example": "The road will be closed for repairs next week."},
+        "en": {"rule": "A planned closure in a future period takes the future passive: will be closed. The lot receives the action.",
+               "why_wrong": ["A: present active does not fit; the lot does not close itself.", "C: the present perfect describes something already done.", "D: 'closing' alone is not a conjugated verb."],
+               "example": "The road will be closed for repairs next week."}
+      },
+      "vocab": [{"term": "resurfacing", "fr": "réfection de la chaussée"}]
+    },
+    {
+      "id": "p6-b01-002", "part": 6, "difficulty": 2, "category": "qt-sentence-insertion", "passage": "p6-b01-t1", "position": 2,
+      "stem": "Which sentence best fits blank (2)?",
+      "choices": ["The new cafeteria menu will be announced soon.", "Spaces in that lot are limited, so please arrive early.", "Last year's resurfacing was completed ahead of schedule.", "Parking fees will increase in July."],
+      "correct": 1,
+      "explanation": {
+        "fr": {"rule": "La phrase insérée doit prolonger l'idée précédente (utiliser le parking visiteurs) et préparer la suivante (navettes).",
+               "why_wrong": ["A : sujet sans rapport (cafétéria).", "C : parle de l'an dernier, sans lien avec l'instruction actuelle.", "D : les tarifs ne sont pas le sujet de l'avis."],
+               "example": "Seats are limited, so please register early."},
+        "en": {"rule": "The inserted sentence must extend the previous idea (using the visitor lot) and lead into the next one (shuttles).",
+               "why_wrong": ["A: unrelated topic (cafeteria).", "C: refers to last year and does not connect to the current instruction.", "D: fees are not the subject of the notice."],
+               "example": "Seats are limited, so please register early."}
+      },
+      "vocab": []
+    },
+    {
+      "id": "p6-b01-003", "part": 6, "difficulty": 2, "category": "gram-word-forms", "passage": "p6-b01-t1", "position": 3,
+      "stem": "Blank (3)",
+      "choices": ["inconvenient", "inconveniently", "inconvenience", "inconvenienced"], "correct": 2,
+      "explanation": {
+        "fr": {"rule": "Après « any », on attend un nom : « inconvenience » (gêne). « apologize for any inconvenience » est une expression figée.",
+               "why_wrong": ["A : adjectif.", "B : adverbe.", "D : participe passé."],
+               "example": "We apologize for any inconvenience."},
+        "en": {"rule": "After 'any' a noun is needed: 'inconvenience'. 'apologize for any inconvenience' is a fixed phrase.",
+               "why_wrong": ["A: adjective.", "B: adverb.", "D: past participle."],
+               "example": "We apologize for any inconvenience."}
+      },
+      "vocab": [{"term": "inconvenience", "fr": "dérangement, gêne"}]
+    },
+    {
+      "id": "p6-b01-004", "part": 6, "difficulty": 2, "category": "voc-office", "passage": "p6-b01-t1", "position": 4,
+      "stem": "Blank (4)",
+      "choices": ["directly", "directed", "directing", "directness"], "correct": 0,
+      "explanation": {
+        "fr": {"rule": "Il faut un adverbe pour modifier le verbe « contact » : « contact the front desk directly ».",
+               "why_wrong": ["B : « directed » est un participe passé.", "C : gérondif, ne modifie pas le verbe.", "D : nom."],
+               "example": "Please contact the supervisor directly."},
+        "en": {"rule": "An adverb is needed to modify the verb 'contact': 'contact the front desk directly'.",
+               "why_wrong": ["B: 'directed' is a past participle.", "C: gerund, does not modify the verb.", "D: noun."],
+               "example": "Please contact the supervisor directly."}
+      },
+      "vocab": [{"term": "front desk", "fr": "accueil"}]
+    }
+  ]
+}

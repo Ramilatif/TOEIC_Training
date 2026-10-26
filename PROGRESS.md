@@ -2,15 +2,15 @@
 
 ## État actuel
 
-- Phase en cours : 0 — Prérequis (bloquée : Docker éteint, Node.js absent)
-- Dernière mise à jour : —
+- Phase en cours : 2 — Listening
+- Dernière mise à jour : 2026-10-26
 - Prochaine action : lister les prérequis et attendre la confirmation de l'utilisateur
 
 ## Phases
 
-- [ ] 0. Prérequis confirmés
+- [x] 0. Prérequis confirmés
 - [x] Architecture documentée (docs/ARCHITECTURE.md)
-- [ ] 1. MVP : pseudo, import JSON, entraînement Reading (Parts 5-7)
+- [x] 1. MVP : pseudo, import JSON, entraînement Reading (Parts 5-7)
 - [ ] 2. Listening : audio, Parts 1-4, transcriptions
 - [ ] 3. Examens blancs et mini-tests, scoring
 - [ ] 4. Tableau de bord et révision des erreurs
@@ -26,15 +26,19 @@
 | Part 2 | 50                | 0                  | non           |
 | Part 3 | 78                | 0                  | non           |
 | Part 4 | 60                | 0                  | non           |
-| Part 5 | 60                | 0                  | non           |
-| Part 6 | 32                | 0                  | non           |
-| Part 7 | 108               | 0                  | non           |
+| Part 5 | 60                | 10                 | oui           |
+| Part 6 | 32                | 4                  | non           |
+| Part 7 | 108               | 3                  | non           |
 
 Leçons : grammaire 0/? · vocabulaire 0/? · méthodologie 0/7
 
 ## Journal des décisions
 
 <!-- Format : date — décision — raison -->
+2026-10-26 — Nom de l'appli « Cap 800 » — original, rappelle l'objectif
+2026-10-26 — Migrations embarquées (sqlx::migrate!), requêtes runtime sans macros query! — pas de sqlx-cli ni de base de dev nécessaires
+2026-10-26 — Le transcript d'un passage Listening est envoyé au client avec la question (nécessaire à la synthèse vocale) ; masqué dans l'interface jusqu'à la réponse. Acceptable pour un usage entre amis ; un moteur audio pré-généré pourra supprimer cette fuite
+2026-10-26 — Questions des quiz de leçon (batch « lesson-* ») exclues de l'entraînement général
 2026-10-26 — Poste de dev Windows 11 (et non Arch comme dans PROMPT.md) — décision de l utilisateur ; commandes Docker/Node identiques
 
 ## Problèmes rencontrés
@@ -43,7 +47,8 @@ Leçons : grammaire 0/? · vocabulaire 0/? · méthodologie 0/7
 
 ## Points à vérifier par l'utilisateur
 
-<!-- Ce que l'agent veut que je contrôle ou décide plus tard -->
+- Part 7 : le format du lot est validé, mais les passages doubles/triples sont à tester en phase 7.
+- La table de conversion du score (docs/ARCHITECTURE.md §8) est une approximation de ma part : à comparer avec vos scores réels.
 
 ## Travail en cours (en cas d'interruption)
 
