@@ -1,6 +1,7 @@
 //! Routes HTTP, regroupées par domaine.
 mod account;
 mod exams;
+mod lessons;
 pub(crate) mod questions;
 mod stats;
 
@@ -20,6 +21,11 @@ pub fn router() -> Router<AppState> {
         .route("/stats/by-part", get(stats::by_part))
         .route("/stats/by-category", get(stats::by_category))
         .route("/review/mistakes", get(stats::mistakes))
+        .route("/lessons", get(lessons::list))
+        .route("/lessons/progress", get(lessons::progress))
+        .route("/lessons/{id}", get(lessons::get))
+        .route("/lessons/{id}/read", post(lessons::mark_read))
+        .route("/lessons/{id}/quiz", post(lessons::submit_quiz))
         .route("/exams", get(exams::list).post(exams::create))
         .route("/exams/{id}", get(exams::get))
         .route("/exams/{id}/answers", post(exams::save_answer))

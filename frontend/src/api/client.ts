@@ -121,6 +121,49 @@ export interface Overview {
   weak_categories: CategoryStat[];
 }
 
+export interface LessonItem {
+  id: string;
+  type: "grammar" | "vocab" | "method";
+  category_id: string;
+  level: string;
+  minutes: number;
+  title_fr: string;
+  title_en: string;
+  read: boolean;
+  quiz_passed: boolean;
+  best_quiz_score: number | null;
+}
+
+export interface LessonDetail extends LessonItem {
+  body_fr_md: string;
+  body_en_md: string;
+  vocab: { term: string; translation_fr: string; example: string | null }[];
+  quiz: Question[];
+}
+
+export interface QuizResult {
+  score: number;
+  total: number;
+  percent: number;
+  passed: boolean;
+  items: {
+    question_id: string;
+    chosen_index: number | null;
+    correct_index: number;
+    correct: boolean;
+    explanation_fr: Explanation;
+    explanation_en: Explanation;
+  }[];
+}
+
+export interface ModuleProgress {
+  type: "grammar" | "vocab" | "method";
+  lessons: number;
+  read: number;
+  quiz_passed: number;
+  percent: number;
+}
+
 const TOKEN_KEY = "toeic_token";
 
 export const getToken = (): string | null => {
@@ -190,4 +233,10 @@ export const api = {
     request<{ ok: boolean }>("POST", `/exams/${id}/answers`, { question_id, chosen_index }),
   finishExam: (id: string) => request<ExamResults>("POST", `/exams/${id}/finish`),
   examResults: (id: string) => request<ExamResults>("GET", `/exams/${id}/results`),
+  lessons: () => request<LessonItem[]>("GET", "/lessons"),
+  lesson: (id: string) => request<LessonDetail>("GET", `/lessons/${id}`),
+  lessonProgress: () => request<ModuleProgress[]>("GET", "/lessons/progress"),
+  markRead: (id: string) => request<{ ok: boolean }>("POST", `/lessons/${id}/read`),
+  submitQuiz: (id: string, answers: Record<string, number>) =>
+    request<QuizResult>("POST", `/lessons/${id}/quiz`, { answers }),
 };

@@ -1,5 +1,6 @@
 //! Import du contenu (JSON de questions, catégories, crédits d'images) en base.
 //! L'import est idempotent : relancé à chaque démarrage (`ON CONFLICT DO UPDATE`).
+pub mod lessons;
 pub mod model;
 
 use anyhow::{bail, Context};
@@ -132,6 +133,8 @@ pub async fn import_all(pool: &SqlitePool, dir: &Path) -> anyhow::Result<()> {
             );
         }
     }
+    // Les leçons après les questions : leur quiz est le lot « lesson-<id> ».
+    lessons::import_lessons(pool, dir, &cat_ids).await?;
     Ok(())
 }
 

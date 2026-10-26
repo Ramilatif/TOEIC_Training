@@ -69,3 +69,10 @@ fieldset { border: 1px solid var(--border); border-radius: 6px; margin-bottom: 0
 .goal-line { stroke: var(--muted); stroke-dasharray: 4 3; }
 .chart-text { font-size: 9px; fill: var(--fg); }
 @media (max-width: 600px) { .topbar { flex-wrap: wrap; gap: 0.4rem; } .topbar nav { flex-wrap: wrap; } }
+.lesson { background: var(--card); border: 1px solid var(--border); border-radius: 8px; padding: 0.5rem 1.2rem; margin: 1rem 0; overflow-x: auto; }
+.lesson table, .card table { border-collapse: collapse; width: 100%; font-size: 0.92rem; }
+.lesson th, .lesson td, .card td { border: 1px solid var(--border); padding: 0.35rem 0.5rem; text-align: left; vertical-align: top; }
+.lesson th { background: var(--bg); }
+.lesson-list { padding-left: 1.1rem; }
+.badge { font-size: 0.78rem; border: 1px solid var(--border); border-radius: 10px; padding: 0 0.5rem; color: var(--muted); }
+.badge.ok { color: var(--ok); border-color: var(--ok); }

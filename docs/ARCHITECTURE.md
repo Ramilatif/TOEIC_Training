@@ -162,7 +162,6 @@ minutes: 12
 title: { fr: "Les temps verbaux", en: "Verb tenses" }
 vocab:
   - { term: "deadline", fr: "date limite", example: "The deadline is Friday." }
-quiz: [ "lesson-verb-tenses-q1", "lesson-verb-tenses-q2" ]
 ---
 <!-- lang:fr -->
 # Les temps verbaux
@@ -173,8 +172,12 @@ quiz: [ "lesson-verb-tenses-q1", "lesson-verb-tenses-q2" ]
 …
 ```
 
-Les questions du quiz (5 à 10) sont des entrées normales de `content/questions/lesson-*.json`
-(`batch: "lesson-…"`), exclues des examens et de l'entraînement général.
+Le quiz d'une leçon (5 à 10 questions, exigé à l'import) = les questions du lot
+`content/questions/lesson-<id de la leçon>.json` (champ `batch` = `lesson-<id>`). Ces questions sont
+exclues de l'entraînement, des examens, des statistiques et du score estimé. Le quiz est validé à
+70 % ; réussir le quiz marque aussi la leçon comme lue. Progression d'un module = moyenne de
+50 % (lue) + 50 % (quiz réussi) par leçon. L'id d'une leçon commence par son type (`grammar-`,
+`vocab-`, `method-`) ; les leçons de méthodologie s'appellent `method-part-1` à `method-part-7`.
 
 ## 7. Liste des catégories (référence unique)
 

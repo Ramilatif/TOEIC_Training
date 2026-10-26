@@ -1,0 +1,182 @@
+{
+  "batch": "lesson-grammar-verb-tenses",
+  "part": 5,
+  "passages": [],
+  "questions": [
+    {
+      "id": "lq-grammar-verb-tenses-01",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-verb-tenses",
+      "stem": "Our company ___ its headquarters to Chicago last March.",
+      "choices": [
+        "moves",
+        "has moved",
+        "moved",
+        "will move"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Un repère passé précis (last March) impose le prétérit.",
+          "why_wrong": [
+            "A : le présent ne convient pas à un fait passé.",
+            "B : « last March » est un repère passé précis : pas de present perfect.",
+            "D : le futur contredit « last March »."
+          ],
+          "example": "The firm moved to Boston in 2021."
+        },
+        "en": {
+          "rule": "A specific past time (last March) requires the simple past.",
+          "why_wrong": [
+            "A: the present does not fit a past event.",
+            "B: 'last March' is a specific past time: no present perfect.",
+            "D: the future contradicts 'last March'."
+          ],
+          "example": "The firm moved to Boston in 2021."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-verb-tenses-02",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-verb-tenses",
+      "stem": "The consultant ___ for our company since 2018.",
+      "choices": [
+        "is working",
+        "works",
+        "worked",
+        "has worked"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "« Since » + date appelle le present perfect (has/have + participe passé).",
+          "why_wrong": [
+            "A : le présent continu ne s'emploie pas avec « since ».",
+            "B : le présent simple ne marque pas la durée depuis un point passé.",
+            "C : avec « since », on emploie le present perfect."
+          ],
+          "example": "She has lived here since 2015."
+        },
+        "en": {
+          "rule": "'Since' + date calls for the present perfect (has/have + past participle).",
+          "why_wrong": [
+            "A: the present continuous is not used with 'since'.",
+            "B: the simple present does not show duration from a past point.",
+            "C: with 'since' use the present perfect."
+          ],
+          "example": "She has lived here since 2015."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-verb-tenses-03",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-verb-tenses",
+      "stem": "As soon as the shipment ___, please call the warehouse manager.",
+      "choices": [
+        "arrived",
+        "is arrived",
+        "will arrive",
+        "arrives"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Après as soon as / when / before / after, le futur s'exprime avec le présent.",
+          "why_wrong": [
+            "A : le prétérit parle du passé, or il s'agit d'un futur.",
+            "B : forme incorrecte : « arrive » ne se met pas au passif ici.",
+            "C : après « as soon as », on n'emploie pas « will » : présent."
+          ],
+          "example": "When she calls, I will tell her."
+        },
+        "en": {
+          "rule": "After as soon as / when / before / after, the future is expressed with the present.",
+          "why_wrong": [
+            "A: the past tense is about the past, but this refers to the future.",
+            "B: incorrect form: 'arrive' is not passive here.",
+            "C: after 'as soon as' we do not use 'will': use the present."
+          ],
+          "example": "When she calls, I will tell her."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-verb-tenses-04",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-verb-tenses",
+      "stem": "By the time the auditors arrived, the accountant ___ all the files.",
+      "choices": [
+        "is organizing",
+        "will organize",
+        "organizes",
+        "had organized"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "« By the time » + prétérit : l'action antérieure prend le plus-que-parfait.",
+          "why_wrong": [
+            "A : le présent continu ne place pas l'action avant « arrived ».",
+            "B : le futur est incompatible avec « arrived ».",
+            "C : le présent ne convient pas à une action passée antérieure."
+          ],
+          "example": "By the time he called, we had left."
+        },
+        "en": {
+          "rule": "'By the time' + simple past: the earlier action takes the past perfect.",
+          "why_wrong": [
+            "A: the present continuous does not put the action before 'arrived'.",
+            "B: the future is incompatible with 'arrived'.",
+            "C: the present does not fit an earlier past action."
+          ],
+          "example": "By the time he called, we had left."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-verb-tenses-05",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-verb-tenses",
+      "stem": "The board ___ the new budget next week.",
+      "choices": [
+        "will approve",
+        "approved",
+        "approving",
+        "has approved"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "« Next week » est un repère futur : will + verbe.",
+          "why_wrong": [
+            "B : le prétérit contredit « next week ».",
+            "C : forme non conjuguée, il manque l'auxiliaire.",
+            "D : le present perfect décrit un fait déjà accompli."
+          ],
+          "example": "The meeting will start at ten."
+        },
+        "en": {
+          "rule": "'Next week' is a future clue: will + verb.",
+          "why_wrong": [
+            "B: the past tense contradicts 'next week'.",
+            "C: not a conjugated form: the auxiliary is missing.",
+            "D: the present perfect describes something already done."
+          ],
+          "example": "The meeting will start at ten."
+        }
+      },
+      "vocab": []
+    }
+  ]
+}

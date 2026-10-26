@@ -1,8 +1,8 @@
 import { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
-import { api, type CategoryStat, type Overview, type PartStat } from "../api/client";
+import { api, type CategoryStat, type ModuleProgress, type Overview, type PartStat } from "../api/client";
 import { useAuth } from "../auth";
-import { t, type Lang } from "../i18n";
+import { t, type Key, type Lang } from "../i18n";
 
 const pct = (a: number | null) => (a === null ? "—" : `${Math.round(a * 100)} %`);
 
@@ -51,11 +51,13 @@ export default function Dashboard() {
   const [ov, setOv] = useState<Overview | null>(null);
   const [parts, setParts] = useState<PartStat[]>([]);
   const [cats, setCats] = useState<CategoryStat[]>([]);
+  const [modules, setModules] = useState<ModuleProgress[]>([]);
 
   useEffect(() => {
     api.overview().then(setOv);
     api.byPart().then(setParts);
     api.byCategory().then(setCats);
+    api.lessonProgress().then(setModules);
   }, []);
 
   if (!ov) return <p>{t(lang, "loading")}</p>;
@@ -132,6 +134,21 @@ export default function Dashboard() {
               />
             ))}
           </div>
+
+          {modules.length > 0 && (
+            <div className="card">
+              <h3>{t(lang, "progress")}</h3>
+              {modules.map((m) => (
+                <Bar
+                  key={m.type}
+                  value={m.percent / 100}
+                  label={t(lang, m.type as Key)}
+                  detail={`${m.quiz_passed}/${m.lessons} · ${m.percent} %`}
+                />
+              ))}
+              <Link to="/lessons">{t(lang, "lessonsTitle")}</Link>
+            </div>
+          )}
 
           {ov.weak_categories.length > 0 && (
             <div className="card">

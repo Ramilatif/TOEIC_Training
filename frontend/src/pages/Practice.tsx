@@ -100,6 +100,11 @@ export default function Practice() {
             transcript={q.part <= 4 ? (result.transcript ?? q.passage?.transcript ?? null) : null}
             lang={lang}
           />
+          {!result.correct && result.lesson_id && (
+            <p>
+              <Link to={`/lessons/${result.lesson_id}`}>{t(lang, "openLesson")}</Link>
+            </p>
+          )}
           <button className="primary" onClick={() => setIndex((i) => i + 1)}>
             {index + 1 < questions.length ? t(lang, "next") : t(lang, "finish")}
           </button>

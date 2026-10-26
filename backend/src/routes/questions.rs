@@ -180,6 +180,7 @@ struct AnswerRow {
     explanation_fr: String,
     explanation_en: String,
     category_id: String,
+    part: i64,
     choices_json: String,
     transcript: Option<String>,
 }
@@ -191,7 +192,7 @@ pub async fn answer(
     Json(req): Json<AnswerReq>,
 ) -> ApiResult<Json<AnswerOut>> {
     let row = sqlx::query_as::<_, AnswerRow>(
-        "SELECT q.correct_index, q.explanation_fr, q.explanation_en, q.category_id, q.choices_json, p.transcript
+        "SELECT q.correct_index, q.explanation_fr, q.explanation_en, q.category_id, q.part, q.choices_json, p.transcript
          FROM questions q LEFT JOIN passages p ON p.id = q.passage_id WHERE q.id = $1",
     )
     .bind(&id)
@@ -225,11 +226,7 @@ pub async fn answer(
     .execute(&state.pool)
     .await?;
 
-    let lesson_id: Option<(String,)> =
-        sqlx::query_as("SELECT id FROM lessons WHERE category_id = $1 ORDER BY id LIMIT 1")
-            .bind(&row.category_id)
-            .fetch_optional(&state.pool)
-            .await?;
+    let lesson_id = lesson_for(&state, &row.category_id, row.part).await?;
     let parse =
         |s: &str| serde_json::from_str::<Explanation>(s).map_err(|e| ApiError::Internal(e.into()));
     Ok(Json(AnswerOut {
@@ -239,7 +236,7 @@ pub async fn answer(
         explanation_en: parse(&row.explanation_en)?,
         transcript: row.transcript,
         category: row.category_id,
-        lesson_id: lesson_id.map(|l| l.0),
+        lesson_id,
     }))
 }
 
@@ -257,4 +254,27 @@ pub(crate) async fn fetch_by_ids(state: &AppState, ids: &[String]) -> ApiResult<
         }
     }
     Ok(out)
+}
+
+/// Leçon à recommander pour une catégorie : leçon de grammaire/vocabulaire de la catégorie,
+/// à défaut la leçon de méthodologie de la partie (`method-part-N`).
+pub(crate) async fn lesson_for(
+    state: &AppState,
+    category: &str,
+    part: i64,
+) -> ApiResult<Option<String>> {
+    let direct: Option<(String,)> = sqlx::query_as(
+        "SELECT id FROM lessons WHERE category_id = $1 AND type <> 'method' ORDER BY id LIMIT 1",
+    )
+    .bind(category)
+    .fetch_optional(&state.pool)
+    .await?;
+    if let Some((id,)) = direct {
+        return Ok(Some(id));
+    }
+    let method: Option<(String,)> = sqlx::query_as("SELECT id FROM lessons WHERE id = $1")
+        .bind(format!("method-part-{part}"))
+        .fetch_optional(&state.pool)
+        .await?;
+    Ok(method.map(|m| m.0))
 }

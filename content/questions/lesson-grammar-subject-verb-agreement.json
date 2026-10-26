@@ -1,0 +1,182 @@
+{
+  "batch": "lesson-grammar-subject-verb-agreement",
+  "part": 5,
+  "passages": [],
+  "questions": [
+    {
+      "id": "lq-grammar-subject-verb-agreement-01",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-subject-verb-agreement",
+      "stem": "The list of required documents ___ posted on the website.",
+      "choices": [
+        "have been",
+        "were",
+        "is",
+        "are"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Le verbe s'accorde avec le noyau du sujet (list).",
+          "why_wrong": [
+            "A : forme plurielle, incompatible avec « list ».",
+            "B : pluriel, et le passé n'est pas requis ici.",
+            "D : le sujet est « list » (singulier), pas « documents »."
+          ],
+          "example": "The list of items is on my desk."
+        },
+        "en": {
+          "rule": "The verb agrees with the head noun (list).",
+          "why_wrong": [
+            "A: plural form, incompatible with 'list'.",
+            "B: plural, and the past is not required here.",
+            "D: the subject is 'list' (singular), not 'documents'."
+          ],
+          "example": "The list of items is on my desk."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-subject-verb-agreement-02",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-subject-verb-agreement",
+      "stem": "Neither the managers nor the director ___ available this afternoon.",
+      "choices": [
+        "have been",
+        "is",
+        "were",
+        "are"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Neither…nor : accord avec le sujet le plus proche du verbe.",
+          "why_wrong": [
+            "A : pluriel, incorrect avec « director ».",
+            "C : pluriel, incorrect avec « director ».",
+            "D : avec « neither…nor », on accorde avec le sujet le plus proche (director)."
+          ],
+          "example": "Neither the clerks nor the manager is here."
+        },
+        "en": {
+          "rule": "Neither…nor: agree with the subject closest to the verb.",
+          "why_wrong": [
+            "A: plural, incorrect with 'director'.",
+            "C: plural, incorrect with 'director'.",
+            "D: with 'neither…nor', agree with the nearest subject (director)."
+          ],
+          "example": "Neither the clerks nor the manager is here."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-subject-verb-agreement-03",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-subject-verb-agreement",
+      "stem": "The number of applicants ___ increased this year.",
+      "choices": [
+        "are",
+        "has",
+        "having",
+        "have"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "The number of + pluriel → verbe singulier. (A number of → pluriel.)",
+          "why_wrong": [
+            "A : « the number of » est singulier.",
+            "C : forme non conjuguée.",
+            "D : « the number of » est singulier."
+          ],
+          "example": "The number of errors has fallen."
+        },
+        "en": {
+          "rule": "The number of + plural → singular verb. (A number of → plural.)",
+          "why_wrong": [
+            "A: 'the number of' is singular.",
+            "C: not a conjugated form.",
+            "D: 'the number of' is singular."
+          ],
+          "example": "The number of errors has fallen."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-subject-verb-agreement-04",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-subject-verb-agreement",
+      "stem": "There ___ several errors in the invoice.",
+      "choices": [
+        "are",
+        "was",
+        "has been",
+        "is"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Après « there », le verbe s'accorde avec le sujet placé après lui.",
+          "why_wrong": [
+            "B : singulier et passé.",
+            "C : forme singulière.",
+            "D : le vrai sujet « errors » est pluriel."
+          ],
+          "example": "There are two seats left."
+        },
+        "en": {
+          "rule": "After 'there', the verb agrees with the subject that follows.",
+          "why_wrong": [
+            "B: singular and past.",
+            "C: singular form.",
+            "D: the real subject 'errors' is plural."
+          ],
+          "example": "There are two seats left."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-subject-verb-agreement-05",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-subject-verb-agreement",
+      "stem": "The information in these files ___ confidential.",
+      "choices": [
+        "is",
+        "were",
+        "are",
+        "have been"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Information, news, equipment, advice sont des noms indénombrables : verbe singulier.",
+          "why_wrong": [
+            "B : pluriel et passé.",
+            "C : « information » est indénombrable donc singulier.",
+            "D : pluriel."
+          ],
+          "example": "The equipment is new."
+        },
+        "en": {
+          "rule": "Information, news, equipment and advice are uncountable: singular verb.",
+          "why_wrong": [
+            "B: plural and past.",
+            "C: 'information' is uncountable, so singular.",
+            "D: plural."
+          ],
+          "example": "The equipment is new."
+        }
+      },
+      "vocab": []
+    }
+  ]
+}
