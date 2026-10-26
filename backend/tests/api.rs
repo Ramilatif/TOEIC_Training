@@ -124,11 +124,13 @@ async fn passage_groupe_en_part6() {
     )
     .await;
     let qs = qs.as_array().unwrap();
-    assert_eq!(
-        qs.len(),
-        4,
-        "les 4 questions du texte sont servies ensemble"
-    );
+    // Les questions d'un même texte sont servies ensemble (4 blancs par texte).
+    assert!(!qs.is_empty() && qs.len() % 4 == 0);
+    for group in qs.chunks(4) {
+        assert!(group
+            .iter()
+            .all(|q| q["passage"]["id"] == group[0]["passage"]["id"]));
+    }
     assert!(qs[0]["passage"]["body"].is_string());
 }
 
