@@ -1,0 +1,182 @@
+{
+  "batch": "lesson-vocab-hr",
+  "part": 5,
+  "passages": [],
+  "questions": [
+    {
+      "id": "lq-vocab-hr-01",
+      "part": 5,
+      "difficulty": 1,
+      "category": "voc-hr",
+      "stem": "The firm plans to ___ five new sales representatives this year.",
+      "choices": [
+        "retire",
+        "promote",
+        "resign",
+        "recruit"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Recruit = chercher et embaucher.",
+          "why_wrong": [
+            "A : prendre sa retraite.",
+            "B : promouvoir quelqu'un déjà en place.",
+            "C : démissionner."
+          ],
+          "example": "They recruit graduates."
+        },
+        "en": {
+          "rule": "Recruit = find and hire.",
+          "why_wrong": [
+            "A: stop working.",
+            "B: advance someone already employed.",
+            "C: leave a job."
+          ],
+          "example": "They recruit graduates."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-hr-02",
+      "part": 5,
+      "difficulty": 1,
+      "category": "voc-hr",
+      "stem": "Ms. Ortiz will ___ next month after 30 years with the company.",
+      "choices": [
+        "interview",
+        "recruit",
+        "apply",
+        "retire"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Retire = prendre sa retraite.",
+          "why_wrong": [
+            "A : faire passer un entretien.",
+            "B : embaucher.",
+            "C : postuler."
+          ],
+          "example": "He retired at 65."
+        },
+        "en": {
+          "rule": "Retire = stop working at old age.",
+          "why_wrong": [
+            "A: conduct an interview.",
+            "B: hire.",
+            "C: apply for a job."
+          ],
+          "example": "He retired at 65."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-hr-03",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-hr",
+      "stem": "Full-time employees are ___ for health insurance after 90 days.",
+      "choices": [
+        "promoted",
+        "resigned",
+        "trained",
+        "eligible"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Be eligible for = avoir droit à.",
+          "why_wrong": [
+            "A : promus.",
+            "B : démissionnaires.",
+            "C : formés."
+          ],
+          "example": "Staff are eligible."
+        },
+        "en": {
+          "rule": "Be eligible for = qualify for.",
+          "why_wrong": [
+            "A: advanced.",
+            "B: left.",
+            "C: taught."
+          ],
+          "example": "Staff are eligible."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-hr-04",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-hr",
+      "stem": "New employees must complete a six-month ___ period.",
+      "choices": [
+        "payroll",
+        "résumé",
+        "benefits",
+        "probation"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Probation = période d'essai.",
+          "why_wrong": [
+            "A : paie.",
+            "B : CV.",
+            "C : avantages."
+          ],
+          "example": "A probation period."
+        },
+        "en": {
+          "rule": "Probation = trial period.",
+          "why_wrong": [
+            "A: wages.",
+            "B: career summary.",
+            "C: extras."
+          ],
+          "example": "A probation period."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-hr-05",
+      "part": 5,
+      "difficulty": 1,
+      "category": "voc-hr",
+      "stem": "Please attach your ___ and a cover letter to the application.",
+      "choices": [
+        "review",
+        "vacancy",
+        "payroll",
+        "résumé"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Résumé = CV.",
+          "why_wrong": [
+            "A : évaluation.",
+            "B : poste vacant.",
+            "C : paie."
+          ],
+          "example": "Send your résumé."
+        },
+        "en": {
+          "rule": "Résumé = career summary document.",
+          "why_wrong": [
+            "A: assessment.",
+            "B: open position.",
+            "C: pay list."
+          ],
+          "example": "Send your résumé."
+        }
+      },
+      "vocab": []
+    }
+  ]
+}

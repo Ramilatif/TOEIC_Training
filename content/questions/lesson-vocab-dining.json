@@ -1,0 +1,182 @@
+{
+  "batch": "lesson-vocab-dining",
+  "part": 5,
+  "passages": [],
+  "questions": [
+    {
+      "id": "lq-vocab-dining-01",
+      "part": 5,
+      "difficulty": 1,
+      "category": "voc-dining",
+      "stem": "Please ___ by Friday so that we can finalize the guest list.",
+      "choices": [
+        "RSVP",
+        "cater",
+        "serve",
+        "tip"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "RSVP = répondre à l'invitation.",
+          "why_wrong": [
+            "B : fournir un repas.",
+            "C : servir.",
+            "D : pourboire."
+          ],
+          "example": "RSVP by Monday."
+        },
+        "en": {
+          "rule": "RSVP = reply to an invitation.",
+          "why_wrong": [
+            "B: supply food.",
+            "C: bring food.",
+            "D: gratuity."
+          ],
+          "example": "RSVP by Monday."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-dining-02",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-dining",
+      "stem": "The restaurant is ___ this weekend, so we cannot accept more reservations.",
+      "choices": [
+        "fully booked",
+        "on the house",
+        "self-service",
+        "take-out"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Fully booked = complet.",
+          "why_wrong": [
+            "B : offert.",
+            "C : libre-service.",
+            "D : à emporter."
+          ],
+          "example": "We are fully booked."
+        },
+        "en": {
+          "rule": "Fully booked = no space left.",
+          "why_wrong": [
+            "B: free.",
+            "C: no waiter.",
+            "D: to go."
+          ],
+          "example": "We are fully booked."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-dining-03",
+      "part": 5,
+      "difficulty": 1,
+      "category": "voc-dining",
+      "stem": "The hotel's conference ___ can hold up to 300 guests.",
+      "choices": [
+        "appetizer",
+        "menu",
+        "venue",
+        "beverage"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Venue = lieu de l'événement.",
+          "why_wrong": [
+            "A : entrée.",
+            "B : carte.",
+            "D : boisson."
+          ],
+          "example": "A large venue."
+        },
+        "en": {
+          "rule": "Venue = event location.",
+          "why_wrong": [
+            "A: starter.",
+            "B: list.",
+            "D: drink."
+          ],
+          "example": "A large venue."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-dining-04",
+      "part": 5,
+      "difficulty": 1,
+      "category": "voc-dining",
+      "stem": "___ for the company party will be provided by Green Table Foods.",
+      "choices": [
+        "Dessert",
+        "Catering",
+        "Seating",
+        "Tipping"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Catering = service traiteur.",
+          "why_wrong": [
+            "A : dessert.",
+            "C : placement.",
+            "D : pourboire."
+          ],
+          "example": "Catering is included."
+        },
+        "en": {
+          "rule": "Catering = food service for events.",
+          "why_wrong": [
+            "A: sweet dish.",
+            "C: seat arrangement.",
+            "D: gratuity."
+          ],
+          "example": "Catering is included."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-dining-05",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-dining",
+      "stem": "Guests with ___ should inform the organizer in advance.",
+      "choices": [
+        "serving dishes",
+        "dietary restrictions",
+        "beverage menus",
+        "table reservations"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Dietary restrictions = restrictions alimentaires.",
+          "why_wrong": [
+            "A : plats de service.",
+            "C : cartes de boissons.",
+            "D : réservations."
+          ],
+          "example": "List any restrictions."
+        },
+        "en": {
+          "rule": "Dietary restrictions = foods one cannot eat.",
+          "why_wrong": [
+            "A: dishes for serving.",
+            "C: drink lists.",
+            "D: bookings."
+          ],
+          "example": "List any restrictions."
+        }
+      },
+      "vocab": []
+    }
+  ]
+}

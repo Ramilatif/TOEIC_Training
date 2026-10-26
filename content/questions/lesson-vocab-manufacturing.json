@@ -1,0 +1,182 @@
+{
+  "batch": "lesson-vocab-manufacturing",
+  "part": 5,
+  "passages": [],
+  "questions": [
+    {
+      "id": "lq-vocab-manufacturing-01",
+      "part": 5,
+      "difficulty": 1,
+      "category": "voc-manufacturing",
+      "stem": "Each product goes through strict ___ before it leaves the factory.",
+      "choices": [
+        "loyalty",
+        "freight",
+        "market share",
+        "quality control"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Quality control = contrôle qualité.",
+          "why_wrong": [
+            "A : fidélité.",
+            "B : fret.",
+            "C : part de marché."
+          ],
+          "example": "Strict quality control."
+        },
+        "en": {
+          "rule": "Quality control = checking standards.",
+          "why_wrong": [
+            "A: faithfulness.",
+            "B: cargo.",
+            "C: portion of sales."
+          ],
+          "example": "Strict quality control."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-manufacturing-02",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-manufacturing",
+      "stem": "The plant increased its monthly ___ by 20 percent.",
+      "choices": [
+        "supplier",
+        "output",
+        "defect",
+        "warehouse"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Output = production.",
+          "why_wrong": [
+            "A : fournisseur.",
+            "C : défaut.",
+            "D : entrepôt."
+          ],
+          "example": "Output rose."
+        },
+        "en": {
+          "rule": "Output = amount produced.",
+          "why_wrong": [
+            "A: provider.",
+            "C: fault.",
+            "D: storage building."
+          ],
+          "example": "Output rose."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-manufacturing-03",
+      "part": 5,
+      "difficulty": 1,
+      "category": "voc-manufacturing",
+      "stem": "The goods are kept in a large ___ near the harbor.",
+      "choices": [
+        "assembly",
+        "maintenance",
+        "inventory",
+        "warehouse"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Warehouse = entrepôt.",
+          "why_wrong": [
+            "A : montage.",
+            "B : entretien.",
+            "C : stock (les biens, pas le bâtiment)."
+          ],
+          "example": "Store it in the warehouse."
+        },
+        "en": {
+          "rule": "Warehouse = storage building.",
+          "why_wrong": [
+            "A: building process.",
+            "B: upkeep.",
+            "C: the goods, not the building."
+          ],
+          "example": "Store it in the warehouse."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-manufacturing-04",
+      "part": 5,
+      "difficulty": 1,
+      "category": "voc-manufacturing",
+      "stem": "We buy our ___ materials from three overseas suppliers.",
+      "choices": [
+        "row",
+        "rough",
+        "rare",
+        "raw"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Raw materials = matières premières.",
+          "why_wrong": [
+            "A : rangée.",
+            "B : rugueux.",
+            "C : rare."
+          ],
+          "example": "Raw materials arrive daily."
+        },
+        "en": {
+          "rule": "Raw materials = basic substances.",
+          "why_wrong": [
+            "A: line.",
+            "B: not smooth.",
+            "C: uncommon."
+          ],
+          "example": "Raw materials arrive daily."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-manufacturing-05",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-manufacturing",
+      "stem": "The shipment arrived on ___, so production could start Monday as planned.",
+      "choices": [
+        "schedule",
+        "budget",
+        "stock",
+        "demand"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "On schedule = dans les temps.",
+          "why_wrong": [
+            "B : budget.",
+            "C : stock.",
+            "D : demande."
+          ],
+          "example": "The train is on schedule."
+        },
+        "en": {
+          "rule": "On schedule = on time.",
+          "why_wrong": [
+            "B: money plan.",
+            "C: supply.",
+            "D: need."
+          ],
+          "example": "The train is on schedule."
+        }
+      },
+      "vocab": []
+    }
+  ]
+}

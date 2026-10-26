@@ -1,0 +1,182 @@
+{
+  "batch": "lesson-vocab-real-estate",
+  "part": 5,
+  "passages": [],
+  "questions": [
+    {
+      "id": "lq-vocab-real-estate-01",
+      "part": 5,
+      "difficulty": 1,
+      "category": "voc-real-estate",
+      "stem": "The ___ agreed to repair the heating system before winter.",
+      "choices": [
+        "vacancy",
+        "mortgage",
+        "tenant",
+        "landlord"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Landlord = propriétaire qui loue.",
+          "why_wrong": [
+            "A : logement libre.",
+            "B : prêt.",
+            "C : locataire."
+          ],
+          "example": "The landlord called."
+        },
+        "en": {
+          "rule": "Landlord = person who rents out property.",
+          "why_wrong": [
+            "A: empty unit.",
+            "B: loan.",
+            "C: renter."
+          ],
+          "example": "The landlord called."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-real-estate-02",
+      "part": 5,
+      "difficulty": 1,
+      "category": "voc-real-estate",
+      "stem": "Please sign the ___ before you move in.",
+      "choices": [
+        "property",
+        "utilities",
+        "lease",
+        "vacancy"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Lease = bail.",
+          "why_wrong": [
+            "A : bien.",
+            "B : charges.",
+            "D : logement libre."
+          ],
+          "example": "Sign the lease."
+        },
+        "en": {
+          "rule": "Lease = rental contract.",
+          "why_wrong": [
+            "A: building.",
+            "B: services.",
+            "D: empty unit."
+          ],
+          "example": "Sign the lease."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-real-estate-03",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-real-estate",
+      "stem": "Monthly rent includes all ___, such as water and electricity.",
+      "choices": [
+        "utilities",
+        "mortgages",
+        "tenants",
+        "deposits"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Utilities = charges (eau, électricité).",
+          "why_wrong": [
+            "B : prêts.",
+            "C : locataires.",
+            "D : dépôts."
+          ],
+          "example": "Utilities are extra."
+        },
+        "en": {
+          "rule": "Utilities = water, power, gas.",
+          "why_wrong": [
+            "B: loans.",
+            "C: renters.",
+            "D: advance payments."
+          ],
+          "example": "Utilities are extra."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-real-estate-04",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-real-estate",
+      "stem": "The building will be ___ over the summer.",
+      "choices": [
+        "renovated",
+        "rented out",
+        "furnished",
+        "mortgaged"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Renovate = rénover.",
+          "why_wrong": [
+            "B : loué.",
+            "C : meublé.",
+            "D : hypothéqué."
+          ],
+          "example": "They renovate old houses."
+        },
+        "en": {
+          "rule": "Renovate = repair and improve.",
+          "why_wrong": [
+            "B: let.",
+            "C: equipped.",
+            "D: used as loan security."
+          ],
+          "example": "They renovate old houses."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-real-estate-05",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-real-estate",
+      "stem": "The ___ will show you three apartments this afternoon.",
+      "choices": [
+        "real estate agent",
+        "vacancy utility",
+        "tenant mortgage",
+        "landlord's lease"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Real estate agent = agent immobilier.",
+          "why_wrong": [
+            "B : expression incorrecte.",
+            "C : expression incorrecte.",
+            "D : expression incorrecte."
+          ],
+          "example": "The agent called."
+        },
+        "en": {
+          "rule": "Real estate agent = property seller.",
+          "why_wrong": [
+            "B: incorrect expression.",
+            "C: incorrect expression.",
+            "D: incorrect expression."
+          ],
+          "example": "The agent called."
+        }
+      },
+      "vocab": []
+    }
+  ]
+}

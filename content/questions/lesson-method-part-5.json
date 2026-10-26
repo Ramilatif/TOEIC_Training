@@ -1,0 +1,182 @@
+{
+  "batch": "lesson-method-part-5",
+  "part": 5,
+  "passages": [],
+  "questions": [
+    {
+      "id": "lq-method-part-5-01",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-word-forms",
+      "stem": "What is the target time per question in Part 5?",
+      "choices": [
+        "Under 20 seconds",
+        "As long as needed",
+        "Exactly 60 seconds",
+        "About 2 minutes"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Viser moins de 20 secondes par question de Part 5.",
+          "why_wrong": [
+            "B : vous perdrez du temps pour la Part 7.",
+            "C : trop long.",
+            "D : bien trop long, vous manquerez de temps pour la Part 7."
+          ],
+          "example": "Be fast."
+        },
+        "en": {
+          "rule": "Aim for under 20 seconds per Part 5 question.",
+          "why_wrong": [
+            "B: you would lose time for Part 7.",
+            "C: too long.",
+            "D: far too long, you would run out of time for Part 7."
+          ],
+          "example": "Be fast."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-method-part-5-02",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-word-forms",
+      "stem": "You see four choices: decide / decision / decisive / decisively. What type of question is this?",
+      "choices": [
+        "A preposition question",
+        "A word-form (grammar) question",
+        "A vocabulary question",
+        "A reading question"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Quatre formes du même mot = question de grammaire (nature du mot).",
+          "why_wrong": [
+            "A : pas de prépositions ici.",
+            "C : les choix sont de la même famille, c'est de la grammaire.",
+            "D : il s'agit de la Part 5."
+          ],
+          "example": "Check the part of speech."
+        },
+        "en": {
+          "rule": "Four forms of the same word = grammar question (part of speech).",
+          "why_wrong": [
+            "A: no prepositions here.",
+            "C: the choices are from the same family: this is grammar.",
+            "D: this is Part 5."
+          ],
+          "example": "Check the part of speech."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-method-part-5-03",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-word-forms",
+      "stem": "For a grammar question, what should you mainly look at?",
+      "choices": [
+        "The first word of the sentence only",
+        "The last word of the paragraph",
+        "The length of the sentence",
+        "The words right before and after the blank"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "En grammaire, le contexte immédiat du blanc suffit.",
+          "why_wrong": [
+            "A : souvent insuffisant.",
+            "B : il n'y a pas de paragraphe.",
+            "C : n'aide pas à choisir."
+          ],
+          "example": "Look around the blank."
+        },
+        "en": {
+          "rule": "In grammar questions the immediate context of the blank is enough.",
+          "why_wrong": [
+            "A: often insufficient.",
+            "B: there is no paragraph.",
+            "C: does not help to choose."
+          ],
+          "example": "Look around the blank."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-method-part-5-04",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-word-forms",
+      "stem": "Which is the correct collocation?",
+      "choices": [
+        "take a decision to the meeting",
+        "make a decision",
+        "do a decision",
+        "create a decision of"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Make a decision est la collocation standard.",
+          "why_wrong": [
+            "A : mauvaise construction.",
+            "C : collocation incorrecte.",
+            "D : collocation incorrecte."
+          ],
+          "example": "She made a decision."
+        },
+        "en": {
+          "rule": "Make a decision is the standard collocation.",
+          "why_wrong": [
+            "A: wrong construction.",
+            "C: incorrect collocation.",
+            "D: incorrect collocation."
+          ],
+          "example": "She made a decision."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-method-part-5-05",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-word-forms",
+      "stem": "What should you do if a Part 5 question takes more than 30 seconds?",
+      "choices": [
+        "Guess and move on",
+        "Start again from question 1",
+        "Skip all remaining questions",
+        "Keep reading until you are certain"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Pas de pénalité : devinez et avancez.",
+          "why_wrong": [
+            "B : inutile et coûteux.",
+            "C : chaque question vaut un point.",
+            "D : vous perdrez du temps pour la Part 7."
+          ],
+          "example": "Move on."
+        },
+        "en": {
+          "rule": "There is no penalty: guess and move on.",
+          "why_wrong": [
+            "B: pointless and costly.",
+            "C: each question is worth a point.",
+            "D: you will lose time for Part 7."
+          ],
+          "example": "Move on."
+        }
+      },
+      "vocab": []
+    }
+  ]
+}

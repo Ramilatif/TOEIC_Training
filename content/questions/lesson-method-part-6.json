@@ -1,0 +1,182 @@
+{
+  "batch": "lesson-method-part-6",
+  "part": 5,
+  "passages": [],
+  "questions": [
+    {
+      "id": "lq-method-part-6-01",
+      "part": 5,
+      "difficulty": 1,
+      "category": "qt-text-completion",
+      "stem": "How many blanks does each Part 6 text contain?",
+      "choices": [
+        "4",
+        "6",
+        "1",
+        "2"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Part 6 : 4 textes × 4 blancs = 16 questions.",
+          "why_wrong": [
+            "B : chaque texte compte quatre blancs.",
+            "C : chaque texte compte quatre blancs.",
+            "D : chaque texte compte quatre blancs."
+          ],
+          "example": "Sixteen questions."
+        },
+        "en": {
+          "rule": "Part 6: 4 texts × 4 blanks = 16 questions.",
+          "why_wrong": [
+            "B: each text has four blanks.",
+            "C: each text has four blanks.",
+            "D: each text has four blanks."
+          ],
+          "example": "Sixteen questions."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-method-part-6-02",
+      "part": 5,
+      "difficulty": 2,
+      "category": "qt-text-completion",
+      "stem": "What should you check first when inserting a sentence into a paragraph?",
+      "choices": [
+        "The logical link with the sentences before and after",
+        "Whether it starts with a capital letter",
+        "Its length",
+        "Whether it has a comma"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Le lien logique avec le contexte immédiat prime.",
+          "why_wrong": [
+            "B : toutes les phrases commencent par une majuscule.",
+            "C : n'aide pas.",
+            "D : n'aide pas."
+          ],
+          "example": "Check the flow."
+        },
+        "en": {
+          "rule": "The logical link with the immediate context comes first.",
+          "why_wrong": [
+            "B: all sentences start with a capital.",
+            "C: does not help.",
+            "D: does not help."
+          ],
+          "example": "Check the flow."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-method-part-6-03",
+      "part": 5,
+      "difficulty": 2,
+      "category": "qt-text-completion",
+      "stem": "An inserted sentence begins with 'However,'. What does this tell you?",
+      "choices": [
+        "It is the first sentence of the text",
+        "The previous sentence expresses an idea that this one contrasts",
+        "The previous sentence is a list",
+        "It repeats the previous sentence"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "However introduit un contraste avec la phrase précédente.",
+          "why_wrong": [
+            "A : un connecteur d'opposition suppose une phrase précédente.",
+            "C : pas nécessairement.",
+            "D : However marque l'opposition."
+          ],
+          "example": "It is cheap; however, it is slow."
+        },
+        "en": {
+          "rule": "However introduces a contrast with the previous sentence.",
+          "why_wrong": [
+            "A: a contrast connector assumes a previous sentence.",
+            "C: not necessarily.",
+            "D: However marks contrast."
+          ],
+          "example": "It is cheap; however, it is slow."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-method-part-6-04",
+      "part": 5,
+      "difficulty": 1,
+      "category": "qt-text-completion",
+      "stem": "In what order is it best to answer Part 6 blanks?",
+      "choices": [
+        "Strictly in order, no matter what",
+        "Last question first",
+        "Sentence insertion first",
+        "Grammar blanks first, sentence insertion last"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Traiter d'abord les blancs rapides.",
+          "why_wrong": [
+            "A : ordre pas toujours optimal.",
+            "B : aucun intérêt.",
+            "C : plus long, à garder pour la fin."
+          ],
+          "example": "Easy first."
+        },
+        "en": {
+          "rule": "Do the quick blanks first.",
+          "why_wrong": [
+            "A: order is not always optimal.",
+            "B: no benefit.",
+            "C: longer, better kept for last."
+          ],
+          "example": "Easy first."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-method-part-6-05",
+      "part": 5,
+      "difficulty": 3,
+      "category": "qt-text-completion",
+      "stem": "Why must the tense be consistent across a Part 6 text?",
+      "choices": [
+        "Because the choices are all in the same tense",
+        "Because it saves time",
+        "Because tenses never change",
+        "The text has a single time frame (date, event)"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Le contexte temporel du texte impose le temps.",
+          "why_wrong": [
+            "A : les choix varient.",
+            "B : ce n'est pas la raison.",
+            "C : faux."
+          ],
+          "example": "The meeting will be held on Friday."
+        },
+        "en": {
+          "rule": "The time context of the text determines the tense.",
+          "why_wrong": [
+            "A: the choices vary.",
+            "B: that is not the reason.",
+            "C: false."
+          ],
+          "example": "The meeting will be held on Friday."
+        }
+      },
+      "vocab": []
+    }
+  ]
+}

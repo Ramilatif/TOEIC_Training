@@ -1,0 +1,182 @@
+{
+  "batch": "lesson-vocab-technology",
+  "part": 5,
+  "passages": [],
+  "questions": [
+    {
+      "id": "lq-vocab-technology-01",
+      "part": 5,
+      "difficulty": 1,
+      "category": "voc-technology",
+      "stem": "Please ___ with your employee ID and temporary password.",
+      "choices": [
+        "log in",
+        "log out",
+        "login in",
+        "log on to"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Log in = se connecter.",
+          "why_wrong": [
+            "B : se déconnecter.",
+            "C : forme incorrecte.",
+            "D : synonyme mais suivi de « to » : structure différente."
+          ],
+          "example": "Log in to continue."
+        },
+        "en": {
+          "rule": "Log in = enter a system.",
+          "why_wrong": [
+            "B: leave a system.",
+            "C: incorrect form.",
+            "D: a synonym but needs 'to': different structure."
+          ],
+          "example": "Log in to continue."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-technology-02",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-technology",
+      "stem": "The IT team is trying to ___ the problem with the shared printer.",
+      "choices": [
+        "troubleshoot",
+        "upgrade",
+        "install",
+        "download"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Troubleshoot = diagnostiquer et réparer.",
+          "why_wrong": [
+            "B : mettre à niveau.",
+            "C : installer.",
+            "D : télécharger."
+          ],
+          "example": "We troubleshoot daily."
+        },
+        "en": {
+          "rule": "Troubleshoot = find and fix a fault.",
+          "why_wrong": [
+            "B: improve.",
+            "C: set up.",
+            "D: copy files."
+          ],
+          "example": "We troubleshoot daily."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-technology-03",
+      "part": 5,
+      "difficulty": 1,
+      "category": "voc-technology",
+      "stem": "Always make a ___ of important files before updating your system.",
+      "choices": [
+        "malfunction",
+        "network",
+        "backup",
+        "firewall"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Backup = sauvegarde.",
+          "why_wrong": [
+            "A : panne.",
+            "B : réseau.",
+            "D : pare-feu."
+          ],
+          "example": "Make a backup."
+        },
+        "en": {
+          "rule": "Backup = copy of data.",
+          "why_wrong": [
+            "A: failure.",
+            "B: system of computers.",
+            "D: security barrier."
+          ],
+          "example": "Make a backup."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-technology-04",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-technology",
+      "stem": "The new software is not ___ with older operating systems.",
+      "choices": [
+        "compatible",
+        "compatibly",
+        "compatibility",
+        "compete"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Compatible with = compatible avec.",
+          "why_wrong": [
+            "B : adverbe.",
+            "C : nom.",
+            "D : verbe."
+          ],
+          "example": "Is it compatible?"
+        },
+        "en": {
+          "rule": "Compatible with = able to work with.",
+          "why_wrong": [
+            "B: adverb.",
+            "C: noun.",
+            "D: verb."
+          ],
+          "example": "Is it compatible?"
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-technology-05",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-technology",
+      "stem": "The copier is out of ___; a technician has been called.",
+      "choices": [
+        "stock",
+        "charge",
+        "order",
+        "date"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Out of order = en panne.",
+          "why_wrong": [
+            "A : stock.",
+            "B : charge.",
+            "D : date."
+          ],
+          "example": "The lift is out of order."
+        },
+        "en": {
+          "rule": "Out of order = not working.",
+          "why_wrong": [
+            "A: supply.",
+            "B: cost.",
+            "D: day."
+          ],
+          "example": "The lift is out of order."
+        }
+      },
+      "vocab": []
+    }
+  ]
+}

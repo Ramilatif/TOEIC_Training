@@ -1,0 +1,182 @@
+{
+  "batch": "lesson-vocab-marketing",
+  "part": 5,
+  "passages": [],
+  "questions": [
+    {
+      "id": "lq-vocab-marketing-01",
+      "part": 5,
+      "difficulty": 1,
+      "category": "voc-marketing",
+      "stem": "The firm will ___ its new product line in September.",
+      "choices": [
+        "sponsor",
+        "launch",
+        "shred",
+        "survey"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Launch = lancer.",
+          "why_wrong": [
+            "A : parrainer.",
+            "C : déchiqueter.",
+            "D : interroger."
+          ],
+          "example": "They launch it soon."
+        },
+        "en": {
+          "rule": "Launch = introduce.",
+          "why_wrong": [
+            "A: support financially.",
+            "C: cut up.",
+            "D: question."
+          ],
+          "example": "They launch it soon."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-marketing-02",
+      "part": 5,
+      "difficulty": 1,
+      "category": "voc-marketing",
+      "stem": "Our ___ audience is people aged 25 to 40.",
+      "choices": [
+        "target",
+        "loyalty",
+        "market",
+        "brand"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Target audience = public cible.",
+          "why_wrong": [
+            "B : fidélité.",
+            "C : marché.",
+            "D : marque."
+          ],
+          "example": "Know your target audience."
+        },
+        "en": {
+          "rule": "Target audience = intended group.",
+          "why_wrong": [
+            "B: faithfulness.",
+            "C: market.",
+            "D: name."
+          ],
+          "example": "Know your target audience."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-marketing-03",
+      "part": 5,
+      "difficulty": 1,
+      "category": "voc-marketing",
+      "stem": "A customer ___ showed that most buyers prefer online shopping.",
+      "choices": [
+        "slogan",
+        "survey",
+        "campaign",
+        "trend"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Survey = enquête.",
+          "why_wrong": [
+            "A : formule d'accroche.",
+            "C : campagne.",
+            "D : tendance."
+          ],
+          "example": "The survey found..."
+        },
+        "en": {
+          "rule": "Survey = set of questions.",
+          "why_wrong": [
+            "A: catchy phrase.",
+            "C: promotion.",
+            "D: direction."
+          ],
+          "example": "The survey found..."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-marketing-04",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-marketing",
+      "stem": "The company hopes to increase its ___ in the Asian market.",
+      "choices": [
+        "target date",
+        "brand name",
+        "sales slogan",
+        "market share"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Market share = part de marché.",
+          "why_wrong": [
+            "A : date cible.",
+            "B : nom de marque.",
+            "C : slogan."
+          ],
+          "example": "Gain market share."
+        },
+        "en": {
+          "rule": "Market share = portion of sales.",
+          "why_wrong": [
+            "A: goal date.",
+            "B: brand.",
+            "C: phrase."
+          ],
+          "example": "Gain market share."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-marketing-05",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-marketing",
+      "stem": "Members of the ___ program earn points on every purchase.",
+      "choices": [
+        "loyalty",
+        "launching",
+        "targeting",
+        "promotion"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Loyalty program = programme de fidélité.",
+          "why_wrong": [
+            "B : lancement.",
+            "C : ciblage.",
+            "D : promotion."
+          ],
+          "example": "Join the loyalty program."
+        },
+        "en": {
+          "rule": "Loyalty program = rewards for repeat customers.",
+          "why_wrong": [
+            "B: start.",
+            "C: aiming.",
+            "D: advance."
+          ],
+          "example": "Join the loyalty program."
+        }
+      },
+      "vocab": []
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "batch": "lesson-method-part-1",
+  "part": 5,
+  "passages": [],
+  "questions": [
+    {
+      "id": "lq-method-part-1-01",
+      "part": 5,
+      "difficulty": 1,
+      "category": "qt-photo-people",
+      "stem": "In Part 1, how many times is each statement read?",
+      "choices": [
+        "Twice",
+        "As many times as you press play",
+        "Only the correct one is repeated",
+        "Once"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Les énoncés de la Part 1 ne sont lus qu'une fois et ne sont pas imprimés.",
+          "why_wrong": [
+            "A : chaque énoncé n'est lu qu'une fois.",
+            "B : il n'y a pas de bouton de lecture à l'examen.",
+            "C : rien n'est répété."
+          ],
+          "example": "Listen carefully the first time."
+        },
+        "en": {
+          "rule": "Part 1 statements are read only once and are not printed.",
+          "why_wrong": [
+            "A: each statement is read only once.",
+            "B: there is no play button in the exam.",
+            "C: nothing is repeated."
+          ],
+          "example": "Listen carefully the first time."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-method-part-1-02",
+      "part": 5,
+      "difficulty": 1,
+      "category": "qt-photo-people",
+      "stem": "What is the best first step when a new photo appears?",
+      "choices": [
+        "Skip the photo until the audio ends",
+        "Identify who is in the photo and what they are doing",
+        "Read all four answers",
+        "Translate the photo into French"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Anticipez avant l'audio : qui, quoi, où.",
+          "why_wrong": [
+            "A : on perd l'avantage de l'anticipation.",
+            "C : elles ne sont pas imprimées.",
+            "D : perte de temps."
+          ],
+          "example": "Look first, then listen."
+        },
+        "en": {
+          "rule": "Anticipate before the audio: who, what, where.",
+          "why_wrong": [
+            "A: you lose the advantage of anticipation.",
+            "C: they are not printed.",
+            "D: wastes time."
+          ],
+          "example": "Look first, then listen."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-method-part-1-03",
+      "part": 5,
+      "difficulty": 1,
+      "category": "qt-photo-people",
+      "stem": "A statement mentions an object that does not appear in the photo. What should you do?",
+      "choices": [
+        "Wait for the next statement and come back",
+        "Eliminate it",
+        "Choose it if the verb is correct",
+        "Choose it if it sounds familiar"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Un énoncé qui contient un élément absent est faux.",
+          "why_wrong": [
+            "A : on ne peut pas revenir en arrière.",
+            "C : un objet absent rend l'énoncé faux.",
+            "D : la familiarité sonore est un piège."
+          ],
+          "example": "Drop any mismatch."
+        },
+        "en": {
+          "rule": "A statement that contains an absent element is wrong.",
+          "why_wrong": [
+            "A: you cannot go back.",
+            "C: an absent object makes the statement wrong.",
+            "D: sound familiarity is a trap."
+          ],
+          "example": "Drop any mismatch."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-method-part-1-04",
+      "part": 5,
+      "difficulty": 2,
+      "category": "qt-photo-people",
+      "stem": "Which sentence describes a STATE rather than an action in progress?",
+      "choices": [
+        "Boxes are stacked on a shelf.",
+        "A man is loading boxes.",
+        "A woman is lifting a box.",
+        "Workers are carrying boxes."
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Le passif sans « being » décrit un état.",
+          "why_wrong": [
+            "B : action en cours (présent continu).",
+            "C : action en cours.",
+            "D : action en cours."
+          ],
+          "example": "Cars are parked outside."
+        },
+        "en": {
+          "rule": "A passive without 'being' describes a state.",
+          "why_wrong": [
+            "B: action in progress (present continuous).",
+            "C: action in progress.",
+            "D: action in progress."
+          ],
+          "example": "Cars are parked outside."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-method-part-1-05",
+      "part": 5,
+      "difficulty": 2,
+      "category": "qt-photo-people",
+      "stem": "Which pair of verbs are easily confused in Part 1?",
+      "choices": [
+        "opening / closing",
+        "big / large",
+        "wearing / trying on",
+        "start / finish"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Attention aux verbes d'apparence proche (wearing / trying on).",
+          "why_wrong": [
+            "A : sons très différents.",
+            "B : pas des verbes.",
+            "D : sons très différents."
+          ],
+          "example": "She is wearing a coat."
+        },
+        "en": {
+          "rule": "Watch out for look-alike verbs (wearing / trying on).",
+          "why_wrong": [
+            "A: very different sounds.",
+            "B: not verbs.",
+            "D: very different sounds."
+          ],
+          "example": "She is wearing a coat."
+        }
+      },
+      "vocab": []
+    }
+  ]
+}

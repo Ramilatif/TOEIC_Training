@@ -1,0 +1,182 @@
+{
+  "batch": "lesson-vocab-office",
+  "part": 5,
+  "passages": [],
+  "questions": [
+    {
+      "id": "lq-vocab-office-01",
+      "part": 5,
+      "difficulty": 1,
+      "category": "voc-office",
+      "stem": "Please ___ this form and return it to the front desk.",
+      "choices": [
+        "filling",
+        "full up",
+        "fill in with",
+        "fill out"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Fill out a form = remplir un formulaire.",
+          "why_wrong": [
+            "A : forme non conjuguée.",
+            "B : expression incorrecte.",
+            "C : expression incorrecte."
+          ],
+          "example": "Fill out the form."
+        },
+        "en": {
+          "rule": "Fill out a form.",
+          "why_wrong": [
+            "A: not a conjugated form.",
+            "B: incorrect expression.",
+            "C: incorrect expression."
+          ],
+          "example": "Fill out the form."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-office-02",
+      "part": 5,
+      "difficulty": 1,
+      "category": "voc-office",
+      "stem": "The ___ greeted every visitor at the main entrance.",
+      "choices": [
+        "cubicle",
+        "receptionist",
+        "stationery",
+        "photocopier"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Receptionist = la personne à l'accueil.",
+          "why_wrong": [
+            "A : un cubicule est un espace, pas une personne.",
+            "C : désigne des fournitures.",
+            "D : est une machine."
+          ],
+          "example": "The receptionist smiled."
+        },
+        "en": {
+          "rule": "Receptionist = the person at the front desk.",
+          "why_wrong": [
+            "A: a cubicle is a space, not a person.",
+            "C: refers to supplies.",
+            "D: is a machine."
+          ],
+          "example": "The receptionist smiled."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-office-03",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-office",
+      "stem": "We have ___ printer paper, so please order some today.",
+      "choices": [
+        "run over",
+        "run into",
+        "run out of",
+        "run off"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Run out of = ne plus avoir de.",
+          "why_wrong": [
+            "A : signifie écraser ou déborder.",
+            "B : signifie rencontrer par hasard.",
+            "D : signifie s'enfuir ou imprimer."
+          ],
+          "example": "We ran out of coffee."
+        },
+        "en": {
+          "rule": "Run out of = have no more.",
+          "why_wrong": [
+            "A: means to hit or exceed.",
+            "B: means to meet by chance.",
+            "D: means to flee or to print."
+          ],
+          "example": "We ran out of coffee."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-office-04",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-office",
+      "stem": "Confidential documents should be ___ before being thrown away.",
+      "choices": [
+        "filed",
+        "shredded",
+        "renewed",
+        "copied"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Shred = déchiqueter.",
+          "why_wrong": [
+            "A : classés, pas détruits.",
+            "C : renouvelés.",
+            "D : copiés."
+          ],
+          "example": "Shred the old files."
+        },
+        "en": {
+          "rule": "Shred = cut into small pieces.",
+          "why_wrong": [
+            "A: stored, not destroyed.",
+            "C: extended.",
+            "D: copied."
+          ],
+          "example": "Shred the old files."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-office-05",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-office",
+      "stem": "Your ID badge must be ___ every year.",
+      "choices": [
+        "renewed",
+        "shredded",
+        "filed",
+        "typed"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Renew = prolonger la validité.",
+          "why_wrong": [
+            "B : détruit.",
+            "C : classé.",
+            "D : tapé."
+          ],
+          "example": "Renew your passport."
+        },
+        "en": {
+          "rule": "Renew = extend validity.",
+          "why_wrong": [
+            "B: destroyed.",
+            "C: stored.",
+            "D: typed."
+          ],
+          "example": "Renew your passport."
+        }
+      },
+      "vocab": []
+    }
+  ]
+}

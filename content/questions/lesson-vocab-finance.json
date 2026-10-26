@@ -1,0 +1,182 @@
+{
+  "batch": "lesson-vocab-finance",
+  "part": 5,
+  "passages": [],
+  "questions": [
+    {
+      "id": "lq-vocab-finance-01",
+      "part": 5,
+      "difficulty": 1,
+      "category": "voc-finance",
+      "stem": "Please settle the ___ invoice as soon as possible.",
+      "choices": [
+        "fiscal",
+        "balance",
+        "overdue",
+        "interest"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Overdue = en retard de paiement.",
+          "why_wrong": [
+            "A : fiscal.",
+            "B : solde.",
+            "D : taux ou intérêt."
+          ],
+          "example": "The bill is overdue."
+        },
+        "en": {
+          "rule": "Overdue = past the payment date.",
+          "why_wrong": [
+            "A: fiscal.",
+            "B: balance.",
+            "D: interest."
+          ],
+          "example": "The bill is overdue."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-finance-02",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-finance",
+      "stem": "The company's ___ increased, but its profit stayed the same.",
+      "choices": [
+        "revenue",
+        "audit",
+        "tax",
+        "deposit"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Revenue = chiffre d'affaires.",
+          "why_wrong": [
+            "B : audit.",
+            "C : impôt.",
+            "D : acompte."
+          ],
+          "example": "Revenue grew."
+        },
+        "en": {
+          "rule": "Revenue = income from sales.",
+          "why_wrong": [
+            "B: audit.",
+            "C: tax.",
+            "D: advance payment."
+          ],
+          "example": "Revenue grew."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-finance-03",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-finance",
+      "stem": "A 20 percent ___ is required to hold your reservation.",
+      "choices": [
+        "deposit",
+        "withdrawal",
+        "expense",
+        "balance"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Deposit = acompte.",
+          "why_wrong": [
+            "B : retrait.",
+            "C : dépense.",
+            "D : solde."
+          ],
+          "example": "Pay a deposit."
+        },
+        "en": {
+          "rule": "Deposit = advance payment.",
+          "why_wrong": [
+            "B: money taken out.",
+            "C: cost.",
+            "D: remaining amount."
+          ],
+          "example": "Pay a deposit."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-finance-04",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-finance",
+      "stem": "The accountant will ___ the company's books next month.",
+      "choices": [
+        "audit",
+        "withdraw",
+        "invoice",
+        "deposit"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Audit = examiner officiellement les comptes.",
+          "why_wrong": [
+            "B : retirer.",
+            "C : facturer.",
+            "D : déposer."
+          ],
+          "example": "They audit yearly."
+        },
+        "en": {
+          "rule": "Audit = examine accounts officially.",
+          "why_wrong": [
+            "B: take out.",
+            "C: bill.",
+            "D: pay in."
+          ],
+          "example": "They audit yearly."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-finance-05",
+      "part": 5,
+      "difficulty": 1,
+      "category": "voc-finance",
+      "stem": "The bank raised the ___ on business loans.",
+      "choices": [
+        "due date",
+        "fiscal year",
+        "budget",
+        "interest rate"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Interest rate = taux d'intérêt.",
+          "why_wrong": [
+            "A : échéance.",
+            "B : exercice comptable.",
+            "C : budget."
+          ],
+          "example": "The rate is low."
+        },
+        "en": {
+          "rule": "Interest rate = loan percentage.",
+          "why_wrong": [
+            "A: deadline.",
+            "B: accounting year.",
+            "C: budget."
+          ],
+          "example": "The rate is low."
+        }
+      },
+      "vocab": []
+    }
+  ]
+}

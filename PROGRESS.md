@@ -2,9 +2,9 @@
 
 ## État actuel
 
-- Phase en cours : 5 — Zone de cours
+- Phase en cours : 6 — Flashcards SM-2 et planning
 - Dernière mise à jour : 2026-10-26
-- Prochaine action : parseur de leçons Markdown, tables lessons/progress, pages cours, premières leçons grammaire + méthodologie
+- Prochaine action : module srs (SM-2) et planning en Rust avec tests, endpoints /cards et /plan, pages Flashcards et Planning, bouton « ajouter aux flashcards »
 
 ## Phases
 
@@ -14,7 +14,7 @@
 - [x] 2. Listening : audio, Parts 1-4, transcriptions
 - [x] 3. Examens blancs et mini-tests, scoring
 - [x] 4. Tableau de bord et révision des erreurs
-- [ ] 5. Zone de cours
+- [x] 5. Zone de cours
 - [ ] 6. Flashcards SM-2 et planning
 - [ ] 7. Banque complète (400 questions)
 
@@ -30,7 +30,7 @@
 | Part 6 | 32                | 4                  | oui           |
 | Part 7 | 108               | 3                  | oui           |
 
-Leçons : grammaire 0/? · vocabulaire 0/? · méthodologie 0/7
+Leçons : grammaire 16/16 · vocabulaire 14/14 · méthodologie 7/7 (5 questions de quiz chacune, 185 au total)
 
 ## Journal des décisions
 
@@ -47,6 +47,8 @@ Leçons : grammaire 0/? · vocabulaire 0/? · méthodologie 0/7
 2026-10-26 — Examen chronométré : fin automatique à 0, réponses refusées après 15 s de tolérance ; audio en une seule écoute (bouton désactivé ensuite)
 2026-10-26 — Statistiques basées sur la DERNIÈRE tentative de chaque question (niveau actuel, pas l'historique) ; une erreur rejouée juste sort de la liste de révision
 2026-10-26 — Score estimé du tableau de bord : moyenne des précisions par partie pondérée par le poids officiel ; l'estimation est signalée comme moins fiable tant que les 7 parties ne sont pas travaillées
+2026-10-26 — Leçons : 5 questions de quiz par leçon (minimum du PROMPT) ; validation à 70 % ; les quiz n'enregistrent pas de tentatives (ne faussent ni statistiques ni score estimé)
+2026-10-26 — Lien « correction ratée → leçon » : leçon grammaire/vocabulaire de la catégorie, sinon leçon de méthodologie de la partie (method-part-N)
 2026-10-26 — Questions des quiz de leçon (batch « lesson-* ») exclues de l'entraînement général
 2026-10-26 — Poste de dev Windows 11 (et non Arch comme dans PROMPT.md) — décision de l utilisateur ; commandes Docker/Node identiques
 
@@ -55,6 +57,8 @@ Leçons : grammaire 0/? · vocabulaire 0/? · méthodologie 0/7
 <!-- Format : date — problème — solution ou statut -->
 
 ## Points à vérifier par l'utilisateur
+
+- Contenu des 37 leçons et 185 questions de quiz rédigé en une passe : une relecture par vous (ou un enseignant) reste souhaitable, surtout les distracteurs des quiz de vocabulaire et les tableaux de grammaire.
 
 - **Photos Part 1** : déposer p1-01.jpg … p1-12.jpg dans content/images/part1/ et compléter credits.json (voir le README du dossier). Sans elles, les 12 questions Part 1 n'apparaissent pas.
 - Tester l'audio dans Chrome ou Edge : le rendu des voix dépend de celles installées sur Windows (Paramètres > Heure et langue > Voix).

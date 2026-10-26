@@ -1,0 +1,182 @@
+{
+  "batch": "lesson-method-part-4",
+  "part": 5,
+  "passages": [],
+  "questions": [
+    {
+      "id": "lq-method-part-4-01",
+      "part": 5,
+      "difficulty": 1,
+      "category": "qt-talk-gist",
+      "stem": "How many talks and questions are there in Part 4?",
+      "choices": [
+        "25 talks, 25 questions",
+        "10 talks, 30 questions",
+        "13 talks, 39 questions",
+        "6 talks, 18 questions"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Part 4 : 10 exposés × 3 questions = 30.",
+          "why_wrong": [
+            "A : c'est la Part 2.",
+            "C : c'est la Part 3.",
+            "D : ce n'est pas la répartition officielle."
+          ],
+          "example": "Ten talks."
+        },
+        "en": {
+          "rule": "Part 4: 10 talks × 3 questions = 30.",
+          "why_wrong": [
+            "A: that is Part 2.",
+            "C: that is Part 3.",
+            "D: not the official distribution."
+          ],
+          "example": "Ten talks."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-method-part-4-02",
+      "part": 5,
+      "difficulty": 1,
+      "category": "qt-talk-gist",
+      "stem": "Which sentence suggests a voice mail message?",
+      "choices": [
+        "Attention, passengers on Flight 218.",
+        "Welcome to today's guided tour.",
+        "Tonight's forecast is cloudy.",
+        "Hi, this is Carlos from Brightway. I'm calling about your order."
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "« Hi, this is… I'm calling about » = message vocal.",
+          "why_wrong": [
+            "A : annonce publique.",
+            "B : visite guidée.",
+            "C : météo."
+          ],
+          "example": "Hi, this is Anna."
+        },
+        "en": {
+          "rule": "'Hi, this is… I'm calling about' = voice mail.",
+          "why_wrong": [
+            "A: public announcement.",
+            "B: guided tour.",
+            "C: weather report."
+          ],
+          "example": "Hi, this is Anna."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-method-part-4-03",
+      "part": 5,
+      "difficulty": 2,
+      "category": "qt-talk-gist",
+      "stem": "The speaker says: 'The event has been moved to Thursday.' Which day matters?",
+      "choices": [
+        "No day is given",
+        "The original day",
+        "Any day of the week",
+        "Thursday"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "En cas de changement, la nouvelle info est la bonne.",
+          "why_wrong": [
+            "A : Thursday est cité.",
+            "B : c'est l'ancienne information.",
+            "C : une date précise est annoncée."
+          ],
+          "example": "Moved to Friday."
+        },
+        "en": {
+          "rule": "In case of a change, the new information is correct.",
+          "why_wrong": [
+            "A: Thursday is mentioned.",
+            "B: that is the old information.",
+            "C: a specific date is given."
+          ],
+          "example": "Moved to Friday."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-method-part-4-04",
+      "part": 5,
+      "difficulty": 3,
+      "category": "qt-talk-gist",
+      "stem": "How should you approach an intent question ('Why does the speaker say…?')?",
+      "choices": [
+        "Consider the context around the quoted phrase",
+        "Choose the first answer",
+        "Translate the phrase literally",
+        "Ignore the quote"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Le sens d'une phrase citée dépend du contexte.",
+          "why_wrong": [
+            "B : pas de raison de choisir au hasard.",
+            "C : le sens littéral est souvent un piège.",
+            "D : la phrase citée est le cœur de la question."
+          ],
+          "example": "It's a long story."
+        },
+        "en": {
+          "rule": "The meaning of a quoted phrase depends on context.",
+          "why_wrong": [
+            "B: no reason to pick at random.",
+            "C: the literal meaning is often a trap.",
+            "D: the quoted phrase is the heart of the question."
+          ],
+          "example": "It's a long story."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-method-part-4-05",
+      "part": 5,
+      "difficulty": 2,
+      "category": "qt-talk-gist",
+      "stem": "Which of these is a frequent 'next step' question in Part 4?",
+      "choices": [
+        "What language is used?",
+        "What does the speaker ask listeners to do?",
+        "How old is the speaker?",
+        "Where was the talk recorded?"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "On vous demande souvent ce que le locuteur recommande ou demande.",
+          "why_wrong": [
+            "A : jamais posé.",
+            "C : jamais posé.",
+            "D : rarement posé."
+          ],
+          "example": "Please call us back."
+        },
+        "en": {
+          "rule": "You are often asked what the speaker recommends or requests.",
+          "why_wrong": [
+            "A: never asked.",
+            "C: never asked.",
+            "D: rarely asked."
+          ],
+          "example": "Please call us back."
+        }
+      },
+      "vocab": []
+    }
+  ]
+}

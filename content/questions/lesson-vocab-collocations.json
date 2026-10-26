@@ -1,0 +1,182 @@
+{
+  "batch": "lesson-vocab-collocations",
+  "part": 5,
+  "passages": [],
+  "questions": [
+    {
+      "id": "lq-vocab-collocations-01",
+      "part": 5,
+      "difficulty": 1,
+      "category": "voc-collocations",
+      "stem": "The team worked overtime to ___ the project deadline.",
+      "choices": [
+        "do",
+        "catch",
+        "hold",
+        "meet"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Meet a deadline = respecter un délai.",
+          "why_wrong": [
+            "A : collocation incorrecte.",
+            "B : collocation incorrecte.",
+            "C : collocation incorrecte."
+          ],
+          "example": "We met the deadline."
+        },
+        "en": {
+          "rule": "Meet a deadline.",
+          "why_wrong": [
+            "A: incorrect collocation.",
+            "B: incorrect collocation.",
+            "C: incorrect collocation."
+          ],
+          "example": "We met the deadline."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-collocations-02",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-collocations",
+      "stem": "The two sides finally ___ an agreement after three days of talks.",
+      "choices": [
+        "got to",
+        "came",
+        "arrived",
+        "reached"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Reach an agreement.",
+          "why_wrong": [
+            "A : familier, peu approprié.",
+            "B : collocation incorrecte.",
+            "C : collocation incorrecte."
+          ],
+          "example": "They reached an agreement."
+        },
+        "en": {
+          "rule": "Reach an agreement.",
+          "why_wrong": [
+            "A: informal, unsuitable.",
+            "B: incorrect collocation.",
+            "C: incorrect collocation."
+          ],
+          "example": "They reached an agreement."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-collocations-03",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-collocations",
+      "stem": "Prices are ___ to change without notice.",
+      "choices": [
+        "open",
+        "likely",
+        "object",
+        "subject"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Be subject to change.",
+          "why_wrong": [
+            "A : collocation incorrecte.",
+            "B : collocation incorrecte avec « to change » ici.",
+            "C : collocation incorrecte."
+          ],
+          "example": "Subject to approval."
+        },
+        "en": {
+          "rule": "Be subject to change.",
+          "why_wrong": [
+            "A: incorrect collocation.",
+            "B: unsuitable here with 'to change'.",
+            "C: incorrect collocation."
+          ],
+          "example": "Subject to approval."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-collocations-04",
+      "part": 5,
+      "difficulty": 1,
+      "category": "voc-collocations",
+      "stem": "Please pay close ___ to the safety instructions.",
+      "choices": [
+        "regard",
+        "look",
+        "notice",
+        "attention"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Pay attention to.",
+          "why_wrong": [
+            "A : collocation incorrecte.",
+            "B : collocation incorrecte.",
+            "C : collocation incorrecte."
+          ],
+          "example": "Pay attention."
+        },
+        "en": {
+          "rule": "Pay attention to.",
+          "why_wrong": [
+            "A: incorrect collocation.",
+            "B: incorrect collocation.",
+            "C: incorrect collocation."
+          ],
+          "example": "Pay attention."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-collocations-05",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-collocations",
+      "stem": "The consultant will ___ a survey of customer opinions next month.",
+      "choices": [
+        "conduct",
+        "do on",
+        "carry on a",
+        "hold up"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Conduct a survey.",
+          "why_wrong": [
+            "B : collocation incorrecte.",
+            "C : collocation incorrecte.",
+            "D : collocation incorrecte."
+          ],
+          "example": "Conduct research."
+        },
+        "en": {
+          "rule": "Conduct a survey.",
+          "why_wrong": [
+            "B: incorrect collocation.",
+            "C: incorrect collocation.",
+            "D: incorrect collocation."
+          ],
+          "example": "Conduct research."
+        }
+      },
+      "vocab": []
+    }
+  ]
+}

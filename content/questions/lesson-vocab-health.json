@@ -1,0 +1,182 @@
+{
+  "batch": "lesson-vocab-health",
+  "part": 5,
+  "passages": [],
+  "questions": [
+    {
+      "id": "lq-vocab-health-01",
+      "part": 5,
+      "difficulty": 1,
+      "category": "voc-health",
+      "stem": "You need a ___ from your doctor to buy this medicine.",
+      "choices": [
+        "clinic",
+        "symptom",
+        "allergy",
+        "prescription"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Prescription = ordonnance.",
+          "why_wrong": [
+            "A : lieu de soins.",
+            "B : signe de maladie.",
+            "C : allergie."
+          ],
+          "example": "Fill a prescription."
+        },
+        "en": {
+          "rule": "Prescription = doctor's order for medicine.",
+          "why_wrong": [
+            "A: place of care.",
+            "B: sign of illness.",
+            "C: bad reaction."
+          ],
+          "example": "Fill a prescription."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-health-02",
+      "part": 5,
+      "difficulty": 1,
+      "category": "voc-health",
+      "stem": "Mr. Evans has a dental ___ on Thursday at ten.",
+      "choices": [
+        "pharmacy",
+        "treatment",
+        "insurance",
+        "appointment"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Appointment = rendez-vous.",
+          "why_wrong": [
+            "A : pharmacie.",
+            "B : traitement.",
+            "C : assurance."
+          ],
+          "example": "Book an appointment."
+        },
+        "en": {
+          "rule": "Appointment = planned meeting.",
+          "why_wrong": [
+            "A: drugstore.",
+            "B: care.",
+            "C: coverage."
+          ],
+          "example": "Book an appointment."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-health-03",
+      "part": 5,
+      "difficulty": 1,
+      "category": "voc-health",
+      "stem": "Her health ___ covers most medical expenses.",
+      "choices": [
+        "patient",
+        "symptom",
+        "checkup",
+        "insurance"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Insurance = assurance.",
+          "why_wrong": [
+            "A : patient.",
+            "B : symptôme.",
+            "C : bilan."
+          ],
+          "example": "Insurance covers it."
+        },
+        "en": {
+          "rule": "Insurance = coverage for costs.",
+          "why_wrong": [
+            "A: person in care.",
+            "B: sign.",
+            "C: exam."
+          ],
+          "example": "Insurance covers it."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-health-04",
+      "part": 5,
+      "difficulty": 1,
+      "category": "voc-health",
+      "stem": "The nurse asked the ___ to wait in the waiting room.",
+      "choices": [
+        "vaccination",
+        "patient",
+        "treatment",
+        "prescription"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Patient = personne soignée.",
+          "why_wrong": [
+            "A : vaccin.",
+            "C : traitement.",
+            "D : ordonnance."
+          ],
+          "example": "The patient is ready."
+        },
+        "en": {
+          "rule": "Patient = person receiving care.",
+          "why_wrong": [
+            "A: injection.",
+            "C: care.",
+            "D: order."
+          ],
+          "example": "The patient is ready."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-health-05",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-health",
+      "stem": "After the surgery, he ___ quickly and returned to work.",
+      "choices": [
+        "prescribed",
+        "insured",
+        "recovered",
+        "examined"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Recover = se rétablir.",
+          "why_wrong": [
+            "A : prescrit.",
+            "B : assuré.",
+            "D : examiné."
+          ],
+          "example": "She recovered fast."
+        },
+        "en": {
+          "rule": "Recover = get well again.",
+          "why_wrong": [
+            "A: ordered medicine.",
+            "B: covered.",
+            "D: checked."
+          ],
+          "example": "She recovered fast."
+        }
+      },
+      "vocab": []
+    }
+  ]
+}

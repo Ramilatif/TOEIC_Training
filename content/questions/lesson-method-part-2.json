@@ -1,0 +1,182 @@
+{
+  "batch": "lesson-method-part-2",
+  "part": 5,
+  "passages": [],
+  "questions": [
+    {
+      "id": "lq-method-part-2-01",
+      "part": 5,
+      "difficulty": 1,
+      "category": "qt-wh-questions",
+      "stem": "A 'Who' question usually expects which kind of answer?",
+      "choices": [
+        "A place",
+        "A reason",
+        "A time",
+        "A person or department"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Who → personne ou service.",
+          "why_wrong": [
+            "A : c'est « Where ».",
+            "B : c'est « Why ».",
+            "C : c'est « When »."
+          ],
+          "example": "Who? Ms. Alvarez."
+        },
+        "en": {
+          "rule": "Who → person or department.",
+          "why_wrong": [
+            "A: that is 'Where'.",
+            "B: that is 'Why'.",
+            "C: that is 'When'."
+          ],
+          "example": "Who? Ms. Alvarez."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-method-part-2-02",
+      "part": 5,
+      "difficulty": 1,
+      "category": "qt-wh-questions",
+      "stem": "The question is 'Where is the budget report?' Which response is MOST likely wrong?",
+      "choices": [
+        "On the shared drive.",
+        "Yes, it was very long.",
+        "Ask Daniel, he has it.",
+        "Let me check."
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Un « Yes/No » ne répond pas à une question en wh-.",
+          "why_wrong": [
+            "A : répond au lieu demandé.",
+            "C : réponse indirecte plausible.",
+            "D : réponse indirecte plausible."
+          ],
+          "example": "Where? In Room 3."
+        },
+        "en": {
+          "rule": "A 'Yes/No' does not answer a wh- question.",
+          "why_wrong": [
+            "A: answers the requested place.",
+            "C: plausible indirect answer.",
+            "D: plausible indirect answer."
+          ],
+          "example": "Where? In Room 3."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-method-part-2-03",
+      "part": 5,
+      "difficulty": 2,
+      "category": "qt-wh-questions",
+      "stem": "What does the 'sound echo' trap mean?",
+      "choices": [
+        "A response spoken too quietly",
+        "A response that repeats a similar-sounding word from the question",
+        "A response that is too short",
+        "A response in a different accent"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Une réponse qui reprend un mot proche de la question est souvent un piège.",
+          "why_wrong": [
+            "A : ce n'est pas un piège de contenu.",
+            "C : la longueur n'est pas le critère.",
+            "D : ce n'est pas un piège de contenu."
+          ],
+          "example": "Printer / printed."
+        },
+        "en": {
+          "rule": "A response echoing a similar word from the question is usually a trap.",
+          "why_wrong": [
+            "A: not a content trap.",
+            "C: length is not the criterion.",
+            "D: not a content trap."
+          ],
+          "example": "Printer / printed."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-method-part-2-04",
+      "part": 5,
+      "difficulty": 2,
+      "category": "qt-wh-questions",
+      "stem": "Which response is a typical INDIRECT answer?",
+      "choices": [
+        "Yes, I did.",
+        "At nine o'clock.",
+        "Let me check the schedule.",
+        "In the cafeteria."
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Les réponses évasives (Let me check) sont souvent correctes.",
+          "why_wrong": [
+            "A : réponse directe.",
+            "B : réponse directe.",
+            "D : réponse directe."
+          ],
+          "example": "I'm not sure."
+        },
+        "en": {
+          "rule": "Evasive answers (Let me check) are often correct.",
+          "why_wrong": [
+            "A: direct answer.",
+            "B: direct answer.",
+            "D: direct answer."
+          ],
+          "example": "I'm not sure."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-method-part-2-05",
+      "part": 5,
+      "difficulty": 1,
+      "category": "qt-wh-questions",
+      "stem": "If you are unsure in Part 2, what is the best strategy?",
+      "choices": [
+        "Leave it blank",
+        "Wait for the audio to repeat",
+        "Eliminate the clearly wrong answers and choose",
+        "Pick the longest answer"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Éliminer puis choisir ; aucune pénalité pour une mauvaise réponse.",
+          "why_wrong": [
+            "A : aucune pénalité : il faut répondre.",
+            "B : l'audio n'est pas répété.",
+            "D : la longueur n'est pas un critère."
+          ],
+          "example": "Always answer."
+        },
+        "en": {
+          "rule": "Eliminate then choose; there is no penalty for a wrong answer.",
+          "why_wrong": [
+            "A: there is no penalty: always answer.",
+            "B: the audio is not repeated.",
+            "D: length is not a criterion."
+          ],
+          "example": "Always answer."
+        }
+      },
+      "vocab": []
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "batch": "lesson-vocab-general",
+  "part": 5,
+  "passages": [],
+  "questions": [
+    {
+      "id": "lq-vocab-general-01",
+      "part": 5,
+      "difficulty": 1,
+      "category": "voc-general",
+      "stem": "The two companies announced a ___ that will create the largest retailer in the region.",
+      "choices": [
+        "subsidiary",
+        "proposal",
+        "merger",
+        "deadline"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Merger = fusion.",
+          "why_wrong": [
+            "A : filiale.",
+            "B : proposition.",
+            "D : date limite."
+          ],
+          "example": "The merger was approved."
+        },
+        "en": {
+          "rule": "Merger = joining of two companies.",
+          "why_wrong": [
+            "A: owned company.",
+            "B: suggestion.",
+            "D: time limit."
+          ],
+          "example": "The merger was approved."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-general-02",
+      "part": 5,
+      "difficulty": 1,
+      "category": "voc-general",
+      "stem": "The company's ___ is located in Toronto.",
+      "choices": [
+        "headquarters",
+        "contract",
+        "client",
+        "proposal"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Headquarters = siège social.",
+          "why_wrong": [
+            "B : contrat.",
+            "C : client.",
+            "D : proposition."
+          ],
+          "example": "Headquarters moved."
+        },
+        "en": {
+          "rule": "Headquarters = main office.",
+          "why_wrong": [
+            "B: agreement.",
+            "C: customer.",
+            "D: suggestion."
+          ],
+          "example": "Headquarters moved."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-general-03",
+      "part": 5,
+      "difficulty": 3,
+      "category": "voc-general",
+      "stem": "We are ___ 200 guests at the opening ceremony.",
+      "choices": [
+        "expecting approximation",
+        "expected approximately",
+        "expect approximate",
+        "expecting approximately"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Approximately = environ (adverbe).",
+          "why_wrong": [
+            "A : forme incorrecte.",
+            "B : temps inadapté.",
+            "C : formes incorrectes."
+          ],
+          "example": "About 50 people."
+        },
+        "en": {
+          "rule": "Approximately = roughly (adverb).",
+          "why_wrong": [
+            "A: incorrect form.",
+            "B: unsuitable tense.",
+            "C: incorrect forms."
+          ],
+          "example": "About 50 people."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-general-04",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-general",
+      "stem": "After months of talks, the two parties reached an ___.",
+      "choices": [
+        "agreeable",
+        "agreed",
+        "agree",
+        "agreement"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Reach an agreement = parvenir à un accord.",
+          "why_wrong": [
+            "A : adjectif.",
+            "B : participe passé.",
+            "C : verbe."
+          ],
+          "example": "We reached an agreement."
+        },
+        "en": {
+          "rule": "Reach an agreement = settle.",
+          "why_wrong": [
+            "A: adjective.",
+            "B: past participle.",
+            "C: verb."
+          ],
+          "example": "We reached an agreement."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-general-05",
+      "part": 5,
+      "difficulty": 3,
+      "category": "voc-general",
+      "stem": "Mr. Diaz, speaking ___ of the board, thanked all employees.",
+      "choices": [
+        "in behave",
+        "on behalf",
+        "on behalves",
+        "in behalf"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "On behalf of = au nom de.",
+          "why_wrong": [
+            "A : forme incorrecte.",
+            "C : forme incorrecte.",
+            "D : expression peu courante et différente."
+          ],
+          "example": "On behalf of everyone."
+        },
+        "en": {
+          "rule": "On behalf of = representing.",
+          "why_wrong": [
+            "A: incorrect form.",
+            "C: incorrect form.",
+            "D: different, uncommon expression."
+          ],
+          "example": "On behalf of everyone."
+        }
+      },
+      "vocab": []
+    }
+  ]
+}

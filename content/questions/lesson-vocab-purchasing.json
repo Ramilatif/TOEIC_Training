@@ -1,0 +1,182 @@
+{
+  "batch": "lesson-vocab-purchasing",
+  "part": 5,
+  "passages": [],
+  "questions": [
+    {
+      "id": "lq-vocab-purchasing-01",
+      "part": 5,
+      "difficulty": 1,
+      "category": "voc-purchasing",
+      "stem": "If the product is defective, you can return it for a full ___.",
+      "choices": [
+        "order",
+        "refund",
+        "warranty",
+        "coupon"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Refund = remboursement.",
+          "why_wrong": [
+            "A : commande.",
+            "C : garantie.",
+            "D : bon de réduction."
+          ],
+          "example": "Request a refund."
+        },
+        "en": {
+          "rule": "Refund = money back.",
+          "why_wrong": [
+            "A: request to buy.",
+            "C: guarantee.",
+            "D: discount ticket."
+          ],
+          "example": "Request a refund."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-purchasing-02",
+      "part": 5,
+      "difficulty": 1,
+      "category": "voc-purchasing",
+      "stem": "The laptop comes with a two-year ___.",
+      "choices": [
+        "receipt",
+        "shipment",
+        "warranty",
+        "retailer"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Warranty = garantie.",
+          "why_wrong": [
+            "A : reçu.",
+            "B : expédition.",
+            "D : détaillant."
+          ],
+          "example": "A one-year warranty."
+        },
+        "en": {
+          "rule": "Warranty = guarantee.",
+          "why_wrong": [
+            "A: proof of payment.",
+            "B: goods sent.",
+            "D: seller."
+          ],
+          "example": "A one-year warranty."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-purchasing-03",
+      "part": 5,
+      "difficulty": 1,
+      "category": "voc-purchasing",
+      "stem": "The item you ordered is currently out of ___.",
+      "choices": [
+        "receipt",
+        "order",
+        "coupon",
+        "stock"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Out of stock = en rupture de stock.",
+          "why_wrong": [
+            "A : reçu.",
+            "B : commande.",
+            "C : bon."
+          ],
+          "example": "It is in stock."
+        },
+        "en": {
+          "rule": "Out of stock = not available.",
+          "why_wrong": [
+            "A: proof.",
+            "B: request.",
+            "C: voucher."
+          ],
+          "example": "It is in stock."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-purchasing-04",
+      "part": 5,
+      "difficulty": 1,
+      "category": "voc-purchasing",
+      "stem": "Please keep your ___ as proof of purchase.",
+      "choices": [
+        "shipment",
+        "receipt",
+        "discount",
+        "wholesale"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Receipt = reçu.",
+          "why_wrong": [
+            "A : expédition.",
+            "C : remise.",
+            "D : vente en gros."
+          ],
+          "example": "Show the receipt."
+        },
+        "en": {
+          "rule": "Receipt = proof of payment.",
+          "why_wrong": [
+            "A: dispatch.",
+            "C: reduction.",
+            "D: bulk selling."
+          ],
+          "example": "Show the receipt."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-purchasing-05",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-purchasing",
+      "stem": "Customers who buy in bulk receive a ten percent ___.",
+      "choices": [
+        "delivery",
+        "purchase",
+        "discount",
+        "retailer"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Discount = remise.",
+          "why_wrong": [
+            "A : livraison.",
+            "B : achat.",
+            "D : détaillant."
+          ],
+          "example": "A big discount."
+        },
+        "en": {
+          "rule": "Discount = price reduction.",
+          "why_wrong": [
+            "A: delivery.",
+            "B: buying.",
+            "D: seller."
+          ],
+          "example": "A big discount."
+        }
+      },
+      "vocab": []
+    }
+  ]
+}

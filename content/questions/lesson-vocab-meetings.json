@@ -1,0 +1,182 @@
+{
+  "batch": "lesson-vocab-meetings",
+  "part": 5,
+  "passages": [],
+  "questions": [
+    {
+      "id": "lq-vocab-meetings-01",
+      "part": 5,
+      "difficulty": 1,
+      "category": "voc-meetings",
+      "stem": "The manager asked Jo to take the ___ during the meeting.",
+      "choices": [
+        "agenda",
+        "quorum",
+        "minutes",
+        "presentation"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Take the minutes = rédiger le compte rendu.",
+          "why_wrong": [
+            "A : liste des sujets, pas un compte rendu.",
+            "B : nombre minimum de participants.",
+            "D : exposé."
+          ],
+          "example": "Please take the minutes."
+        },
+        "en": {
+          "rule": "Take the minutes = write the record.",
+          "why_wrong": [
+            "A: list of topics, not a record.",
+            "B: minimum attendance.",
+            "D: talk."
+          ],
+          "example": "Please take the minutes."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-meetings-02",
+      "part": 5,
+      "difficulty": 1,
+      "category": "voc-meetings",
+      "stem": "The meeting has been ___ until next Tuesday because the director is traveling.",
+      "choices": [
+        "postponed",
+        "brainstormed",
+        "attended",
+        "adjourned"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Postpone = reporter à une date ultérieure.",
+          "why_wrong": [
+            "B : sens différent.",
+            "C : suivi.",
+            "D : terminé."
+          ],
+          "example": "It was postponed."
+        },
+        "en": {
+          "rule": "Postpone = move to a later date.",
+          "why_wrong": [
+            "B: different meaning.",
+            "C: attended.",
+            "D: ended."
+          ],
+          "example": "It was postponed."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-meetings-03",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-meetings",
+      "stem": "The chair will ___ the meeting at five o'clock sharp.",
+      "choices": [
+        "reschedule",
+        "brainstorm",
+        "follow up",
+        "adjourn"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Adjourn a meeting = lever la séance.",
+          "why_wrong": [
+            "A : changer l'horaire.",
+            "B : ne s'emploie pas avec « the meeting ».",
+            "C : assurer le suivi."
+          ],
+          "example": "The session was adjourned."
+        },
+        "en": {
+          "rule": "Adjourn a meeting = close it.",
+          "why_wrong": [
+            "A: change the time.",
+            "B: not used with 'the meeting'.",
+            "C: take further action."
+          ],
+          "example": "The session was adjourned."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-meetings-04",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-meetings",
+      "stem": "Please send me an email to ___ on the points we discussed.",
+      "choices": [
+        "wrap in",
+        "follow up",
+        "hold up",
+        "call off"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Follow up on = assurer le suivi de.",
+          "why_wrong": [
+            "A : expression incorrecte.",
+            "C : retarder ou braquer.",
+            "D : annuler."
+          ],
+          "example": "I will follow up."
+        },
+        "en": {
+          "rule": "Follow up on = take further action about.",
+          "why_wrong": [
+            "A: incorrect expression.",
+            "C: delay or rob.",
+            "D: cancel."
+          ],
+          "example": "I will follow up."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-meetings-05",
+      "part": 5,
+      "difficulty": 1,
+      "category": "voc-meetings",
+      "stem": "There were ten ___ at the training session.",
+      "choices": [
+        "agendas",
+        "attendees",
+        "conferences",
+        "minutes"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Attendee = personne présente.",
+          "why_wrong": [
+            "A : ordres du jour.",
+            "C : ne désigne pas les personnes.",
+            "D : compte rendu."
+          ],
+          "example": "Each attendee signed in."
+        },
+        "en": {
+          "rule": "Attendee = person present.",
+          "why_wrong": [
+            "A: agendas.",
+            "C: does not refer to people.",
+            "D: record."
+          ],
+          "example": "Each attendee signed in."
+        }
+      },
+      "vocab": []
+    }
+  ]
+}

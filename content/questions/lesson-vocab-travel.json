@@ -1,0 +1,182 @@
+{
+  "batch": "lesson-vocab-travel",
+  "part": 5,
+  "passages": [],
+  "questions": [
+    {
+      "id": "lq-vocab-travel-01",
+      "part": 5,
+      "difficulty": 1,
+      "category": "voc-travel",
+      "stem": "Please present your ___ at the gate before boarding the plane.",
+      "choices": [
+        "itinerary",
+        "layover",
+        "boarding pass",
+        "fare"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Boarding pass = carte d'embarquement.",
+          "why_wrong": [
+            "A : plan de voyage.",
+            "B : escale.",
+            "D : tarif."
+          ],
+          "example": "Show your boarding pass."
+        },
+        "en": {
+          "rule": "Boarding pass = card to board.",
+          "why_wrong": [
+            "A: travel plan.",
+            "B: stopover.",
+            "D: price."
+          ],
+          "example": "Show your boarding pass."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-travel-02",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-travel",
+      "stem": "The company will ___ all reasonable travel expenses.",
+      "choices": [
+        "reimburse",
+        "depart",
+        "book",
+        "delay"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Reimburse = rembourser.",
+          "why_wrong": [
+            "B : partir.",
+            "C : réserver.",
+            "D : retarder."
+          ],
+          "example": "They reimburse meals."
+        },
+        "en": {
+          "rule": "Reimburse = pay back.",
+          "why_wrong": [
+            "B: leave.",
+            "C: reserve.",
+            "D: postpone."
+          ],
+          "example": "They reimburse meals."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-travel-03",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-travel",
+      "stem": "Our flight has a three-hour ___ in Dubai.",
+      "choices": [
+        "reservation",
+        "baggage",
+        "layover",
+        "fare"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Layover = escale entre deux vols.",
+          "why_wrong": [
+            "A : réservation.",
+            "B : bagages.",
+            "D : tarif."
+          ],
+          "example": "A short layover."
+        },
+        "en": {
+          "rule": "Layover = short stop between flights.",
+          "why_wrong": [
+            "A: booking.",
+            "B: luggage.",
+            "D: price."
+          ],
+          "example": "A short layover."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-travel-04",
+      "part": 5,
+      "difficulty": 1,
+      "category": "voc-travel",
+      "stem": "The ___ for a round-trip ticket to Madrid rose by ten percent.",
+      "choices": [
+        "accommodation",
+        "fare",
+        "delay",
+        "itinerary"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Fare = prix d'un billet.",
+          "why_wrong": [
+            "A : hébergement.",
+            "C : retard.",
+            "D : plan de voyage."
+          ],
+          "example": "The fare is low."
+        },
+        "en": {
+          "rule": "Fare = ticket price.",
+          "why_wrong": [
+            "A: lodging.",
+            "C: lateness.",
+            "D: travel plan."
+          ],
+          "example": "The fare is low."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-travel-05",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-travel",
+      "stem": "Passengers should ___ at least two hours before an international flight.",
+      "choices": [
+        "check over",
+        "check in",
+        "check up",
+        "check out"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Check in = s'enregistrer.",
+          "why_wrong": [
+            "A : vérifier attentivement.",
+            "C : faire un contrôle médical.",
+            "D : quitter l'hôtel."
+          ],
+          "example": "Check in online."
+        },
+        "en": {
+          "rule": "Check in = register.",
+          "why_wrong": [
+            "A: examine carefully.",
+            "C: have a medical exam.",
+            "D: leave the hotel."
+          ],
+          "example": "Check in online."
+        }
+      },
+      "vocab": []
+    }
+  ]
+}

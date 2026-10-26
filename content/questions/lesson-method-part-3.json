@@ -1,0 +1,182 @@
+{
+  "batch": "lesson-method-part-3",
+  "part": 5,
+  "passages": [],
+  "questions": [
+    {
+      "id": "lq-method-part-3-01",
+      "part": 5,
+      "difficulty": 1,
+      "category": "qt-conversation-gist",
+      "stem": "When should you read the three questions of a Part 3 conversation?",
+      "choices": [
+        "After the audio ends",
+        "Never, just listen",
+        "During the directions, before the audio",
+        "Only after answering the first one"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Lire les questions avant l'audio guide l'écoute.",
+          "why_wrong": [
+            "A : vous ne retiendrez pas les détails.",
+            "B : vous perdez l'avantage principal.",
+            "D : trop tard pour anticiper."
+          ],
+          "example": "Preview, then listen."
+        },
+        "en": {
+          "rule": "Reading the questions before the audio guides your listening.",
+          "why_wrong": [
+            "A: you will not remember the details.",
+            "B: you lose the main advantage.",
+            "D: too late to anticipate."
+          ],
+          "example": "Preview, then listen."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-method-part-3-02",
+      "part": 5,
+      "difficulty": 1,
+      "category": "qt-conversation-gist",
+      "stem": "Where is the answer to 'What will the woman do next?' usually found?",
+      "choices": [
+        "It is never in the audio",
+        "At the beginning",
+        "At the end of the conversation",
+        "In the title"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "La prochaine action est annoncée en fin de conversation.",
+          "why_wrong": [
+            "A : la réponse est toujours dans l'audio.",
+            "B : le début donne le sujet.",
+            "D : il n'y a pas de titre."
+          ],
+          "example": "I'll send it now."
+        },
+        "en": {
+          "rule": "The next action comes at the end of the conversation.",
+          "why_wrong": [
+            "A: the answer is always in the audio.",
+            "B: the beginning gives the topic.",
+            "D: there is no title."
+          ],
+          "example": "I'll send it now."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-method-part-3-03",
+      "part": 5,
+      "difficulty": 2,
+      "category": "qt-conversation-gist",
+      "stem": "The correct answer says 'postpone', but you heard 'put off'. What does this show?",
+      "choices": [
+        "The audio was unclear",
+        "You misheard the audio",
+        "The answer must be wrong",
+        "The answer is a paraphrase of what was said"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Les bonnes réponses sont souvent des paraphrases.",
+          "why_wrong": [
+            "A : c'est une paraphrase normale.",
+            "B : non, c'est une paraphrase.",
+            "C : les réponses reformulent le plus souvent."
+          ],
+          "example": "Cancel / call off."
+        },
+        "en": {
+          "rule": "Correct answers are often paraphrases.",
+          "why_wrong": [
+            "A: it is a normal paraphrase.",
+            "B: no, it is a paraphrase.",
+            "C: answers usually reword."
+          ],
+          "example": "Cancel / call off."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-method-part-3-04",
+      "part": 5,
+      "difficulty": 2,
+      "category": "qt-conversation-gist",
+      "stem": "Why should you check who speaks in the question ('the man' or 'the woman')?",
+      "choices": [
+        "Because only women speak",
+        "Because the questions are in random order",
+        "Because the voices are always similar",
+        "Because the information may come from the other speaker"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Un détail attribué au mauvais locuteur est un piège.",
+          "why_wrong": [
+            "A : faux.",
+            "B : elles suivent l'ordre de la conversation.",
+            "C : ce n'est pas la raison."
+          ],
+          "example": "Check the speaker."
+        },
+        "en": {
+          "rule": "A detail attributed to the wrong speaker is a trap.",
+          "why_wrong": [
+            "A: false.",
+            "B: they follow the order of the conversation.",
+            "C: that is not the reason."
+          ],
+          "example": "Check the speaker."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-method-part-3-05",
+      "part": 5,
+      "difficulty": 3,
+      "category": "qt-conversation-gist",
+      "stem": "What is a common trap with places and dates in Part 3?",
+      "choices": [
+        "They are mentioned and then rejected",
+        "They are always the answer",
+        "They are never mentioned",
+        "They are spelled out"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Une info citée puis écartée n'est pas la réponse.",
+          "why_wrong": [
+            "B : souvent écartés ensuite.",
+            "C : ils sont souvent mentionnés.",
+            "D : pas systématiquement."
+          ],
+          "example": "Not Monday; Tuesday."
+        },
+        "en": {
+          "rule": "Information mentioned then dismissed is not the answer.",
+          "why_wrong": [
+            "B: often dismissed afterwards.",
+            "C: they are often mentioned.",
+            "D: not systematically."
+          ],
+          "example": "Not Monday; Tuesday."
+        }
+      },
+      "vocab": []
+    }
+  ]
+}

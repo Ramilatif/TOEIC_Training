@@ -1,0 +1,182 @@
+{
+  "batch": "lesson-method-part-7",
+  "part": 5,
+  "passages": [],
+  "questions": [
+    {
+      "id": "lq-method-part-7-01",
+      "part": 5,
+      "difficulty": 1,
+      "category": "qt-reading-main-idea",
+      "stem": "How many questions are in Part 7?",
+      "choices": [
+        "100",
+        "30",
+        "16",
+        "54"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Part 7 : 54 questions.",
+          "why_wrong": [
+            "A : c'est la section Reading entière.",
+            "B : c'est la Part 5.",
+            "C : c'est la Part 6."
+          ],
+          "example": "Fifty-four."
+        },
+        "en": {
+          "rule": "Part 7: 54 questions.",
+          "why_wrong": [
+            "A: that is the whole Reading section.",
+            "B: that is Part 5.",
+            "C: that is Part 6."
+          ],
+          "example": "Fifty-four."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-method-part-7-02",
+      "part": 5,
+      "difficulty": 1,
+      "category": "qt-reading-main-idea",
+      "stem": "What should you do FIRST in Part 7?",
+      "choices": [
+        "Answer the last question first",
+        "Read the passage word for word",
+        "Read the questions before the passage",
+        "Read the choices only"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Lire les questions d'abord oriente la lecture.",
+          "why_wrong": [
+            "A : pas de gain.",
+            "B : perte de temps.",
+            "D : sans question on ne sait pas quoi chercher."
+          ],
+          "example": "Question, then text."
+        },
+        "en": {
+          "rule": "Reading the questions first directs your reading.",
+          "why_wrong": [
+            "A: no benefit.",
+            "B: wastes time.",
+            "D: without the question you do not know what to look for."
+          ],
+          "example": "Question, then text."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-method-part-7-03",
+      "part": 5,
+      "difficulty": 2,
+      "category": "qt-reading-main-idea",
+      "stem": "In a NOT question, how do you find the answer?",
+      "choices": [
+        "Look for the false statement directly",
+        "Pick the longest choice",
+        "Eliminate the three statements that are true",
+        "Pick the first choice"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Question NOT : les trois autres sont dans le texte.",
+          "why_wrong": [
+            "A : plus long, éliminer est plus fiable.",
+            "B : pas un critère.",
+            "D : pas un critère."
+          ],
+          "example": "Eliminate the true ones."
+        },
+        "en": {
+          "rule": "NOT question: the other three are in the text.",
+          "why_wrong": [
+            "A: longer; eliminating is more reliable.",
+            "B: not a criterion.",
+            "D: not a criterion."
+          ],
+          "example": "Eliminate the true ones."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-method-part-7-04",
+      "part": 5,
+      "difficulty": 2,
+      "category": "qt-reading-main-idea",
+      "stem": "A choice repeats the exact words of the passage. What does this usually indicate?",
+      "choices": [
+        "A possible trap",
+        "A typo",
+        "The correct answer",
+        "An inference"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "La reprise mot pour mot est souvent un piège.",
+          "why_wrong": [
+            "B : non.",
+            "C : les bonnes réponses sont souvent reformulées.",
+            "D : non."
+          ],
+          "example": "Read carefully."
+        },
+        "en": {
+          "rule": "Word-for-word repetition is often a trap.",
+          "why_wrong": [
+            "B: no.",
+            "C: correct answers are often reworded.",
+            "D: no."
+          ],
+          "example": "Read carefully."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-method-part-7-05",
+      "part": 5,
+      "difficulty": 3,
+      "category": "qt-reading-main-idea",
+      "stem": "What helps most with questions combining two documents?",
+      "choices": [
+        "Spotting links such as names, dates and reference numbers",
+        "Reading only one document",
+        "Memorizing each document",
+        "Ignoring numbers"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Les noms, dates et références relient les documents.",
+          "why_wrong": [
+            "B : il faut croiser les deux.",
+            "C : inefficace.",
+            "D : les chiffres sont précisément les liens."
+          ],
+          "example": "Match the order number."
+        },
+        "en": {
+          "rule": "Names, dates and references link documents.",
+          "why_wrong": [
+            "B: you need to cross-check both.",
+            "C: inefficient.",
+            "D: numbers are precisely the links."
+          ],
+          "example": "Match the order number."
+        }
+      },
+      "vocab": []
+    }
+  ]
+}
