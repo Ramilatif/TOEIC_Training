@@ -3,52 +3,139 @@
   "part": 7,
   "passages": [
     {
-      "id": "p7-b01-t1", "kind": "single", "title": "Email",
+      "id": "p7-b01-t1",
+      "kind": "single",
+      "title": "Email",
       "body": "To: Daniel Ortiz\nFrom: Priya Nair\nDate: September 12\nSubject: Supplier visit\n\nDear Daniel,\n\nThank you for agreeing to host our team at your factory on October 4. We would like to tour the packaging line in the morning and meet with your quality manager after lunch. Five people will attend: myself, two engineers, and two members of our purchasing team. Could you let me know whether a conference room will be available from 1:30 P.M.? We would also appreciate a list of the safety equipment visitors must wear.\n\nIf the date needs to change, please tell me before September 20 so that we can rebook our flights.\n\nBest regards,\nPriya Nair\nProcurement Director, Halden Foods"
     }
   ],
   "questions": [
     {
-      "id": "p7-b01-001", "part": 7, "difficulty": 1, "category": "qt-reading-main-idea", "passage": "p7-b01-t1", "position": 1,
+      "id": "p7-b01-001",
+      "part": 7,
+      "difficulty": 1,
+      "category": "qt-reading-main-idea",
+      "passage": "p7-b01-t1",
+      "position": 1,
       "stem": "What is the purpose of the email?",
-      "choices": ["To cancel a trip", "To arrange a visit to a factory", "To order packaging materials", "To announce a new supplier"], "correct": 1,
+      "choices": [
+        "To cancel a trip",
+        "To arrange a visit to a factory",
+        "To announce a new supplier",
+        "To order packaging materials"
+      ],
+      "correct": 1,
       "explanation": {
-        "fr": {"rule": "L'objet du message se trouve généralement dans la première phrase : ici, remercier pour l'accueil de l'équipe à l'usine le 4 octobre.",
-               "why_wrong": ["A : le voyage est maintenu, seule une modification de date est envisagée.", "C : aucune commande n'est mentionnée.", "D : Daniel est déjà un fournisseur, ce n'est pas une annonce."],
-               "example": "I am writing to arrange a meeting next week."},
-        "en": {"rule": "The purpose is usually in the first sentence: here, thanking Daniel for hosting the team at the factory on October 4.",
-               "why_wrong": ["A: the trip is going ahead; only a date change is considered.", "C: no order is mentioned.", "D: Daniel is already a supplier; nothing is announced."],
-               "example": "I am writing to arrange a meeting next week."}
+        "fr": {
+          "rule": "L'objet du message se trouve généralement dans la première phrase : ici, remercier pour l'accueil de l'équipe à l'usine le 4 octobre.",
+          "why_wrong": [
+            "A : le voyage est maintenu, seule une modification de date est envisagée.",
+            "C : Daniel est déjà un fournisseur, ce n'est pas une annonce.",
+            "D : aucune commande n'est mentionnée."
+          ],
+          "example": "I am writing to arrange a meeting next week."
+        },
+        "en": {
+          "rule": "The purpose is usually in the first sentence: here, thanking Daniel for hosting the team at the factory on October 4.",
+          "why_wrong": [
+            "A: the trip is going ahead; only a date change is considered.",
+            "C: Daniel is already a supplier; nothing is announced.",
+            "D: no order is mentioned."
+          ],
+          "example": "I am writing to arrange a meeting next week."
+        }
       },
-      "vocab": [{"term": "supplier", "fr": "fournisseur"}]
+      "vocab": [
+        {
+          "term": "supplier",
+          "fr": "fournisseur"
+        }
+      ]
     },
     {
-      "id": "p7-b01-002", "part": 7, "difficulty": 2, "category": "qt-reading-detail", "passage": "p7-b01-t1", "position": 2,
+      "id": "p7-b01-002",
+      "part": 7,
+      "difficulty": 2,
+      "category": "qt-reading-detail",
+      "passage": "p7-b01-t1",
+      "position": 2,
       "stem": "What does Ms. Nair ask Mr. Ortiz to provide?",
-      "choices": ["A flight schedule", "A list of required safety equipment", "A price quotation", "An employee directory"], "correct": 1,
+      "choices": [
+        "A price quotation",
+        "A flight schedule",
+        "A list of required safety equipment",
+        "An employee directory"
+      ],
+      "correct": 2,
       "explanation": {
-        "fr": {"rule": "Question de détail : repérer la demande explicite. « a list of the safety equipment visitors must wear ».",
-               "why_wrong": ["A : ce sont ses propres vols, qu'elle réservera elle-même.", "C : aucun devis n'est demandé.", "D : aucun annuaire n'est mentionné."],
-               "example": "We would appreciate a copy of the agenda."},
-        "en": {"rule": "Detail question: find the explicit request. 'a list of the safety equipment visitors must wear'.",
-               "why_wrong": ["A: she handles her own flights.", "C: no quotation is requested.", "D: no directory is mentioned."],
-               "example": "We would appreciate a copy of the agenda."}
+        "fr": {
+          "rule": "Question de détail : repérer la demande explicite. « a list of the safety equipment visitors must wear ».",
+          "why_wrong": [
+            "A : aucun devis n'est demandé.",
+            "B : ce sont ses propres vols, qu'elle réservera elle-même.",
+            "D : aucun annuaire n'est mentionné."
+          ],
+          "example": "We would appreciate a copy of the agenda."
+        },
+        "en": {
+          "rule": "Detail question: find the explicit request. 'a list of the safety equipment visitors must wear'.",
+          "why_wrong": [
+            "A: no quotation is requested.",
+            "B: she handles her own flights.",
+            "D: no directory is mentioned."
+          ],
+          "example": "We would appreciate a copy of the agenda."
+        }
       },
-      "vocab": [{"term": "safety equipment", "fr": "équipement de sécurité"}]
+      "vocab": [
+        {
+          "term": "safety equipment",
+          "fr": "équipement de sécurité"
+        }
+      ]
     },
     {
-      "id": "p7-b01-003", "part": 7, "difficulty": 2, "category": "qt-reading-inference", "passage": "p7-b01-t1", "position": 3,
+      "id": "p7-b01-003",
+      "part": 7,
+      "difficulty": 2,
+      "category": "qt-reading-inference",
+      "passage": "p7-b01-t1",
+      "position": 3,
       "stem": "What is suggested about Halden Foods?",
-      "choices": ["It owns the factory Ms. Nair will visit.", "It sends employees from several departments.", "It has a factory in another country.", "It has finished its quality inspection."], "correct": 1,
+      "choices": [
+        "It sends employees from several departments.",
+        "It has a factory in another country.",
+        "It has finished its quality inspection.",
+        "It owns the factory Ms. Nair will visit."
+      ],
+      "correct": 0,
       "explanation": {
-        "fr": {"rule": "Inférence : combiner les informations. Le groupe comprend des ingénieurs et des membres du service achats, donc plusieurs services.",
-               "why_wrong": ["A : l'usine appartient à Daniel (le fournisseur).", "C : rien n'indique un autre pays (les vols peuvent être nationaux).", "D : l'inspection qualité aura lieu après le déjeuner, elle n'est pas terminée."],
-               "example": "Two engineers and two buyers will attend, so several teams are involved."},
-        "en": {"rule": "Inference: combine details. The group includes engineers and purchasing staff, so several departments.",
-               "why_wrong": ["A: the factory belongs to Daniel, the supplier.", "C: nothing shows another country (flights could be domestic).", "D: the quality meeting is planned after lunch, so it is not finished."],
-               "example": "Two engineers and two buyers will attend, so several teams are involved."}
+        "fr": {
+          "rule": "Inférence : combiner les informations. Le groupe comprend des ingénieurs et des membres du service achats, donc plusieurs services.",
+          "why_wrong": [
+            "B : rien n'indique un autre pays (les vols peuvent être nationaux).",
+            "C : l'inspection qualité aura lieu après le déjeuner, elle n'est pas terminée.",
+            "D : l'usine appartient à Daniel (le fournisseur)."
+          ],
+          "example": "Two engineers and two buyers will attend, so several teams are involved."
+        },
+        "en": {
+          "rule": "Inference: combine details. The group includes engineers and purchasing staff, so several departments.",
+          "why_wrong": [
+            "B: nothing shows another country (flights could be domestic).",
+            "C: the quality meeting is planned after lunch, so it is not finished.",
+            "D: the factory belongs to Daniel, the supplier."
+          ],
+          "example": "Two engineers and two buyers will attend, so several teams are involved."
+        }
       },
-      "vocab": [{"term": "purchasing", "fr": "achats"}]
+      "vocab": [
+        {
+          "term": "purchasing",
+          "fr": "achats"
+        }
+      ]
     }
-  ]
+  ],
+  "shuffled": true
 }

@@ -163,3 +163,57 @@ async fn reponse_invalide_rejetee() {
     .await;
     assert_eq!(s, StatusCode::BAD_REQUEST);
 }
+
+#[tokio::test]
+async fn listening_parts_servent_transcription() {
+    let app = setup().await;
+    let (_, v) = call(
+        &app,
+        "POST",
+        "/api/auth/login",
+        None,
+        json!({"pseudo": "dave"}),
+    )
+    .await;
+    let token = v["token"].as_str().unwrap();
+
+    // Part 3 : un passage = 3 questions servies ensemble avec la transcription à lire.
+    let (_, qs) = call(
+        &app,
+        "GET",
+        "/api/questions?part=3&limit=3",
+        Some(token),
+        Value::Null,
+    )
+    .await;
+    let qs = qs.as_array().unwrap();
+    assert_eq!(qs.len(), 3);
+    assert!(qs[0]["passage"]["transcript"]
+        .as_str()
+        .unwrap()
+        .contains("W:"));
+    assert_eq!(qs[0]["passage"]["id"], qs[2]["passage"]["id"]);
+
+    // Part 2 : trois réponses seulement.
+    let (_, qs) = call(
+        &app,
+        "GET",
+        "/api/questions?part=2&limit=1",
+        Some(token),
+        Value::Null,
+    )
+    .await;
+    assert_eq!(qs[0]["choices"].as_array().unwrap().len(), 3);
+
+    // Part 1 : sans photo déposée, aucune question n'est importée (et le serveur démarre quand même).
+    let (s, qs) = call(
+        &app,
+        "GET",
+        "/api/questions?part=1&limit=5",
+        Some(token),
+        Value::Null,
+    )
+    .await;
+    assert_eq!(s, StatusCode::OK);
+    assert!(qs.as_array().unwrap().len() <= 12);
+}

@@ -2,16 +2,16 @@
 
 ## État actuel
 
-- Phase en cours : 2 — Listening
+- Phase en cours : 3 — Examens blancs et mini-tests, scoring
 - Dernière mise à jour : 2026-10-26
-- Prochaine action : lister les prérequis et attendre la confirmation de l'utilisateur
+- Prochaine action : module scoring (Rust), endpoints /exams, interface d'examen chronométré
 
 ## Phases
 
 - [x] 0. Prérequis confirmés
 - [x] Architecture documentée (docs/ARCHITECTURE.md)
 - [x] 1. MVP : pseudo, import JSON, entraînement Reading (Parts 5-7)
-- [ ] 2. Listening : audio, Parts 1-4, transcriptions
+- [x] 2. Listening : audio, Parts 1-4, transcriptions
 - [ ] 3. Examens blancs et mini-tests, scoring
 - [ ] 4. Tableau de bord et révision des erreurs
 - [ ] 5. Zone de cours
@@ -22,10 +22,10 @@
 
 | Partie | Questions prévues | Questions rédigées | Format validé |
 | ------ | ----------------- | ------------------ | ------------- |
-| Part 1 | 12                | 0                  | non           |
-| Part 2 | 50                | 0                  | non           |
-| Part 3 | 78                | 0                  | non           |
-| Part 4 | 60                | 0                  | non           |
+| Part 1 | 12                | 12                  | oui           |
+| Part 2 | 50                | 10                  | oui           |
+| Part 3 | 78                | 6                  | oui           |
+| Part 4 | 60                | 6                  | oui           |
 | Part 5 | 60                | 10                 | oui           |
 | Part 6 | 32                | 4                  | non           |
 | Part 7 | 108               | 3                  | non           |
@@ -38,6 +38,10 @@ Leçons : grammaire 0/? · vocabulaire 0/? · méthodologie 0/7
 2026-10-26 — Nom de l'appli « Cap 800 » — original, rappelle l'objectif
 2026-10-26 — Migrations embarquées (sqlx::migrate!), requêtes runtime sans macros query! — pas de sqlx-cli ni de base de dev nécessaires
 2026-10-26 — Le transcript d'un passage Listening est envoyé au client avec la question (nécessaire à la synthèse vocale) ; masqué dans l'interface jusqu'à la réponse. Acceptable pour un usage entre amis ; un moteur audio pré-généré pourra supprimer cette fuite
+2026-10-26 — Audio : transcription au format « M:/W:/N: texte » (une ligne par réplique), voix M/W choisies par heuristique de nom parmi les voix de l'accent — la Web Speech API n'expose pas le genre
+2026-10-26 — Parts 1 et 2 : les choix ne sont affichés qu'après la réponse (lettres seules avant), comme au vrai TOEIC
+2026-10-26 — Les bonnes réponses sont réparties par mélange déterministe (script de génération hors dépôt) : sinon biais vers « A »
+2026-10-26 — Part 1 : une question dont la photo n'est pas dans content/images/part1/ n'est pas importée (warning) au lieu de bloquer le démarrage
 2026-10-26 — Questions des quiz de leçon (batch « lesson-* ») exclues de l'entraînement général
 2026-10-26 — Poste de dev Windows 11 (et non Arch comme dans PROMPT.md) — décision de l utilisateur ; commandes Docker/Node identiques
 
@@ -47,9 +51,13 @@ Leçons : grammaire 0/? · vocabulaire 0/? · méthodologie 0/7
 
 ## Points à vérifier par l'utilisateur
 
+- **Photos Part 1** : déposer p1-01.jpg … p1-12.jpg dans content/images/part1/ et compléter credits.json (voir le README du dossier). Sans elles, les 12 questions Part 1 n'apparaissent pas.
+- Tester l'audio dans Chrome ou Edge : le rendu des voix dépend de celles installées sur Windows (Paramètres > Heure et langue > Voix).
+
 - Part 7 : le format du lot est validé, mais les passages doubles/triples sont à tester en phase 7.
 - La table de conversion du score (docs/ARCHITECTURE.md §8) est une approximation de ma part : à comparer avec vos scores réels.
 
 ## Travail en cours (en cas d'interruption)
 
 <!-- Ce qui était en train d'être fait, pour reprendre proprement -->
+

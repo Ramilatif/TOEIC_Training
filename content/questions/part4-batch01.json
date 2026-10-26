@@ -1,0 +1,280 @@
+{
+  "batch": "part4-batch01",
+  "part": 4,
+  "passages": [
+    {
+      "id": "pass-p4-b01-1",
+      "kind": "talk",
+      "title": "Talk 1",
+      "body": null,
+      "image": null,
+      "transcript": "N: Questions 1 through 3 refer to the following announcement.\nW: Attention, passengers on Flight 218 to Denver. Due to a mechanical check, boarding has been delayed by forty-five minutes. The new boarding time is four fifteen at Gate B12. Passengers who wish to change their connecting flights may speak to an agent at the service desk near Gate B10. We apologize for the inconvenience and thank you for your patience."
+    },
+    {
+      "id": "pass-p4-b01-2",
+      "kind": "talk",
+      "title": "Talk 2",
+      "body": null,
+      "image": null,
+      "transcript": "N: Questions 4 through 6 refer to the following telephone message.\nM: Hello, this is Carlos from Brightway Office Supplies. I'm calling about your order of two hundred notebooks. Unfortunately, the blue ones are out of stock until next Wednesday. We can ship the black notebooks today, or we can wait and send everything together next week with free delivery. Please call me back at extension 214 before noon so that I can update your order."
+    }
+  ],
+  "questions": [
+    {
+      "id": "p4-b01-01",
+      "part": 4,
+      "difficulty": 1,
+      "category": "qt-talk-gist",
+      "stem": "Where is the announcement most likely being made?",
+      "choices": [
+        "At a hotel",
+        "At a train station",
+        "At a bus terminal",
+        "At an airport"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Lieu : « Flight 218 », « boarding », « Gate B12 » indiquent un aéroport.",
+          "why_wrong": [
+            "A : aucun hôtel n'est concerné.",
+            "B : aucun train n'est mentionné.",
+            "C : il s'agit d'un vol, pas d'un bus."
+          ],
+          "example": "It is an airport announcement."
+        },
+        "en": {
+          "rule": "Place: 'Flight 218', 'boarding', 'Gate B12' point to an airport.",
+          "why_wrong": [
+            "A: no hotel is involved.",
+            "B: no train is mentioned.",
+            "C: it is a flight, not a bus."
+          ],
+          "example": "It is an airport announcement."
+        }
+      },
+      "vocab": [
+        {
+          "term": "boarding",
+          "fr": "embarquement"
+        },
+        {
+          "term": "gate",
+          "fr": "porte d'embarquement"
+        }
+      ],
+      "passage": "pass-p4-b01-1",
+      "position": 1
+    },
+    {
+      "id": "p4-b01-02",
+      "part": 4,
+      "difficulty": 2,
+      "category": "qt-talk-detail",
+      "stem": "What is the new boarding time?",
+      "choices": [
+        "4:45",
+        "4:15",
+        "4:00",
+        "3:30"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Détail chiffré : « The new boarding time is four fifteen ».",
+          "why_wrong": [
+            "A : 4:45 correspond à un autre calcul, pas à l'annonce.",
+            "C : 4:00 n'est pas l'heure donnée.",
+            "D : 3:30 est avant l'heure annoncée."
+          ],
+          "example": "Boarding is at 4:15."
+        },
+        "en": {
+          "rule": "Numerical detail: 'The new boarding time is four fifteen'.",
+          "why_wrong": [
+            "A: 4:45 is not what the announcement says.",
+            "C: 4:00 is not the time given.",
+            "D: 3:30 is earlier than announced."
+          ],
+          "example": "Boarding is at 4:15."
+        }
+      },
+      "vocab": [
+        {
+          "term": "delay",
+          "fr": "retarder"
+        }
+      ],
+      "passage": "pass-p4-b01-1",
+      "position": 2
+    },
+    {
+      "id": "p4-b01-03",
+      "part": 4,
+      "difficulty": 2,
+      "category": "qt-talk-detail",
+      "stem": "What can passengers do at the service desk?",
+      "choices": [
+        "Change a connecting flight",
+        "Claim a refund for a meal",
+        "Buy duty-free items",
+        "Check in luggage"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Détail : les passagers peuvent « change their connecting flights » au comptoir.",
+          "why_wrong": [
+            "B : aucun remboursement de repas n'est cité.",
+            "C : aucun achat n'est évoqué.",
+            "D : l'enregistrement des bagages n'est pas mentionné."
+          ],
+          "example": "They can change connecting flights."
+        },
+        "en": {
+          "rule": "Detail: passengers may 'change their connecting flights' at the desk.",
+          "why_wrong": [
+            "B: no meal refund is mentioned.",
+            "C: no shopping is mentioned.",
+            "D: luggage check-in is not mentioned."
+          ],
+          "example": "They can change connecting flights."
+        }
+      },
+      "vocab": [
+        {
+          "term": "connecting flight",
+          "fr": "correspondance"
+        }
+      ],
+      "passage": "pass-p4-b01-1",
+      "position": 3
+    },
+    {
+      "id": "p4-b01-04",
+      "part": 4,
+      "difficulty": 1,
+      "category": "qt-talk-gist",
+      "stem": "What is the purpose of the message?",
+      "choices": [
+        "To confirm a delivery date",
+        "To request a payment",
+        "To advertise a sale",
+        "To report a problem with an order"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Objet du message : les cahiers bleus sont en rupture de stock, donc un problème de commande.",
+          "why_wrong": [
+            "A : aucune date de livraison n'est confirmée, des options sont proposées.",
+            "B : aucun paiement n'est demandé.",
+            "C : il n'y a pas de promotion."
+          ],
+          "example": "The message reports a stock problem."
+        },
+        "en": {
+          "rule": "Purpose: the blue notebooks are out of stock, so there is an order problem.",
+          "why_wrong": [
+            "A: no delivery date is confirmed; options are offered.",
+            "B: no payment is requested.",
+            "C: there is no sale."
+          ],
+          "example": "The message reports a stock problem."
+        }
+      },
+      "vocab": [
+        {
+          "term": "out of stock",
+          "fr": "en rupture de stock"
+        }
+      ],
+      "passage": "pass-p4-b01-2",
+      "position": 1
+    },
+    {
+      "id": "p4-b01-05",
+      "part": 4,
+      "difficulty": 2,
+      "category": "qt-talk-detail",
+      "stem": "What will happen if the customer waits until next week?",
+      "choices": [
+        "The order will be cancelled.",
+        "A gift will be added.",
+        "The price will increase.",
+        "The order will be shipped with free delivery."
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Détail : si le client attend, tout sera envoyé ensemble « with free delivery ».",
+          "why_wrong": [
+            "A : l'annulation n'est pas évoquée.",
+            "B : aucun cadeau n'est mentionné.",
+            "C : aucune hausse de prix n'est annoncée."
+          ],
+          "example": "Waiting means free delivery."
+        },
+        "en": {
+          "rule": "Detail: if the customer waits, everything ships together 'with free delivery'.",
+          "why_wrong": [
+            "A: cancellation is not mentioned.",
+            "B: no gift is mentioned.",
+            "C: no price increase is announced."
+          ],
+          "example": "Waiting means free delivery."
+        }
+      },
+      "vocab": [
+        {
+          "term": "free delivery",
+          "fr": "livraison gratuite"
+        }
+      ],
+      "passage": "pass-p4-b01-2",
+      "position": 2
+    },
+    {
+      "id": "p4-b01-06",
+      "part": 4,
+      "difficulty": 3,
+      "category": "qt-talk-inference",
+      "stem": "What does the speaker ask the listener to do before noon?",
+      "choices": [
+        "Send a new order form",
+        "Return a call",
+        "Pick up a package",
+        "Visit the store"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Demande : « Please call me back at extension 214 before noon ».",
+          "why_wrong": [
+            "A : aucun nouveau formulaire n'est demandé.",
+            "C : aucun retrait de colis n'est évoqué.",
+            "D : aucune visite n'est demandée."
+          ],
+          "example": "The listener must call back before noon."
+        },
+        "en": {
+          "rule": "Request: 'Please call me back at extension 214 before noon'.",
+          "why_wrong": [
+            "A: no new form is requested.",
+            "C: no pickup is mentioned.",
+            "D: no visit is requested."
+          ],
+          "example": "The listener must call back before noon."
+        }
+      },
+      "vocab": [
+        {
+          "term": "call back",
+          "fr": "rappeler"
+        }
+      ],
+      "passage": "pass-p4-b01-2",
+      "position": 3
+    }
+  ]
+}

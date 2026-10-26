@@ -120,7 +120,8 @@ pub async fn import_all(pool: &SqlitePool, dir: &Path) -> anyhow::Result<()> {
             .collect();
         files.sort();
         for f in files {
-            let batch: Batch = read_json(&f)?;
+            let mut batch: Batch = read_json(&f)?;
+            drop_missing_images(&mut batch, &image_ids);
             validate_batch(&batch, &cat_ids, &image_ids)
                 .with_context(|| format!("lot invalide : {}", f.display()))?;
             import_batch(pool, &batch).await?;
@@ -132,6 +133,28 @@ pub async fn import_all(pool: &SqlitePool, dir: &Path) -> anyhow::Result<()> {
         }
     }
     Ok(())
+}
+
+/// Retire les passages dont la photo n'est pas encore déposée, ainsi que leurs questions.
+/// Évite de bloquer le démarrage tant que toutes les photos Part 1 ne sont pas là.
+fn drop_missing_images(b: &mut Batch, images: &HashSet<String>) {
+    let missing: HashSet<String> = b
+        .passages
+        .iter()
+        .filter(|p| p.image.as_ref().is_some_and(|i| !images.contains(i)))
+        .map(|p| p.id.clone())
+        .collect();
+    if missing.is_empty() {
+        return;
+    }
+    tracing::warn!(
+        "{}: {} passage(s) ignoré(s), photo manquante",
+        b.batch,
+        missing.len()
+    );
+    b.passages.retain(|p| !missing.contains(&p.id));
+    b.questions
+        .retain(|q| q.passage.as_ref().is_none_or(|p| !missing.contains(p)));
 }
 
 async fn import_batch(pool: &SqlitePool, b: &Batch) -> anyhow::Result<()> {
@@ -235,6 +258,21 @@ mod tests {
         let mut b = sample();
         b.questions[0].correct = 4;
         assert!(validate_batch(&b, &cats(), &HashSet::new()).is_err());
+    }
+    #[test]
+    fn retire_les_passages_sans_photo() {
+        let mut b = sample();
+        b.passages.push(PassageDef {
+            id: "pa".into(),
+            kind: "photo".into(),
+            title: None,
+            body: None,
+            transcript: None,
+            image: Some("p1-99".into()),
+        });
+        b.questions[0].passage = Some("pa".into());
+        drop_missing_images(&mut b, &HashSet::new());
+        assert!(b.passages.is_empty() && b.questions.is_empty());
     }
     #[test]
     fn rejette_why_wrong_incomplet() {

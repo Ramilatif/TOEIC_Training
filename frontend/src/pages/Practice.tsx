@@ -3,6 +3,7 @@ import { Link, useParams, useSearchParams } from "react-router-dom";
 import { api, type AnswerResult, type Question } from "../api/client";
 import { useAuth } from "../auth";
 import { t } from "../i18n";
+import AudioPlayer from "../audio/AudioPlayer";
 
 const LETTERS = ["A", "B", "C", "D"];
 
@@ -59,6 +60,8 @@ export default function Practice() {
   }
 
   const q = questions[index];
+  // Parts 1 et 2 : les réponses ne sont pas imprimées, seulement entendues.
+  const hideText = q.part === 1 || q.part === 2;
   const expl = result ? (lang === "fr" ? result.explanation_fr : result.explanation_en) : null;
 
   const check = async () => {
@@ -73,6 +76,20 @@ export default function Practice() {
       <p className="muted">
         {t(lang, "question")} {index + 1} / {questions.length}
       </p>
+      {q.part <= 4 && q.passage?.transcript && (
+        <AudioPlayer
+          key={q.passage.id}
+          transcript={q.passage.transcript}
+          autoPlay
+          labels={{
+            play: t(lang, "play"),
+            stop: t(lang, "stop"),
+            accent: t(lang, "accent"),
+            unsupported: t(lang, "audioUnsupported"),
+          }}
+        />
+      )}
+      {q.passage?.image_url && <img className="photo" src={q.passage.image_url} alt="" />}
       {q.passage?.body && (
         <article className="passage">
           {q.passage.title && <h3>{q.passage.title}</h3>}
@@ -90,7 +107,7 @@ export default function Practice() {
           return (
             <li key={i}>
               <button className={cls} disabled={!!result} onClick={() => setChosen(i)}>
-                <strong>{LETTERS[i]}</strong> {c}
+                <strong>{LETTERS[i]}</strong> {hideText && !result ? "" : c}
               </button>
             </li>
           );
@@ -106,6 +123,12 @@ export default function Practice() {
       {result && expl && (
         <div className={`card feedback ${result.correct ? "ok" : "ko"}`}>
           <h3>{result.correct ? t(lang, "correct") : t(lang, "wrong")}</h3>
+          {q.part <= 4 && (result.transcript ?? q.passage?.transcript) && (
+            <details>
+              <summary>{t(lang, "transcript")}</summary>
+              <pre className="transcript">{(result.transcript ?? q.passage?.transcript ?? "").replace(/^[MWN]:\s*/gm, (m) => (m[0] === "N" ? "" : m))}</pre>
+            </details>
+          )}
           <p>
             <strong>{t(lang, "rule")} :</strong> {expl.rule}
           </p>

@@ -1,0 +1,280 @@
+{
+  "batch": "part3-batch01",
+  "part": 3,
+  "passages": [
+    {
+      "id": "pass-p3-b01-1",
+      "kind": "conversation",
+      "title": "Conversation 1",
+      "body": null,
+      "transcript": "N: Questions 1 through 3 refer to the following conversation.\nW: Hi Tom, did you get the email about the new expense policy?\nM: I did, but I haven't read it carefully. Does it change how we submit receipts?\nW: Yes. From next month, all receipts must be uploaded to the finance portal within five days of the trip.\nM: Five days? That's tight. I travel a lot, so I'll need to remember to upload them at the airport.\nW: You can also use the mobile app. It scans receipts with your phone camera.\nM: Great, I'll download it this afternoon.",
+      "image": null
+    },
+    {
+      "id": "pass-p3-b01-2",
+      "kind": "conversation",
+      "title": "Conversation 2",
+      "body": null,
+      "transcript": "N: Questions 4 through 6 refer to the following conversation.\nM: Good morning. I'm calling about the apartment on Willow Street that was advertised online.\nW: Yes, it's still available. It has two bedrooms and the rent is 1,450 dollars a month.\nM: That's within my budget. Is parking included?\nW: There is a garage space for an extra eighty dollars. Would you like to see the apartment this weekend?\nM: Saturday works for me. Could we meet at ten?\nW: Certainly. I'll send you the address and my phone number by text message.",
+      "image": null
+    }
+  ],
+  "questions": [
+    {
+      "id": "p3-b01-01",
+      "part": 3,
+      "difficulty": 1,
+      "category": "qt-conversation-gist",
+      "stem": "What are the speakers mainly discussing?",
+      "choices": [
+        "A vacation request",
+        "A software upgrade",
+        "A new expense policy",
+        "A travel itinerary"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Question sur le sujet principal : il se trouve dans les deux premières répliques (« new expense policy »).",
+          "why_wrong": [
+            "A : personne ne demande de congés.",
+            "B : aucune mise à jour logicielle n'est discutée.",
+            "D : l'itinéraire n'est pas évoqué."
+          ],
+          "example": "The speakers are discussing the new expense policy."
+        },
+        "en": {
+          "rule": "Main-topic question: the answer is in the first lines ('new expense policy').",
+          "why_wrong": [
+            "A: nobody asks for time off.",
+            "B: no software upgrade is discussed.",
+            "D: no itinerary is mentioned."
+          ],
+          "example": "The speakers are discussing the new expense policy."
+        }
+      },
+      "vocab": [
+        {
+          "term": "expense",
+          "fr": "frais, dépense"
+        },
+        {
+          "term": "receipt",
+          "fr": "reçu"
+        }
+      ],
+      "passage": "pass-p3-b01-1",
+      "position": 1
+    },
+    {
+      "id": "p3-b01-02",
+      "part": 3,
+      "difficulty": 2,
+      "category": "qt-conversation-detail",
+      "stem": "According to the woman, what must employees do within five days?",
+      "choices": [
+        "Attend a training",
+        "Submit travel requests",
+        "Book their flights",
+        "Upload their receipts"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Détail : « all receipts must be uploaded … within five days ».",
+          "why_wrong": [
+            "A : aucune formation n'est évoquée.",
+            "B : les demandes de voyage ne sont pas citées.",
+            "C : les vols ne sont pas mentionnés."
+          ],
+          "example": "Receipts must be uploaded within five days."
+        },
+        "en": {
+          "rule": "Detail: 'all receipts must be uploaded … within five days'.",
+          "why_wrong": [
+            "A: no training is mentioned.",
+            "B: travel requests are not mentioned.",
+            "C: flights are not mentioned."
+          ],
+          "example": "Receipts must be uploaded within five days."
+        }
+      },
+      "vocab": [
+        {
+          "term": "upload",
+          "fr": "téléverser"
+        }
+      ],
+      "passage": "pass-p3-b01-1",
+      "position": 2
+    },
+    {
+      "id": "p3-b01-03",
+      "part": 3,
+      "difficulty": 3,
+      "category": "qt-conversation-inference",
+      "stem": "What will the man probably do this afternoon?",
+      "choices": [
+        "Visit the airport",
+        "Print some receipts",
+        "Download a mobile app",
+        "Call the finance department"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Prévision : la dernière réplique annonce « I'll download it this afternoon » (l'application mobile).",
+          "why_wrong": [
+            "A : l'aéroport est cité comme lieu possible pour envoyer des reçus, pas comme projet de l'après-midi.",
+            "B : il numérise ses reçus, il ne les imprime pas.",
+            "D : aucun appel n'est prévu."
+          ],
+          "example": "He will download the mobile app."
+        },
+        "en": {
+          "rule": "Prediction: the last line says 'I'll download it this afternoon' (the mobile app).",
+          "why_wrong": [
+            "A: the airport is only a place where he might upload receipts, not an afternoon plan.",
+            "B: he scans receipts; he does not print them.",
+            "D: no call is planned."
+          ],
+          "example": "He will download the mobile app."
+        }
+      },
+      "vocab": [
+        {
+          "term": "download",
+          "fr": "télécharger"
+        }
+      ],
+      "passage": "pass-p3-b01-1",
+      "position": 3
+    },
+    {
+      "id": "p3-b01-04",
+      "part": 3,
+      "difficulty": 1,
+      "category": "qt-conversation-gist",
+      "stem": "Why is the man calling?",
+      "choices": [
+        "To order furniture",
+        "To inquire about an apartment",
+        "To report a problem",
+        "To cancel a reservation"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Motif de l'appel : annoncé dans la première réplique (« calling about the apartment »).",
+          "why_wrong": [
+            "A : aucun meuble n'est commandé.",
+            "C : aucun problème n'est signalé.",
+            "D : il n'y a pas de réservation."
+          ],
+          "example": "He is calling about an apartment."
+        },
+        "en": {
+          "rule": "Reason for calling: stated in the first line ('calling about the apartment').",
+          "why_wrong": [
+            "A: no furniture is ordered.",
+            "C: no problem is reported.",
+            "D: there is no reservation."
+          ],
+          "example": "He is calling about an apartment."
+        }
+      },
+      "vocab": [
+        {
+          "term": "inquire",
+          "fr": "se renseigner"
+        }
+      ],
+      "passage": "pass-p3-b01-2",
+      "position": 1
+    },
+    {
+      "id": "p3-b01-05",
+      "part": 3,
+      "difficulty": 2,
+      "category": "qt-conversation-detail",
+      "stem": "What costs extra?",
+      "choices": [
+        "A garage space",
+        "A security deposit",
+        "Internet service",
+        "A storage room"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Détail : « a garage space for an extra eighty dollars ».",
+          "why_wrong": [
+            "B : aucune caution n'est citée.",
+            "C : Internet n'est pas mentionné.",
+            "D : aucune cave n'est mentionnée."
+          ],
+          "example": "The garage space costs extra."
+        },
+        "en": {
+          "rule": "Detail: 'a garage space for an extra eighty dollars'.",
+          "why_wrong": [
+            "B: no deposit is mentioned.",
+            "C: internet is not mentioned.",
+            "D: no storage room is mentioned."
+          ],
+          "example": "The garage space costs extra."
+        }
+      },
+      "vocab": [
+        {
+          "term": "rent",
+          "fr": "loyer"
+        }
+      ],
+      "passage": "pass-p3-b01-2",
+      "position": 2
+    },
+    {
+      "id": "p3-b01-06",
+      "part": 3,
+      "difficulty": 2,
+      "category": "qt-conversation-detail",
+      "stem": "What will the woman send to the man?",
+      "choices": [
+        "Some photographs",
+        "A lease agreement",
+        "An address and a phone number",
+        "A bank statement"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Détail : la dernière réplique cite l'adresse et le numéro de téléphone.",
+          "why_wrong": [
+            "A : aucune photo n'est annoncée.",
+            "B : aucun bail n'est envoyé.",
+            "D : aucun relevé bancaire n'est évoqué."
+          ],
+          "example": "She will text the address and her phone number."
+        },
+        "en": {
+          "rule": "Detail: the last line mentions the address and phone number.",
+          "why_wrong": [
+            "A: no photographs are announced.",
+            "B: no lease is sent.",
+            "D: no bank statement is mentioned."
+          ],
+          "example": "She will text the address and her phone number."
+        }
+      },
+      "vocab": [
+        {
+          "term": "lease",
+          "fr": "bail"
+        }
+      ],
+      "passage": "pass-p3-b01-2",
+      "position": 3
+    }
+  ]
+}

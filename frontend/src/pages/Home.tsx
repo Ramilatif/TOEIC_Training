@@ -3,6 +3,13 @@ import { useNavigate } from "react-router-dom";
 import { useAuth } from "../auth";
 import { t, type Key } from "../i18n";
 
+const LISTENING: { part: number; key: Key }[] = [
+  { part: 1, key: "part1" },
+  { part: 2, key: "part2" },
+  { part: 3, key: "part3" },
+  { part: 4, key: "part4" },
+];
+
 const READING: { part: number; key: Key }[] = [
   { part: 5, key: "part5" },
   { part: 6, key: "part6" },
@@ -17,7 +24,6 @@ export default function Home() {
 
   return (
     <section>
-      <h2>{t(lang, "trainReading")}</h2>
       <label htmlFor="count">{t(lang, "count")}</label>
       <input
         id="count"
@@ -27,7 +33,15 @@ export default function Home() {
         value={count}
         onChange={(e) => setCount(Math.max(1, Math.min(50, Number(e.target.value) || 1)))}
       />
-      <p className="muted">{t(lang, "choosePart")}</p>
+      <h2>{t(lang, "trainListening")}</h2>
+      <div className="grid">
+        {LISTENING.map(({ part, key }) => (
+          <button key={part} className="card tile" onClick={() => nav(`/practice/${part}?limit=${count}`)}>
+            {t(lang, key)}
+          </button>
+        ))}
+      </div>
+      <h2>{t(lang, "trainReading")}</h2>
       <div className="grid">
         {READING.map(({ part, key }) => (
           <button key={part} className="card tile" onClick={() => nav(`/practice/${part}?limit=${count}`)}>

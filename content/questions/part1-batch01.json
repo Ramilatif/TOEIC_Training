@@ -1,0 +1,624 @@
+{
+  "batch": "part1-batch01",
+  "part": 1,
+  "passages": [
+    {
+      "id": "pass-p1-01",
+      "kind": "photo",
+      "title": "Photograph 1",
+      "body": null,
+      "transcript": "N: Number 1. Look at the photograph.\nN: (A) A woman is typing on a laptop.\nN: (B) A woman is answering the phone.\nN: (C) A woman is closing a window.\nN: (D) A woman is carrying a box.",
+      "image": "p1-01"
+    },
+    {
+      "id": "pass-p1-02",
+      "kind": "photo",
+      "title": "Photograph 2",
+      "body": null,
+      "transcript": "N: Number 2. Look at the photograph.\nN: (A) Two colleagues are setting up chairs.\nN: (B) Two colleagues are walking outside.\nN: (C) Two colleagues are looking at a document.\nN: (D) Two colleagues are shaking hands.",
+      "image": "p1-02"
+    },
+    {
+      "id": "pass-p1-03",
+      "kind": "photo",
+      "title": "Photograph 3",
+      "body": null,
+      "transcript": "N: Number 3. Look at the photograph.\nN: (A) A man is plugging in a cable.\nN: (B) A man is writing a check.\nN: (C) A man is wiping a table.\nN: (D) A man is presenting in front of a screen.",
+      "image": "p1-03"
+    },
+    {
+      "id": "pass-p1-04",
+      "kind": "photo",
+      "title": "Photograph 4",
+      "body": null,
+      "transcript": "N: Number 4. Look at the photograph.\nN: (A) A barista is serving coffee.\nN: (B) A cook is washing dishes.\nN: (C) A customer is reading a menu.\nN: (D) A waiter is clearing the tables.",
+      "image": "p1-04"
+    },
+    {
+      "id": "pass-p1-05",
+      "kind": "photo",
+      "title": "Photograph 5",
+      "body": null,
+      "transcript": "N: Number 5. Look at the photograph.\nN: (A) Some people are leaving the room.\nN: (B) Some people are seated around a table.\nN: (C) Some people are boarding a bus.\nN: (D) Some people are painting a wall.",
+      "image": "p1-05"
+    },
+    {
+      "id": "pass-p1-06",
+      "kind": "photo",
+      "title": "Photograph 6",
+      "body": null,
+      "transcript": "N: Number 6. Look at the photograph.\nN: (A) A worker is carrying boxes in a warehouse.\nN: (B) A worker is signing a contract.\nN: (C) A worker is repairing a roof.\nN: (D) A worker is driving a truck on a highway.",
+      "image": "p1-06"
+    },
+    {
+      "id": "pass-p1-07",
+      "kind": "photo",
+      "title": "Photograph 7",
+      "body": null,
+      "transcript": "N: Number 7. Look at the photograph.\nN: (A) A train is leaving the station.\nN: (B) Luggage is being loaded onto a plane.\nN: (C) Passengers are buying tickets.\nN: (D) People are waiting on a platform.",
+      "image": "p1-07"
+    },
+    {
+      "id": "pass-p1-08",
+      "kind": "photo",
+      "title": "Photograph 8",
+      "body": null,
+      "transcript": "N: Number 8. Look at the photograph.\nN: (A) A shopper is trying on shoes.\nN: (B) A cashier is folding clothes.\nN: (C) A clerk is stacking shelves.\nN: (D) A customer is paying at a counter.",
+      "image": "p1-08"
+    },
+    {
+      "id": "pass-p1-09",
+      "kind": "photo",
+      "title": "Photograph 9",
+      "body": null,
+      "transcript": "N: Number 9. Look at the photograph.\nN: (A) A man is filling out a form.\nN: (B) A man is shaking hands with a visitor.\nN: (C) A man is hanging a picture on the wall.\nN: (D) A man is talking on the phone at a desk.",
+      "image": "p1-09"
+    },
+    {
+      "id": "pass-p1-10",
+      "kind": "photo",
+      "title": "Photograph 10",
+      "body": null,
+      "transcript": "N: Number 10. Look at the photograph.\nN: (A) The chairs are stacked against the wall.\nN: (B) Tables have been set in a restaurant.\nN: (C) A menu is posted on the door.\nN: (D) Plates are being washed in a sink.",
+      "image": "p1-10"
+    },
+    {
+      "id": "pass-p1-11",
+      "kind": "photo",
+      "title": "Photograph 11",
+      "body": null,
+      "transcript": "N: Number 11. Look at the photograph.\nN: (A) A technician is repairing a machine.\nN: (B) A technician is loading a truck.\nN: (C) A technician is mopping the floor.\nN: (D) A technician is opening an umbrella.",
+      "image": "p1-11"
+    },
+    {
+      "id": "pass-p1-12",
+      "kind": "photo",
+      "title": "Photograph 12",
+      "body": null,
+      "transcript": "N: Number 12. Look at the photograph.\nN: (A) A car is being washed.\nN: (B) Traffic lights are being installed.\nN: (C) Cars are parked along the street.\nN: (D) Cars are driving over a bridge.",
+      "image": "p1-12"
+    }
+  ],
+  "questions": [
+    {
+      "id": "p1-b01-01",
+      "part": 1,
+      "difficulty": 1,
+      "category": "qt-photo-people",
+      "stem": "Look at the photograph and listen to the four statements. Choose the one that best describes it.",
+      "choices": [
+        "A woman is typing on a laptop.",
+        "A woman is answering the phone.",
+        "A woman is closing a window.",
+        "A woman is carrying a box."
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Part 1 : choisissez l'énoncé qui décrit exactement ce que vous voyez. Éliminez les énoncés qui mentionnent une action, un objet ou un lieu absents de l'image.",
+          "why_wrong": [
+            "B : aucun téléphone n'est utilisé sur la photo.",
+            "C : aucune fenêtre n'est fermée.",
+            "D : aucune boîte n'est portée."
+          ],
+          "example": "A woman is typing on a laptop."
+        },
+        "en": {
+          "rule": "Part 1: pick the statement that matches exactly what you see. Eliminate statements that mention an action, object or place that is not in the image.",
+          "why_wrong": [
+            "B: no phone is being used in the photo.",
+            "C: no window is being closed.",
+            "D: no box is being carried."
+          ],
+          "example": "A woman is typing on a laptop."
+        }
+      },
+      "vocab": [
+        {
+          "term": "laptop",
+          "fr": "ordinateur portable"
+        }
+      ],
+      "passage": "pass-p1-01",
+      "position": 1
+    },
+    {
+      "id": "p1-b01-02",
+      "part": 1,
+      "difficulty": 1,
+      "category": "qt-photo-people",
+      "stem": "Look at the photograph and listen to the four statements. Choose the one that best describes it.",
+      "choices": [
+        "Two colleagues are setting up chairs.",
+        "Two colleagues are walking outside.",
+        "Two colleagues are looking at a document.",
+        "Two colleagues are shaking hands."
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Part 1 : choisissez l'énoncé qui décrit exactement ce que vous voyez. Éliminez les énoncés qui mentionnent une action, un objet ou un lieu absents de l'image.",
+          "why_wrong": [
+            "A : personne ne dispose de chaises.",
+            "B : la scène se passe à l'intérieur, pas dehors.",
+            "D : les deux personnes ne se serrent pas la main."
+          ],
+          "example": "Two colleagues are looking at a document."
+        },
+        "en": {
+          "rule": "Part 1: pick the statement that matches exactly what you see. Eliminate statements that mention an action, object or place that is not in the image.",
+          "why_wrong": [
+            "A: nobody is arranging chairs.",
+            "B: the scene is indoors, not outside.",
+            "D: they are not shaking hands."
+          ],
+          "example": "Two colleagues are looking at a document."
+        }
+      },
+      "vocab": [
+        {
+          "term": "document",
+          "fr": "document"
+        }
+      ],
+      "passage": "pass-p1-02",
+      "position": 1
+    },
+    {
+      "id": "p1-b01-03",
+      "part": 1,
+      "difficulty": 1,
+      "category": "qt-photo-people",
+      "stem": "Look at the photograph and listen to the four statements. Choose the one that best describes it.",
+      "choices": [
+        "A man is plugging in a cable.",
+        "A man is writing a check.",
+        "A man is wiping a table.",
+        "A man is presenting in front of a screen."
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Part 1 : choisissez l'énoncé qui décrit exactement ce que vous voyez. Éliminez les énoncés qui mentionnent une action, un objet ou un lieu absents de l'image.",
+          "why_wrong": [
+            "A : il ne branche aucun câble.",
+            "B : il n'écrit pas de chèque.",
+            "C : il n'essuie aucune table."
+          ],
+          "example": "A man is presenting in front of a screen."
+        },
+        "en": {
+          "rule": "Part 1: pick the statement that matches exactly what you see. Eliminate statements that mention an action, object or place that is not in the image.",
+          "why_wrong": [
+            "A: he is not plugging in a cable.",
+            "B: he is not writing a check.",
+            "C: he is not wiping a table."
+          ],
+          "example": "A man is presenting in front of a screen."
+        }
+      },
+      "vocab": [
+        {
+          "term": "present",
+          "fr": "présenter"
+        }
+      ],
+      "passage": "pass-p1-03",
+      "position": 1
+    },
+    {
+      "id": "p1-b01-04",
+      "part": 1,
+      "difficulty": 1,
+      "category": "qt-photo-people",
+      "stem": "Look at the photograph and listen to the four statements. Choose the one that best describes it.",
+      "choices": [
+        "A barista is serving coffee.",
+        "A cook is washing dishes.",
+        "A customer is reading a menu.",
+        "A waiter is clearing the tables."
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Part 1 : choisissez l'énoncé qui décrit exactement ce que vous voyez. Éliminez les énoncés qui mentionnent une action, un objet ou un lieu absents de l'image.",
+          "why_wrong": [
+            "B : personne ne lave de vaisselle.",
+            "C : aucun client ne lit de menu.",
+            "D : personne ne débarrasse de tables."
+          ],
+          "example": "A barista is serving coffee."
+        },
+        "en": {
+          "rule": "Part 1: pick the statement that matches exactly what you see. Eliminate statements that mention an action, object or place that is not in the image.",
+          "why_wrong": [
+            "B: nobody is washing dishes.",
+            "C: no customer is reading a menu.",
+            "D: nobody is clearing tables."
+          ],
+          "example": "A barista is serving coffee."
+        }
+      },
+      "vocab": [
+        {
+          "term": "barista",
+          "fr": "préparateur de café"
+        },
+        {
+          "term": "serve",
+          "fr": "servir"
+        }
+      ],
+      "passage": "pass-p1-04",
+      "position": 1
+    },
+    {
+      "id": "p1-b01-05",
+      "part": 1,
+      "difficulty": 1,
+      "category": "qt-photo-people",
+      "stem": "Look at the photograph and listen to the four statements. Choose the one that best describes it.",
+      "choices": [
+        "Some people are leaving the room.",
+        "Some people are seated around a table.",
+        "Some people are boarding a bus.",
+        "Some people are painting a wall."
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Part 1 : choisissez l'énoncé qui décrit exactement ce que vous voyez. Éliminez les énoncés qui mentionnent une action, un objet ou un lieu absents de l'image.",
+          "why_wrong": [
+            "A : personne ne quitte la salle, tous sont assis.",
+            "C : il n'y a pas de bus.",
+            "D : aucun mur n'est peint."
+          ],
+          "example": "Some people are seated around a table."
+        },
+        "en": {
+          "rule": "Part 1: pick the statement that matches exactly what you see. Eliminate statements that mention an action, object or place that is not in the image.",
+          "why_wrong": [
+            "A: nobody is leaving; everyone is seated.",
+            "C: there is no bus.",
+            "D: no wall is being painted."
+          ],
+          "example": "Some people are seated around a table."
+        }
+      },
+      "vocab": [
+        {
+          "term": "seated",
+          "fr": "assis"
+        }
+      ],
+      "passage": "pass-p1-05",
+      "position": 1
+    },
+    {
+      "id": "p1-b01-06",
+      "part": 1,
+      "difficulty": 1,
+      "category": "qt-photo-people",
+      "stem": "Look at the photograph and listen to the four statements. Choose the one that best describes it.",
+      "choices": [
+        "A worker is carrying boxes in a warehouse.",
+        "A worker is signing a contract.",
+        "A worker is repairing a roof.",
+        "A worker is driving a truck on a highway."
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Part 1 : choisissez l'énoncé qui décrit exactement ce que vous voyez. Éliminez les énoncés qui mentionnent une action, un objet ou un lieu absents de l'image.",
+          "why_wrong": [
+            "B : il ne signe aucun contrat.",
+            "C : il ne répare aucun toit.",
+            "D : il ne conduit pas sur une autoroute."
+          ],
+          "example": "A worker is carrying boxes in a warehouse."
+        },
+        "en": {
+          "rule": "Part 1: pick the statement that matches exactly what you see. Eliminate statements that mention an action, object or place that is not in the image.",
+          "why_wrong": [
+            "B: he is not signing a contract.",
+            "C: he is not repairing a roof.",
+            "D: he is not driving on a highway."
+          ],
+          "example": "A worker is carrying boxes in a warehouse."
+        }
+      },
+      "vocab": [
+        {
+          "term": "warehouse",
+          "fr": "entrepôt"
+        }
+      ],
+      "passage": "pass-p1-06",
+      "position": 1
+    },
+    {
+      "id": "p1-b01-07",
+      "part": 1,
+      "difficulty": 1,
+      "category": "qt-photo-people",
+      "stem": "Look at the photograph and listen to the four statements. Choose the one that best describes it.",
+      "choices": [
+        "A train is leaving the station.",
+        "Luggage is being loaded onto a plane.",
+        "Passengers are buying tickets.",
+        "People are waiting on a platform."
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Part 1 : choisissez l'énoncé qui décrit exactement ce que vous voyez. Éliminez les énoncés qui mentionnent une action, un objet ou un lieu absents de l'image.",
+          "why_wrong": [
+            "A : aucun train n'est en mouvement.",
+            "B : aucun avion n'est visible.",
+            "C : personne n'achète de billets sur la photo."
+          ],
+          "example": "People are waiting on a platform."
+        },
+        "en": {
+          "rule": "Part 1: pick the statement that matches exactly what you see. Eliminate statements that mention an action, object or place that is not in the image.",
+          "why_wrong": [
+            "A: no train is moving.",
+            "B: there is no plane.",
+            "C: nobody is buying tickets in the photo."
+          ],
+          "example": "People are waiting on a platform."
+        }
+      },
+      "vocab": [
+        {
+          "term": "platform",
+          "fr": "quai"
+        },
+        {
+          "term": "passenger",
+          "fr": "passager"
+        }
+      ],
+      "passage": "pass-p1-07",
+      "position": 1
+    },
+    {
+      "id": "p1-b01-08",
+      "part": 1,
+      "difficulty": 1,
+      "category": "qt-photo-people",
+      "stem": "Look at the photograph and listen to the four statements. Choose the one that best describes it.",
+      "choices": [
+        "A shopper is trying on shoes.",
+        "A cashier is folding clothes.",
+        "A clerk is stacking shelves.",
+        "A customer is paying at a counter."
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Part 1 : choisissez l'énoncé qui décrit exactement ce que vous voyez. Éliminez les énoncés qui mentionnent une action, un objet ou un lieu absents de l'image.",
+          "why_wrong": [
+            "A : personne n'essaie de chaussures.",
+            "B : le caissier ne plie pas de vêtements.",
+            "C : personne ne remplit d'étagères."
+          ],
+          "example": "A customer is paying at a counter."
+        },
+        "en": {
+          "rule": "Part 1: pick the statement that matches exactly what you see. Eliminate statements that mention an action, object or place that is not in the image.",
+          "why_wrong": [
+            "A: nobody is trying on shoes.",
+            "B: the cashier is not folding clothes.",
+            "C: nobody is stacking shelves."
+          ],
+          "example": "A customer is paying at a counter."
+        }
+      },
+      "vocab": [
+        {
+          "term": "cashier",
+          "fr": "caissier"
+        },
+        {
+          "term": "counter",
+          "fr": "comptoir"
+        }
+      ],
+      "passage": "pass-p1-08",
+      "position": 1
+    },
+    {
+      "id": "p1-b01-09",
+      "part": 1,
+      "difficulty": 2,
+      "category": "qt-photo-people",
+      "stem": "Look at the photograph and listen to the four statements. Choose the one that best describes it.",
+      "choices": [
+        "A man is filling out a form.",
+        "A man is shaking hands with a visitor.",
+        "A man is hanging a picture on the wall.",
+        "A man is talking on the phone at a desk."
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Part 1 : choisissez l'énoncé qui décrit exactement ce que vous voyez. Éliminez les énoncés qui mentionnent une action, un objet ou un lieu absents de l'image.",
+          "why_wrong": [
+            "A : il ne remplit aucun formulaire.",
+            "B : il n'y a pas de visiteur ni de poignée de main.",
+            "C : aucun tableau n'est accroché."
+          ],
+          "example": "A man is talking on the phone at a desk."
+        },
+        "en": {
+          "rule": "Part 1: pick the statement that matches exactly what you see. Eliminate statements that mention an action, object or place that is not in the image.",
+          "why_wrong": [
+            "A: he is not filling out a form.",
+            "B: there is no visitor or handshake.",
+            "C: no picture is being hung."
+          ],
+          "example": "A man is talking on the phone at a desk."
+        }
+      },
+      "vocab": [
+        {
+          "term": "desk",
+          "fr": "bureau"
+        }
+      ],
+      "passage": "pass-p1-09",
+      "position": 1
+    },
+    {
+      "id": "p1-b01-10",
+      "part": 1,
+      "difficulty": 2,
+      "category": "qt-photo-objects",
+      "stem": "Look at the photograph and listen to the four statements. Choose the one that best describes it.",
+      "choices": [
+        "The chairs are stacked against the wall.",
+        "Tables have been set in a restaurant.",
+        "A menu is posted on the door.",
+        "Plates are being washed in a sink."
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Part 1 : choisissez l'énoncé qui décrit exactement ce que vous voyez. Éliminez les énoncés qui mentionnent une action, un objet ou un lieu absents de l'image.",
+          "why_wrong": [
+            "A : les chaises ne sont pas empilées.",
+            "C : aucun menu n'est affiché sur une porte.",
+            "D : personne ne lave d'assiettes."
+          ],
+          "example": "Tables have been set in a restaurant."
+        },
+        "en": {
+          "rule": "Part 1: pick the statement that matches exactly what you see. Eliminate statements that mention an action, object or place that is not in the image.",
+          "why_wrong": [
+            "A: the chairs are not stacked.",
+            "C: no menu is posted on a door.",
+            "D: no plates are being washed."
+          ],
+          "example": "Tables have been set in a restaurant."
+        }
+      },
+      "vocab": [
+        {
+          "term": "set the table",
+          "fr": "mettre la table"
+        }
+      ],
+      "passage": "pass-p1-10",
+      "position": 1
+    },
+    {
+      "id": "p1-b01-11",
+      "part": 1,
+      "difficulty": 2,
+      "category": "qt-photo-people",
+      "stem": "Look at the photograph and listen to the four statements. Choose the one that best describes it.",
+      "choices": [
+        "A technician is repairing a machine.",
+        "A technician is loading a truck.",
+        "A technician is mopping the floor.",
+        "A technician is opening an umbrella."
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Part 1 : choisissez l'énoncé qui décrit exactement ce que vous voyez. Éliminez les énoncés qui mentionnent une action, un objet ou un lieu absents de l'image.",
+          "why_wrong": [
+            "B : il ne charge aucun camion.",
+            "C : il ne lave pas le sol.",
+            "D : il n'ouvre aucun parapluie."
+          ],
+          "example": "A technician is repairing a machine."
+        },
+        "en": {
+          "rule": "Part 1: pick the statement that matches exactly what you see. Eliminate statements that mention an action, object or place that is not in the image.",
+          "why_wrong": [
+            "B: he is not loading a truck.",
+            "C: he is not mopping the floor.",
+            "D: he is not opening an umbrella."
+          ],
+          "example": "A technician is repairing a machine."
+        }
+      },
+      "vocab": [
+        {
+          "term": "technician",
+          "fr": "technicien"
+        },
+        {
+          "term": "repair",
+          "fr": "réparer"
+        }
+      ],
+      "passage": "pass-p1-11",
+      "position": 1
+    },
+    {
+      "id": "p1-b01-12",
+      "part": 1,
+      "difficulty": 2,
+      "category": "qt-photo-objects",
+      "stem": "Look at the photograph and listen to the four statements. Choose the one that best describes it.",
+      "choices": [
+        "A car is being washed.",
+        "Traffic lights are being installed.",
+        "Cars are parked along the street.",
+        "Cars are driving over a bridge."
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Part 1 : choisissez l'énoncé qui décrit exactement ce que vous voyez. Éliminez les énoncés qui mentionnent une action, un objet ou un lieu absents de l'image.",
+          "why_wrong": [
+            "A : aucune voiture n'est lavée.",
+            "B : aucun feu n'est installé.",
+            "D : les voitures ne roulent pas, elles sont garées."
+          ],
+          "example": "Cars are parked along the street."
+        },
+        "en": {
+          "rule": "Part 1: pick the statement that matches exactly what you see. Eliminate statements that mention an action, object or place that is not in the image.",
+          "why_wrong": [
+            "A: no car is being washed.",
+            "B: no traffic lights are being installed.",
+            "D: the cars are not moving; they are parked."
+          ],
+          "example": "Cars are parked along the street."
+        }
+      },
+      "vocab": [
+        {
+          "term": "park",
+          "fr": "garer"
+        }
+      ],
+      "passage": "pass-p1-12",
+      "position": 1
+    }
+  ]
+}

@@ -1,1 +1,86 @@
-[]
+[
+  {
+    "id": "p1-01",
+    "file": "p1-01.jpg",
+    "credit": "À compléter (auteur, plateforme)",
+    "source_url": "À compléter",
+    "alt": "A woman is typing on a laptop."
+  },
+  {
+    "id": "p1-02",
+    "file": "p1-02.jpg",
+    "credit": "À compléter (auteur, plateforme)",
+    "source_url": "À compléter",
+    "alt": "Two colleagues are looking at a document."
+  },
+  {
+    "id": "p1-03",
+    "file": "p1-03.jpg",
+    "credit": "À compléter (auteur, plateforme)",
+    "source_url": "À compléter",
+    "alt": "A man is presenting in front of a screen."
+  },
+  {
+    "id": "p1-04",
+    "file": "p1-04.jpg",
+    "credit": "À compléter (auteur, plateforme)",
+    "source_url": "À compléter",
+    "alt": "A barista is serving coffee."
+  },
+  {
+    "id": "p1-05",
+    "file": "p1-05.jpg",
+    "credit": "À compléter (auteur, plateforme)",
+    "source_url": "À compléter",
+    "alt": "Some people are seated around a table."
+  },
+  {
+    "id": "p1-06",
+    "file": "p1-06.jpg",
+    "credit": "À compléter (auteur, plateforme)",
+    "source_url": "À compléter",
+    "alt": "A worker is carrying boxes in a warehouse."
+  },
+  {
+    "id": "p1-07",
+    "file": "p1-07.jpg",
+    "credit": "À compléter (auteur, plateforme)",
+    "source_url": "À compléter",
+    "alt": "People are waiting on a platform."
+  },
+  {
+    "id": "p1-08",
+    "file": "p1-08.jpg",
+    "credit": "À compléter (auteur, plateforme)",
+    "source_url": "À compléter",
+    "alt": "A customer is paying at a counter."
+  },
+  {
+    "id": "p1-09",
+    "file": "p1-09.jpg",
+    "credit": "À compléter (auteur, plateforme)",
+    "source_url": "À compléter",
+    "alt": "A man is talking on the phone at a desk."
+  },
+  {
+    "id": "p1-10",
+    "file": "p1-10.jpg",
+    "credit": "À compléter (auteur, plateforme)",
+    "source_url": "À compléter",
+    "alt": "Tables have been set in a restaurant."
+  },
+  {
+    "id": "p1-11",
+    "file": "p1-11.jpg",
+    "credit": "À compléter (auteur, plateforme)",
+    "source_url": "À compléter",
+    "alt": "A technician is repairing a machine."
+  },
+  {
+    "id": "p1-12",
+    "file": "p1-12.jpg",
+    "credit": "À compléter (auteur, plateforme)",
+    "source_url": "À compléter",
+    "alt": "Cars are parked along the street."
+  }
+]
