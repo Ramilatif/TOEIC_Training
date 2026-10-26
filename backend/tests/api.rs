@@ -320,7 +320,7 @@ async fn examen_complet_de_bout_en_bout() {
 }
 
 #[tokio::test]
-async fn examen_complet_respecte_la_repartition_disponible() {
+async fn examen_complet_respecte_la_repartition_officielle() {
     let app = setup().await;
     let (_, v) = call(
         &app,
@@ -341,9 +341,17 @@ async fn examen_complet_respecte_la_repartition_disponible() {
     .await;
     assert_eq!(s, StatusCode::OK);
     assert_eq!(exam["duration_limit_s"], 7200);
-    // Tant que la banque est incomplète, on sert tout ce qui existe sans dépasser le quota officiel.
-    let n = exam["questions"].as_array().unwrap().len();
-    assert!(n > 0 && n <= 200);
+
+    let mut per_part = std::collections::BTreeMap::new();
+    for q in exam["questions"].as_array().unwrap() {
+        *per_part.entry(q["part"].as_i64().unwrap()).or_insert(0) += 1;
+    }
+    // Part 1 n'apparaît qu'une fois les photos déposées dans content/images/part1/.
+    let expected = [(2, 25), (3, 39), (4, 30), (5, 30), (6, 16), (7, 54)];
+    for (part, n) in expected {
+        assert_eq!(per_part.get(&part).copied().unwrap_or(0), n, "Part {part}");
+    }
+    assert!(per_part.get(&1).copied().unwrap_or(0) <= 6);
 }
 
 #[tokio::test]

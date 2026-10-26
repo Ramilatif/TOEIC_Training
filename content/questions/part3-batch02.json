@@ -1,0 +1,2864 @@
+{
+  "batch": "part3-batch02",
+  "part": 3,
+  "passages": [
+    {
+      "id": "p3-b02-pass-01",
+      "kind": "conversation",
+      "title": "Conference registration",
+      "body": null,
+      "transcript": "N: Questions 32 through 34 refer to the following conversation.\nW: Hello, I'm calling to register for the Retail Innovation Conference in Denver.\nM: Certainly. Are you registering as an individual or with a group?\nW: Three of us from Dunmore Stores. Is there a discount for groups?\nM: Yes, groups of three or more get fifteen percent off the regular price of three hundred dollars.\nW: That's great. Do you need payment right away?\nM: You can pay by credit card now, or send a check within a week.\nW: I'll pay now. And could you send the confirmation to my manager as well?",
+      "image": null
+    },
+    {
+      "id": "p3-b02-pass-02",
+      "kind": "conversation",
+      "title": "Delayed shipment",
+      "body": "DELIVERY SCHEDULE — Shipment 4417 (tablets)\nPort release:   Wednesday\nCustoms clearance:   Wednesday midday\nTruck to Boston:   same evening if cleared by 2 P.M.\nPromotion start:   Thursday, 9 A.M.",
+      "transcript": "N: Questions 35 through 37 refer to the following conversation.\nM: Hi Gloria, the shipment of tablets hasn't arrived at the Boston store yet.\nW: I know. The carrier said there was a delay at the port. They told me it will be released on Wednesday.\nM: Wednesday? Our promotion starts on Thursday morning.\nW: Don't worry. If it clears customs on time, the truck can reach Boston the same evening. Let me check the delivery schedule.\nM: Please do. If it won't make it, I'd rather postpone the advertisement.\nW: Let me call the carrier and I'll get back to you within the hour.",
+      "image": null
+    },
+    {
+      "id": "p3-b02-pass-03",
+      "kind": "conversation",
+      "title": "New hire orientation",
+      "body": null,
+      "transcript": "N: Questions 38 through 40 refer to the following conversation.\nW: Welcome to Marlow Insurance, Mr. Dias. I'm Sandra from Human Resources.\nM: Thank you. I'm excited to be here.\nW: First, let's get your security badge. Then I'll take you to your desk on the fifth floor.\nM: Great. Will I get a laptop today?\nW: Yes, but IT will set it up this afternoon, so you'll use a temporary one this morning.\nM: And when does the safety training happen?\nW: Tomorrow at ten. Your supervisor, Ms. Kwon, will meet you for lunch today at noon.",
+      "image": null
+    },
+    {
+      "id": "p3-b02-pass-04",
+      "kind": "conversation",
+      "title": "Hotel booking problem",
+      "body": null,
+      "transcript": "N: Questions 41 through 43 refer to the following conversation.\nM: Good evening. I have a reservation under the name Hoffman for two nights.\nW: Let me check... I'm sorry, Mr. Hoffman, but we have you down for tomorrow night, not tonight.\nM: That can't be right. I confirmed the dates by email last week, and I'm here for a conference tomorrow morning.\nW: I understand. We're fully booked tonight, but I can offer you a room at our sister hotel two blocks away, at the same rate.\nM: Will you cover the taxi?\nW: Of course, and I'll book your second night here so you don't have to move twice.",
+      "image": null
+    },
+    {
+      "id": "p3-b02-pass-05",
+      "kind": "conversation",
+      "title": "Office supplies order",
+      "body": "OFFICEMART — PRICE LIST\nPrinter paper (box of 5 reams)   $28.00\nToner cartridge, single   $62.00\nToner pack of 4   $236.00\nToner pack of 10   $550.00\nToner pack of 20   $1,040.00\nStaples (box)   $3.50",
+      "transcript": "N: Questions 44 through 46 refer to the following conversation.\nW: Tom, we're almost out of printer paper. I'm going to place an order with OfficeMart.\nM: Good idea. Order the same box size as last time, and add toner cartridges, please.\nW: Okay. Let me look at their price list. Toner comes in packs of different sizes, and the bigger the pack, the cheaper each cartridge is.\nM: We use about eight a year, so let's get the smallest pack that covers that.\nW: Agreed. I'll also include a box of staples.\nM: Perfect. Send me the total before you confirm so I can approve it.",
+      "image": null
+    },
+    {
+      "id": "p3-b02-pass-06",
+      "kind": "conversation",
+      "title": "Presentation preparation",
+      "body": null,
+      "transcript": "N: Questions 47 through 49 refer to the following conversation.\nM: Aisha, are you ready for tomorrow's presentation to the board?\nW: Almost. I still need to add the sales chart for the last quarter. But I can't find the final numbers.\nM: They're in the report from the finance team. I'll forward it to you now.\nW: Thanks. I'm also worried about the length. The board only gave us fifteen minutes.\nM: Then cut the section about the old product line. They already know that.\nW: Good point. I'll practice with a timer tonight.",
+      "image": null
+    },
+    {
+      "id": "p3-b02-pass-07",
+      "kind": "conversation",
+      "title": "Software training request",
+      "body": null,
+      "transcript": "N: Questions 50 through 52 refer to the following conversation.\nW: Hi Victor, I heard the sales team is switching to the new customer database next month.\nM: That's right. Everyone has to complete the online training before the end of the week.\nW: How long does it take? I have client visits all week.\nM: About two hours. You can do it in two sessions. The first covers searching records, the second covers reports.\nW: Do I need a special login?\nM: Your normal company login works. I'll email you the link now.",
+      "image": null
+    },
+    {
+      "id": "p3-b02-pass-08",
+      "kind": "conversation",
+      "title": "Event catering",
+      "body": null,
+      "transcript": "N: Questions 53 through 55 refer to the following conversation.\nM: Hi, I'm organizing a staff luncheon for forty people next Friday. Do you have a menu for groups?\nW: We do. We offer three packages: sandwiches, a hot buffet or a salad bar. The buffet is our most popular.\nM: Our budget is about twenty dollars per person.\nW: In that case, the sandwich package at fifteen dollars would be best. Dessert and drinks would be five dollars extra.\nM: That works. Can you deliver to our office on Harper Street?\nW: Yes, with a delivery fee of fifty dollars. I'll send a written quote by email this afternoon.",
+      "image": null
+    },
+    {
+      "id": "p3-b02-pass-09",
+      "kind": "conversation",
+      "title": "Airport check-in",
+      "body": "DEPARTURES\nFlight   Destination   Time   Gate\n612   Lisbon   10:05   A4\n614   Madrid   11:20 (delayed)   C8\n618   Paris   11:45   B3\n620   Rome   12:10   D2",
+      "transcript": "N: Questions 56 through 58 refer to the following conversation.\nW: Good morning. I'm flying to Madrid on flight 614. Can I check in here?\nM: Yes, ma'am. May I see your passport? ... I'm sorry, flight 614 has been moved to a different gate, and there's a delay.\nW: How long will it be delayed?\nM: About an hour. It's now scheduled for 11:20. You'll board at Gate C8 instead of B3.\nW: Okay. I have a connection in Madrid, so that worries me.\nM: I can print a letter for your connecting airline explaining the delay.",
+      "image": null
+    },
+    {
+      "id": "p3-b02-pass-10",
+      "kind": "conversation",
+      "title": "Small business loan",
+      "body": null,
+      "transcript": "N: Questions 59 through 61 refer to the following conversation.\nM: Good afternoon. I'd like some information about a small business loan.\nW: Certainly. What will the money be used for?\nM: I'm opening a bakery and I need to buy two ovens and rent a space.\nW: For a new business we usually require a business plan and two years of personal tax records.\nM: I have both. How long does approval take?\nW: About ten business days. If you apply this week, we can schedule an appointment with a loan officer on Monday.",
+      "image": null
+    },
+    {
+      "id": "p3-b02-pass-11",
+      "kind": "conversation",
+      "title": "Apartment repair",
+      "body": null,
+      "transcript": "N: Questions 62 through 64 refer to the following conversation.\nW: Hello, this is Mina in apartment 3B. The kitchen faucet has been leaking since Monday.\nM: I'm sorry to hear that. I'll send our maintenance person, Carlos. Are you home during the day?\nW: I work from nine to five. I could leave a key with the neighbor.\nM: That's fine. Carlos can come tomorrow morning between nine and noon.\nW: Thank you. Will there be a charge?\nM: No, plumbing repairs are covered by your lease.",
+      "image": null
+    },
+    {
+      "id": "p3-b02-pass-12",
+      "kind": "conversation",
+      "title": "Sales targets",
+      "body": null,
+      "transcript": "N: Questions 65 through 67 refer to the following conversation.\nM: Have you seen the numbers for the third quarter, Elena?\nW: I have. We're at ninety-two percent of our target, mostly because of the slow July.\nM: The new advertising campaign started in August, though. That should help in the last quarter.\nW: I think so. The northern region is already ahead of schedule.\nM: Then maybe we should shift some of the team to the southern region, where sales are weaker.\nW: I'll prepare a proposal and bring it to Monday's meeting.",
+      "image": null
+    },
+    {
+      "id": "p3-b02-pass-13",
+      "kind": "conversation",
+      "title": "Interview scheduling",
+      "body": "INTERVIEW SLOTS — Tuesday\n9:00\n10:15\n11:30\n1:30\nCandidates: Ortiz, Lee, Patel, Romano",
+      "transcript": "N: Questions 68 through 70 refer to the following conversation.\nW: Mark, we have four candidates for the marketing assistant position. Can you help me schedule the interviews?\nM: Sure. I'm free all morning on Tuesday but I have a meeting at two.\nW: Perfect. Ms. Ortiz can only come before noon, and Mr. Lee has asked for the last slot of the day.\nM: Then Ms. Ortiz should go first. Let's put Mr. Lee at one-thirty so I can finish before my meeting.\nW: Okay. I'll fill in the other two names and email the schedule to everyone.",
+      "image": null
+    },
+    {
+      "id": "p3-b02-pass-14",
+      "kind": "conversation",
+      "title": "Restaurant reservation",
+      "body": null,
+      "transcript": "N: Questions 32 through 34 refer to the following conversation.\nM: Thank you for calling Luigi's. How may I help you?\nW: I'd like a table for eight on Saturday at seven. It's for a retirement dinner.\nM: I'm sorry, we're fully booked at seven. We have a table for eight at six-thirty or at eight-thirty.\nW: Eight-thirty would be better. Do you have a private room?\nM: Yes, but it has a minimum spend of four hundred dollars. I can hold it for you until tomorrow noon.\nW: Let me check with the other guests and call you back.",
+      "image": null
+    },
+    {
+      "id": "p3-b02-pass-15",
+      "kind": "conversation",
+      "title": "Car rental",
+      "body": null,
+      "transcript": "N: Questions 35 through 37 refer to the following conversation.\nW: Welcome to Express Rentals. Do you have a reservation?\nM: Yes, under Greene. I booked a compact car for three days.\nW: I see that. We only have a midsize available at the moment, but I'll give you that at the compact price.\nM: That's kind of you. Is the fuel tank full?\nW: Yes, and you should return it full. Would you like to add insurance?\nM: My credit card covers it, so no thanks.",
+      "image": null
+    },
+    {
+      "id": "p3-b02-pass-16",
+      "kind": "conversation",
+      "title": "Refund request",
+      "body": null,
+      "transcript": "N: Questions 38 through 40 refer to the following conversation.\nM: Customer service, this is Raj. How can I help you?\nW: I bought a coffee machine from your website two weeks ago, and it stopped working yesterday.\nM: I'm sorry about that. Do you have the order number?\nW: It's 88-2015. I'd like a refund rather than a replacement.\nM: I can do that. Since it's within thirty days, I'll refund the full amount to your card.\nW: How long will that take?\nM: Five to seven business days. You'll get a confirmation email shortly.",
+      "image": null
+    },
+    {
+      "id": "p3-b02-pass-17",
+      "kind": "conversation",
+      "title": "Double-booked room",
+      "body": "ROOM CHART — Thursday, 10 A.M.\nAspen   Free\nBirch   Booked (2 requests)\nCedar   Booked\nDogwood   Free until 12:00",
+      "transcript": "N: Questions 41 through 43 refer to the following conversation.\nW: Jun, I just realized the Birch room is double-booked tomorrow at ten: my client meeting and your team update.\nM: Oh no. Is the Aspen room free?\nW: Aspen is too small for my client group, and Cedar is taken. Let me check the chart.\nM: I could move my update to the afternoon, but then I'd miss the training session.\nW: What if you took the Dogwood room? It's bigger than you need, but it's free until noon.\nM: That works. I'll book it now.",
+      "image": null
+    },
+    {
+      "id": "p3-b02-pass-18",
+      "kind": "conversation",
+      "title": "Expense approval",
+      "body": null,
+      "transcript": "N: Questions 44 through 46 refer to the following conversation.\nM: Hi Ayesha, I'm submitting my expense report for the Chicago trip, but the system keeps rejecting the hotel receipt.\nW: What error does it show?\nM: It says the file is too large. It's a photo from my phone.\nW: Try reducing the picture size, or scan it as a PDF. If that doesn't work, email it to me and I'll upload it manually.\nM: I'll try the PDF first.\nW: Also, remember that any item over one hundred dollars needs a note explaining the purpose.",
+      "image": null
+    },
+    {
+      "id": "p3-b02-pass-19",
+      "kind": "conversation",
+      "title": "Website redesign",
+      "body": null,
+      "transcript": "N: Questions 47 through 49 refer to the following conversation.\nW: Dev, the redesign of our website is due next month. Where are we?\nM: The home page and product pages are done. We still have to translate the support section into Spanish.\nW: Can the translation agency finish by the fifteenth?\nM: They said ten days, so probably yes. But they asked for the final English text first.\nW: I'll send it today. Also, the CEO wants a short video on the home page.\nM: That could delay the launch. Let's ask her if it can be added after the launch.",
+      "image": null
+    },
+    {
+      "id": "p3-b02-pass-20",
+      "kind": "conversation",
+      "title": "Furniture delivery",
+      "body": null,
+      "transcript": "N: Questions 50 through 52 refer to the following conversation.\nM: Hello, I'm calling about the delivery of a sofa and two armchairs I ordered last week.\nW: Let me look it up. Yes, they're scheduled to arrive on Tuesday between noon and four.\nM: Unfortunately I'll be at work. Could you deliver after five-thirty instead?\nW: Our drivers finish at five, but we have a Saturday morning slot available.\nM: Saturday is perfect. Do the drivers carry the furniture upstairs? I'm on the fourth floor, and there's no elevator.\nW: There's an extra charge of forty dollars for stairs above the second floor.",
+      "image": null
+    },
+    {
+      "id": "p3-b02-pass-21",
+      "kind": "conversation",
+      "title": "Rescheduling an appointment",
+      "body": null,
+      "transcript": "N: Questions 53 through 55 refer to the following conversation.\nW: Dr. Mehta's office, how can I help?\nM: This is Paul Schmidt. I have an appointment tomorrow at three, but my flight was moved and I won't be back until the evening.\nW: I understand. The doctor has an opening Friday at nine or next Monday at eleven.\nM: Friday works. Do I need to bring anything?\nW: Please bring your insurance card and arrive fifteen minutes early to complete a form.\nM: Will do. Thank you for rescheduling.",
+      "image": null
+    },
+    {
+      "id": "p3-b02-pass-22",
+      "kind": "conversation",
+      "title": "Vacation coverage",
+      "body": "COVERAGE CHART — Account Managers\nWendell   Brandt accounts (full-time)\nFatima   Available except 17th\nJoaquin   Available all dates\nNadia   Team lead",
+      "transcript": "N: Questions 56 through 58 refer to the following conversation.\nM: Nadia, I'll be on vacation from the twelfth to the twenty-first. Who can cover my customer accounts?\nW: Let's see the coverage chart. Wendell is already handling the Brandt accounts, so he's busy.\nM: What about Fatima? She's familiar with most of my clients.\nW: She is, but she's out on the seventeenth. Hmm. Then Joaquin could cover those days.\nM: Good idea. I'll write up notes for both of them before I leave.",
+      "image": null
+    },
+    {
+      "id": "p3-b02-pass-23",
+      "kind": "conversation",
+      "title": "Factory inspection",
+      "body": null,
+      "transcript": "N: Questions 59 through 61 refer to the following conversation.\nW: Mr. Kovacs, thank you for meeting us. The inspectors will arrive on Wednesday at nine.\nM: We're ready. The production line was cleaned last week and all safety logs are up to date.\nW: Good. They'll also want to see the maintenance records for the packaging machines.\nM: Those are with Ms. Reyes in operations. I'll ask her to bring them.\nW: One more thing: every visitor must wear protective glasses, including the inspectors.\nM: We keep a box of them at the entrance.",
+      "image": null
+    },
+    {
+      "id": "p3-b02-pass-24",
+      "kind": "conversation",
+      "title": "Marketing budget",
+      "body": null,
+      "transcript": "N: Questions 62 through 64 refer to the following conversation.\nM: Linda, the marketing budget for next year is smaller than we hoped.\nW: How much smaller?\nM: About ten percent. We need to decide what to cut.\nW: Print ads are the obvious choice. Our online campaigns bring in more customers per dollar.\nM: I agree, but the retail partners still ask for printed brochures.\nW: Then let's cut the number of brochures by half and put the savings into social media.",
+      "image": null
+    }
+  ],
+  "questions": [
+    {
+      "id": "p3-b02-01",
+      "part": 3,
+      "difficulty": 1,
+      "category": "qt-conversation-gist",
+      "stem": "Why is the woman calling?",
+      "choices": [
+        "To cancel a hotel booking",
+        "To sign up for an event",
+        "To change a flight",
+        "To ask for directions"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Elle s'inscrit à une conférence.",
+          "why_wrong": [
+            "A : aucun hôtel.",
+            "C : non.",
+            "D : non."
+          ],
+          "example": "To sign up for an event"
+        },
+        "en": {
+          "rule": "She registers for a conference.",
+          "why_wrong": [
+            "A: no hotel.",
+            "C: no.",
+            "D: no."
+          ],
+          "example": "To sign up for an event"
+        }
+      },
+      "vocab": [],
+      "passage": "p3-b02-pass-01",
+      "position": 1
+    },
+    {
+      "id": "p3-b02-02",
+      "part": 3,
+      "difficulty": 2,
+      "category": "qt-conversation-detail",
+      "stem": "What does the man say about group registrations?",
+      "choices": [
+        "They include free meals.",
+        "They must pay in cash.",
+        "They need a manager's approval.",
+        "They receive a price reduction."
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Les groupes de trois ou plus ont 15 % de remise.",
+          "why_wrong": [
+            "A : non.",
+            "B : carte ou chèque.",
+            "C : non."
+          ],
+          "example": "They receive a price reduction."
+        },
+        "en": {
+          "rule": "Groups of three or more get fifteen percent off.",
+          "why_wrong": [
+            "A: no.",
+            "B: card or check.",
+            "C: no."
+          ],
+          "example": "They receive a price reduction."
+        }
+      },
+      "vocab": [],
+      "passage": "p3-b02-pass-01",
+      "position": 2
+    },
+    {
+      "id": "p3-b02-03",
+      "part": 3,
+      "difficulty": 3,
+      "category": "qt-conversation-inference",
+      "stem": "What will the woman most likely do next?",
+      "choices": [
+        "Pay with a credit card",
+        "Mail a check",
+        "Call her manager",
+        "Visit Denver"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "« I'll pay now » après l'option carte.",
+          "why_wrong": [
+            "B : elle paie maintenant.",
+            "C : non.",
+            "D : non."
+          ],
+          "example": "Pay with a credit card"
+        },
+        "en": {
+          "rule": "'I'll pay now' after the card option.",
+          "why_wrong": [
+            "B: she pays now.",
+            "C: no.",
+            "D: no."
+          ],
+          "example": "Pay with a credit card"
+        }
+      },
+      "vocab": [],
+      "passage": "p3-b02-pass-01",
+      "position": 3
+    },
+    {
+      "id": "p3-b02-04",
+      "part": 3,
+      "difficulty": 1,
+      "category": "qt-conversation-gist",
+      "stem": "What problem are the speakers discussing?",
+      "choices": [
+        "A damaged product",
+        "A billing error",
+        "A late delivery",
+        "A staffing shortage"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Les tablettes ne sont pas arrivées.",
+          "why_wrong": [
+            "A : non.",
+            "B : non.",
+            "D : non."
+          ],
+          "example": "A late delivery"
+        },
+        "en": {
+          "rule": "The tablets have not arrived.",
+          "why_wrong": [
+            "A: no.",
+            "B: no.",
+            "D: no."
+          ],
+          "example": "A late delivery"
+        }
+      },
+      "vocab": [],
+      "passage": "p3-b02-pass-02",
+      "position": 1
+    },
+    {
+      "id": "p3-b02-05",
+      "part": 3,
+      "difficulty": 2,
+      "category": "qt-conversation-detail",
+      "stem": "What does the man say would be a possible solution?",
+      "choices": [
+        "Changing carriers",
+        "Delaying an advertisement",
+        "Closing the store",
+        "Cancelling the order"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "« I'd rather postpone the advertisement ».",
+          "why_wrong": [
+            "A : non.",
+            "C : non.",
+            "D : non."
+          ],
+          "example": "Delaying an advertisement"
+        },
+        "en": {
+          "rule": "'I'd rather postpone the advertisement'.",
+          "why_wrong": [
+            "A: no.",
+            "C: no.",
+            "D: no."
+          ],
+          "example": "Delaying an advertisement"
+        }
+      },
+      "vocab": [],
+      "passage": "p3-b02-pass-02",
+      "position": 2
+    },
+    {
+      "id": "p3-b02-06",
+      "part": 3,
+      "difficulty": 3,
+      "category": "qt-visual-info",
+      "stem": "Look at the graphic. When is the shipment most likely to reach the Boston store?",
+      "choices": [
+        "Tuesday morning",
+        "Thursday morning",
+        "Friday afternoon",
+        "Wednesday evening"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Libération mercredi + camion le même soir.",
+          "why_wrong": [
+            "A : avant le déblocage.",
+            "B : trop tard pour la promotion.",
+            "C : non."
+          ],
+          "example": "Wednesday evening"
+        },
+        "en": {
+          "rule": "Released Wednesday + truck the same evening.",
+          "why_wrong": [
+            "A: before the release.",
+            "B: too late for the promotion.",
+            "C: no."
+          ],
+          "example": "Wednesday evening"
+        }
+      },
+      "vocab": [],
+      "passage": "p3-b02-pass-02",
+      "position": 3
+    },
+    {
+      "id": "p3-b02-07",
+      "part": 3,
+      "difficulty": 1,
+      "category": "qt-conversation-gist",
+      "stem": "Where does the conversation most likely take place?",
+      "choices": [
+        "At a company office",
+        "At a restaurant",
+        "At a school",
+        "At an airport"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Accueil d'un nouvel employé dans une entreprise.",
+          "why_wrong": [
+            "B : non.",
+            "C : non.",
+            "D : non."
+          ],
+          "example": "At a company office"
+        },
+        "en": {
+          "rule": "Welcome of a new employee at a company.",
+          "why_wrong": [
+            "B: no.",
+            "C: no.",
+            "D: no."
+          ],
+          "example": "At a company office"
+        }
+      },
+      "vocab": [],
+      "passage": "p3-b02-pass-03",
+      "position": 1
+    },
+    {
+      "id": "p3-b02-08",
+      "part": 3,
+      "difficulty": 2,
+      "category": "qt-conversation-detail",
+      "stem": "What will the man receive first?",
+      "choices": [
+        "A security badge",
+        "A lunch voucher",
+        "A laptop",
+        "A parking permit"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "« First, let's get your security badge ».",
+          "why_wrong": [
+            "B : non.",
+            "C : ce sera plus tard.",
+            "D : non."
+          ],
+          "example": "A security badge"
+        },
+        "en": {
+          "rule": "'First, let's get your security badge'.",
+          "why_wrong": [
+            "B: no.",
+            "C: that comes later.",
+            "D: no."
+          ],
+          "example": "A security badge"
+        }
+      },
+      "vocab": [],
+      "passage": "p3-b02-pass-03",
+      "position": 2
+    },
+    {
+      "id": "p3-b02-09",
+      "part": 3,
+      "difficulty": 3,
+      "category": "qt-conversation-inference",
+      "stem": "What will the man do at noon?",
+      "choices": [
+        "Attend safety training",
+        "Meet IT",
+        "Have lunch with his supervisor",
+        "Tour the building"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Mme Kwon le retrouve à midi pour déjeuner.",
+          "why_wrong": [
+            "A : demain à 10 h.",
+            "B : l'après-midi.",
+            "D : non."
+          ],
+          "example": "Have lunch with his supervisor"
+        },
+        "en": {
+          "rule": "Ms. Kwon meets him for lunch at noon.",
+          "why_wrong": [
+            "A: tomorrow at ten.",
+            "B: in the afternoon.",
+            "D: no."
+          ],
+          "example": "Have lunch with his supervisor"
+        }
+      },
+      "vocab": [],
+      "passage": "p3-b02-pass-03",
+      "position": 3
+    },
+    {
+      "id": "p3-b02-10",
+      "part": 3,
+      "difficulty": 1,
+      "category": "qt-conversation-gist",
+      "stem": "What is the man's problem?",
+      "choices": [
+        "His reservation is for the wrong date.",
+        "His luggage is missing.",
+        "His card was declined.",
+        "His room is too small."
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "La réservation est pour demain, pas ce soir.",
+          "why_wrong": [
+            "B : non.",
+            "C : non.",
+            "D : non."
+          ],
+          "example": "His reservation is for the wrong date."
+        },
+        "en": {
+          "rule": "The booking is for tomorrow, not tonight.",
+          "why_wrong": [
+            "B: no.",
+            "C: no.",
+            "D: no."
+          ],
+          "example": "His reservation is for the wrong date."
+        }
+      },
+      "vocab": [],
+      "passage": "p3-b02-pass-04",
+      "position": 1
+    },
+    {
+      "id": "p3-b02-11",
+      "part": 3,
+      "difficulty": 2,
+      "category": "qt-conversation-detail",
+      "stem": "What does the woman offer?",
+      "choices": [
+        "A room at another hotel",
+        "A larger room here",
+        "A free breakfast",
+        "A full refund"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Une chambre dans l'hôtel partenaire.",
+          "why_wrong": [
+            "B : complet ce soir.",
+            "C : non.",
+            "D : non."
+          ],
+          "example": "A room at another hotel"
+        },
+        "en": {
+          "rule": "A room at the sister hotel.",
+          "why_wrong": [
+            "B: full tonight.",
+            "C: no.",
+            "D: no."
+          ],
+          "example": "A room at another hotel"
+        }
+      },
+      "vocab": [],
+      "passage": "p3-b02-pass-04",
+      "position": 2
+    },
+    {
+      "id": "p3-b02-12",
+      "part": 3,
+      "difficulty": 3,
+      "category": "qt-conversation-inference",
+      "stem": "What will the hotel probably pay for?",
+      "choices": [
+        "The man's taxi",
+        "The man's flight",
+        "The man's conference fee",
+        "The man's dinner"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "« Of course » en réponse à « Will you cover the taxi? ».",
+          "why_wrong": [
+            "B : non.",
+            "C : non.",
+            "D : non."
+          ],
+          "example": "The man's taxi"
+        },
+        "en": {
+          "rule": "'Of course' in answer to 'Will you cover the taxi?'.",
+          "why_wrong": [
+            "B: no.",
+            "C: no.",
+            "D: no."
+          ],
+          "example": "The man's taxi"
+        }
+      },
+      "vocab": [],
+      "passage": "p3-b02-pass-04",
+      "position": 3
+    },
+    {
+      "id": "p3-b02-13",
+      "part": 3,
+      "difficulty": 1,
+      "category": "qt-conversation-gist",
+      "stem": "What are the speakers doing?",
+      "choices": [
+        "Repairing a machine",
+        "Interviewing a candidate",
+        "Planning a purchase",
+        "Reviewing a contract"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Ils préparent une commande de fournitures.",
+          "why_wrong": [
+            "A : non.",
+            "B : non.",
+            "D : non."
+          ],
+          "example": "Planning a purchase"
+        },
+        "en": {
+          "rule": "They plan a supplies order.",
+          "why_wrong": [
+            "A: no.",
+            "B: no.",
+            "D: no."
+          ],
+          "example": "Planning a purchase"
+        }
+      },
+      "vocab": [],
+      "passage": "p3-b02-pass-05",
+      "position": 1
+    },
+    {
+      "id": "p3-b02-14",
+      "part": 3,
+      "difficulty": 2,
+      "category": "qt-conversation-detail",
+      "stem": "What does the man ask the woman to do before she confirms the order?",
+      "choices": [
+        "Ask for a discount",
+        "Send him the total",
+        "Check the warehouse",
+        "Call the supplier"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "« Send me the total before you confirm ».",
+          "why_wrong": [
+            "A : non.",
+            "C : non.",
+            "D : non."
+          ],
+          "example": "Send him the total"
+        },
+        "en": {
+          "rule": "'Send me the total before you confirm'.",
+          "why_wrong": [
+            "A: no.",
+            "C: no.",
+            "D: no."
+          ],
+          "example": "Send him the total"
+        }
+      },
+      "vocab": [],
+      "passage": "p3-b02-pass-05",
+      "position": 2
+    },
+    {
+      "id": "p3-b02-15",
+      "part": 3,
+      "difficulty": 3,
+      "category": "qt-visual-info",
+      "stem": "Look at the graphic. Which toner pack will the speakers most likely order?",
+      "choices": [
+        "The single cartridge",
+        "The pack of 10",
+        "The pack of 20",
+        "The pack of 4"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Ils consomment environ huit cartouches : le paquet de 10 convient.",
+          "why_wrong": [
+            "A : ils en utilisent environ huit par an.",
+            "C : trop grand.",
+            "D : insuffisant pour huit."
+          ],
+          "example": "The pack of 10"
+        },
+        "en": {
+          "rule": "They use about eight: the pack of 10 fits.",
+          "why_wrong": [
+            "A: they use about eight a year.",
+            "C: too large.",
+            "D: not enough for eight."
+          ],
+          "example": "The pack of 10"
+        }
+      },
+      "vocab": [],
+      "passage": "p3-b02-pass-05",
+      "position": 3
+    },
+    {
+      "id": "p3-b02-16",
+      "part": 3,
+      "difficulty": 1,
+      "category": "qt-conversation-gist",
+      "stem": "What are the speakers mainly discussing?",
+      "choices": [
+        "Planning a vacation",
+        "Preparing for a presentation",
+        "Hiring a manager",
+        "Moving offices"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Ils préparent une présentation au conseil.",
+          "why_wrong": [
+            "A : non.",
+            "C : non.",
+            "D : non."
+          ],
+          "example": "Preparing for a presentation"
+        },
+        "en": {
+          "rule": "They prepare a board presentation.",
+          "why_wrong": [
+            "A: no.",
+            "C: no.",
+            "D: no."
+          ],
+          "example": "Preparing for a presentation"
+        }
+      },
+      "vocab": [],
+      "passage": "p3-b02-pass-06",
+      "position": 1
+    },
+    {
+      "id": "p3-b02-17",
+      "part": 3,
+      "difficulty": 2,
+      "category": "qt-conversation-detail",
+      "stem": "What does the man offer to do?",
+      "choices": [
+        "Print the slides",
+        "Call the board",
+        "Send a report",
+        "Book a room"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "« I'll forward it to you now ».",
+          "why_wrong": [
+            "A : non.",
+            "B : non.",
+            "D : non."
+          ],
+          "example": "Send a report"
+        },
+        "en": {
+          "rule": "'I'll forward it to you now'.",
+          "why_wrong": [
+            "A: no.",
+            "B: no.",
+            "D: no."
+          ],
+          "example": "Send a report"
+        }
+      },
+      "vocab": [],
+      "passage": "p3-b02-pass-06",
+      "position": 2
+    },
+    {
+      "id": "p3-b02-18",
+      "part": 3,
+      "difficulty": 3,
+      "category": "qt-conversation-inference",
+      "stem": "What will the woman probably do tonight?",
+      "choices": [
+        "Update the sales chart only",
+        "Meet the board",
+        "Rehearse her talk",
+        "Interview someone"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "« I'll practice with a timer tonight ».",
+          "why_wrong": [
+            "A : elle va aussi répéter.",
+            "B : demain.",
+            "D : non."
+          ],
+          "example": "Rehearse her talk"
+        },
+        "en": {
+          "rule": "'I'll practice with a timer tonight'.",
+          "why_wrong": [
+            "A: she will also rehearse.",
+            "B: tomorrow.",
+            "D: no."
+          ],
+          "example": "Rehearse her talk"
+        }
+      },
+      "vocab": [],
+      "passage": "p3-b02-pass-06",
+      "position": 3
+    },
+    {
+      "id": "p3-b02-19",
+      "part": 3,
+      "difficulty": 1,
+      "category": "qt-conversation-gist",
+      "stem": "What is the conversation about?",
+      "choices": [
+        "A new product line",
+        "A client visit",
+        "A required training course",
+        "A holiday schedule"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Formation en ligne obligatoire pour la nouvelle base.",
+          "why_wrong": [
+            "A : non.",
+            "B : non.",
+            "D : non."
+          ],
+          "example": "A required training course"
+        },
+        "en": {
+          "rule": "Mandatory online training for the new database.",
+          "why_wrong": [
+            "A: no.",
+            "B: no.",
+            "D: no."
+          ],
+          "example": "A required training course"
+        }
+      },
+      "vocab": [],
+      "passage": "p3-b02-pass-07",
+      "position": 1
+    },
+    {
+      "id": "p3-b02-20",
+      "part": 3,
+      "difficulty": 2,
+      "category": "qt-conversation-detail",
+      "stem": "How long is the training?",
+      "choices": [
+        "About two hours",
+        "About ten minutes",
+        "One week",
+        "A full day"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "« About two hours ».",
+          "why_wrong": [
+            "B : non.",
+            "C : c'est le délai.",
+            "D : non."
+          ],
+          "example": "About two hours"
+        },
+        "en": {
+          "rule": "'About two hours'.",
+          "why_wrong": [
+            "B: no.",
+            "C: that is the deadline.",
+            "D: no."
+          ],
+          "example": "About two hours"
+        }
+      },
+      "vocab": [],
+      "passage": "p3-b02-pass-07",
+      "position": 2
+    },
+    {
+      "id": "p3-b02-21",
+      "part": 3,
+      "difficulty": 3,
+      "category": "qt-conversation-inference",
+      "stem": "What will the man probably do next?",
+      "choices": [
+        "Reset a password",
+        "Send the woman a link",
+        "Update the database",
+        "Call a client"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "« I'll email you the link now ».",
+          "why_wrong": [
+            "A : non.",
+            "C : non.",
+            "D : non."
+          ],
+          "example": "Send the woman a link"
+        },
+        "en": {
+          "rule": "'I'll email you the link now'.",
+          "why_wrong": [
+            "A: no.",
+            "C: no.",
+            "D: no."
+          ],
+          "example": "Send the woman a link"
+        }
+      },
+      "vocab": [],
+      "passage": "p3-b02-pass-07",
+      "position": 3
+    },
+    {
+      "id": "p3-b02-22",
+      "part": 3,
+      "difficulty": 1,
+      "category": "qt-conversation-gist",
+      "stem": "Why is the man calling?",
+      "choices": [
+        "To reserve a hotel",
+        "To arrange a meal for an event",
+        "To apply for a job",
+        "To complain about food"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Il organise un déjeuner d'entreprise.",
+          "why_wrong": [
+            "A : non.",
+            "C : non.",
+            "D : non."
+          ],
+          "example": "To arrange a meal for an event"
+        },
+        "en": {
+          "rule": "He organizes a staff luncheon.",
+          "why_wrong": [
+            "A: no.",
+            "C: no.",
+            "D: no."
+          ],
+          "example": "To arrange a meal for an event"
+        }
+      },
+      "vocab": [],
+      "passage": "p3-b02-pass-08",
+      "position": 1
+    },
+    {
+      "id": "p3-b02-23",
+      "part": 3,
+      "difficulty": 2,
+      "category": "qt-conversation-detail",
+      "stem": "What does the woman recommend?",
+      "choices": [
+        "A private dining room",
+        "The hot buffet",
+        "The salad bar",
+        "The sandwich package"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Au vu du budget, le forfait sandwichs à 15 $.",
+          "why_wrong": [
+            "A : non.",
+            "B : le plus populaire mais plus cher.",
+            "C : non."
+          ],
+          "example": "The sandwich package"
+        },
+        "en": {
+          "rule": "Given the budget, the $15 sandwich package.",
+          "why_wrong": [
+            "A: no.",
+            "B: most popular but more expensive.",
+            "C: no."
+          ],
+          "example": "The sandwich package"
+        }
+      },
+      "vocab": [],
+      "passage": "p3-b02-pass-08",
+      "position": 2
+    },
+    {
+      "id": "p3-b02-24",
+      "part": 3,
+      "difficulty": 3,
+      "category": "qt-conversation-inference",
+      "stem": "What will the woman do this afternoon?",
+      "choices": [
+        "Deliver the food",
+        "Hire a driver",
+        "Visit the office",
+        "Email a price quote"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "« I'll send a written quote by email this afternoon ».",
+          "why_wrong": [
+            "A : pas aujourd'hui.",
+            "B : non.",
+            "C : non."
+          ],
+          "example": "Email a price quote"
+        },
+        "en": {
+          "rule": "'I'll send a written quote by email this afternoon'.",
+          "why_wrong": [
+            "A: not today.",
+            "B: no.",
+            "C: no."
+          ],
+          "example": "Email a price quote"
+        }
+      },
+      "vocab": [],
+      "passage": "p3-b02-pass-08",
+      "position": 3
+    },
+    {
+      "id": "p3-b02-25",
+      "part": 3,
+      "difficulty": 1,
+      "category": "qt-conversation-gist",
+      "stem": "What is the woman's main concern?",
+      "choices": [
+        "Finding her seat",
+        "Losing her passport",
+        "Missing a connecting flight",
+        "Paying extra for baggage"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Elle s'inquiète de sa correspondance à Madrid.",
+          "why_wrong": [
+            "A : non.",
+            "B : non.",
+            "D : non."
+          ],
+          "example": "Missing a connecting flight"
+        },
+        "en": {
+          "rule": "She worries about her connection in Madrid.",
+          "why_wrong": [
+            "A: no.",
+            "B: no.",
+            "D: no."
+          ],
+          "example": "Missing a connecting flight"
+        }
+      },
+      "vocab": [],
+      "passage": "p3-b02-pass-09",
+      "position": 1
+    },
+    {
+      "id": "p3-b02-26",
+      "part": 3,
+      "difficulty": 2,
+      "category": "qt-conversation-detail",
+      "stem": "What does the man offer to give the woman?",
+      "choices": [
+        "A free meal",
+        "A letter about the delay",
+        "A seat upgrade",
+        "A refund"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "« I can print a letter for your connecting airline ».",
+          "why_wrong": [
+            "A : non.",
+            "C : non.",
+            "D : non."
+          ],
+          "example": "A letter about the delay"
+        },
+        "en": {
+          "rule": "'I can print a letter for your connecting airline'.",
+          "why_wrong": [
+            "A: no.",
+            "C: no.",
+            "D: no."
+          ],
+          "example": "A letter about the delay"
+        }
+      },
+      "vocab": [],
+      "passage": "p3-b02-pass-09",
+      "position": 2
+    },
+    {
+      "id": "p3-b02-27",
+      "part": 3,
+      "difficulty": 3,
+      "category": "qt-visual-info",
+      "stem": "Look at the graphic. At which gate will the woman board?",
+      "choices": [
+        "Gate C8",
+        "Gate A1",
+        "Gate B3",
+        "Gate D5"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Le vol 614 a été déplacé à la porte C8.",
+          "why_wrong": [
+            "B : non.",
+            "C : ancienne porte.",
+            "D : non."
+          ],
+          "example": "Gate C8"
+        },
+        "en": {
+          "rule": "Flight 614 was moved to Gate C8.",
+          "why_wrong": [
+            "B: no.",
+            "C: old gate.",
+            "D: no."
+          ],
+          "example": "Gate C8"
+        }
+      },
+      "vocab": [],
+      "passage": "p3-b02-pass-09",
+      "position": 3
+    },
+    {
+      "id": "p3-b02-28",
+      "part": 3,
+      "difficulty": 1,
+      "category": "qt-conversation-gist",
+      "stem": "Who is the man most likely?",
+      "choices": [
+        "A tax inspector",
+        "A prospective business owner",
+        "A bank employee",
+        "A baker's supplier"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Il va ouvrir une boulangerie et demande un prêt.",
+          "why_wrong": [
+            "A : non.",
+            "C : c'est la femme.",
+            "D : non."
+          ],
+          "example": "A prospective business owner"
+        },
+        "en": {
+          "rule": "He is opening a bakery and asks about a loan.",
+          "why_wrong": [
+            "A: no.",
+            "C: that is the woman.",
+            "D: no."
+          ],
+          "example": "A prospective business owner"
+        }
+      },
+      "vocab": [],
+      "passage": "p3-b02-pass-10",
+      "position": 1
+    },
+    {
+      "id": "p3-b02-29",
+      "part": 3,
+      "difficulty": 2,
+      "category": "qt-conversation-detail",
+      "stem": "What does the bank require from new businesses?",
+      "choices": [
+        "A deposit of ten thousand dollars",
+        "A reference from a landlord",
+        "Proof of citizenship",
+        "A business plan"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Plan d'affaires et déclarations fiscales.",
+          "why_wrong": [
+            "A : non.",
+            "B : non.",
+            "C : non."
+          ],
+          "example": "A business plan"
+        },
+        "en": {
+          "rule": "A business plan and tax records.",
+          "why_wrong": [
+            "A: no.",
+            "B: no.",
+            "C: no."
+          ],
+          "example": "A business plan"
+        }
+      },
+      "vocab": [],
+      "passage": "p3-b02-pass-10",
+      "position": 2
+    },
+    {
+      "id": "p3-b02-30",
+      "part": 3,
+      "difficulty": 3,
+      "category": "qt-conversation-inference",
+      "stem": "What will the man probably do next?",
+      "choices": [
+        "Buy ovens",
+        "Open a new account",
+        "Hire employees",
+        "Make an appointment"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Elle propose un rendez-vous lundi s'il dépose sa demande cette semaine.",
+          "why_wrong": [
+            "A : pas encore.",
+            "B : non.",
+            "C : non."
+          ],
+          "example": "Make an appointment"
+        },
+        "en": {
+          "rule": "She offers a Monday appointment if he applies this week.",
+          "why_wrong": [
+            "A: not yet.",
+            "B: no.",
+            "C: no."
+          ],
+          "example": "Make an appointment"
+        }
+      },
+      "vocab": [],
+      "passage": "p3-b02-pass-10",
+      "position": 3
+    },
+    {
+      "id": "p3-b02-31",
+      "part": 3,
+      "difficulty": 1,
+      "category": "qt-conversation-gist",
+      "stem": "What is the reason for the call?",
+      "choices": [
+        "To renew a lease",
+        "To pay the rent",
+        "To report a plumbing problem",
+        "To complain about noise"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Un robinet fuit.",
+          "why_wrong": [
+            "A : non.",
+            "B : non.",
+            "D : non."
+          ],
+          "example": "To report a plumbing problem"
+        },
+        "en": {
+          "rule": "A faucet is leaking.",
+          "why_wrong": [
+            "A: no.",
+            "B: no.",
+            "D: no."
+          ],
+          "example": "To report a plumbing problem"
+        }
+      },
+      "vocab": [],
+      "passage": "p3-b02-pass-11",
+      "position": 1
+    },
+    {
+      "id": "p3-b02-32",
+      "part": 3,
+      "difficulty": 2,
+      "category": "qt-conversation-detail",
+      "stem": "What does the woman suggest doing with her key?",
+      "choices": [
+        "Giving it to Carlos",
+        "Hiding it outside",
+        "Leaving it with a neighbor",
+        "Mailing it"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "« I could leave a key with the neighbor ».",
+          "why_wrong": [
+            "A : elle le laisse au voisin.",
+            "B : non.",
+            "D : non."
+          ],
+          "example": "Leaving it with a neighbor"
+        },
+        "en": {
+          "rule": "'I could leave a key with the neighbor'.",
+          "why_wrong": [
+            "A: she leaves it with a neighbor.",
+            "B: no.",
+            "D: no."
+          ],
+          "example": "Leaving it with a neighbor"
+        }
+      },
+      "vocab": [],
+      "passage": "p3-b02-pass-11",
+      "position": 2
+    },
+    {
+      "id": "p3-b02-33",
+      "part": 3,
+      "difficulty": 3,
+      "category": "qt-conversation-inference",
+      "stem": "What is implied about the repair?",
+      "choices": [
+        "It requires a permit.",
+        "The tenant will not pay for it.",
+        "It will take a week.",
+        "It has already been done."
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Les réparations de plomberie sont couvertes par le bail.",
+          "why_wrong": [
+            "A : non.",
+            "C : non.",
+            "D : non."
+          ],
+          "example": "The tenant will not pay for it."
+        },
+        "en": {
+          "rule": "Plumbing repairs are covered by the lease.",
+          "why_wrong": [
+            "A: no.",
+            "C: no.",
+            "D: no."
+          ],
+          "example": "The tenant will not pay for it."
+        }
+      },
+      "vocab": [],
+      "passage": "p3-b02-pass-11",
+      "position": 3
+    },
+    {
+      "id": "p3-b02-34",
+      "part": 3,
+      "difficulty": 1,
+      "category": "qt-conversation-gist",
+      "stem": "What are the speakers discussing?",
+      "choices": [
+        "Sales performance",
+        "Employee salaries",
+        "A product recall",
+        "A building project"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Ils examinent les résultats de ventes.",
+          "why_wrong": [
+            "B : non.",
+            "C : non.",
+            "D : non."
+          ],
+          "example": "Sales performance"
+        },
+        "en": {
+          "rule": "They review sales results.",
+          "why_wrong": [
+            "B: no.",
+            "C: no.",
+            "D: no."
+          ],
+          "example": "Sales performance"
+        }
+      },
+      "vocab": [],
+      "passage": "p3-b02-pass-12",
+      "position": 1
+    },
+    {
+      "id": "p3-b02-35",
+      "part": 3,
+      "difficulty": 2,
+      "category": "qt-conversation-detail",
+      "stem": "What does the man suggest?",
+      "choices": [
+        "Raising prices",
+        "Closing the northern office",
+        "Moving some staff to another region",
+        "Cutting advertising"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Déplacer une partie de l'équipe vers le sud.",
+          "why_wrong": [
+            "A : non.",
+            "B : non.",
+            "D : non."
+          ],
+          "example": "Moving some staff to another region"
+        },
+        "en": {
+          "rule": "Shift some of the team to the south.",
+          "why_wrong": [
+            "A: no.",
+            "B: no.",
+            "D: no."
+          ],
+          "example": "Moving some staff to another region"
+        }
+      },
+      "vocab": [],
+      "passage": "p3-b02-pass-12",
+      "position": 2
+    },
+    {
+      "id": "p3-b02-36",
+      "part": 3,
+      "difficulty": 3,
+      "category": "qt-conversation-inference",
+      "stem": "What will the woman do for Monday's meeting?",
+      "choices": [
+        "Visit the southern region",
+        "Present the third-quarter numbers again",
+        "Hire a consultant",
+        "Write a proposal"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "« I'll prepare a proposal ».",
+          "why_wrong": [
+            "A : non.",
+            "B : non.",
+            "C : non."
+          ],
+          "example": "Write a proposal"
+        },
+        "en": {
+          "rule": "'I'll prepare a proposal'.",
+          "why_wrong": [
+            "A: no.",
+            "B: no.",
+            "C: no."
+          ],
+          "example": "Write a proposal"
+        }
+      },
+      "vocab": [],
+      "passage": "p3-b02-pass-12",
+      "position": 3
+    },
+    {
+      "id": "p3-b02-37",
+      "part": 3,
+      "difficulty": 1,
+      "category": "qt-conversation-gist",
+      "stem": "What are the speakers arranging?",
+      "choices": [
+        "A training workshop",
+        "Job interviews",
+        "A client dinner",
+        "A product launch"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Ils organisent des entretiens d'embauche.",
+          "why_wrong": [
+            "A : non.",
+            "C : non.",
+            "D : non."
+          ],
+          "example": "Job interviews"
+        },
+        "en": {
+          "rule": "They arrange job interviews.",
+          "why_wrong": [
+            "A: no.",
+            "C: no.",
+            "D: no."
+          ],
+          "example": "Job interviews"
+        }
+      },
+      "vocab": [],
+      "passage": "p3-b02-pass-13",
+      "position": 1
+    },
+    {
+      "id": "p3-b02-38",
+      "part": 3,
+      "difficulty": 2,
+      "category": "qt-conversation-detail",
+      "stem": "Why can the man not interview candidates after two o'clock?",
+      "choices": [
+        "The office closes.",
+        "He is sick.",
+        "He has a meeting.",
+        "He is leaving on a trip."
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "« I have a meeting at two ».",
+          "why_wrong": [
+            "A : non.",
+            "B : non.",
+            "D : non."
+          ],
+          "example": "He has a meeting."
+        },
+        "en": {
+          "rule": "'I have a meeting at two'.",
+          "why_wrong": [
+            "A: no.",
+            "B: no.",
+            "D: no."
+          ],
+          "example": "He has a meeting."
+        }
+      },
+      "vocab": [],
+      "passage": "p3-b02-pass-13",
+      "position": 2
+    },
+    {
+      "id": "p3-b02-39",
+      "part": 3,
+      "difficulty": 3,
+      "category": "qt-visual-info",
+      "stem": "Look at the graphic. Which time will most likely be given to Ms. Ortiz?",
+      "choices": [
+        "11:30",
+        "1:30",
+        "2:30",
+        "9:00"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Elle passe en premier et doit venir avant midi : 9:00.",
+          "why_wrong": [
+            "A : autre créneau, qui ne correspond pas à « first ».",
+            "B : créneau de M. Lee.",
+            "C : après la réunion de l'homme."
+          ],
+          "example": "9:00"
+        },
+        "en": {
+          "rule": "She goes first and must come before noon: 9:00.",
+          "why_wrong": [
+            "A: another slot that does not match 'first'.",
+            "B: Mr. Lee's slot.",
+            "C: after the man's meeting."
+          ],
+          "example": "9:00"
+        }
+      },
+      "vocab": [],
+      "passage": "p3-b02-pass-13",
+      "position": 3
+    },
+    {
+      "id": "p3-b02-40",
+      "part": 3,
+      "difficulty": 1,
+      "category": "qt-conversation-gist",
+      "stem": "What is the woman trying to do?",
+      "choices": [
+        "Book a table",
+        "Order food for delivery",
+        "Cancel a party",
+        "Apply for a job"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Elle réserve une table pour un dîner.",
+          "why_wrong": [
+            "B : non.",
+            "C : non.",
+            "D : non."
+          ],
+          "example": "Book a table"
+        },
+        "en": {
+          "rule": "She books a table for dinner.",
+          "why_wrong": [
+            "B: no.",
+            "C: no.",
+            "D: no."
+          ],
+          "example": "Book a table"
+        }
+      },
+      "vocab": [],
+      "passage": "p3-b02-pass-14",
+      "position": 1
+    },
+    {
+      "id": "p3-b02-41",
+      "part": 3,
+      "difficulty": 2,
+      "category": "qt-conversation-detail",
+      "stem": "What does the man say about the private room?",
+      "choices": [
+        "It seats twenty.",
+        "It requires a minimum purchase.",
+        "It is free of charge.",
+        "It is closed on Saturdays."
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Minimum de 400 $.",
+          "why_wrong": [
+            "A : non.",
+            "C : non.",
+            "D : non."
+          ],
+          "example": "It requires a minimum purchase."
+        },
+        "en": {
+          "rule": "A $400 minimum spend.",
+          "why_wrong": [
+            "A: no.",
+            "C: no.",
+            "D: no."
+          ],
+          "example": "It requires a minimum purchase."
+        }
+      },
+      "vocab": [],
+      "passage": "p3-b02-pass-14",
+      "position": 2
+    },
+    {
+      "id": "p3-b02-42",
+      "part": 3,
+      "difficulty": 3,
+      "category": "qt-conversation-inference",
+      "stem": "What will the woman probably do before tomorrow noon?",
+      "choices": [
+        "Contact the restaurant again",
+        "Hire a caterer",
+        "Pay a deposit",
+        "Visit the restaurant"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Elle rappellera après avoir consulté les invités.",
+          "why_wrong": [
+            "B : non.",
+            "C : non.",
+            "D : non."
+          ],
+          "example": "Contact the restaurant again"
+        },
+        "en": {
+          "rule": "She will call back after asking the guests.",
+          "why_wrong": [
+            "B: no.",
+            "C: no.",
+            "D: no."
+          ],
+          "example": "Contact the restaurant again"
+        }
+      },
+      "vocab": [],
+      "passage": "p3-b02-pass-14",
+      "position": 3
+    },
+    {
+      "id": "p3-b02-43",
+      "part": 3,
+      "difficulty": 1,
+      "category": "qt-conversation-gist",
+      "stem": "Where does the conversation take place?",
+      "choices": [
+        "At a car rental office",
+        "At a repair shop",
+        "At a gas station",
+        "At a hotel"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Réservation et location de voiture.",
+          "why_wrong": [
+            "B : non.",
+            "C : non.",
+            "D : non."
+          ],
+          "example": "At a car rental office"
+        },
+        "en": {
+          "rule": "Booking and renting a car.",
+          "why_wrong": [
+            "B: no.",
+            "C: no.",
+            "D: no."
+          ],
+          "example": "At a car rental office"
+        }
+      },
+      "vocab": [],
+      "passage": "p3-b02-pass-15",
+      "position": 1
+    },
+    {
+      "id": "p3-b02-44",
+      "part": 3,
+      "difficulty": 2,
+      "category": "qt-conversation-detail",
+      "stem": "What does the woman offer the man?",
+      "choices": [
+        "A navigation system",
+        "A discount coupon",
+        "A free day",
+        "A bigger car for the same price"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Un véhicule intermédiaire au prix d'un compact.",
+          "why_wrong": [
+            "A : non.",
+            "B : non.",
+            "C : non."
+          ],
+          "example": "A bigger car for the same price"
+        },
+        "en": {
+          "rule": "A midsize at the compact price.",
+          "why_wrong": [
+            "A: no.",
+            "B: no.",
+            "C: no."
+          ],
+          "example": "A bigger car for the same price"
+        }
+      },
+      "vocab": [],
+      "passage": "p3-b02-pass-15",
+      "position": 2
+    },
+    {
+      "id": "p3-b02-45",
+      "part": 3,
+      "difficulty": 3,
+      "category": "qt-conversation-inference",
+      "stem": "Why does the man decline the insurance?",
+      "choices": [
+        "He will not drive far.",
+        "He forgot his license.",
+        "He already has coverage.",
+        "It is too expensive."
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Sa carte de crédit l'assure.",
+          "why_wrong": [
+            "A : non.",
+            "B : non.",
+            "D : non."
+          ],
+          "example": "He already has coverage."
+        },
+        "en": {
+          "rule": "His credit card covers it.",
+          "why_wrong": [
+            "A: no.",
+            "B: no.",
+            "D: no."
+          ],
+          "example": "He already has coverage."
+        }
+      },
+      "vocab": [],
+      "passage": "p3-b02-pass-15",
+      "position": 3
+    },
+    {
+      "id": "p3-b02-46",
+      "part": 3,
+      "difficulty": 1,
+      "category": "qt-conversation-gist",
+      "stem": "Why is the woman calling?",
+      "choices": [
+        "To track a package",
+        "To change an address",
+        "To ask for her money back",
+        "To buy another machine"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Elle veut un remboursement.",
+          "why_wrong": [
+            "A : non.",
+            "B : non.",
+            "D : non."
+          ],
+          "example": "To ask for her money back"
+        },
+        "en": {
+          "rule": "She wants a refund.",
+          "why_wrong": [
+            "A: no.",
+            "B: no.",
+            "D: no."
+          ],
+          "example": "To ask for her money back"
+        }
+      },
+      "vocab": [],
+      "passage": "p3-b02-pass-16",
+      "position": 1
+    },
+    {
+      "id": "p3-b02-47",
+      "part": 3,
+      "difficulty": 2,
+      "category": "qt-conversation-detail",
+      "stem": "What is the woman's order number?",
+      "choices": [
+        "28-2015",
+        "88-2051",
+        "88-2015",
+        "88-2105"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Le numéro donné est 88-2015.",
+          "why_wrong": [
+            "A : faux.",
+            "B : chiffres inversés.",
+            "D : faux."
+          ],
+          "example": "88-2015"
+        },
+        "en": {
+          "rule": "The number given is 88-2015.",
+          "why_wrong": [
+            "A: wrong.",
+            "B: digits reversed.",
+            "D: wrong."
+          ],
+          "example": "88-2015"
+        }
+      },
+      "vocab": [],
+      "passage": "p3-b02-pass-16",
+      "position": 2
+    },
+    {
+      "id": "p3-b02-48",
+      "part": 3,
+      "difficulty": 3,
+      "category": "qt-conversation-inference",
+      "stem": "What will the woman receive by email?",
+      "choices": [
+        "A coupon",
+        "A confirmation of her refund",
+        "A new password",
+        "A replacement machine"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Une confirmation est envoyée après le remboursement.",
+          "why_wrong": [
+            "A : non.",
+            "C : non.",
+            "D : non."
+          ],
+          "example": "A confirmation of her refund"
+        },
+        "en": {
+          "rule": "A confirmation follows the refund.",
+          "why_wrong": [
+            "A: no.",
+            "C: no.",
+            "D: no."
+          ],
+          "example": "A confirmation of her refund"
+        }
+      },
+      "vocab": [],
+      "passage": "p3-b02-pass-16",
+      "position": 3
+    },
+    {
+      "id": "p3-b02-49",
+      "part": 3,
+      "difficulty": 1,
+      "category": "qt-conversation-gist",
+      "stem": "What problem do the speakers have?",
+      "choices": [
+        "The projector is broken.",
+        "A client cancelled.",
+        "A room is too cold.",
+        "Two meetings are scheduled in the same room."
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "La salle Birch est réservée deux fois.",
+          "why_wrong": [
+            "A : non.",
+            "B : non.",
+            "C : non."
+          ],
+          "example": "Two meetings are scheduled in the same room."
+        },
+        "en": {
+          "rule": "The Birch room is booked twice.",
+          "why_wrong": [
+            "A: no.",
+            "B: no.",
+            "C: no."
+          ],
+          "example": "Two meetings are scheduled in the same room."
+        }
+      },
+      "vocab": [],
+      "passage": "p3-b02-pass-17",
+      "position": 1
+    },
+    {
+      "id": "p3-b02-50",
+      "part": 3,
+      "difficulty": 2,
+      "category": "qt-conversation-detail",
+      "stem": "Why does the man not want to move his meeting to the afternoon?",
+      "choices": [
+        "He will attend a training.",
+        "He leaves early.",
+        "He has a client lunch.",
+        "He is traveling."
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Il manquerait la formation.",
+          "why_wrong": [
+            "B : non.",
+            "C : non.",
+            "D : non."
+          ],
+          "example": "He will attend a training."
+        },
+        "en": {
+          "rule": "He would miss the training.",
+          "why_wrong": [
+            "B: no.",
+            "C: no.",
+            "D: no."
+          ],
+          "example": "He will attend a training."
+        }
+      },
+      "vocab": [],
+      "passage": "p3-b02-pass-17",
+      "position": 2
+    },
+    {
+      "id": "p3-b02-51",
+      "part": 3,
+      "difficulty": 3,
+      "category": "qt-visual-info",
+      "stem": "Look at the graphic. Which room will the man probably book?",
+      "choices": [
+        "Cedar",
+        "Birch",
+        "Aspen",
+        "Dogwood"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Dogwood est libre jusqu'à midi.",
+          "why_wrong": [
+            "A : occupée.",
+            "B : déjà réservée.",
+            "C : trop petite pour le groupe de la femme, mais surtout non proposée à l'homme."
+          ],
+          "example": "Dogwood"
+        },
+        "en": {
+          "rule": "Dogwood is free until noon.",
+          "why_wrong": [
+            "A: taken.",
+            "B: already booked.",
+            "C: too small for her group and not offered to him."
+          ],
+          "example": "Dogwood"
+        }
+      },
+      "vocab": [],
+      "passage": "p3-b02-pass-17",
+      "position": 3
+    },
+    {
+      "id": "p3-b02-52",
+      "part": 3,
+      "difficulty": 1,
+      "category": "qt-conversation-gist",
+      "stem": "What problem does the man have?",
+      "choices": [
+        "He missed a flight.",
+        "He forgot his password.",
+        "He lost a receipt.",
+        "He cannot upload a receipt."
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Le fichier de reçu est trop volumineux.",
+          "why_wrong": [
+            "A : non.",
+            "B : non.",
+            "C : non."
+          ],
+          "example": "He cannot upload a receipt."
+        },
+        "en": {
+          "rule": "The receipt file is too large.",
+          "why_wrong": [
+            "A: no.",
+            "B: no.",
+            "C: no."
+          ],
+          "example": "He cannot upload a receipt."
+        }
+      },
+      "vocab": [],
+      "passage": "p3-b02-pass-18",
+      "position": 1
+    },
+    {
+      "id": "p3-b02-53",
+      "part": 3,
+      "difficulty": 2,
+      "category": "qt-conversation-detail",
+      "stem": "What does the woman suggest?",
+      "choices": [
+        "Scanning the receipt as a PDF",
+        "Calling the hotel",
+        "Writing a new report",
+        "Using a different phone"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "« scan it as a PDF ».",
+          "why_wrong": [
+            "B : non.",
+            "C : non.",
+            "D : non."
+          ],
+          "example": "Scanning the receipt as a PDF"
+        },
+        "en": {
+          "rule": "'scan it as a PDF'.",
+          "why_wrong": [
+            "B: no.",
+            "C: no.",
+            "D: no."
+          ],
+          "example": "Scanning the receipt as a PDF"
+        }
+      },
+      "vocab": [],
+      "passage": "p3-b02-pass-18",
+      "position": 2
+    },
+    {
+      "id": "p3-b02-54",
+      "part": 3,
+      "difficulty": 3,
+      "category": "qt-conversation-inference",
+      "stem": "What is the man required to do for expensive items?",
+      "choices": [
+        "Photograph them",
+        "Get a second signature",
+        "Explain why they were needed",
+        "Pay in advance"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Les dépenses de plus de 100 $ exigent une note justificative.",
+          "why_wrong": [
+            "A : non.",
+            "B : non.",
+            "D : non."
+          ],
+          "example": "Explain why they were needed"
+        },
+        "en": {
+          "rule": "Items over $100 need an explanatory note.",
+          "why_wrong": [
+            "A: no.",
+            "B: no.",
+            "D: no."
+          ],
+          "example": "Explain why they were needed"
+        }
+      },
+      "vocab": [],
+      "passage": "p3-b02-pass-18",
+      "position": 3
+    },
+    {
+      "id": "p3-b02-55",
+      "part": 3,
+      "difficulty": 1,
+      "category": "qt-conversation-gist",
+      "stem": "What are the speakers discussing?",
+      "choices": [
+        "A customer survey",
+        "A travel plan",
+        "A job offer",
+        "The progress of a website project"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Ils font le point sur la refonte du site.",
+          "why_wrong": [
+            "A : non.",
+            "B : non.",
+            "C : non."
+          ],
+          "example": "The progress of a website project"
+        },
+        "en": {
+          "rule": "They review the website redesign.",
+          "why_wrong": [
+            "A: no.",
+            "B: no.",
+            "C: no."
+          ],
+          "example": "The progress of a website project"
+        }
+      },
+      "vocab": [],
+      "passage": "p3-b02-pass-19",
+      "position": 1
+    },
+    {
+      "id": "p3-b02-56",
+      "part": 3,
+      "difficulty": 2,
+      "category": "qt-conversation-detail",
+      "stem": "What does the man say is not yet complete?",
+      "choices": [
+        "The logo",
+        "The home page",
+        "A Spanish translation",
+        "The product pages"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "La section support doit encore être traduite.",
+          "why_wrong": [
+            "A : non.",
+            "B : terminée.",
+            "D : terminées."
+          ],
+          "example": "A Spanish translation"
+        },
+        "en": {
+          "rule": "The support section still has to be translated.",
+          "why_wrong": [
+            "A: no.",
+            "B: finished.",
+            "D: finished."
+          ],
+          "example": "A Spanish translation"
+        }
+      },
+      "vocab": [],
+      "passage": "p3-b02-pass-19",
+      "position": 2
+    },
+    {
+      "id": "p3-b02-57",
+      "part": 3,
+      "difficulty": 3,
+      "category": "qt-conversation-inference",
+      "stem": "Why does the man hesitate about the video?",
+      "choices": [
+        "The CEO dislikes videos.",
+        "It needs a translation.",
+        "It might postpone the launch.",
+        "It costs too much."
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "« That could delay the launch ».",
+          "why_wrong": [
+            "A : non.",
+            "B : non.",
+            "D : non."
+          ],
+          "example": "It might postpone the launch."
+        },
+        "en": {
+          "rule": "'That could delay the launch'.",
+          "why_wrong": [
+            "A: no.",
+            "B: no.",
+            "D: no."
+          ],
+          "example": "It might postpone the launch."
+        }
+      },
+      "vocab": [],
+      "passage": "p3-b02-pass-19",
+      "position": 3
+    },
+    {
+      "id": "p3-b02-58",
+      "part": 3,
+      "difficulty": 1,
+      "category": "qt-conversation-gist",
+      "stem": "Why is the man calling?",
+      "choices": [
+        "To change a delivery time",
+        "To complain about damage",
+        "To return a sofa",
+        "To order a table"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Il ne peut pas être là mardi et cherche un autre créneau.",
+          "why_wrong": [
+            "B : non.",
+            "C : non.",
+            "D : non."
+          ],
+          "example": "To change a delivery time"
+        },
+        "en": {
+          "rule": "He can't be there Tuesday and seeks another slot.",
+          "why_wrong": [
+            "B: no.",
+            "C: no.",
+            "D: no."
+          ],
+          "example": "To change a delivery time"
+        }
+      },
+      "vocab": [],
+      "passage": "p3-b02-pass-20",
+      "position": 1
+    },
+    {
+      "id": "p3-b02-59",
+      "part": 3,
+      "difficulty": 2,
+      "category": "qt-conversation-detail",
+      "stem": "When will the furniture be delivered?",
+      "choices": [
+        "On Monday evening",
+        "On Saturday morning",
+        "On Tuesday afternoon",
+        "On Friday night"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Il accepte le créneau du samedi matin.",
+          "why_wrong": [
+            "A : non.",
+            "C : créneau initial.",
+            "D : non."
+          ],
+          "example": "On Saturday morning"
+        },
+        "en": {
+          "rule": "He accepts the Saturday morning slot.",
+          "why_wrong": [
+            "A: no.",
+            "C: original slot.",
+            "D: no."
+          ],
+          "example": "On Saturday morning"
+        }
+      },
+      "vocab": [],
+      "passage": "p3-b02-pass-20",
+      "position": 2
+    },
+    {
+      "id": "p3-b02-60",
+      "part": 3,
+      "difficulty": 3,
+      "category": "qt-conversation-inference",
+      "stem": "Why will the man pay an additional fee?",
+      "choices": [
+        "He is ordering more items.",
+        "He wants assembly.",
+        "He is changing the date.",
+        "He lives on a high floor without an elevator."
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Escaliers au-dessus du deuxième étage : 40 $.",
+          "why_wrong": [
+            "A : non.",
+            "B : non.",
+            "C : non."
+          ],
+          "example": "He lives on a high floor without an elevator."
+        },
+        "en": {
+          "rule": "Stairs above the second floor: $40.",
+          "why_wrong": [
+            "A: no.",
+            "B: no.",
+            "C: no."
+          ],
+          "example": "He lives on a high floor without an elevator."
+        }
+      },
+      "vocab": [],
+      "passage": "p3-b02-pass-20",
+      "position": 3
+    },
+    {
+      "id": "p3-b02-61",
+      "part": 3,
+      "difficulty": 1,
+      "category": "qt-conversation-gist",
+      "stem": "Why is the man calling?",
+      "choices": [
+        "To change an appointment",
+        "To pay a bill",
+        "To book a flight",
+        "To buy medicine"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Son vol a changé, il reporte son rendez-vous.",
+          "why_wrong": [
+            "B : non.",
+            "C : non.",
+            "D : non."
+          ],
+          "example": "To change an appointment"
+        },
+        "en": {
+          "rule": "His flight changed, so he reschedules.",
+          "why_wrong": [
+            "B: no.",
+            "C: no.",
+            "D: no."
+          ],
+          "example": "To change an appointment"
+        }
+      },
+      "vocab": [],
+      "passage": "p3-b02-pass-21",
+      "position": 1
+    },
+    {
+      "id": "p3-b02-62",
+      "part": 3,
+      "difficulty": 2,
+      "category": "qt-conversation-detail",
+      "stem": "When is the man's new appointment?",
+      "choices": [
+        "Tomorrow at three",
+        "Friday at nine",
+        "Monday at eleven",
+        "Friday at three"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Vendredi convient.",
+          "why_wrong": [
+            "A : ancien rendez-vous.",
+            "C : autre option.",
+            "D : non."
+          ],
+          "example": "Friday at nine"
+        },
+        "en": {
+          "rule": "Friday works.",
+          "why_wrong": [
+            "A: old appointment.",
+            "C: other option.",
+            "D: no."
+          ],
+          "example": "Friday at nine"
+        }
+      },
+      "vocab": [],
+      "passage": "p3-b02-pass-21",
+      "position": 2
+    },
+    {
+      "id": "p3-b02-63",
+      "part": 3,
+      "difficulty": 3,
+      "category": "qt-conversation-inference",
+      "stem": "What will the man need to do at the office?",
+      "choices": [
+        "Meet an insurance agent",
+        "Fill out a form",
+        "Take a test",
+        "Pay a deposit"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Arriver 15 minutes plus tôt pour un formulaire.",
+          "why_wrong": [
+            "A : non.",
+            "C : non.",
+            "D : non."
+          ],
+          "example": "Fill out a form"
+        },
+        "en": {
+          "rule": "Arrive fifteen minutes early for a form.",
+          "why_wrong": [
+            "A: no.",
+            "C: no.",
+            "D: no."
+          ],
+          "example": "Fill out a form"
+        }
+      },
+      "vocab": [],
+      "passage": "p3-b02-pass-21",
+      "position": 3
+    },
+    {
+      "id": "p3-b02-64",
+      "part": 3,
+      "difficulty": 1,
+      "category": "qt-conversation-gist",
+      "stem": "What are the speakers arranging?",
+      "choices": [
+        "Coverage for an absence",
+        "A sales contest",
+        "A client lunch",
+        "A promotion"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Ils prévoient qui remplacera l'homme pendant ses vacances.",
+          "why_wrong": [
+            "B : non.",
+            "C : non.",
+            "D : non."
+          ],
+          "example": "Coverage for an absence"
+        },
+        "en": {
+          "rule": "They plan who will cover while he is away.",
+          "why_wrong": [
+            "B: no.",
+            "C: no.",
+            "D: no."
+          ],
+          "example": "Coverage for an absence"
+        }
+      },
+      "vocab": [],
+      "passage": "p3-b02-pass-22",
+      "position": 1
+    },
+    {
+      "id": "p3-b02-65",
+      "part": 3,
+      "difficulty": 2,
+      "category": "qt-conversation-detail",
+      "stem": "What will the man do before leaving?",
+      "choices": [
+        "Write notes for his colleagues",
+        "Hire a replacement",
+        "Call every client",
+        "Cancel his trip"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "« I'll write up notes for both of them ».",
+          "why_wrong": [
+            "B : non.",
+            "C : non.",
+            "D : non."
+          ],
+          "example": "Write notes for his colleagues"
+        },
+        "en": {
+          "rule": "'I'll write up notes for both of them'.",
+          "why_wrong": [
+            "B: no.",
+            "C: no.",
+            "D: no."
+          ],
+          "example": "Write notes for his colleagues"
+        }
+      },
+      "vocab": [],
+      "passage": "p3-b02-pass-22",
+      "position": 2
+    },
+    {
+      "id": "p3-b02-66",
+      "part": 3,
+      "difficulty": 3,
+      "category": "qt-visual-info",
+      "stem": "Look at the graphic. Who will most likely cover the man's accounts on the seventeenth?",
+      "choices": [
+        "Wendell",
+        "Joaquin",
+        "Fatima",
+        "Nadia"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Fatima est absente le 17 ; Joaquin couvre ces jours.",
+          "why_wrong": [
+            "A : déjà occupé.",
+            "C : absente le 17.",
+            "D : non."
+          ],
+          "example": "Joaquin"
+        },
+        "en": {
+          "rule": "Fatima is out on the 17th; Joaquin covers those days.",
+          "why_wrong": [
+            "A: already busy.",
+            "C: absent on the 17th.",
+            "D: no."
+          ],
+          "example": "Joaquin"
+        }
+      },
+      "vocab": [],
+      "passage": "p3-b02-pass-22",
+      "position": 3
+    },
+    {
+      "id": "p3-b02-67",
+      "part": 3,
+      "difficulty": 1,
+      "category": "qt-conversation-gist",
+      "stem": "What event are the speakers preparing for?",
+      "choices": [
+        "An inspection",
+        "A product launch",
+        "A holiday party",
+        "A job fair"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Les inspecteurs arrivent mercredi.",
+          "why_wrong": [
+            "B : non.",
+            "C : non.",
+            "D : non."
+          ],
+          "example": "An inspection"
+        },
+        "en": {
+          "rule": "Inspectors arrive on Wednesday.",
+          "why_wrong": [
+            "B: no.",
+            "C: no.",
+            "D: no."
+          ],
+          "example": "An inspection"
+        }
+      },
+      "vocab": [],
+      "passage": "p3-b02-pass-23",
+      "position": 1
+    },
+    {
+      "id": "p3-b02-68",
+      "part": 3,
+      "difficulty": 2,
+      "category": "qt-conversation-detail",
+      "stem": "What will Ms. Reyes provide?",
+      "choices": [
+        "Safety glasses",
+        "Cleaning supplies",
+        "Maintenance records",
+        "Parking permits"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Elle apportera les dossiers de maintenance.",
+          "why_wrong": [
+            "A : à l'entrée.",
+            "B : non.",
+            "D : non."
+          ],
+          "example": "Maintenance records"
+        },
+        "en": {
+          "rule": "She will bring the maintenance records.",
+          "why_wrong": [
+            "A: at the entrance.",
+            "B: no.",
+            "D: no."
+          ],
+          "example": "Maintenance records"
+        }
+      },
+      "vocab": [],
+      "passage": "p3-b02-pass-23",
+      "position": 2
+    },
+    {
+      "id": "p3-b02-69",
+      "part": 3,
+      "difficulty": 3,
+      "category": "qt-conversation-inference",
+      "stem": "What is the man's attitude about the inspection?",
+      "choices": [
+        "He wants to cancel it.",
+        "He is worried about the cost.",
+        "He feels prepared.",
+        "He is unsure of the date."
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "« We're ready ».",
+          "why_wrong": [
+            "A : non.",
+            "B : non.",
+            "D : non."
+          ],
+          "example": "He feels prepared."
+        },
+        "en": {
+          "rule": "'We're ready'.",
+          "why_wrong": [
+            "A: no.",
+            "B: no.",
+            "D: no."
+          ],
+          "example": "He feels prepared."
+        }
+      },
+      "vocab": [],
+      "passage": "p3-b02-pass-23",
+      "position": 3
+    },
+    {
+      "id": "p3-b02-70",
+      "part": 3,
+      "difficulty": 1,
+      "category": "qt-conversation-gist",
+      "stem": "What is the main topic?",
+      "choices": [
+        "Opening an online store",
+        "How to use a reduced budget",
+        "Hiring a new designer",
+        "Changing a company logo"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Ils doivent choisir quoi réduire dans le budget.",
+          "why_wrong": [
+            "A : non.",
+            "C : non.",
+            "D : non."
+          ],
+          "example": "How to use a reduced budget"
+        },
+        "en": {
+          "rule": "They must decide what to cut from the budget.",
+          "why_wrong": [
+            "A: no.",
+            "C: no.",
+            "D: no."
+          ],
+          "example": "How to use a reduced budget"
+        }
+      },
+      "vocab": [],
+      "passage": "p3-b02-pass-24",
+      "position": 1
+    },
+    {
+      "id": "p3-b02-71",
+      "part": 3,
+      "difficulty": 2,
+      "category": "qt-conversation-detail",
+      "stem": "Why does the woman want to cut print advertising?",
+      "choices": [
+        "Print is more expensive overall.",
+        "Retailers refused them.",
+        "Online campaigns are more cost-effective.",
+        "Customers dislike brochures."
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Les campagnes en ligne rapportent plus de clients par dollar.",
+          "why_wrong": [
+            "A : non.",
+            "B : non.",
+            "D : non."
+          ],
+          "example": "Online campaigns are more cost-effective."
+        },
+        "en": {
+          "rule": "Online campaigns bring more customers per dollar.",
+          "why_wrong": [
+            "A: no.",
+            "B: no.",
+            "D: no."
+          ],
+          "example": "Online campaigns are more cost-effective."
+        }
+      },
+      "vocab": [],
+      "passage": "p3-b02-pass-24",
+      "position": 2
+    },
+    {
+      "id": "p3-b02-72",
+      "part": 3,
+      "difficulty": 3,
+      "category": "qt-conversation-inference",
+      "stem": "What do the speakers agree to do?",
+      "choices": [
+        "Raise prices",
+        "Reduce the number of brochures",
+        "Eliminate all printing",
+        "Ask for more money"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Réduire de moitié les brochures.",
+          "why_wrong": [
+            "A : non.",
+            "C : ils gardent la moitié.",
+            "D : non."
+          ],
+          "example": "Reduce the number of brochures"
+        },
+        "en": {
+          "rule": "Cut brochures by half.",
+          "why_wrong": [
+            "A: no.",
+            "C: they keep half.",
+            "D: no."
+          ],
+          "example": "Reduce the number of brochures"
+        }
+      },
+      "vocab": [],
+      "passage": "p3-b02-pass-24",
+      "position": 3
+    }
+  ]
+}

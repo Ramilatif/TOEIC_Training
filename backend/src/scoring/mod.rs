@@ -59,27 +59,42 @@ pub fn total_score(listening: Option<u32>, reading: Option<u32>) -> Option<u32> 
     Some(listening? + reading?)
 }
 
+/// Nombre de tirages tentés pour atteindre exactement la cible.
+const PICK_ATTEMPTS: usize = 64;
+
 /// Sélectionne des « unités » (un passage et ses questions, ou une question isolée) jusqu'à
-/// approcher `target` questions sans le dépasser, en préférant les unités non encore vues.
-/// Retourne les ids de questions, dans l'ordre des unités tirées.
+/// atteindre `target` questions sans le dépasser, en préférant les unités non encore vues.
+/// Plusieurs tirages sont tentés pour tomber pile sur la cible (les groupes ne sont jamais
+/// coupés) ; sinon on garde le tirage le plus rempli. Retourne les ids de questions.
 pub fn pick_units<R: Rng>(
     units: Vec<(bool, Vec<String>)>,
     target: usize,
     rng: &mut R,
 ) -> Vec<String> {
-    let (mut fresh, mut seen): (Vec<_>, Vec<_>) = units.into_iter().partition(|(s, _)| !*s);
-    fresh.shuffle(rng);
-    seen.shuffle(rng);
-    let mut out = Vec::new();
-    for (_, ids) in fresh.into_iter().chain(seen) {
-        if out.len() >= target {
+    let (fresh0, seen0): (Vec<_>, Vec<_>) = units.into_iter().partition(|(s, _)| !*s);
+    let mut best: Vec<String> = Vec::new();
+    for _ in 0..PICK_ATTEMPTS {
+        let mut fresh = fresh0.clone();
+        let mut seen = seen0.clone();
+        fresh.shuffle(rng);
+        seen.shuffle(rng);
+        let mut out = Vec::new();
+        for (_, ids) in fresh.into_iter().chain(seen) {
+            if out.len() >= target {
+                break;
+            }
+            if out.len() + ids.len() <= target {
+                out.extend(ids);
+            }
+        }
+        if out.len() > best.len() {
+            best = out;
+        }
+        if best.len() == target {
             break;
         }
-        if out.len() + ids.len() <= target {
-            out.extend(ids);
-        }
     }
-    out
+    best
 }
 
 /// Score estimé à partir de la précision par partie : (partie, bonnes réponses, total tenté).

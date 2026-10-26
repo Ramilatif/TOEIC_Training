@@ -2,9 +2,9 @@
 
 ## État actuel
 
-- Phase en cours : 7 — Banque complète (400 questions)
+- Phase en cours : terminée (7/7). Reste à votre charge : photos Part 1, relecture du contenu
 - Dernière mise à jour : 2026-10-26
-- Prochaine action : rédiger les lots restants, une partie à la fois (Part 5, 6, 7, puis 2, 3, 4, puis Part 1 complète), en validant le format à chaque lot
+- Prochaine action : déposer les 12 photos Part 1 (content/images/part1/), relire le contenu, tester l'audio dans Chrome/Edge
 
 ## Phases
 
@@ -16,16 +16,16 @@
 - [x] 4. Tableau de bord et révision des erreurs
 - [x] 5. Zone de cours
 - [x] 6. Flashcards SM-2 et planning
-- [ ] 7. Banque complète (400 questions)
+- [x] 7. Banque complète (400 questions)
 
 ## Banque de contenu
 
 | Partie | Questions prévues | Questions rédigées | Format validé |
 | ------ | ----------------- | ------------------ | ------------- |
 | Part 1 | 12                | 12                  | oui           |
-| Part 2 | 50                | 10                  | oui           |
-| Part 3 | 78                | 6                  | oui           |
-| Part 4 | 60                | 6                  | oui           |
+| Part 2 | 50                | 50                  | oui           |
+| Part 3 | 78                | 78                  | oui           |
+| Part 4 | 60                | 60                  | oui           |
 | Part 5 | 60                | 60                 | oui           |
 | Part 6 | 32                | 32                  | oui           |
 | Part 7 | 108               | 108                  | oui           |
@@ -51,6 +51,9 @@ Leçons : grammaire 16/16 · vocabulaire 14/14 · méthodologie 7/7 (5 questions
 2026-10-26 — Lien « correction ratée → leçon » : leçon grammaire/vocabulaire de la catégorie, sinon leçon de méthodologie de la partie (method-part-N)
 2026-10-26 — Planning : jours calculés en UTC (peut décaler d'un jour autour de minuit en France) ; réajustement automatique à la première consultation de chaque jour, les éléments déjà cochés ou passés sont conservés
 2026-10-26 — Planning : examen blanc hebdomadaire (J-7, J-14…), complet si ≥ 120 min/jour sinon mini-test ; veille et jour de l'examen = flashcards + révision seulement
+2026-10-26 — Banque : 400 questions, répartition officielle exacte ; Part 7 = 58 questions sur passage simple + 50 sur passages multiples (4 doubles + 6 triples) ; 8 conversations Part 3 et 5 exposés Part 4 comportent un document associé (catégorie qt-visual-info)
+2026-10-26 — Sélection d'un examen complet : 64 tirages aléatoires pour tomber pile sur le quota de chaque partie (les passages ne sont jamais coupés)
+2026-10-26 — Les générateurs de contenu (scripts Python) ne sont pas versionnés : les fichiers JSON/Markdown de content/ sont la source de vérité
 2026-10-26 — Questions des quiz de leçon (batch « lesson-* ») exclues de l'entraînement général
 2026-10-26 — Poste de dev Windows 11 (et non Arch comme dans PROMPT.md) — décision de l utilisateur ; commandes Docker/Node identiques
 

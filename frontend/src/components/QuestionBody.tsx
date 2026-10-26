@@ -38,7 +38,8 @@ export default function QuestionBody({ q, lang, selected, onSelect, reveal, audi
       {q.passage?.image_url && <img className="photo" src={q.passage.image_url} alt="" />}
       {q.passage?.body && (
         <article className="passage">
-          {q.passage.title && <h3>{q.passage.title}</h3>}
+          {/* En Listening le titre révélerait le sujet de l'audio. */}
+          {q.passage.title && q.part > 4 && <h3>{q.passage.title}</h3>}
           <pre>{q.passage.body}</pre>
         </article>
       )}

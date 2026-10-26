@@ -1,0 +1,2150 @@
+{
+  "batch": "part4-batch02",
+  "part": 4,
+  "passages": [
+    {
+      "id": "p4-b02-pass-01",
+      "kind": "talk",
+      "title": "Store opening",
+      "body": null,
+      "transcript": "N: Questions 71 through 73 refer to the following announcement.\nW: Attention, shoppers. Welcome to the grand opening of Hartley's Home Store. To celebrate, we're offering twenty percent off all kitchen items until Sunday evening.\nW: Our customer service desk, located near the main entrance, will gladly help with gift wrapping at no charge.\nW: The first hundred customers today will also receive a free set of oven gloves. Thank you for shopping with us.",
+      "image": null
+    },
+    {
+      "id": "p4-b02-pass-02",
+      "kind": "talk",
+      "title": "Dental office message",
+      "body": null,
+      "transcript": "N: Questions 74 through 76 refer to the following telephone message.\nM: Hello, this message is for Ms. Rivera. This is Dr. Ahn's office calling to remind you of your appointment tomorrow, Thursday, at 10:30 in the morning.\nM: Please arrive ten minutes early to update your insurance information. If you need to reschedule, call us at 555-0136 before five o'clock today.\nM: Otherwise, we look forward to seeing you tomorrow.",
+      "image": null
+    },
+    {
+      "id": "p4-b02-pass-03",
+      "kind": "talk",
+      "title": "Traffic report",
+      "body": null,
+      "transcript": "N: Questions 77 through 79 refer to the following radio broadcast.\nW: Good morning, commuters. Here's your traffic update. Drivers on Route 9 are experiencing delays of up to forty minutes due to an overturned truck near exit 12.\nW: Police recommend using Mill Road as an alternative. The Harbor Bridge is clear, and the subway is running on schedule.\nW: Our next traffic report will be at eight fifteen.",
+      "image": null
+    },
+    {
+      "id": "p4-b02-pass-04",
+      "kind": "talk",
+      "title": "Museum tour",
+      "body": null,
+      "transcript": "N: Questions 80 through 82 refer to the following tour introduction.\nM: Welcome to the Maritime Museum. I'm Karen, and I'll be your guide today. Our tour will last about ninety minutes, and we'll begin with the ship models on the ground floor.\nM: Please remember that photography is allowed, but flash is not permitted in the gallery. If you'd like to see the special exhibit on navigation, tickets are available at the gift shop.\nM: Now, please follow me.",
+      "image": null
+    },
+    {
+      "id": "p4-b02-pass-05",
+      "kind": "talk",
+      "title": "New safety policy",
+      "body": null,
+      "transcript": "N: Questions 83 through 85 refer to the following staff announcement.\nM: Good afternoon, everyone. As of Monday, all employees must scan their ID badges when entering and leaving the building.\nM: This new system will help us keep track of who is in the building in case of an emergency. Badge scanners are being installed at all entrances this week.\nM: If your badge is not working, please visit the security office on the first floor before Friday.",
+      "image": null
+    },
+    {
+      "id": "p4-b02-pass-06",
+      "kind": "talk",
+      "title": "Product advertisement",
+      "body": null,
+      "transcript": "N: Questions 86 through 88 refer to the following advertisement.\nW: Tired of slow internet? Switch to FiberLink and enjoy speeds up to ten times faster than standard connections.\nW: Sign up this month and get your first three months free, with no installation fee. Plans start at just thirty dollars a month.\nW: Visit fiberlink.example or call 555-0188 today. Offer ends June thirtieth.",
+      "image": null
+    },
+    {
+      "id": "p4-b02-pass-07",
+      "kind": "talk",
+      "title": "Quarterly results",
+      "body": null,
+      "transcript": "N: Questions 89 through 91 refer to the following talk at a meeting.\nW: Thank you all for coming. I'm pleased to report that our revenue grew by twelve percent this quarter, mostly due to strong sales of our new line of kitchen appliances.\nW: However, our shipping costs also rose, so we'll be looking for ways to reduce them. I've asked the logistics team to present options at next week's meeting.\nW: Now, let's turn to the sales figures for each region.",
+      "image": null
+    },
+    {
+      "id": "p4-b02-pass-08",
+      "kind": "talk",
+      "title": "Gate change",
+      "body": "DEPARTURES\nFlight   Destination   Departs\n301   Denver   2:55 P.M.\n305   Chicago   3:20 P.M.\n308   Miami   3:45 P.M.\n312   Seattle   4:10 P.M.",
+      "transcript": "N: Questions 92 through 94 refer to the following airport announcement.\nM: Attention, passengers on Flight 305 to Chicago. Due to a gate change, your flight will now depart from Gate D4 instead of Gate B7.\nM: Boarding will begin at two forty-five. Passengers with seats in rows twenty to thirty will board first.\nM: Please have your boarding pass and identification ready. We apologize for any inconvenience.",
+      "image": null
+    },
+    {
+      "id": "p4-b02-pass-09",
+      "kind": "talk",
+      "title": "Weather forecast",
+      "body": null,
+      "transcript": "N: Questions 95 through 97 refer to the following weather report.\nM: Good evening. Tomorrow will start with sunshine across the region, but clouds will move in by noon. Expect temperatures near twenty-five degrees in the afternoon.\nM: A cold front will bring heavy rain on Thursday, along with strong winds along the coast. Residents near the river should be prepared for possible flooding.\nM: Stay tuned for updates.",
+      "image": null
+    },
+    {
+      "id": "p4-b02-pass-10",
+      "kind": "talk",
+      "title": "Workshop introduction",
+      "body": "TIME MANAGEMENT WORKSHOP — AGENDA\n9:00   Goal setting\n10:15   Break\n10:30   Planning tools\n12:00   Lunch\n1:30   Group practice\n4:00   Feedback and closing",
+      "transcript": "N: Questions 98 through 100 refer to the following talk.\nM: Good morning and welcome to the Time Management Workshop. I'm Dr. Alvarez. Today's session is divided into four parts.\nM: We'll begin with goal setting, then take a short break before moving on to planning tools. After lunch, you'll practice in small groups.\nM: Please turn off your phones during the sessions, and use the feedback forms on your tables at the end of the day.",
+      "image": null
+    },
+    {
+      "id": "p4-b02-pass-11",
+      "kind": "talk",
+      "title": "Late order message",
+      "body": "ORDER 6623 — Delta Furniture\nDesk, oak   Out of stock until the 20th\nDesk, walnut   In stock\nDesk, white   Discontinued\nChair, black   In stock",
+      "transcript": "N: Questions 71 through 73 refer to the following voice mail message.\nM: Hello, this is Sam from Delta Furniture, calling for Ms. Clarke. I'm calling about your desk order, number 6623.\nM: Unfortunately, the oak model is out of stock until the twentieth. We can ship the walnut version immediately at the same price, or we can wait and deliver the oak one with free assembly.\nM: Please call me back at 555-0172 by noon so that I can update your order.",
+      "image": null
+    },
+    {
+      "id": "p4-b02-pass-12",
+      "kind": "talk",
+      "title": "Restaurant promotion",
+      "body": null,
+      "transcript": "N: Questions 74 through 76 refer to the following advertisement.\nM: Looking for the perfect place for a family dinner? Join us at Bella Vista this month for our new tasting menu, featuring dishes from five regions of Italy.\nM: On Tuesdays, kids eat free with every adult entrée. Reservations are recommended on weekends, and you can book online.\nM: Bella Vista, on Lake Street, serving the community for twenty years.",
+      "image": null
+    },
+    {
+      "id": "p4-b02-pass-13",
+      "kind": "talk",
+      "title": "Conference welcome",
+      "body": "CONFERENCE PROGRAM — Day 1\n1:00   Opening address (Main Hall)\n1:30   Keynote: Sustainable shipping (Main Hall)\n3:00   Warehouse automation (Room 4)\n4:30   Panel discussion (Main Hall)",
+      "transcript": "N: Questions 77 through 79 refer to the following welcome speech.\nM: Welcome to the Annual Logistics Conference. We have an exciting program prepared for you over the next two days.\nM: This afternoon's keynote address will be delivered by Mr. Fernandez, who will talk about sustainable shipping. The session on warehouse automation, originally scheduled for three o'clock, has been moved to the Lakeview Room.\nM: Please check your conference program for the updated room information, and enjoy the conference.",
+      "image": null
+    },
+    {
+      "id": "p4-b02-pass-14",
+      "kind": "talk",
+      "title": "Fitness club advertisement",
+      "body": null,
+      "transcript": "N: Questions 80 through 82 refer to the following advertisement.\nM: Ready to get fit? FlexZone Fitness is now open on Maple Avenue. With over a hundred machines, a heated pool and classes from yoga to boxing, there's something for everyone.\nM: Join before March first and pay no membership fee. Every new member also receives two free sessions with a personal trainer.\nM: Open daily from five in the morning until midnight.",
+      "image": null
+    },
+    {
+      "id": "p4-b02-pass-15",
+      "kind": "talk",
+      "title": "Building maintenance",
+      "body": null,
+      "transcript": "N: Questions 83 through 85 refer to the following announcement.\nM: May I have your attention, please. This is a message from the building manager. The elevators in the east wing will be out of service tomorrow from eight to noon for routine maintenance.\nM: Please use the west wing elevators or the stairs during this time. Employees with mobility needs may arrange assistance by calling the front desk today.\nM: We apologize for the inconvenience.",
+      "image": null
+    },
+    {
+      "id": "p4-b02-pass-16",
+      "kind": "talk",
+      "title": "Podcast introduction",
+      "body": null,
+      "transcript": "N: Questions 86 through 88 refer to the following podcast introduction.\nM: Welcome to Career Corner, the podcast for professionals who want to grow. I'm your host, Julia Park. Today we'll talk about the biggest mistakes people make in job interviews.\nM: My guest is Mark Evans, a recruiter with more than fifteen years of experience. Later in the show, we'll answer questions from listeners.\nM: If you'd like your question to be featured, send an email to the address on our website.",
+      "image": null
+    },
+    {
+      "id": "p4-b02-pass-17",
+      "kind": "talk",
+      "title": "Bank recorded message",
+      "body": "UNION TRUST BANK — BRANCH HOURS\nWestbrook   Mon–Fri 9:00–5:00   Sat 9:00–1:00\nDowntown   Mon–Fri 8:30–6:00   Sat closed\nAirport   Daily 7:00–9:00",
+      "transcript": "N: Questions 89 through 91 refer to the following recorded message.\nW: Thank you for calling Union Trust Bank. Our Westbrook branch is open Monday through Friday from nine to five, and on Saturday from nine to one.\nW: Please note that on public holidays, all branches will be closed. For account balance information, press one. To speak with a customer service representative, press two.\nW: You may also use our mobile app to deposit checks at any time.",
+      "image": null
+    },
+    {
+      "id": "p4-b02-pass-18",
+      "kind": "talk",
+      "title": "Award speech",
+      "body": null,
+      "transcript": "N: Questions 92 through 94 refer to the following speech.\nW: Good evening, everyone. It's my great honor to present this year's Employee of the Year award to Daniela Moretti. Daniela joined our customer service team just three years ago.\nW: Since then, she has trained more than thirty colleagues and increased our customer satisfaction scores by twenty percent.\nW: Daniela, please come up to receive your award and say a few words.",
+      "image": null
+    }
+  ],
+  "questions": [
+    {
+      "id": "p4-b02-01",
+      "part": 4,
+      "difficulty": 1,
+      "category": "qt-talk-gist",
+      "stem": "What is being announced?",
+      "choices": [
+        "A change of hours",
+        "A staff meeting",
+        "A product recall",
+        "The opening of a store"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Ouverture d'un magasin.",
+          "why_wrong": [
+            "A : non.",
+            "B : non.",
+            "C : non."
+          ],
+          "example": "The opening of a store"
+        },
+        "en": {
+          "rule": "The opening of a store.",
+          "why_wrong": [
+            "A: no.",
+            "B: no.",
+            "C: no."
+          ],
+          "example": "The opening of a store"
+        }
+      },
+      "vocab": [],
+      "passage": "p4-b02-pass-01",
+      "position": 1
+    },
+    {
+      "id": "p4-b02-02",
+      "part": 4,
+      "difficulty": 2,
+      "category": "qt-talk-detail",
+      "stem": "What is available at the customer service desk?",
+      "choices": [
+        "Parking tickets",
+        "Product repairs",
+        "Cash refunds",
+        "Free gift wrapping"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Emballage cadeau gratuit.",
+          "why_wrong": [
+            "A : non.",
+            "B : non.",
+            "C : non."
+          ],
+          "example": "Free gift wrapping"
+        },
+        "en": {
+          "rule": "Free gift wrapping.",
+          "why_wrong": [
+            "A: no.",
+            "B: no.",
+            "C: no."
+          ],
+          "example": "Free gift wrapping"
+        }
+      },
+      "vocab": [],
+      "passage": "p4-b02-pass-01",
+      "position": 2
+    },
+    {
+      "id": "p4-b02-03",
+      "part": 4,
+      "difficulty": 3,
+      "category": "qt-talk-inference",
+      "stem": "What will the first hundred customers receive?",
+      "choices": [
+        "A free meal",
+        "A discount coupon",
+        "A free item",
+        "A gift card"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Des maniques gratuites.",
+          "why_wrong": [
+            "A : non.",
+            "B : non.",
+            "D : non."
+          ],
+          "example": "A free item"
+        },
+        "en": {
+          "rule": "Free oven gloves.",
+          "why_wrong": [
+            "A: no.",
+            "B: no.",
+            "D: no."
+          ],
+          "example": "A free item"
+        }
+      },
+      "vocab": [],
+      "passage": "p4-b02-pass-01",
+      "position": 3
+    },
+    {
+      "id": "p4-b02-04",
+      "part": 4,
+      "difficulty": 1,
+      "category": "qt-talk-gist",
+      "stem": "Why is the speaker calling?",
+      "choices": [
+        "To offer a discount",
+        "To announce a closure",
+        "To remind a patient of an appointment",
+        "To confirm a payment"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Rappel de rendez-vous.",
+          "why_wrong": [
+            "A : non.",
+            "B : non.",
+            "D : non."
+          ],
+          "example": "To remind a patient of an appointment"
+        },
+        "en": {
+          "rule": "Appointment reminder.",
+          "why_wrong": [
+            "A: no.",
+            "B: no.",
+            "D: no."
+          ],
+          "example": "To remind a patient of an appointment"
+        }
+      },
+      "vocab": [],
+      "passage": "p4-b02-pass-02",
+      "position": 1
+    },
+    {
+      "id": "p4-b02-05",
+      "part": 4,
+      "difficulty": 2,
+      "category": "qt-talk-detail",
+      "stem": "What are listeners asked to do ten minutes before the appointment?",
+      "choices": [
+        "Bring a friend",
+        "Be at the office to update insurance details",
+        "Pay the bill",
+        "Call the dentist"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Arriver 10 minutes plus tôt pour l'assurance.",
+          "why_wrong": [
+            "A : non.",
+            "C : non.",
+            "D : non."
+          ],
+          "example": "Be at the office to update insurance details"
+        },
+        "en": {
+          "rule": "Arrive ten minutes early for insurance.",
+          "why_wrong": [
+            "A: no.",
+            "C: no.",
+            "D: no."
+          ],
+          "example": "Be at the office to update insurance details"
+        }
+      },
+      "vocab": [],
+      "passage": "p4-b02-pass-02",
+      "position": 2
+    },
+    {
+      "id": "p4-b02-06",
+      "part": 4,
+      "difficulty": 3,
+      "category": "qt-talk-inference",
+      "stem": "What should Ms. Rivera do if she cannot attend?",
+      "choices": [
+        "Call before five o'clock today",
+        "Come on Friday without calling",
+        "Send an email tomorrow",
+        "Visit the office tonight"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Appeler avant 17 h aujourd'hui.",
+          "why_wrong": [
+            "B : non.",
+            "C : non.",
+            "D : non."
+          ],
+          "example": "Call before five o'clock today"
+        },
+        "en": {
+          "rule": "Call before five o'clock today.",
+          "why_wrong": [
+            "B: no.",
+            "C: no.",
+            "D: no."
+          ],
+          "example": "Call before five o'clock today"
+        }
+      },
+      "vocab": [],
+      "passage": "p4-b02-pass-02",
+      "position": 3
+    },
+    {
+      "id": "p4-b02-07",
+      "part": 4,
+      "difficulty": 1,
+      "category": "qt-talk-gist",
+      "stem": "What is the broadcast mainly about?",
+      "choices": [
+        "The weather forecast",
+        "A city election",
+        "A sports event",
+        "Road conditions"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Rapport de circulation.",
+          "why_wrong": [
+            "A : non.",
+            "B : non.",
+            "C : non."
+          ],
+          "example": "Road conditions"
+        },
+        "en": {
+          "rule": "Traffic report.",
+          "why_wrong": [
+            "A: no.",
+            "B: no.",
+            "C: no."
+          ],
+          "example": "Road conditions"
+        }
+      },
+      "vocab": [],
+      "passage": "p4-b02-pass-03",
+      "position": 1
+    },
+    {
+      "id": "p4-b02-08",
+      "part": 4,
+      "difficulty": 2,
+      "category": "qt-talk-detail",
+      "stem": "What are drivers advised to do?",
+      "choices": [
+        "Stay home",
+        "Take Mill Road",
+        "Use the Harbor Bridge",
+        "Pay a toll"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "La police recommande Mill Road.",
+          "why_wrong": [
+            "A : non.",
+            "C : il est dégagé mais ce n'est pas la recommandation.",
+            "D : non."
+          ],
+          "example": "Take Mill Road"
+        },
+        "en": {
+          "rule": "Police recommend Mill Road.",
+          "why_wrong": [
+            "A: no.",
+            "C: it is clear but not the recommendation.",
+            "D: no."
+          ],
+          "example": "Take Mill Road"
+        }
+      },
+      "vocab": [],
+      "passage": "p4-b02-pass-03",
+      "position": 2
+    },
+    {
+      "id": "p4-b02-09",
+      "part": 4,
+      "difficulty": 3,
+      "category": "qt-talk-inference",
+      "stem": "What will happen at eight fifteen?",
+      "choices": [
+        "The subway will stop",
+        "The bridge will close",
+        "Another traffic update",
+        "A news interview"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Prochain rapport à 8 h 15.",
+          "why_wrong": [
+            "A : non.",
+            "B : non.",
+            "D : non."
+          ],
+          "example": "Another traffic update"
+        },
+        "en": {
+          "rule": "Next report at 8:15.",
+          "why_wrong": [
+            "A: no.",
+            "B: no.",
+            "D: no."
+          ],
+          "example": "Another traffic update"
+        }
+      },
+      "vocab": [],
+      "passage": "p4-b02-pass-03",
+      "position": 3
+    },
+    {
+      "id": "p4-b02-10",
+      "part": 4,
+      "difficulty": 1,
+      "category": "qt-talk-gist",
+      "stem": "Who is the speaker?",
+      "choices": [
+        "A tour guide",
+        "A gift shop clerk",
+        "A ship captain",
+        "A museum director"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Elle se présente comme guide.",
+          "why_wrong": [
+            "B : non.",
+            "C : non.",
+            "D : non."
+          ],
+          "example": "A tour guide"
+        },
+        "en": {
+          "rule": "She introduces herself as the guide.",
+          "why_wrong": [
+            "B: no.",
+            "C: no.",
+            "D: no."
+          ],
+          "example": "A tour guide"
+        }
+      },
+      "vocab": [],
+      "passage": "p4-b02-pass-04",
+      "position": 1
+    },
+    {
+      "id": "p4-b02-11",
+      "part": 4,
+      "difficulty": 2,
+      "category": "qt-talk-detail",
+      "stem": "What is not permitted?",
+      "choices": [
+        "Using a camera flash",
+        "Taking photographs",
+        "Visiting the gift shop",
+        "Asking questions"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Pas de flash.",
+          "why_wrong": [
+            "B : autorisé.",
+            "C : non.",
+            "D : non."
+          ],
+          "example": "Using a camera flash"
+        },
+        "en": {
+          "rule": "No flash.",
+          "why_wrong": [
+            "B: allowed.",
+            "C: no.",
+            "D: no."
+          ],
+          "example": "Using a camera flash"
+        }
+      },
+      "vocab": [],
+      "passage": "p4-b02-pass-04",
+      "position": 2
+    },
+    {
+      "id": "p4-b02-12",
+      "part": 4,
+      "difficulty": 3,
+      "category": "qt-talk-inference",
+      "stem": "Where can listeners buy tickets for the special exhibit?",
+      "choices": [
+        "From the guide",
+        "At the entrance",
+        "At the gift shop",
+        "Online only"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Billets disponibles à la boutique.",
+          "why_wrong": [
+            "A : non.",
+            "B : non.",
+            "D : non."
+          ],
+          "example": "At the gift shop"
+        },
+        "en": {
+          "rule": "Tickets at the gift shop.",
+          "why_wrong": [
+            "A: no.",
+            "B: no.",
+            "D: no."
+          ],
+          "example": "At the gift shop"
+        }
+      },
+      "vocab": [],
+      "passage": "p4-b02-pass-04",
+      "position": 3
+    },
+    {
+      "id": "p4-b02-13",
+      "part": 4,
+      "difficulty": 1,
+      "category": "qt-talk-gist",
+      "stem": "What is the announcement about?",
+      "choices": [
+        "A holiday schedule",
+        "A new product",
+        "A new security procedure",
+        "A budget cut"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Nouvelle procédure de badge.",
+          "why_wrong": [
+            "A : non.",
+            "B : non.",
+            "D : non."
+          ],
+          "example": "A new security procedure"
+        },
+        "en": {
+          "rule": "New badge procedure.",
+          "why_wrong": [
+            "A: no.",
+            "B: no.",
+            "D: no."
+          ],
+          "example": "A new security procedure"
+        }
+      },
+      "vocab": [],
+      "passage": "p4-b02-pass-05",
+      "position": 1
+    },
+    {
+      "id": "p4-b02-14",
+      "part": 4,
+      "difficulty": 2,
+      "category": "qt-talk-detail",
+      "stem": "According to the speaker, why is the system being introduced?",
+      "choices": [
+        "To measure working hours",
+        "To reduce electricity use",
+        "To know who is inside in emergencies",
+        "To control parking"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Savoir qui est dans le bâtiment en cas d'urgence.",
+          "why_wrong": [
+            "A : non.",
+            "B : non.",
+            "D : non."
+          ],
+          "example": "To know who is inside in emergencies"
+        },
+        "en": {
+          "rule": "Know who is in the building in an emergency.",
+          "why_wrong": [
+            "A: no.",
+            "B: no.",
+            "D: no."
+          ],
+          "example": "To know who is inside in emergencies"
+        }
+      },
+      "vocab": [],
+      "passage": "p4-b02-pass-05",
+      "position": 2
+    },
+    {
+      "id": "p4-b02-15",
+      "part": 4,
+      "difficulty": 3,
+      "category": "qt-talk-inference",
+      "stem": "What should employees with defective badges do?",
+      "choices": [
+        "Go to the security office",
+        "Ask their manager",
+        "Wait until Monday",
+        "Order a new one online"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Se rendre au bureau de sécurité avant vendredi.",
+          "why_wrong": [
+            "B : non.",
+            "C : non.",
+            "D : non."
+          ],
+          "example": "Go to the security office"
+        },
+        "en": {
+          "rule": "Visit the security office before Friday.",
+          "why_wrong": [
+            "B: no.",
+            "C: no.",
+            "D: no."
+          ],
+          "example": "Go to the security office"
+        }
+      },
+      "vocab": [],
+      "passage": "p4-b02-pass-05",
+      "position": 3
+    },
+    {
+      "id": "p4-b02-16",
+      "part": 4,
+      "difficulty": 1,
+      "category": "qt-talk-gist",
+      "stem": "What is being advertised?",
+      "choices": [
+        "A phone",
+        "An internet service",
+        "A television",
+        "A delivery company"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Un fournisseur d'accès Internet.",
+          "why_wrong": [
+            "A : non.",
+            "C : non.",
+            "D : non."
+          ],
+          "example": "An internet service"
+        },
+        "en": {
+          "rule": "An internet provider.",
+          "why_wrong": [
+            "A: no.",
+            "C: no.",
+            "D: no."
+          ],
+          "example": "An internet service"
+        }
+      },
+      "vocab": [],
+      "passage": "p4-b02-pass-06",
+      "position": 1
+    },
+    {
+      "id": "p4-b02-17",
+      "part": 4,
+      "difficulty": 2,
+      "category": "qt-talk-detail",
+      "stem": "What do new customers get free?",
+      "choices": [
+        "A free phone",
+        "A year of service",
+        "A router for life",
+        "Three months of service"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Trois premiers mois gratuits.",
+          "why_wrong": [
+            "A : non.",
+            "B : non.",
+            "C : non."
+          ],
+          "example": "Three months of service"
+        },
+        "en": {
+          "rule": "First three months free.",
+          "why_wrong": [
+            "A: no.",
+            "B: no.",
+            "C: no."
+          ],
+          "example": "Three months of service"
+        }
+      },
+      "vocab": [],
+      "passage": "p4-b02-pass-06",
+      "position": 2
+    },
+    {
+      "id": "p4-b02-18",
+      "part": 4,
+      "difficulty": 3,
+      "category": "qt-talk-inference",
+      "stem": "What must listeners do by June thirtieth?",
+      "choices": [
+        "Return equipment",
+        "Pay a fee",
+        "Sign up to receive the offer",
+        "Cancel a contract"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "L'offre se termine le 30 juin.",
+          "why_wrong": [
+            "A : non.",
+            "B : non.",
+            "D : non."
+          ],
+          "example": "Sign up to receive the offer"
+        },
+        "en": {
+          "rule": "The offer ends June 30.",
+          "why_wrong": [
+            "A: no.",
+            "B: no.",
+            "D: no."
+          ],
+          "example": "Sign up to receive the offer"
+        }
+      },
+      "vocab": [],
+      "passage": "p4-b02-pass-06",
+      "position": 3
+    },
+    {
+      "id": "p4-b02-19",
+      "part": 4,
+      "difficulty": 1,
+      "category": "qt-talk-gist",
+      "stem": "What is the talk mainly about?",
+      "choices": [
+        "A hiring plan",
+        "Business results",
+        "A holiday party",
+        "A building move"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Résultats du trimestre.",
+          "why_wrong": [
+            "A : non.",
+            "C : non.",
+            "D : non."
+          ],
+          "example": "Business results"
+        },
+        "en": {
+          "rule": "Quarterly results.",
+          "why_wrong": [
+            "A: no.",
+            "C: no.",
+            "D: no."
+          ],
+          "example": "Business results"
+        }
+      },
+      "vocab": [],
+      "passage": "p4-b02-pass-07",
+      "position": 1
+    },
+    {
+      "id": "p4-b02-20",
+      "part": 4,
+      "difficulty": 2,
+      "category": "qt-talk-detail",
+      "stem": "What caused revenue to rise?",
+      "choices": [
+        "A price cut",
+        "Sales of a new product line",
+        "A larger staff",
+        "Lower taxes"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Les ventes de la nouvelle gamme d'appareils.",
+          "why_wrong": [
+            "A : non.",
+            "C : non.",
+            "D : non."
+          ],
+          "example": "Sales of a new product line"
+        },
+        "en": {
+          "rule": "Sales of the new appliance line.",
+          "why_wrong": [
+            "A: no.",
+            "C: no.",
+            "D: no."
+          ],
+          "example": "Sales of a new product line"
+        }
+      },
+      "vocab": [],
+      "passage": "p4-b02-pass-07",
+      "position": 2
+    },
+    {
+      "id": "p4-b02-21",
+      "part": 4,
+      "difficulty": 3,
+      "category": "qt-talk-inference",
+      "stem": "What will the logistics team do next week?",
+      "choices": [
+        "Visit regional offices",
+        "Suggest ways to cut costs",
+        "Hire drivers",
+        "Increase shipping prices"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Présenter des options pour réduire les coûts d'expédition.",
+          "why_wrong": [
+            "A : non.",
+            "C : non.",
+            "D : non."
+          ],
+          "example": "Suggest ways to cut costs"
+        },
+        "en": {
+          "rule": "Present options to cut shipping costs.",
+          "why_wrong": [
+            "A: no.",
+            "C: no.",
+            "D: no."
+          ],
+          "example": "Suggest ways to cut costs"
+        }
+      },
+      "vocab": [],
+      "passage": "p4-b02-pass-07",
+      "position": 3
+    },
+    {
+      "id": "p4-b02-22",
+      "part": 4,
+      "difficulty": 1,
+      "category": "qt-talk-gist",
+      "stem": "What is the purpose of the announcement?",
+      "choices": [
+        "To explain baggage fees",
+        "To inform passengers of a change",
+        "To cancel a flight",
+        "To advertise a lounge"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Changement de porte.",
+          "why_wrong": [
+            "A : non.",
+            "C : non.",
+            "D : non."
+          ],
+          "example": "To inform passengers of a change"
+        },
+        "en": {
+          "rule": "A gate change.",
+          "why_wrong": [
+            "A: no.",
+            "C: no.",
+            "D: no."
+          ],
+          "example": "To inform passengers of a change"
+        }
+      },
+      "vocab": [],
+      "passage": "p4-b02-pass-08",
+      "position": 1
+    },
+    {
+      "id": "p4-b02-23",
+      "part": 4,
+      "difficulty": 2,
+      "category": "qt-talk-detail",
+      "stem": "Which passengers will board first?",
+      "choices": [
+        "First-class passengers",
+        "Passengers with no luggage",
+        "Those seated in the back rows",
+        "Families with children"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Rangées 20 à 30.",
+          "why_wrong": [
+            "A : non.",
+            "B : non.",
+            "D : non."
+          ],
+          "example": "Those seated in the back rows"
+        },
+        "en": {
+          "rule": "Rows 20 to 30.",
+          "why_wrong": [
+            "A: no.",
+            "B: no.",
+            "D: no."
+          ],
+          "example": "Those seated in the back rows"
+        }
+      },
+      "vocab": [],
+      "passage": "p4-b02-pass-08",
+      "position": 2
+    },
+    {
+      "id": "p4-b02-24",
+      "part": 4,
+      "difficulty": 3,
+      "category": "qt-visual-info",
+      "stem": "Look at the graphic. What time will Flight 305 most likely depart?",
+      "choices": [
+        "4:10 P.M.",
+        "3:45 P.M.",
+        "3:20 P.M.",
+        "2:45 P.M."
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Le tableau indique 3:20 pour le vol 305.",
+          "why_wrong": [
+            "A : autre vol.",
+            "B : autre vol.",
+            "D : heure d'embarquement."
+          ],
+          "example": "3:20 P.M."
+        },
+        "en": {
+          "rule": "The board shows 3:20 for Flight 305.",
+          "why_wrong": [
+            "A: another flight.",
+            "B: another flight.",
+            "D: boarding time."
+          ],
+          "example": "3:20 P.M."
+        }
+      },
+      "vocab": [],
+      "passage": "p4-b02-pass-08",
+      "position": 3
+    },
+    {
+      "id": "p4-b02-25",
+      "part": 4,
+      "difficulty": 1,
+      "category": "qt-talk-gist",
+      "stem": "What is the report mainly about?",
+      "choices": [
+        "Upcoming weather conditions",
+        "A traffic accident",
+        "A political debate",
+        "A sports result"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Prévisions météo.",
+          "why_wrong": [
+            "B : non.",
+            "C : non.",
+            "D : non."
+          ],
+          "example": "Upcoming weather conditions"
+        },
+        "en": {
+          "rule": "Weather forecast.",
+          "why_wrong": [
+            "B: no.",
+            "C: no.",
+            "D: no."
+          ],
+          "example": "Upcoming weather conditions"
+        }
+      },
+      "vocab": [],
+      "passage": "p4-b02-pass-09",
+      "position": 1
+    },
+    {
+      "id": "p4-b02-26",
+      "part": 4,
+      "difficulty": 2,
+      "category": "qt-talk-detail",
+      "stem": "What will happen on Thursday?",
+      "choices": [
+        "Roads will be closed.",
+        "Temperatures will reach thirty degrees.",
+        "The sun will shine all day.",
+        "Heavy rain is expected."
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Fortes pluies jeudi.",
+          "why_wrong": [
+            "A : non.",
+            "B : non.",
+            "C : non."
+          ],
+          "example": "Heavy rain is expected."
+        },
+        "en": {
+          "rule": "Heavy rain on Thursday.",
+          "why_wrong": [
+            "A: no.",
+            "B: no.",
+            "C: no."
+          ],
+          "example": "Heavy rain is expected."
+        }
+      },
+      "vocab": [],
+      "passage": "p4-b02-pass-09",
+      "position": 2
+    },
+    {
+      "id": "p4-b02-27",
+      "part": 4,
+      "difficulty": 3,
+      "category": "qt-talk-inference",
+      "stem": "Why are river residents told to prepare?",
+      "choices": [
+        "Boats will be banned.",
+        "A festival will take place.",
+        "Water levels may rise.",
+        "Bridges will be repaired."
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Risque d'inondation.",
+          "why_wrong": [
+            "A : non.",
+            "B : non.",
+            "D : non."
+          ],
+          "example": "Water levels may rise."
+        },
+        "en": {
+          "rule": "Possible flooding.",
+          "why_wrong": [
+            "A: no.",
+            "B: no.",
+            "D: no."
+          ],
+          "example": "Water levels may rise."
+        }
+      },
+      "vocab": [],
+      "passage": "p4-b02-pass-09",
+      "position": 3
+    },
+    {
+      "id": "p4-b02-28",
+      "part": 4,
+      "difficulty": 1,
+      "category": "qt-talk-gist",
+      "stem": "Who is the speaker?",
+      "choices": [
+        "A student",
+        "A sales representative",
+        "A hotel manager",
+        "A workshop leader"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Elle dirige l'atelier.",
+          "why_wrong": [
+            "A : non.",
+            "B : non.",
+            "C : non."
+          ],
+          "example": "A workshop leader"
+        },
+        "en": {
+          "rule": "She leads the workshop.",
+          "why_wrong": [
+            "A: no.",
+            "B: no.",
+            "C: no."
+          ],
+          "example": "A workshop leader"
+        }
+      },
+      "vocab": [],
+      "passage": "p4-b02-pass-10",
+      "position": 1
+    },
+    {
+      "id": "p4-b02-29",
+      "part": 4,
+      "difficulty": 2,
+      "category": "qt-talk-detail",
+      "stem": "What are participants asked to do with their phones?",
+      "choices": [
+        "Turn them off",
+        "Take photos",
+        "Call the office",
+        "Download an app"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Éteindre les téléphones.",
+          "why_wrong": [
+            "B : non.",
+            "C : non.",
+            "D : non."
+          ],
+          "example": "Turn them off"
+        },
+        "en": {
+          "rule": "Turn off phones.",
+          "why_wrong": [
+            "B: no.",
+            "C: no.",
+            "D: no."
+          ],
+          "example": "Turn them off"
+        }
+      },
+      "vocab": [],
+      "passage": "p4-b02-pass-10",
+      "position": 2
+    },
+    {
+      "id": "p4-b02-30",
+      "part": 4,
+      "difficulty": 3,
+      "category": "qt-visual-info",
+      "stem": "Look at the graphic. When will participants practice in small groups?",
+      "choices": [
+        "At 1:30",
+        "At 9:30",
+        "At 4:00",
+        "At 11:00"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Après le déjeuner : 1:30.",
+          "why_wrong": [
+            "B : objectifs.",
+            "C : bilan.",
+            "D : outils de planification."
+          ],
+          "example": "At 1:30"
+        },
+        "en": {
+          "rule": "After lunch: 1:30.",
+          "why_wrong": [
+            "B: goal setting.",
+            "C: feedback.",
+            "D: planning tools."
+          ],
+          "example": "At 1:30"
+        }
+      },
+      "vocab": [],
+      "passage": "p4-b02-pass-10",
+      "position": 3
+    },
+    {
+      "id": "p4-b02-31",
+      "part": 4,
+      "difficulty": 1,
+      "category": "qt-talk-gist",
+      "stem": "Why is the speaker calling?",
+      "choices": [
+        "To discuss a problem with an order",
+        "To thank a customer",
+        "To request a payment",
+        "To advertise a sale"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Problème de stock.",
+          "why_wrong": [
+            "B : non.",
+            "C : non.",
+            "D : non."
+          ],
+          "example": "To discuss a problem with an order"
+        },
+        "en": {
+          "rule": "A stock problem.",
+          "why_wrong": [
+            "B: no.",
+            "C: no.",
+            "D: no."
+          ],
+          "example": "To discuss a problem with an order"
+        }
+      },
+      "vocab": [],
+      "passage": "p4-b02-pass-11",
+      "position": 1
+    },
+    {
+      "id": "p4-b02-32",
+      "part": 4,
+      "difficulty": 2,
+      "category": "qt-talk-detail",
+      "stem": "What does the speaker offer if the customer waits?",
+      "choices": [
+        "A discount coupon",
+        "A refund",
+        "Free assembly",
+        "A free chair"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Livraison avec montage gratuit.",
+          "why_wrong": [
+            "A : non.",
+            "B : non.",
+            "D : non."
+          ],
+          "example": "Free assembly"
+        },
+        "en": {
+          "rule": "Delivery with free assembly.",
+          "why_wrong": [
+            "A: no.",
+            "B: no.",
+            "D: no."
+          ],
+          "example": "Free assembly"
+        }
+      },
+      "vocab": [],
+      "passage": "p4-b02-pass-11",
+      "position": 2
+    },
+    {
+      "id": "p4-b02-33",
+      "part": 4,
+      "difficulty": 3,
+      "category": "qt-visual-info",
+      "stem": "Look at the graphic. Which color will Ms. Clarke get if she chooses the immediate shipment?",
+      "choices": [
+        "White",
+        "Black",
+        "Walnut",
+        "Oak"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Expédition immédiate : version noyer.",
+          "why_wrong": [
+            "A : non proposé.",
+            "B : non proposé.",
+            "D : en rupture."
+          ],
+          "example": "Walnut"
+        },
+        "en": {
+          "rule": "Immediate shipment: walnut.",
+          "why_wrong": [
+            "A: not offered.",
+            "B: not offered.",
+            "D: out of stock."
+          ],
+          "example": "Walnut"
+        }
+      },
+      "vocab": [],
+      "passage": "p4-b02-pass-11",
+      "position": 3
+    },
+    {
+      "id": "p4-b02-34",
+      "part": 4,
+      "difficulty": 1,
+      "category": "qt-talk-gist",
+      "stem": "What type of business is being advertised?",
+      "choices": [
+        "A restaurant",
+        "A travel agency",
+        "A grocery store",
+        "A cooking school"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Publicité pour un restaurant italien.",
+          "why_wrong": [
+            "B : non.",
+            "C : non.",
+            "D : non."
+          ],
+          "example": "A restaurant"
+        },
+        "en": {
+          "rule": "An Italian restaurant ad.",
+          "why_wrong": [
+            "B: no.",
+            "C: no.",
+            "D: no."
+          ],
+          "example": "A restaurant"
+        }
+      },
+      "vocab": [],
+      "passage": "p4-b02-pass-12",
+      "position": 1
+    },
+    {
+      "id": "p4-b02-35",
+      "part": 4,
+      "difficulty": 2,
+      "category": "qt-talk-detail",
+      "stem": "What happens on Tuesdays?",
+      "choices": [
+        "Children eat for free.",
+        "The restaurant is closed.",
+        "Wine is half price.",
+        "Live music is played."
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Les enfants mangent gratuitement.",
+          "why_wrong": [
+            "B : non.",
+            "C : non.",
+            "D : non."
+          ],
+          "example": "Children eat for free."
+        },
+        "en": {
+          "rule": "Kids eat free.",
+          "why_wrong": [
+            "B: no.",
+            "C: no.",
+            "D: no."
+          ],
+          "example": "Children eat for free."
+        }
+      },
+      "vocab": [],
+      "passage": "p4-b02-pass-12",
+      "position": 2
+    },
+    {
+      "id": "p4-b02-36",
+      "part": 4,
+      "difficulty": 3,
+      "category": "qt-talk-inference",
+      "stem": "What is suggested about Bella Vista?",
+      "choices": [
+        "It just opened.",
+        "It is outside the city.",
+        "It only serves lunch.",
+        "It is an established restaurant."
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "« serving the community for twenty years ».",
+          "why_wrong": [
+            "A : vingt ans d'existence.",
+            "B : non.",
+            "C : non."
+          ],
+          "example": "It is an established restaurant."
+        },
+        "en": {
+          "rule": "'serving the community for twenty years'.",
+          "why_wrong": [
+            "A: twenty years in business.",
+            "B: no.",
+            "C: no."
+          ],
+          "example": "It is an established restaurant."
+        }
+      },
+      "vocab": [],
+      "passage": "p4-b02-pass-12",
+      "position": 3
+    },
+    {
+      "id": "p4-b02-37",
+      "part": 4,
+      "difficulty": 1,
+      "category": "qt-talk-gist",
+      "stem": "What is the speaker doing?",
+      "choices": [
+        "Welcoming conference attendees",
+        "Reporting a delay",
+        "Training staff",
+        "Selling tickets"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Discours de bienvenue.",
+          "why_wrong": [
+            "B : non.",
+            "C : non.",
+            "D : non."
+          ],
+          "example": "Welcoming conference attendees"
+        },
+        "en": {
+          "rule": "A welcome speech.",
+          "why_wrong": [
+            "B: no.",
+            "C: no.",
+            "D: no."
+          ],
+          "example": "Welcoming conference attendees"
+        }
+      },
+      "vocab": [],
+      "passage": "p4-b02-pass-13",
+      "position": 1
+    },
+    {
+      "id": "p4-b02-38",
+      "part": 4,
+      "difficulty": 2,
+      "category": "qt-talk-detail",
+      "stem": "What is the topic of the keynote address?",
+      "choices": [
+        "Warehouse automation",
+        "Customer service",
+        "Tax regulations",
+        "Sustainable shipping"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Mr. Fernandez parlera d'expédition durable.",
+          "why_wrong": [
+            "A : autre session.",
+            "B : non.",
+            "C : non."
+          ],
+          "example": "Sustainable shipping"
+        },
+        "en": {
+          "rule": "Mr. Fernandez will speak on sustainable shipping.",
+          "why_wrong": [
+            "A: another session.",
+            "B: no.",
+            "C: no."
+          ],
+          "example": "Sustainable shipping"
+        }
+      },
+      "vocab": [],
+      "passage": "p4-b02-pass-13",
+      "position": 2
+    },
+    {
+      "id": "p4-b02-39",
+      "part": 4,
+      "difficulty": 3,
+      "category": "qt-visual-info",
+      "stem": "Look at the graphic. Which session has changed rooms?",
+      "choices": [
+        "Panel discussion",
+        "Warehouse automation",
+        "Opening address",
+        "Sustainable shipping"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "La session sur l'automatisation passe en salle Lakeview.",
+          "why_wrong": [
+            "A : non.",
+            "C : non.",
+            "D : non."
+          ],
+          "example": "Warehouse automation"
+        },
+        "en": {
+          "rule": "The automation session moved to Lakeview.",
+          "why_wrong": [
+            "A: no.",
+            "C: no.",
+            "D: no."
+          ],
+          "example": "Warehouse automation"
+        }
+      },
+      "vocab": [],
+      "passage": "p4-b02-pass-13",
+      "position": 3
+    },
+    {
+      "id": "p4-b02-40",
+      "part": 4,
+      "difficulty": 1,
+      "category": "qt-talk-gist",
+      "stem": "What is being advertised?",
+      "choices": [
+        "A sports store",
+        "A medical clinic",
+        "A swimming school",
+        "A fitness center"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Un club de sport.",
+          "why_wrong": [
+            "A : non.",
+            "B : non.",
+            "C : non."
+          ],
+          "example": "A fitness center"
+        },
+        "en": {
+          "rule": "A gym.",
+          "why_wrong": [
+            "A: no.",
+            "B: no.",
+            "C: no."
+          ],
+          "example": "A fitness center"
+        }
+      },
+      "vocab": [],
+      "passage": "p4-b02-pass-14",
+      "position": 1
+    },
+    {
+      "id": "p4-b02-41",
+      "part": 4,
+      "difficulty": 2,
+      "category": "qt-talk-detail",
+      "stem": "What can new members get?",
+      "choices": [
+        "Two sessions with a trainer",
+        "A year of free classes",
+        "A free bag",
+        "A discount on food"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Deux séances gratuites avec un coach.",
+          "why_wrong": [
+            "B : non.",
+            "C : non.",
+            "D : non."
+          ],
+          "example": "Two sessions with a trainer"
+        },
+        "en": {
+          "rule": "Two free trainer sessions.",
+          "why_wrong": [
+            "B: no.",
+            "C: no.",
+            "D: no."
+          ],
+          "example": "Two sessions with a trainer"
+        }
+      },
+      "vocab": [],
+      "passage": "p4-b02-pass-14",
+      "position": 2
+    },
+    {
+      "id": "p4-b02-42",
+      "part": 4,
+      "difficulty": 3,
+      "category": "qt-talk-inference",
+      "stem": "What should listeners do before March first?",
+      "choices": [
+        "Buy equipment",
+        "Become a member",
+        "Call a trainer",
+        "Visit a doctor"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Avant le 1er mars : adhésion sans frais.",
+          "why_wrong": [
+            "A : non.",
+            "C : non.",
+            "D : non."
+          ],
+          "example": "Become a member"
+        },
+        "en": {
+          "rule": "Before March 1: no joining fee.",
+          "why_wrong": [
+            "A: no.",
+            "C: no.",
+            "D: no."
+          ],
+          "example": "Become a member"
+        }
+      },
+      "vocab": [],
+      "passage": "p4-b02-pass-14",
+      "position": 3
+    },
+    {
+      "id": "p4-b02-43",
+      "part": 4,
+      "difficulty": 1,
+      "category": "qt-talk-gist",
+      "stem": "What is the purpose of the announcement?",
+      "choices": [
+        "To ask for donations",
+        "To announce a fire drill",
+        "To warn about a service interruption",
+        "To introduce a new tenant"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Ascenseurs hors service.",
+          "why_wrong": [
+            "A : non.",
+            "B : non.",
+            "D : non."
+          ],
+          "example": "To warn about a service interruption"
+        },
+        "en": {
+          "rule": "Elevators out of service.",
+          "why_wrong": [
+            "A: no.",
+            "B: no.",
+            "D: no."
+          ],
+          "example": "To warn about a service interruption"
+        }
+      },
+      "vocab": [],
+      "passage": "p4-b02-pass-15",
+      "position": 1
+    },
+    {
+      "id": "p4-b02-44",
+      "part": 4,
+      "difficulty": 2,
+      "category": "qt-talk-detail",
+      "stem": "What should employees do tomorrow morning?",
+      "choices": [
+        "Stay home",
+        "Park elsewhere",
+        "Work in the east wing",
+        "Use other elevators or stairs"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Ascenseurs de l'aile ouest ou escaliers.",
+          "why_wrong": [
+            "A : non.",
+            "B : non.",
+            "C : non."
+          ],
+          "example": "Use other elevators or stairs"
+        },
+        "en": {
+          "rule": "West wing elevators or stairs.",
+          "why_wrong": [
+            "A: no.",
+            "B: no.",
+            "C: no."
+          ],
+          "example": "Use other elevators or stairs"
+        }
+      },
+      "vocab": [],
+      "passage": "p4-b02-pass-15",
+      "position": 2
+    },
+    {
+      "id": "p4-b02-45",
+      "part": 4,
+      "difficulty": 3,
+      "category": "qt-talk-inference",
+      "stem": "Who should call the front desk?",
+      "choices": [
+        "Everyone in the east wing",
+        "Visitors only",
+        "People who need assistance",
+        "Anyone with a question"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Les personnes à mobilité réduite.",
+          "why_wrong": [
+            "A : non.",
+            "B : non.",
+            "D : non."
+          ],
+          "example": "People who need assistance"
+        },
+        "en": {
+          "rule": "Employees with mobility needs.",
+          "why_wrong": [
+            "A: no.",
+            "B: no.",
+            "D: no."
+          ],
+          "example": "People who need assistance"
+        }
+      },
+      "vocab": [],
+      "passage": "p4-b02-pass-15",
+      "position": 3
+    },
+    {
+      "id": "p4-b02-46",
+      "part": 4,
+      "difficulty": 1,
+      "category": "qt-talk-gist",
+      "stem": "What is the podcast about?",
+      "choices": [
+        "Cooking techniques",
+        "Travel destinations",
+        "Home repairs",
+        "Career advice"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Conseils de carrière.",
+          "why_wrong": [
+            "A : non.",
+            "B : non.",
+            "C : non."
+          ],
+          "example": "Career advice"
+        },
+        "en": {
+          "rule": "Career advice.",
+          "why_wrong": [
+            "A: no.",
+            "B: no.",
+            "C: no."
+          ],
+          "example": "Career advice"
+        }
+      },
+      "vocab": [],
+      "passage": "p4-b02-pass-16",
+      "position": 1
+    },
+    {
+      "id": "p4-b02-47",
+      "part": 4,
+      "difficulty": 2,
+      "category": "qt-talk-detail",
+      "stem": "Who is Mark Evans?",
+      "choices": [
+        "A recruiter",
+        "A radio host",
+        "A professor",
+        "A listener"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Un recruteur.",
+          "why_wrong": [
+            "B : non.",
+            "C : non.",
+            "D : non."
+          ],
+          "example": "A recruiter"
+        },
+        "en": {
+          "rule": "A recruiter.",
+          "why_wrong": [
+            "B: no.",
+            "C: no.",
+            "D: no."
+          ],
+          "example": "A recruiter"
+        }
+      },
+      "vocab": [],
+      "passage": "p4-b02-pass-16",
+      "position": 2
+    },
+    {
+      "id": "p4-b02-48",
+      "part": 4,
+      "difficulty": 3,
+      "category": "qt-talk-inference",
+      "stem": "How can listeners participate?",
+      "choices": [
+        "By emailing a question",
+        "By calling during the show",
+        "By visiting the studio",
+        "By mailing a letter"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Envoyer un e-mail.",
+          "why_wrong": [
+            "B : non.",
+            "C : non.",
+            "D : non."
+          ],
+          "example": "By emailing a question"
+        },
+        "en": {
+          "rule": "Send an email.",
+          "why_wrong": [
+            "B: no.",
+            "C: no.",
+            "D: no."
+          ],
+          "example": "By emailing a question"
+        }
+      },
+      "vocab": [],
+      "passage": "p4-b02-pass-16",
+      "position": 3
+    },
+    {
+      "id": "p4-b02-49",
+      "part": 4,
+      "difficulty": 1,
+      "category": "qt-talk-gist",
+      "stem": "What type of message is this?",
+      "choices": [
+        "A recorded phone message",
+        "A staff meeting",
+        "A radio advertisement",
+        "A television show"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Message d'accueil téléphonique.",
+          "why_wrong": [
+            "B : non.",
+            "C : non.",
+            "D : non."
+          ],
+          "example": "A recorded phone message"
+        },
+        "en": {
+          "rule": "A phone greeting.",
+          "why_wrong": [
+            "B: no.",
+            "C: no.",
+            "D: no."
+          ],
+          "example": "A recorded phone message"
+        }
+      },
+      "vocab": [],
+      "passage": "p4-b02-pass-17",
+      "position": 1
+    },
+    {
+      "id": "p4-b02-50",
+      "part": 4,
+      "difficulty": 2,
+      "category": "qt-talk-detail",
+      "stem": "What can customers do with the mobile app?",
+      "choices": [
+        "Order cash",
+        "Book appointments",
+        "Deposit checks",
+        "Open new accounts"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Déposer des chèques.",
+          "why_wrong": [
+            "A : non.",
+            "B : non.",
+            "D : non."
+          ],
+          "example": "Deposit checks"
+        },
+        "en": {
+          "rule": "Deposit checks.",
+          "why_wrong": [
+            "A: no.",
+            "B: no.",
+            "D: no."
+          ],
+          "example": "Deposit checks"
+        }
+      },
+      "vocab": [],
+      "passage": "p4-b02-pass-17",
+      "position": 2
+    },
+    {
+      "id": "p4-b02-51",
+      "part": 4,
+      "difficulty": 3,
+      "category": "qt-visual-info",
+      "stem": "Look at the graphic. What time does the Westbrook branch close on Saturday?",
+      "choices": [
+        "It is closed.",
+        "12:00 P.M.",
+        "1:00 P.M.",
+        "5:00 P.M."
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Samedi 9:00–13:00.",
+          "why_wrong": [
+            "A : ouverte.",
+            "B : non.",
+            "D : semaine."
+          ],
+          "example": "1:00 P.M."
+        },
+        "en": {
+          "rule": "Saturday 9:00–1:00.",
+          "why_wrong": [
+            "A: it is open.",
+            "B: no.",
+            "D: weekdays."
+          ],
+          "example": "1:00 P.M."
+        }
+      },
+      "vocab": [],
+      "passage": "p4-b02-pass-17",
+      "position": 3
+    },
+    {
+      "id": "p4-b02-52",
+      "part": 4,
+      "difficulty": 1,
+      "category": "qt-talk-gist",
+      "stem": "What is the purpose of the speech?",
+      "choices": [
+        "To announce a retirement",
+        "To honor an employee",
+        "To criticize a team",
+        "To introduce a product"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Remise d'un prix.",
+          "why_wrong": [
+            "A : non.",
+            "C : non.",
+            "D : non."
+          ],
+          "example": "To honor an employee"
+        },
+        "en": {
+          "rule": "Presenting an award.",
+          "why_wrong": [
+            "A: no.",
+            "C: no.",
+            "D: no."
+          ],
+          "example": "To honor an employee"
+        }
+      },
+      "vocab": [],
+      "passage": "p4-b02-pass-18",
+      "position": 1
+    },
+    {
+      "id": "p4-b02-53",
+      "part": 4,
+      "difficulty": 2,
+      "category": "qt-talk-detail",
+      "stem": "What has Ms. Moretti done for the company?",
+      "choices": [
+        "Started the company",
+        "Moved the offices",
+        "Designed a new logo",
+        "Trained colleagues"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Elle a formé plus de trente collègues.",
+          "why_wrong": [
+            "A : non.",
+            "B : non.",
+            "C : non."
+          ],
+          "example": "Trained colleagues"
+        },
+        "en": {
+          "rule": "She trained more than thirty colleagues.",
+          "why_wrong": [
+            "A: no.",
+            "B: no.",
+            "C: no."
+          ],
+          "example": "Trained colleagues"
+        }
+      },
+      "vocab": [],
+      "passage": "p4-b02-pass-18",
+      "position": 2
+    },
+    {
+      "id": "p4-b02-54",
+      "part": 4,
+      "difficulty": 3,
+      "category": "qt-talk-inference",
+      "stem": "What will Ms. Moretti most likely do next?",
+      "choices": [
+        "Leave the room",
+        "Speak to the audience",
+        "Receive a bonus check",
+        "Sign a contract"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Invitée à monter et dire quelques mots.",
+          "why_wrong": [
+            "A : non.",
+            "C : non.",
+            "D : non."
+          ],
+          "example": "Speak to the audience"
+        },
+        "en": {
+          "rule": "Invited up to say a few words.",
+          "why_wrong": [
+            "A: no.",
+            "C: no.",
+            "D: no."
+          ],
+          "example": "Speak to the audience"
+        }
+      },
+      "vocab": [],
+      "passage": "p4-b02-pass-18",
+      "position": 3
+    }
+  ]
+}
