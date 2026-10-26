@@ -58,13 +58,13 @@ pub async fn by_part(
 
 #[derive(Serialize)]
 pub struct CategoryStat {
-    category: String,
+    pub(crate) category: String,
     kind: String,
     label_fr: String,
     label_en: String,
     correct: i64,
     total: i64,
-    accuracy: Option<f64>,
+    pub(crate) accuracy: Option<f64>,
     /// Leçon recommandée pour cette catégorie (si elle existe).
     lesson_id: Option<String>,
 }
@@ -81,7 +81,10 @@ struct CatRow {
 }
 
 /// Catégories travaillées, de la plus faible à la plus forte.
-async fn category_stats(state: &AppState, user_id: &str) -> ApiResult<Vec<CategoryStat>> {
+pub(crate) async fn category_stats(
+    state: &AppState,
+    user_id: &str,
+) -> ApiResult<Vec<CategoryStat>> {
     let sql = format!(
         "SELECT c.id, c.kind, c.label_fr, c.label_en,
                 SUM(CASE WHEN a.is_correct THEN 1 ELSE 0 END) AS correct, COUNT(*) AS total,
@@ -254,4 +257,14 @@ pub async fn mistakes(
         total,
         questions: fetch_by_ids(&state, &ids).await?,
     }))
+}
+
+/// Nombre d'erreurs en attente de révision (dernière tentative fausse).
+pub(crate) async fn mistake_count(state: &AppState, user_id: &str) -> ApiResult<usize> {
+    let sql = format!("SELECT COUNT(*) {LATEST} AND a.is_correct = FALSE");
+    let (n,): (i64,) = sqlx::query_as(&sql)
+        .bind(user_id)
+        .fetch_one(&state.pool)
+        .await?;
+    Ok(n as usize)
 }

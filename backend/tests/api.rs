@@ -533,3 +533,200 @@ async fn cours_lecture_quiz_et_progression() {
     .await;
     assert!(a["lesson_id"].is_string(), "leçon liée à gram-verb-tenses");
 }
+
+#[tokio::test]
+async fn flashcards_sm2_de_bout_en_bout() {
+    let app = setup().await;
+    let (_, v) = call(
+        &app,
+        "POST",
+        "/api/auth/login",
+        None,
+        json!({"pseudo": "jade"}),
+    )
+    .await;
+    let token = v["token"].as_str().unwrap();
+
+    // Ajout depuis la leçon : tout le vocabulaire, sans doublon à la seconde demande.
+    let (_, r) = call(
+        &app,
+        "POST",
+        "/api/cards/from-lesson/vocab-office",
+        Some(token),
+        json!({}),
+    )
+    .await;
+    assert_eq!(r["added"], 12);
+    let (_, r) = call(
+        &app,
+        "POST",
+        "/api/cards/from-lesson/vocab-office",
+        Some(token),
+        json!({}),
+    )
+    .await;
+    assert_eq!(
+        (r["added"].as_i64(), r["skipped"].as_i64()),
+        (Some(0), Some(12))
+    );
+
+    // Ajout manuel et depuis une question.
+    let (_, r) = call(
+        &app,
+        "POST",
+        "/api/cards",
+        Some(token),
+        json!({"term": "on hold", "translation": "en attente"}),
+    )
+    .await;
+    assert_eq!(r["added"], 1);
+    let (_, r) = call(
+        &app,
+        "POST",
+        "/api/cards/from-question/p5-b01-003",
+        Some(token),
+        Value::Null,
+    )
+    .await;
+    assert_eq!(r["added"], 2);
+
+    // Toutes les cartes neuves sont dues aujourd'hui.
+    let (_, due) = call(
+        &app,
+        "GET",
+        "/api/cards/due?limit=5",
+        Some(token),
+        Value::Null,
+    )
+    .await;
+    assert_eq!(due["total"], 15);
+    assert_eq!(due["cards"].as_array().unwrap().len(), 5);
+
+    // Révision : bonne réponse => intervalle 1 jour, plus due aujourd'hui.
+    let id = due["cards"][0]["id"].as_str().unwrap().to_string();
+    let (s, card) = call(
+        &app,
+        "POST",
+        &format!("/api/cards/{id}/review"),
+        Some(token),
+        json!({"quality": 4}),
+    )
+    .await;
+    assert_eq!(s, StatusCode::OK);
+    assert_eq!(card["interval_days"], 1);
+    assert_eq!(card["repetitions"], 1);
+    let (_, due) = call(&app, "GET", "/api/cards/due", Some(token), Value::Null).await;
+    assert_eq!(due["total"], 14);
+
+    // Qualité invalide et carte d'un autre utilisateur.
+    let (s, _) = call(
+        &app,
+        "POST",
+        &format!("/api/cards/{id}/review"),
+        Some(token),
+        json!({"quality": 7}),
+    )
+    .await;
+    assert_eq!(s, StatusCode::BAD_REQUEST);
+    let (_, v2) = call(
+        &app,
+        "POST",
+        "/api/auth/login",
+        None,
+        json!({"pseudo": "kim"}),
+    )
+    .await;
+    let t2 = v2["token"].as_str().unwrap();
+    let (s, _) = call(
+        &app,
+        "POST",
+        &format!("/api/cards/{id}/review"),
+        Some(t2),
+        json!({"quality": 4}),
+    )
+    .await;
+    assert_eq!(s, StatusCode::NOT_FOUND);
+
+    let (s, _) = call(
+        &app,
+        "DELETE",
+        &format!("/api/cards/{id}"),
+        Some(token),
+        Value::Null,
+    )
+    .await;
+    assert_eq!(s, StatusCode::OK);
+}
+
+#[tokio::test]
+async fn planning_genere_et_suivi() {
+    let app = setup().await;
+    let (_, v) = call(
+        &app,
+        "POST",
+        "/api/auth/login",
+        None,
+        json!({"pseudo": "leo"}),
+    )
+    .await;
+    let token = v["token"].as_str().unwrap();
+
+    // Sans date d'examen : refus explicite.
+    let (s, _) = call(&app, "POST", "/api/plan", Some(token), Value::Null).await;
+    assert_eq!(s, StatusCode::BAD_REQUEST);
+    let (_, p) = call(&app, "GET", "/api/plan", Some(token), Value::Null).await;
+    assert!(p["plan"].is_null());
+
+    let exam = (chrono::Utc::now().date_naive() + chrono::Duration::days(30)).to_string();
+    call(
+        &app,
+        "PATCH",
+        "/api/me",
+        Some(token),
+        json!({"exam_date": exam, "daily_minutes": 45}),
+    )
+    .await;
+    let (s, p) = call(&app, "POST", "/api/plan", Some(token), Value::Null).await;
+    assert_eq!(s, StatusCode::OK);
+    let items = p["items"].as_array().unwrap();
+    assert!(items.len() > 30);
+    assert!(items.iter().any(|i| i["kind"] == "lesson"));
+    assert!(items.iter().all(|i| i["minutes"].as_i64().unwrap() <= 45));
+
+    // Cocher un élément, puis régénérer : l'élément fait est conservé sans doublon.
+    let first = items[0]["id"].as_str().unwrap().to_string();
+    let (s, _) = call(
+        &app,
+        "POST",
+        &format!("/api/plan/items/{first}/done"),
+        Some(token),
+        json!({"done": true}),
+    )
+    .await;
+    assert_eq!(s, StatusCode::OK);
+    let (_, p2) = call(&app, "POST", "/api/plan", Some(token), Value::Null).await;
+    let items2 = p2["items"].as_array().unwrap();
+    assert!(items2
+        .iter()
+        .any(|i| i["id"] == first.as_str() && i["done"] == true));
+    assert_eq!(items2.len(), items.len());
+
+    // Un autre utilisateur ne peut pas cocher cet élément.
+    let (_, v2) = call(
+        &app,
+        "POST",
+        "/api/auth/login",
+        None,
+        json!({"pseudo": "mia"}),
+    )
+    .await;
+    let (s, _) = call(
+        &app,
+        "POST",
+        &format!("/api/plan/items/{first}/done"),
+        Some(v2["token"].as_str().unwrap()),
+        json!({"done": true}),
+    )
+    .await;
+    assert_eq!(s, StatusCode::NOT_FOUND);
+}

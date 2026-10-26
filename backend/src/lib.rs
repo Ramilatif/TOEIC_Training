@@ -4,8 +4,10 @@ pub mod config;
 pub mod content;
 pub mod db;
 pub mod error;
+pub mod planning;
 pub mod routes;
 pub mod scoring;
+pub mod srs;
 
 use axum::Router;
 use sqlx::SqlitePool;

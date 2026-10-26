@@ -15,6 +15,7 @@ export default function LessonView() {
   const [lesson, setLesson] = useState<LessonDetail | null>(null);
   const [answers, setAnswers] = useState<Record<string, number>>({});
   const [result, setResult] = useState<QuizResult | null>(null);
+  const [added, setAdded] = useState<string | null>(null);
 
   useEffect(() => {
     setLesson(null);
@@ -29,6 +30,10 @@ export default function LessonView() {
     const r = await api.submitQuiz(lesson.id, answers);
     setResult(r);
     setLesson({ ...lesson, read: true, quiz_passed: lesson.quiz_passed || r.passed });
+  };
+  const addCards = async (terms?: string[]) => {
+    const r = await api.cardsFromLesson(lesson.id, terms);
+    setAdded(`${r.added} ${t(lang, "cardsAdded")}${r.skipped ? `, ${r.skipped} ${t(lang, "cardsSkipped")}` : ""}`);
   };
   const markRead = async () => {
     await api.markRead(lesson.id);
@@ -60,10 +65,15 @@ export default function LessonView() {
                   </td>
                   <td>{v.translation_fr}</td>
                   <td className="muted">{v.example}</td>
+                  <td>
+                    <button onClick={() => addCards([v.term])}>+</button>
+                  </td>
                 </tr>
               ))}
             </tbody>
           </table>
+          <button onClick={() => addCards()}>{t(lang, "addAllToCards")}</button>
+          {added && <span role="status" className="muted"> {added}</span>}
         </div>
       )}
 

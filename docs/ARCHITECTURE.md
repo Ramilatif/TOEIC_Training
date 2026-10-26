@@ -96,11 +96,13 @@ questions(part, category_id).
 | GET | /lessons/{id}?lang= | contenu |
 | POST | /lessons/{id}/read, /lessons/{id}/quiz | marquer lue, soumettre le quiz |
 | GET | /lessons/progress | pourcentage par module |
-| GET/POST/DELETE | /cards | liste, ajout manuel ou depuis question/leçon, suppression |
-| GET | /cards/due | cartes à réviser |
+| GET/POST | /cards | liste, ajout manuel |
+| POST | /cards/from-lesson/{id}, /cards/from-question/{id} | ajoute le vocabulaire (sans doublon) |
+| DELETE | /cards/{id} | suppression |
+| GET | /cards/due?limit= | cartes à réviser aujourd'hui (+ total) |
 | POST | /cards/{id}/review | { quality 0-5 } -> mise à jour SM-2 |
-| GET/POST | /plan | plan courant ; (re)génération |
-| POST | /plan/items/{id}/done | marque un élément fait et déclenche le réajustement |
+| GET/POST | /plan | plan courant (réajusté automatiquement une fois par jour) ; (re)génération |
+| POST | /plan/items/{id}/done | { done } coche / décoche un élément |
 
 Erreurs : JSON `{ "error": { "code", "message" } }` avec codes HTTP standards.
 
@@ -243,8 +245,9 @@ alors de source. Les conversations Part 3 utilisent deux voix différentes.
 
 ## 10. Planning et répétition espacée
 
-- SM-2 : qualité 0-5; si q < 3 répétitions = 0 et intervalle = 1 jour; sinon intervalles 1, 6, puis
-  `interval × ease`; `ease = max(1.3, ease + 0.1 − (5−q)(0.08 + (5−q)·0.02))`.
+- SM-2 : qualité 0-5; si q < 3 répétitions = 0, intervalle = 1 jour et facilité inchangée (SM-2
+  d'origine); sinon intervalles 1, 6, puis `interval × ease`; l'interface envoie 1 (À revoir), 3 (Difficile),
+  4 (Bien), 5 (Facile); `ease = max(1.3, ease + 0.1 − (5−q)(0.08 + (5−q)·0.02))`.
 - Planning : de aujourd'hui à la date d'examen, répartit chaque jour le temps disponible entre
   leçons des 3 catégories les plus faibles, exercices ciblés, révision d'erreurs, flashcards dues, et
   un examen blanc par semaine à l'approche de la date. Réajusté après chaque élément terminé et au

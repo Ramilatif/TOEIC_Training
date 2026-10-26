@@ -164,6 +164,32 @@ export interface ModuleProgress {
   percent: number;
 }
 
+export interface Card {
+  id: string;
+  term: string;
+  translation: string;
+  example: string | null;
+  source: string;
+  ease: number;
+  interval_days: number;
+  repetitions: number;
+  due_date: string;
+}
+
+export interface PlanItem {
+  id: string;
+  day: string;
+  kind: "lesson" | "practice" | "review" | "flashcards" | "mock";
+  ref_id: string | null;
+  minutes: number;
+  done: boolean;
+}
+
+export interface PlanData {
+  plan: { id: string; generated_at: string; exam_date: string; daily_minutes: number } | null;
+  items: PlanItem[];
+}
+
 const TOKEN_KEY = "toeic_token";
 
 export const getToken = (): string | null => {
@@ -239,4 +265,18 @@ export const api = {
   markRead: (id: string) => request<{ ok: boolean }>("POST", `/lessons/${id}/read`),
   submitQuiz: (id: string, answers: Record<string, number>) =>
     request<QuizResult>("POST", `/lessons/${id}/quiz`, { answers }),
+  cards: () => request<Card[]>("GET", "/cards"),
+  dueCards: (limit = 20) => request<{ total: number; cards: Card[] }>("GET", `/cards/due?limit=${limit}`),
+  addCard: (term: string, translation: string, example?: string) =>
+    request<{ added: number; skipped: number }>("POST", "/cards", { term, translation, example }),
+  cardsFromLesson: (id: string, terms?: string[]) =>
+    request<{ added: number; skipped: number }>("POST", `/cards/from-lesson/${id}`, { terms }),
+  cardsFromQuestion: (id: string) =>
+    request<{ added: number; skipped: number }>("POST", `/cards/from-question/${id}`),
+  deleteCard: (id: string) => request<{ ok: boolean }>("DELETE", `/cards/${id}`),
+  reviewCard: (id: string, quality: number) => request<Card>("POST", `/cards/${id}/review`, { quality }),
+  plan: () => request<PlanData>("GET", "/plan"),
+  generatePlan: () => request<PlanData>("POST", "/plan"),
+  setPlanItemDone: (id: string, done: boolean) =>
+    request<{ ok: boolean }>("POST", `/plan/items/${id}/done`, { done }),
 };

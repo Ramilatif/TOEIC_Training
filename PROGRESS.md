@@ -2,9 +2,9 @@
 
 ## État actuel
 
-- Phase en cours : 6 — Flashcards SM-2 et planning
+- Phase en cours : 7 — Banque complète (400 questions)
 - Dernière mise à jour : 2026-10-26
-- Prochaine action : module srs (SM-2) et planning en Rust avec tests, endpoints /cards et /plan, pages Flashcards et Planning, bouton « ajouter aux flashcards »
+- Prochaine action : rédiger les lots restants, une partie à la fois (Part 5, 6, 7, puis 2, 3, 4, puis Part 1 complète), en validant le format à chaque lot
 
 ## Phases
 
@@ -15,7 +15,7 @@
 - [x] 3. Examens blancs et mini-tests, scoring
 - [x] 4. Tableau de bord et révision des erreurs
 - [x] 5. Zone de cours
-- [ ] 6. Flashcards SM-2 et planning
+- [x] 6. Flashcards SM-2 et planning
 - [ ] 7. Banque complète (400 questions)
 
 ## Banque de contenu
@@ -49,6 +49,8 @@ Leçons : grammaire 16/16 · vocabulaire 14/14 · méthodologie 7/7 (5 questions
 2026-10-26 — Score estimé du tableau de bord : moyenne des précisions par partie pondérée par le poids officiel ; l'estimation est signalée comme moins fiable tant que les 7 parties ne sont pas travaillées
 2026-10-26 — Leçons : 5 questions de quiz par leçon (minimum du PROMPT) ; validation à 70 % ; les quiz n'enregistrent pas de tentatives (ne faussent ni statistiques ni score estimé)
 2026-10-26 — Lien « correction ratée → leçon » : leçon grammaire/vocabulaire de la catégorie, sinon leçon de méthodologie de la partie (method-part-N)
+2026-10-26 — Planning : jours calculés en UTC (peut décaler d'un jour autour de minuit en France) ; réajustement automatique à la première consultation de chaque jour, les éléments déjà cochés ou passés sont conservés
+2026-10-26 — Planning : examen blanc hebdomadaire (J-7, J-14…), complet si ≥ 120 min/jour sinon mini-test ; veille et jour de l'examen = flashcards + révision seulement
 2026-10-26 — Questions des quiz de leçon (batch « lesson-* ») exclues de l'entraînement général
 2026-10-26 — Poste de dev Windows 11 (et non Arch comme dans PROMPT.md) — décision de l utilisateur ; commandes Docker/Node identiques
 

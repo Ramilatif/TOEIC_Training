@@ -76,3 +76,13 @@ fieldset { border: 1px solid var(--border); border-radius: 6px; margin-bottom: 0
 .lesson-list { padding-left: 1.1rem; }
 .badge { font-size: 0.78rem; border: 1px solid var(--border); border-radius: 10px; padding: 0 0.5rem; color: var(--muted); }
 .badge.ok { color: var(--ok); border-color: var(--ok); }
+.flash { text-align: center; padding: 1.5rem 1rem; }
+.rating { display: flex; gap: 0.5rem; justify-content: center; flex-wrap: wrap; }
+.form-grid { display: grid; gap: 0.6rem; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); align-items: end; }
+.form-grid label { display: grid; gap: 0.2rem; }
+.cards-table { width: 100%; border-collapse: collapse; }
+.cards-table td { border-bottom: 1px solid var(--border); padding: 0.4rem 0.3rem; }
+.link-dark { background: none; border: none; color: var(--ko); text-decoration: underline; padding: 0; }
+.plan-list { list-style: none; padding: 0; margin: 0; }
+.plan-list li.done a { text-decoration: line-through; color: var(--muted); }
+.card.today { border-color: var(--accent); box-shadow: 0 0 0 1px var(--accent); }

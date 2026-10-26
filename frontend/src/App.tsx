@@ -7,6 +7,8 @@ import Home from "./pages/Home";
 import Dashboard from "./pages/Dashboard";
 import Lessons from "./pages/Lessons";
 import LessonView from "./pages/LessonView";
+import Flashcards from "./pages/Flashcards";
+import Planning from "./pages/Planning";
 import Mistakes from "./pages/Mistakes";
 import Practice from "./pages/Practice";
 import ExamSetup from "./pages/ExamSetup";
@@ -26,6 +28,12 @@ export default function App() {
           {t(lang, "appName")}
         </Link>
         <nav>
+          <Link to="/cards" className="navlink">
+            {t(lang, "flashcards")}
+          </Link>
+          <Link to="/planning" className="navlink">
+            {t(lang, "planning")}
+          </Link>
           <Link to="/lessons" className="navlink">
             {t(lang, "lessonsTitle")}
           </Link>
@@ -57,6 +65,8 @@ export default function App() {
           <Route path="/" element={<Dashboard />} />
           <Route path="/train" element={<Home />} />
           <Route path="/mistakes" element={<Mistakes />} />
+          <Route path="/cards" element={<Flashcards />} />
+          <Route path="/planning" element={<Planning />} />
           <Route path="/lessons" element={<Lessons />} />
           <Route path="/lessons/:id" element={<LessonView />} />
           <Route path="/practice/:part" element={<Practice />} />

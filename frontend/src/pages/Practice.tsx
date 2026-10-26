@@ -21,6 +21,7 @@ export default function Practice() {
   const [result, setResult] = useState<AnswerResult | null>(null);
   const [score, setScore] = useState(0);
   const [round, setRound] = useState(0);
+  const [vocabMsg, setVocabMsg] = useState<string | null>(null);
   const shownAt = useRef(Date.now());
 
   useEffect(() => {
@@ -42,6 +43,7 @@ export default function Practice() {
   useEffect(() => {
     setChosen(null);
     setResult(null);
+    setVocabMsg(null);
     shownAt.current = Date.now();
   }, [index, questions]);
 
@@ -100,6 +102,19 @@ export default function Practice() {
             transcript={q.part <= 4 ? (result.transcript ?? q.passage?.transcript ?? null) : null}
             lang={lang}
           />
+          {q.part >= 5 && (
+            <p>
+              <button
+                onClick={async () => {
+                  const r = await api.cardsFromQuestion(q.id);
+                  setVocabMsg(`${r.added} ${t(lang, "cardsAdded")}`);
+                }}
+              >
+                {t(lang, "addVocabQuestion")}
+              </button>{" "}
+              {vocabMsg && <span role="status" className="muted">{vocabMsg}</span>}
+            </p>
+          )}
           {!result.correct && result.lesson_id && (
             <p>
               <Link to={`/lessons/${result.lesson_id}`}>{t(lang, "openLesson")}</Link>
