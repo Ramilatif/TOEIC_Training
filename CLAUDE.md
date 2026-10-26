@@ -17,6 +17,15 @@ En cas de contradiction : PROMPT.md fait foi, puis ARCHITECTURE.md.
 - Frontend : React + TypeScript, responsive
 - Environnement : Docker Compose, poste de dev sous Windows 11 (shell Git Bash / PowerShell)
 
+## Architecture (vue d'ensemble)
+
+- Backend : `lib.rs` expose `app(AppState)` ; `main.rs` ne fait que démarrer (config, migrations, import du contenu, serveur, `/media` pour les photos). Les tests d'intégration (`backend/tests/api.rs`) importent le VRAI contenu de `content/` dans une base SQLite en mémoire : un JSON ou une leçon invalide fait donc échouer `cargo test`.
+- Logique métier pure et testée, sans base : `scoring/` (conversion 5-495, sélection des questions d'examen, estimation), `srs/` (SM-2), `planning/` (génération du programme). Les routes (`routes/`) ne font que lire/écrire en base et appeler ces modules.
+- Auth isolée dans `auth/` (trait `Authenticator`, jeton de session opaque en base) : le mot de passe se branchera là.
+- Contenu : `content/` est importé à chaque démarrage (idempotent, `ON CONFLICT DO UPDATE`). Le quiz d'une leçon = questions du lot `lesson-<id de la leçon>` (5 à 10 exigées). Part 1 : une question dont la photo est absente de `content/images/part1/` n'est pas importée.
+- Frontend : React Router, un client typé dans `src/api/client.ts`, i18n FR/EN dans `src/i18n/index.ts` (la langue vient du profil). Audio derrière l'interface `AudioEngine` (`src/audio/`).
+- Statistiques et dashboard : basés sur la DERNIÈRE tentative de chaque question ; les quiz de leçon n'enregistrent pas de tentatives.
+
 ## Structure
 
 - backend/ : API Rust
@@ -39,6 +48,7 @@ En cas de contradiction : PROMPT.md fait foi, puis ARCHITECTURE.md.
 - Nouvelle migration : ajouter backend/migrations/NNNN_nom.sql (embarquée par sqlx::migrate!, pas de sqlx-cli requis)
 - Node.js n'est pas dans le PATH de Git Bash : export PATH="$PATH:/c/Program Files/nodejs"
 - Éviter les heredocs avec apostrophes dans l'outil Bash : utiliser l'outil Write
+- Ajouter du contenu : respecter le format de docs/ARCHITECTURE.md §5-6 ; répartir les bonnes réponses (pas de biais vers « A ») ; relancer `cd backend && cargo test` pour valider tout le contenu
 
 ## Règles de travail
 
