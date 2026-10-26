@@ -26,9 +26,9 @@
 | Part 2 | 50                | 10                  | oui           |
 | Part 3 | 78                | 6                  | oui           |
 | Part 4 | 60                | 6                  | oui           |
-| Part 5 | 60                | 10                 | oui           |
-| Part 6 | 32                | 4                  | oui           |
-| Part 7 | 108               | 3                  | oui           |
+| Part 5 | 60                | 60                 | oui           |
+| Part 6 | 32                | 32                  | oui           |
+| Part 7 | 108               | 108                  | oui           |
 
 Leçons : grammaire 16/16 · vocabulaire 14/14 · méthodologie 7/7 (5 questions de quiz chacune, 185 au total)
 

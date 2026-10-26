@@ -1,0 +1,1938 @@
+{
+  "batch": "part7-batch04",
+  "part": 7,
+  "passages": [
+    {
+      "id": "p7-b04-pass-01",
+      "kind": "double",
+      "title": "Job advertisement and application email",
+      "body": "HARBOR LOGISTICS — Warehouse Supervisor\n\nHarbor Logistics seeks an experienced warehouse supervisor for its Rotterdam facility. Responsibilities include managing a team of 25, scheduling shifts and ensuring compliance with safety rules. Requirements: five years of experience in warehousing, including two in a supervisory role; fluency in English and Dutch. Salary: €52,000 to €58,000, depending on experience. Apply by March 15 to careers@harborlogistics.example.\n\n- - - - - - - - - -\n\nTo: careers@harborlogistics.example\nFrom: Tomas Wieczorek\nDate: March 9\nSubject: Application — Warehouse Supervisor\n\nDear Hiring Manager,\n\nI am writing to apply for the warehouse supervisor position. I have worked in warehousing for seven years, the last three as shift leader at Baltic Freight in Gdansk, where I managed a team of 18. I speak English and Polish fluently and am currently studying Dutch; I expect to reach a professional level by summer. My résumé is attached. I would be available for an interview at any time.",
+      "transcript": null,
+      "image": null
+    },
+    {
+      "id": "p7-b04-pass-02",
+      "kind": "double",
+      "title": "Invoice and email about an error",
+      "body": "CITYLINE CATERING — INVOICE 7731\nClient: Olsen Consulting     Event date: April 12\n\nLunch buffet (60 guests @ $22)        $1,320\nCoffee service                         $180\nLinen rental                           $90\nService charge (10%)                   $159\nTOTAL                                $1,749\n\nPayment is due 14 days after the event.\n\n- - - - - - - - - -\n\nTo: billing@citylinecatering.example\nFrom: Marta Olsen\nDate: April 15\nSubject: Invoice 7731\n\nHello,\n\nThank you for the excellent service last Friday. However, I noticed an error on the invoice: only 54 guests attended, because six people cancelled the day before. Our contract states that we are charged according to the final number confirmed 48 hours before the event, which was 54. Could you please send a corrected invoice? I will make the payment as soon as I receive it.",
+      "transcript": null,
+      "image": null
+    },
+    {
+      "id": "p7-b04-pass-03",
+      "kind": "double",
+      "title": "Conference schedule and attendee email",
+      "body": "MIDWEST MARKETING SUMMIT — FRIDAY, MAY 9\n\n9:00  Opening address — Dr. Helen Park\n10:00  Workshop A: Social media analytics (Room 1)\n10:00  Workshop B: Writing for the web (Room 2)\n11:30  Coffee break\n12:00  Keynote: The Future of Retail — Mr. Ravi Nair\n13:00  Lunch (included)\n14:00  Panel: Customer loyalty (all attendees)\n15:30  Closing remarks\n\nWorkshops require advance registration; seats are limited to 40 each.\n\n- - - - - - - - - -\n\nTo: info@midwestsummit.example\nFrom: Chloe Dubois\nDate: May 2\nSubject: Question about Friday\n\nHello,\n\nI registered for Workshop A, but I just learned that I must leave the summit by 12:30 to catch a flight. Would it be possible to attend Mr. Nair's keynote instead of the lunch break? I'd also like to know whether the conference materials will be available online after the event, because I will miss the afternoon panel.\n\nThank you,\nChloe Dubois",
+      "transcript": null,
+      "image": null
+    },
+    {
+      "id": "p7-b04-pass-04",
+      "kind": "double",
+      "title": "Article and letter to the editor",
+      "body": "CITY COUNCIL APPROVES NEW DOWNTOWN PARKING FEES\n\nThe Millbrook City Council voted 6-3 on Monday to introduce paid parking in the downtown area from July 1. Drivers will pay two dollars an hour between 8 A.M. and 6 P.M., Monday to Saturday. Revenue is expected to fund improvements to bus services. Residents of the downtown zone may apply for a permit costing forty dollars a year. Councilor Ann Lee said the measure would reduce traffic and encourage public transportation.\n\n- - - - - - - - - -\n\nLETTER TO THE EDITOR\n\nThe new parking fees will harm the very businesses the council claims to support. Many small shops depend on customers who stop for only a few minutes. Charging them two dollars an hour will push shoppers toward suburban malls. If the council really wants to help downtown, it should offer thirty minutes of free parking and invest first in better bus routes before charging drivers.\n\nRobert Haines, owner, Haines Hardware",
+      "transcript": null,
+      "image": null
+    },
+    {
+      "id": "p7-b04-pass-05",
+      "kind": "triple",
+      "title": "Email, schedule and reply",
+      "body": "To: Project team\nFrom: Lucia Fernandez\nDate: September 2\nSubject: Product launch planning\n\nTeam, the launch of the new tablet is set for November 18. Please review the weekly schedule below and let me know of any conflicts before Friday. Each task leader should report progress on Mondays.\n\n- - - - - - - - - -\n\nLAUNCH SCHEDULE\nSept 9–20   Packaging design (Hana)\nSept 23–Oct 11   Software testing (Dmitri)\nOct 14–25   Advertising campaign (Sofia)\nOct 28–Nov 8   Shipping to stores (Kofi)\nNov 11–15   Staff training\nNov 18   Launch\n\n- - - - - - - - - -\n\nTo: Lucia Fernandez\nFrom: Kofi Mensah\nDate: September 4\nSubject: Re: Product launch planning\n\nLucia, I can't ship to stores between October 28 and November 8 because our main carrier will not have trucks available until November 4. Could we move my task one week later and shorten the staff training instead? I'd be glad to help train staff afterward.",
+      "transcript": null,
+      "image": null
+    },
+    {
+      "id": "p7-b04-pass-06",
+      "kind": "triple",
+      "title": "Advertisement, order form and confirmation",
+      "body": "BRIGHTHOME LIGHTING — SPRING SALE\n\nSave 20% on all LED desk lamps through April 30. Free shipping on orders of $75 or more. Standard delivery takes 3–5 business days.\n\n- - - - - - - - - -\n\nORDER FORM\nCustomer: Ines Moreau   Date: April 24\nItem: LumiPro LED desk lamp (black) — qty 2 @ $42 each\nItem: Spare bulb pack — qty 1 @ $9\nPromo code: SPRING20 applied to lamps only\nShipping: Standard\n\n- - - - - - - - - -\n\nTo: ines.moreau@mail.example\nFrom: orders@brighthome.example\nDate: April 24\nSubject: Order confirmation\n\nThank you for your order. Your total is $76.20 including free shipping. Please note that the spare bulb pack is on back order and will be sent separately within two weeks. Your lamps will leave our warehouse tomorrow.",
+      "transcript": null,
+      "image": null
+    },
+    {
+      "id": "p7-b04-pass-07",
+      "kind": "triple",
+      "title": "Memo, room chart and email request",
+      "body": "MEMO — Meeting room booking changes\nFrom: Facilities\nEffective June 1, all rooms must be booked at least 24 hours in advance through the online system. Rooms not occupied within 15 minutes of the booked start time will be released.\n\n- - - - - - - - - -\n\nROOM CHART\nRoom   Capacity   Equipment\nAspen   6   Video screen\nBirch   12   Video screen, whiteboard\nCedar   20   Projector, microphone\nDogwood   40   Projector, microphone, stage\n\n- - - - - - - - - -\n\nTo: Facilities\nFrom: Naoko Ito\nDate: June 3\nSubject: Room for Thursday\n\nHello, I need a room for 15 people this Thursday at 2 P.M. for a client presentation. We'll need to show slides and I'd like a microphone for the Q&A. I realize it is less than 24 hours' notice, but a client meeting was just confirmed. Is anything available?",
+      "transcript": null,
+      "image": null
+    },
+    {
+      "id": "p7-b04-pass-08",
+      "kind": "triple",
+      "title": "Hotel booking, change request and bill",
+      "body": "HOTEL ALPENBLICK — BOOKING CONFIRMATION\nGuest: Peter Schaefer   Reservation: 55812\nArrival: Oct 20   Departure: Oct 23   Room: Standard single\nRate: €110 per night, breakfast €12 per day\nFree cancellation until 48 hours before arrival.\n\n- - - - - - - - - -\n\nTo: reservations@alpenblick.example\nFrom: Peter Schaefer\nDate: Oct 15\nSubject: Change to reservation 55812\n\nGood morning, my meeting has been extended by one day. Could you please extend my stay until October 24 and upgrade me to a room with a desk? I would also like to cancel the breakfast, as my hosts are providing meals.\n\n- - - - - - - - - -\n\nHOTEL ALPENBLICK — GUEST BILL\nGuest: Peter Schaefer   Check-out: Oct 24\nRoom (4 nights, desk room €125)   €500\nCity tax   €16\nTotal   €516\nPaid by credit card",
+      "transcript": null,
+      "image": null
+    },
+    {
+      "id": "p7-b04-pass-09",
+      "kind": "triple",
+      "title": "Article, statement and customer review",
+      "body": "LOCAL BAKERY RECALLS GRANOLA BARS\n\nBakehouse Foods has recalled its Honey-Almond granola bars after discovering that some packages may contain traces of peanuts not listed on the label. The affected bars carry expiration dates between March 1 and March 31. No illnesses have been reported.\n\n- - - - - - - - - -\n\nSTATEMENT FROM BAKEHOUSE FOODS\n\n\"The safety of our customers is our top priority. We have stopped production of this item until our packaging process is reviewed. Customers who bought the affected bars can return them to the place of purchase for a full refund. For questions, call 1-800-555-0118.\"\n\n- - - - - - - - - -\n\nCUSTOMER REVIEW — posted March 12\n\n★★★★★ I bought two boxes of Honey-Almond bars last week and love the flavor. After hearing about the recall, I checked the date on my boxes: March 15. I'm taking them back today. I appreciate how quickly the company informed us, and I'll definitely buy their other products.",
+      "transcript": null,
+      "image": null
+    },
+    {
+      "id": "p7-b04-pass-10",
+      "kind": "triple",
+      "title": "Course catalog, registration email and receipt",
+      "body": "WESTFIELD LANGUAGE INSTITUTE — SUMMER COURSES\n\nSpanish for Business — July 7–Aug 15 — Mon/Wed 6–8 P.M. — $420\nFrench Conversation — July 8–Aug 14 — Tue/Thu 6–8 P.M. — $380\nGerman Basics — July 9–Aug 13 — Wed 6–9 P.M. — $300\nRegistration closes June 27. Discount: 15% for registering two courses.\n\n- - - - - - - - - -\n\nTo: admissions@westfield.example\nFrom: Aaron Blake\nDate: June 20\nSubject: Registration\n\nI'd like to enroll in Spanish for Business and French Conversation. However, I notice they meet on different evenings, so I assume there is no conflict. Please confirm the total price with the discount and whether payment can be made by credit card.\n\n- - - - - - - - - -\n\nWESTFIELD LANGUAGE INSTITUTE — RECEIPT\nStudent: Aaron Blake   Date: June 21\nSpanish for Business   $420.00\nFrench Conversation   $380.00\nMulti-course discount (15%)   –$120.00\nTotal paid   $680.00\nMethod: Credit card",
+      "transcript": null,
+      "image": null
+    }
+  ],
+  "questions": [
+    {
+      "id": "p7-b04-01",
+      "part": 7,
+      "difficulty": 1,
+      "category": "qt-reading-main-idea",
+      "stem": "Why did Mr. Wieczorek write the email?",
+      "choices": [
+        "To apply for a job",
+        "To book a warehouse",
+        "To ask about a salary",
+        "To resign from his job"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Il écrit pour postuler au poste.",
+          "why_wrong": [
+            "B : non.",
+            "C : il postule.",
+            "D : non."
+          ],
+          "example": "To apply for a job"
+        },
+        "en": {
+          "rule": "He writes to apply for the post.",
+          "why_wrong": [
+            "B: no.",
+            "C: he is applying.",
+            "D: no."
+          ],
+          "example": "To apply for a job"
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b04-pass-01",
+      "position": 1
+    },
+    {
+      "id": "p7-b04-02",
+      "part": 7,
+      "difficulty": 2,
+      "category": "qt-reading-detail",
+      "stem": "How many years of supervisory experience does the job require?",
+      "choices": [
+        "Three",
+        "Two",
+        "Five",
+        "Seven"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "« five years … including two in a supervisory role ».",
+          "why_wrong": [
+            "A : c'est son expérience à lui.",
+            "C : c'est l'expérience totale en entrepôt.",
+            "D : son expérience totale."
+          ],
+          "example": "Two"
+        },
+        "en": {
+          "rule": "'five years … including two in a supervisory role'.",
+          "why_wrong": [
+            "A: that is his experience.",
+            "C: that is total warehousing experience.",
+            "D: his total experience."
+          ],
+          "example": "Two"
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b04-pass-01",
+      "position": 2
+    },
+    {
+      "id": "p7-b04-03",
+      "part": 7,
+      "difficulty": 3,
+      "category": "qt-multi-passage",
+      "stem": "Which requirement does Mr. Wieczorek not fully meet at present?",
+      "choices": [
+        "Years of experience",
+        "Supervisory experience",
+        "Fluency in English",
+        "Fluency in Dutch"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "L'annonce demande le néerlandais ; il l'étudie encore.",
+          "why_wrong": [
+            "A : il a sept ans d'expérience.",
+            "B : il a trois ans comme chef d'équipe.",
+            "C : il parle anglais couramment."
+          ],
+          "example": "Fluency in Dutch"
+        },
+        "en": {
+          "rule": "The ad requires Dutch; he is still studying it.",
+          "why_wrong": [
+            "A: he has seven years.",
+            "B: he has three years as shift leader.",
+            "C: he speaks English fluently."
+          ],
+          "example": "Fluency in Dutch"
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b04-pass-01",
+      "position": 3
+    },
+    {
+      "id": "p7-b04-04",
+      "part": 7,
+      "difficulty": 3,
+      "category": "qt-reading-inference",
+      "stem": "What can be inferred about Mr. Wieczorek?",
+      "choices": [
+        "He previously worked for Harbor Logistics.",
+        "He currently works outside the Netherlands.",
+        "He wants a lower salary.",
+        "He has applied late."
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Il travaille à Gdansk (Pologne).",
+          "why_wrong": [
+            "A : non.",
+            "C : non.",
+            "D : il a écrit le 9 mars, avant le 15."
+          ],
+          "example": "He currently works outside the Netherlands."
+        },
+        "en": {
+          "rule": "He works in Gdansk (Poland).",
+          "why_wrong": [
+            "A: no.",
+            "C: no.",
+            "D: he wrote on March 9, before the 15th."
+          ],
+          "example": "He currently works outside the Netherlands."
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b04-pass-01",
+      "position": 4
+    },
+    {
+      "id": "p7-b04-05",
+      "part": 7,
+      "difficulty": 2,
+      "category": "qt-reading-vocab-context",
+      "stem": "The word \"compliance\" in the advertisement is closest in meaning to",
+      "choices": [
+        "delivering",
+        "obeying",
+        "complaining",
+        "pricing"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Compliance with rules = respect des règles.",
+          "why_wrong": [
+            "A : sens différent.",
+            "C : sens différent.",
+            "D : sens différent."
+          ],
+          "example": "obeying"
+        },
+        "en": {
+          "rule": "Compliance with rules = following them.",
+          "why_wrong": [
+            "A: different meaning.",
+            "C: different meaning.",
+            "D: different meaning."
+          ],
+          "example": "obeying"
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b04-pass-01",
+      "position": 5
+    },
+    {
+      "id": "p7-b04-06",
+      "part": 7,
+      "difficulty": 1,
+      "category": "qt-reading-main-idea",
+      "stem": "What is the purpose of the email?",
+      "choices": [
+        "To book catering",
+        "To cancel an event",
+        "To complain about the food",
+        "To request a corrected bill"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Elle demande une facture corrigée.",
+          "why_wrong": [
+            "A : non.",
+            "B : l'événement a déjà eu lieu.",
+            "C : elle félicite le service."
+          ],
+          "example": "To request a corrected bill"
+        },
+        "en": {
+          "rule": "She asks for a corrected invoice.",
+          "why_wrong": [
+            "A: no.",
+            "B: the event has already happened.",
+            "C: she praises the service."
+          ],
+          "example": "To request a corrected bill"
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b04-pass-02",
+      "position": 1
+    },
+    {
+      "id": "p7-b04-07",
+      "part": 7,
+      "difficulty": 1,
+      "category": "qt-reading-detail",
+      "stem": "How much does the buffet cost per guest?",
+      "choices": [
+        "$22",
+        "$159",
+        "$54",
+        "$1,320"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "« 60 guests @ $22 ».",
+          "why_wrong": [
+            "B : c'est le service.",
+            "C : c'est le nombre de convives.",
+            "D : c'est le total du buffet."
+          ],
+          "example": "$22"
+        },
+        "en": {
+          "rule": "'60 guests @ $22'.",
+          "why_wrong": [
+            "B: that is the service charge.",
+            "C: that is the number of guests.",
+            "D: that is the buffet total."
+          ],
+          "example": "$22"
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b04-pass-02",
+      "position": 2
+    },
+    {
+      "id": "p7-b04-08",
+      "part": 7,
+      "difficulty": 3,
+      "category": "qt-multi-passage",
+      "stem": "According to the email, how many guests should have been charged?",
+      "choices": [
+        "48",
+        "6",
+        "54",
+        "60"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Elle dit que 54 invités étaient confirmés.",
+          "why_wrong": [
+            "A : délai en heures.",
+            "B : annulations.",
+            "D : chiffre de la facture, erroné."
+          ],
+          "example": "54"
+        },
+        "en": {
+          "rule": "She says 54 guests were confirmed.",
+          "why_wrong": [
+            "A: that is the hours deadline.",
+            "B: cancellations.",
+            "D: invoice figure, which is wrong."
+          ],
+          "example": "54"
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b04-pass-02",
+      "position": 3
+    },
+    {
+      "id": "p7-b04-09",
+      "part": 7,
+      "difficulty": 3,
+      "category": "qt-multi-passage",
+      "stem": "Which amount on the invoice will probably change?",
+      "choices": [
+        "The payment term",
+        "The coffee service",
+        "The buffet price",
+        "The linen rental"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Le buffet dépend du nombre de convives et modifie aussi le service de 10 %.",
+          "why_wrong": [
+            "A : non.",
+            "B : pas nécessairement.",
+            "D : indépendant du nombre d'invités."
+          ],
+          "example": "The buffet price"
+        },
+        "en": {
+          "rule": "The buffet depends on guests and also changes the 10 percent service charge.",
+          "why_wrong": [
+            "A: no.",
+            "B: not necessarily.",
+            "D: independent of the guest count."
+          ],
+          "example": "The buffet price"
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b04-pass-02",
+      "position": 4
+    },
+    {
+      "id": "p7-b04-10",
+      "part": 7,
+      "difficulty": 3,
+      "category": "qt-reading-inference",
+      "stem": "What is implied about Ms. Olsen?",
+      "choices": [
+        "She attended the event.",
+        "She has not yet paid the invoice.",
+        "She is dissatisfied with the service.",
+        "She plans to switch caterers."
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "« I will make the payment as soon as I receive it ».",
+          "why_wrong": [
+            "A : non précisé.",
+            "C : elle remercie.",
+            "D : non."
+          ],
+          "example": "She has not yet paid the invoice."
+        },
+        "en": {
+          "rule": "'I will make the payment as soon as I receive it'.",
+          "why_wrong": [
+            "A: not stated.",
+            "C: she thanks them.",
+            "D: no."
+          ],
+          "example": "She has not yet paid the invoice."
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b04-pass-02",
+      "position": 5
+    },
+    {
+      "id": "p7-b04-11",
+      "part": 7,
+      "difficulty": 1,
+      "category": "qt-reading-main-idea",
+      "stem": "Why did Ms. Dubois write to the organizers?",
+      "choices": [
+        "To ask about her plans for the day",
+        "To offer to speak",
+        "To cancel her registration",
+        "To report a problem with Room 1"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Elle pose des questions sur son emploi du temps à cause de son vol.",
+          "why_wrong": [
+            "B : non.",
+            "C : elle veut encore participer.",
+            "D : non."
+          ],
+          "example": "To ask about her plans for the day"
+        },
+        "en": {
+          "rule": "She asks about her schedule because of her flight.",
+          "why_wrong": [
+            "B: no.",
+            "C: she still wants to take part.",
+            "D: no."
+          ],
+          "example": "To ask about her plans for the day"
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b04-pass-03",
+      "position": 1
+    },
+    {
+      "id": "p7-b04-12",
+      "part": 7,
+      "difficulty": 1,
+      "category": "qt-reading-detail",
+      "stem": "What time does the keynote begin?",
+      "choices": [
+        "14:00",
+        "13:00",
+        "11:30",
+        "12:00"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "12:00 Keynote.",
+          "why_wrong": [
+            "A : table ronde.",
+            "B : déjeuner.",
+            "C : pause café."
+          ],
+          "example": "12:00"
+        },
+        "en": {
+          "rule": "12:00 Keynote.",
+          "why_wrong": [
+            "A: panel.",
+            "B: lunch.",
+            "C: coffee break."
+          ],
+          "example": "12:00"
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b04-pass-03",
+      "position": 2
+    },
+    {
+      "id": "p7-b04-13",
+      "part": 7,
+      "difficulty": 3,
+      "category": "qt-multi-passage",
+      "stem": "Which session will Ms. Dubois miss because of her flight?",
+      "choices": [
+        "The opening address",
+        "The coffee break",
+        "Workshop A",
+        "The panel on customer loyalty"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Elle part à 12 h 30, avant le panel de 14 h.",
+          "why_wrong": [
+            "A : elle sera présente.",
+            "B : non.",
+            "C : elle y assistera avant de partir."
+          ],
+          "example": "The panel on customer loyalty"
+        },
+        "en": {
+          "rule": "She leaves at 12:30, before the 2:00 panel.",
+          "why_wrong": [
+            "A: she will be present.",
+            "B: no.",
+            "C: she will attend before leaving."
+          ],
+          "example": "The panel on customer loyalty"
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b04-pass-03",
+      "position": 3
+    },
+    {
+      "id": "p7-b04-14",
+      "part": 7,
+      "difficulty": 3,
+      "category": "qt-multi-passage",
+      "stem": "What can be inferred about Workshop A?",
+      "choices": [
+        "It starts after the keynote.",
+        "It is free of charge.",
+        "It may reach its maximum number of participants.",
+        "It is held in Room 2."
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Les ateliers exigent une inscription et ont 40 places.",
+          "why_wrong": [
+            "A : à 10 h.",
+            "B : non précisé.",
+            "D : Room 1."
+          ],
+          "example": "It may reach its maximum number of participants."
+        },
+        "en": {
+          "rule": "Workshops need registration and have 40 seats.",
+          "why_wrong": [
+            "A: at 10:00.",
+            "B: not stated.",
+            "D: Room 1."
+          ],
+          "example": "It may reach its maximum number of participants."
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b04-pass-03",
+      "position": 4
+    },
+    {
+      "id": "p7-b04-15",
+      "part": 7,
+      "difficulty": 2,
+      "category": "qt-reading-vocab-context",
+      "stem": "The word \"remarks\" in the schedule is closest in meaning to",
+      "choices": [
+        "marks",
+        "reviews",
+        "repairs",
+        "comments"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Closing remarks = discours de clôture.",
+          "why_wrong": [
+            "A : sens différent.",
+            "B : sens différent.",
+            "C : sens différent."
+          ],
+          "example": "comments"
+        },
+        "en": {
+          "rule": "Closing remarks = final comments.",
+          "why_wrong": [
+            "A: different meaning.",
+            "B: different meaning.",
+            "C: different meaning."
+          ],
+          "example": "comments"
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b04-pass-03",
+      "position": 5
+    },
+    {
+      "id": "p7-b04-16",
+      "part": 7,
+      "difficulty": 1,
+      "category": "qt-reading-main-idea",
+      "stem": "What is the topic of both texts?",
+      "choices": [
+        "Paid parking in the city center",
+        "A bus strike",
+        "A new shopping mall",
+        "A hardware sale"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Les deux textes parlent du stationnement payant.",
+          "why_wrong": [
+            "B : non.",
+            "C : non.",
+            "D : non."
+          ],
+          "example": "Paid parking in the city center"
+        },
+        "en": {
+          "rule": "Both texts are about paid parking.",
+          "why_wrong": [
+            "B: no.",
+            "C: no.",
+            "D: no."
+          ],
+          "example": "Paid parking in the city center"
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b04-pass-04",
+      "position": 1
+    },
+    {
+      "id": "p7-b04-17",
+      "part": 7,
+      "difficulty": 1,
+      "category": "qt-reading-detail",
+      "stem": "According to the article, how will the parking revenue be used?",
+      "choices": [
+        "To improve bus services",
+        "To reduce taxes",
+        "To build a new garage",
+        "To repair roads"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Les recettes financeront les bus.",
+          "why_wrong": [
+            "B : non.",
+            "C : non.",
+            "D : non."
+          ],
+          "example": "To improve bus services"
+        },
+        "en": {
+          "rule": "Revenue will fund bus improvements.",
+          "why_wrong": [
+            "B: no.",
+            "C: no.",
+            "D: no."
+          ],
+          "example": "To improve bus services"
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b04-pass-04",
+      "position": 2
+    },
+    {
+      "id": "p7-b04-18",
+      "part": 7,
+      "difficulty": 3,
+      "category": "qt-multi-passage",
+      "stem": "How does Mr. Haines's opinion differ from Ms. Lee's?",
+      "choices": [
+        "He wants fees to be higher.",
+        "He thinks the fees will hurt local shops.",
+        "He supports the parking permit.",
+        "He thinks buses are too expensive."
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Mme Lee voit un bénéfice (trafic réduit), M. Haines craint pour les commerces.",
+          "why_wrong": [
+            "A : non.",
+            "C : non.",
+            "D : non."
+          ],
+          "example": "He thinks the fees will hurt local shops."
+        },
+        "en": {
+          "rule": "Ms. Lee sees a benefit (less traffic); Mr. Haines fears for shops.",
+          "why_wrong": [
+            "A: no.",
+            "C: no.",
+            "D: no."
+          ],
+          "example": "He thinks the fees will hurt local shops."
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b04-pass-04",
+      "position": 3
+    },
+    {
+      "id": "p7-b04-19",
+      "part": 7,
+      "difficulty": 3,
+      "category": "qt-multi-passage",
+      "stem": "What does Mr. Haines suggest the council should do?",
+      "choices": [
+        "Offer a short free parking period",
+        "Cancel all bus routes",
+        "Raise permit prices",
+        "Build more malls"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "« thirty minutes of free parking ».",
+          "why_wrong": [
+            "B : non.",
+            "C : non.",
+            "D : non."
+          ],
+          "example": "Offer a short free parking period"
+        },
+        "en": {
+          "rule": "'thirty minutes of free parking'.",
+          "why_wrong": [
+            "B: no.",
+            "C: no.",
+            "D: no."
+          ],
+          "example": "Offer a short free parking period"
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b04-pass-04",
+      "position": 4
+    },
+    {
+      "id": "p7-b04-20",
+      "part": 7,
+      "difficulty": 3,
+      "category": "qt-reading-inference",
+      "stem": "What is suggested about the council's vote?",
+      "choices": [
+        "It was held at a store.",
+        "It was close to being rejected.",
+        "It was postponed.",
+        "It was not unanimous."
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "6-3 montre des voix contre.",
+          "why_wrong": [
+            "A : non.",
+            "B : 6-3 n'est pas serré.",
+            "C : non."
+          ],
+          "example": "It was not unanimous."
+        },
+        "en": {
+          "rule": "6-3 shows votes against.",
+          "why_wrong": [
+            "A: no.",
+            "B: 6-3 is not that close.",
+            "C: no."
+          ],
+          "example": "It was not unanimous."
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b04-pass-04",
+      "position": 5
+    },
+    {
+      "id": "p7-b04-21",
+      "part": 7,
+      "difficulty": 1,
+      "category": "qt-reading-main-idea",
+      "stem": "What is the first email mainly about?",
+      "choices": [
+        "Hiring new staff",
+        "Changing a supplier",
+        "Preparing for a product launch",
+        "Closing an office"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Elle prépare le lancement d'une tablette.",
+          "why_wrong": [
+            "A : non.",
+            "B : non.",
+            "D : non."
+          ],
+          "example": "Preparing for a product launch"
+        },
+        "en": {
+          "rule": "She prepares a tablet launch.",
+          "why_wrong": [
+            "A: no.",
+            "B: no.",
+            "D: no."
+          ],
+          "example": "Preparing for a product launch"
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b04-pass-05",
+      "position": 1
+    },
+    {
+      "id": "p7-b04-22",
+      "part": 7,
+      "difficulty": 1,
+      "category": "qt-reading-detail",
+      "stem": "When should task leaders report progress?",
+      "choices": [
+        "Every Monday",
+        "Every Friday",
+        "Once a month",
+        "On November 18"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "« report progress on Mondays ».",
+          "why_wrong": [
+            "B : vendredi = date limite pour les conflits.",
+            "C : non.",
+            "D : date du lancement."
+          ],
+          "example": "Every Monday"
+        },
+        "en": {
+          "rule": "'report progress on Mondays'.",
+          "why_wrong": [
+            "B: Friday is the deadline for conflicts.",
+            "C: no.",
+            "D: launch date."
+          ],
+          "example": "Every Monday"
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b04-pass-05",
+      "position": 2
+    },
+    {
+      "id": "p7-b04-23",
+      "part": 7,
+      "difficulty": 3,
+      "category": "qt-multi-passage",
+      "stem": "Who is responsible for the advertising campaign?",
+      "choices": [
+        "Sofia",
+        "Dmitri",
+        "Hana",
+        "Kofi"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Le planning attribue la campagne à Sofia.",
+          "why_wrong": [
+            "B : tests logiciels.",
+            "C : emballage.",
+            "D : expéditions."
+          ],
+          "example": "Sofia"
+        },
+        "en": {
+          "rule": "The schedule assigns the campaign to Sofia.",
+          "why_wrong": [
+            "B: software testing.",
+            "C: packaging.",
+            "D: shipping."
+          ],
+          "example": "Sofia"
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b04-pass-05",
+      "position": 3
+    },
+    {
+      "id": "p7-b04-24",
+      "part": 7,
+      "difficulty": 3,
+      "category": "qt-multi-passage",
+      "stem": "Why does Mr. Mensah want to change his schedule?",
+      "choices": [
+        "He will be on vacation.",
+        "He wants to start the campaign.",
+        "Trucks will not be available in time.",
+        "He lacks packaging."
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Le transporteur n'aura des camions qu'à partir du 4 novembre.",
+          "why_wrong": [
+            "A : non.",
+            "B : non.",
+            "D : non."
+          ],
+          "example": "Trucks will not be available in time."
+        },
+        "en": {
+          "rule": "The carrier has no trucks until November 4.",
+          "why_wrong": [
+            "A: no.",
+            "B: no.",
+            "D: no."
+          ],
+          "example": "Trucks will not be available in time."
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b04-pass-05",
+      "position": 4
+    },
+    {
+      "id": "p7-b04-25",
+      "part": 7,
+      "difficulty": 3,
+      "category": "qt-reading-inference",
+      "stem": "What is implied about Mr. Mensah's suggestion?",
+      "choices": [
+        "It would cancel the launch.",
+        "It would delay the campaign.",
+        "It would increase costs.",
+        "It would affect the staff training dates."
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Décaler l'expédition d'une semaine empiète sur la formation (11–15 nov.).",
+          "why_wrong": [
+            "A : non.",
+            "B : non.",
+            "C : non."
+          ],
+          "example": "It would affect the staff training dates."
+        },
+        "en": {
+          "rule": "Moving shipping one week later overlaps the training week (Nov 11–15).",
+          "why_wrong": [
+            "A: no.",
+            "B: no.",
+            "C: no."
+          ],
+          "example": "It would affect the staff training dates."
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b04-pass-05",
+      "position": 5
+    },
+    {
+      "id": "p7-b04-26",
+      "part": 7,
+      "difficulty": 1,
+      "category": "qt-reading-detail",
+      "stem": "What does the advertisement offer?",
+      "choices": [
+        "A two-year warranty",
+        "A gift card",
+        "A free lamp",
+        "A discount on desk lamps"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "20 % sur les lampes.",
+          "why_wrong": [
+            "A : non.",
+            "B : non.",
+            "C : non."
+          ],
+          "example": "A discount on desk lamps"
+        },
+        "en": {
+          "rule": "20 percent off lamps.",
+          "why_wrong": [
+            "A: no.",
+            "B: no.",
+            "C: no."
+          ],
+          "example": "A discount on desk lamps"
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b04-pass-06",
+      "position": 1
+    },
+    {
+      "id": "p7-b04-27",
+      "part": 7,
+      "difficulty": 3,
+      "category": "qt-multi-passage",
+      "stem": "Why did Ms. Moreau receive free shipping?",
+      "choices": [
+        "She ordered on April 30.",
+        "Her total exceeded $75.",
+        "She used express delivery.",
+        "She is a loyal customer."
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Total 76,20 $ ≥ 75 $.",
+          "why_wrong": [
+            "A : elle a commandé le 24.",
+            "C : livraison standard.",
+            "D : non."
+          ],
+          "example": "Her total exceeded $75."
+        },
+        "en": {
+          "rule": "Total $76.20 ≥ $75.",
+          "why_wrong": [
+            "A: she ordered on the 24th.",
+            "C: standard delivery.",
+            "D: no."
+          ],
+          "example": "Her total exceeded $75."
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b04-pass-06",
+      "position": 2
+    },
+    {
+      "id": "p7-b04-28",
+      "part": 7,
+      "difficulty": 3,
+      "category": "qt-multi-passage",
+      "stem": "How much did Ms. Moreau pay for the lamps after the discount?",
+      "choices": [
+        "$67.20",
+        "$76.20",
+        "$84.00",
+        "$9.00"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "2 × 42 = 84 ; moins 20 % = 67,20 (et 9 pour les ampoules donne 76,20).",
+          "why_wrong": [
+            "B : total complet avec les ampoules.",
+            "C : sans la remise.",
+            "D : prix des ampoules."
+          ],
+          "example": "$67.20"
+        },
+        "en": {
+          "rule": "2 × 42 = 84; minus 20 percent = 67.20 (plus 9 for bulbs gives 76.20).",
+          "why_wrong": [
+            "B: full total including bulbs.",
+            "C: without the discount.",
+            "D: bulb price."
+          ],
+          "example": "$67.20"
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b04-pass-06",
+      "position": 3
+    },
+    {
+      "id": "p7-b04-29",
+      "part": 7,
+      "difficulty": 2,
+      "category": "qt-reading-detail",
+      "stem": "What is true about the bulb pack?",
+      "choices": [
+        "It is free.",
+        "It will arrive later.",
+        "It is out of the order.",
+        "It was damaged."
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Elle est en réapprovisionnement et sera envoyée séparément.",
+          "why_wrong": [
+            "A : non.",
+            "C : elle est commandée.",
+            "D : non."
+          ],
+          "example": "It will arrive later."
+        },
+        "en": {
+          "rule": "It is on back order and will be sent separately.",
+          "why_wrong": [
+            "A: no.",
+            "C: it is ordered.",
+            "D: no."
+          ],
+          "example": "It will arrive later."
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b04-pass-06",
+      "position": 4
+    },
+    {
+      "id": "p7-b04-30",
+      "part": 7,
+      "difficulty": 2,
+      "category": "qt-reading-vocab-context",
+      "stem": "The word \"leave\" in the confirmation email is closest in meaning to",
+      "choices": [
+        "depart from",
+        "remain in",
+        "forget",
+        "allow"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Leave the warehouse = quitter l'entrepôt.",
+          "why_wrong": [
+            "B : sens contraire.",
+            "C : sens différent.",
+            "D : sens différent."
+          ],
+          "example": "depart from"
+        },
+        "en": {
+          "rule": "Leave the warehouse = depart from it.",
+          "why_wrong": [
+            "B: opposite meaning.",
+            "C: different meaning.",
+            "D: different meaning."
+          ],
+          "example": "depart from"
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b04-pass-06",
+      "position": 5
+    },
+    {
+      "id": "p7-b04-31",
+      "part": 7,
+      "difficulty": 1,
+      "category": "qt-reading-main-idea",
+      "stem": "What is the purpose of the memo?",
+      "choices": [
+        "To announce a renovation",
+        "To explain new booking rules",
+        "To assign parking",
+        "To list room prices"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Il annonce des règles de réservation.",
+          "why_wrong": [
+            "A : non.",
+            "C : non.",
+            "D : non."
+          ],
+          "example": "To explain new booking rules"
+        },
+        "en": {
+          "rule": "It announces booking rules.",
+          "why_wrong": [
+            "A: no.",
+            "C: no.",
+            "D: no."
+          ],
+          "example": "To explain new booking rules"
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b04-pass-07",
+      "position": 1
+    },
+    {
+      "id": "p7-b04-32",
+      "part": 7,
+      "difficulty": 1,
+      "category": "qt-reading-detail",
+      "stem": "What happens to a room that is unoccupied after 15 minutes?",
+      "choices": [
+        "It is locked.",
+        "It is charged.",
+        "It is released.",
+        "It is cleaned."
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Elle est libérée.",
+          "why_wrong": [
+            "A : non.",
+            "B : non.",
+            "D : non."
+          ],
+          "example": "It is released."
+        },
+        "en": {
+          "rule": "It is released.",
+          "why_wrong": [
+            "A: no.",
+            "B: no.",
+            "D: no."
+          ],
+          "example": "It is released."
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b04-pass-07",
+      "position": 2
+    },
+    {
+      "id": "p7-b04-33",
+      "part": 7,
+      "difficulty": 3,
+      "category": "qt-multi-passage",
+      "stem": "Which room best meets Ms. Ito's needs?",
+      "choices": [
+        "Birch",
+        "Cedar",
+        "Aspen",
+        "Dogwood"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Il faut 15 places, projecteur et micro : Cedar (20 places).",
+          "why_wrong": [
+            "A : pas de micro, 12 places seulement.",
+            "C : capacité 6 seulement.",
+            "D : trop grande : possible mais Cedar suffit mieux."
+          ],
+          "example": "Cedar"
+        },
+        "en": {
+          "rule": "She needs 15 seats, projector and microphone: Cedar (20 seats).",
+          "why_wrong": [
+            "A: no microphone, only 12 seats.",
+            "C: capacity only 6.",
+            "D: bigger than necessary; Cedar fits better."
+          ],
+          "example": "Cedar"
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b04-pass-07",
+      "position": 3
+    },
+    {
+      "id": "p7-b04-34",
+      "part": 7,
+      "difficulty": 3,
+      "category": "qt-multi-passage",
+      "stem": "What problem does Ms. Ito mention?",
+      "choices": [
+        "The room has no screen.",
+        "She is booking with less than a day's notice.",
+        "She lacks the necessary badge.",
+        "The microphone is broken."
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Elle réserve moins de 24 heures à l'avance, contrairement à la règle.",
+          "why_wrong": [
+            "A : non.",
+            "C : non.",
+            "D : non."
+          ],
+          "example": "She is booking with less than a day's notice."
+        },
+        "en": {
+          "rule": "She is booking within 24 hours, against the rule.",
+          "why_wrong": [
+            "A: no.",
+            "C: no.",
+            "D: no."
+          ],
+          "example": "She is booking with less than a day's notice."
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b04-pass-07",
+      "position": 4
+    },
+    {
+      "id": "p7-b04-35",
+      "part": 7,
+      "difficulty": 3,
+      "category": "qt-reading-inference",
+      "stem": "What is suggested about Ms. Ito's meeting?",
+      "choices": [
+        "It was planned weeks ago.",
+        "It is a staff party.",
+        "It involves people from outside the company.",
+        "It will be held online."
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "C'est une présentation client.",
+          "why_wrong": [
+            "A : il vient d'être confirmé.",
+            "B : non.",
+            "D : non."
+          ],
+          "example": "It involves people from outside the company."
+        },
+        "en": {
+          "rule": "It is a client presentation.",
+          "why_wrong": [
+            "A: it was just confirmed.",
+            "B: no.",
+            "D: no."
+          ],
+          "example": "It involves people from outside the company."
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b04-pass-07",
+      "position": 5
+    },
+    {
+      "id": "p7-b04-36",
+      "part": 7,
+      "difficulty": 2,
+      "category": "qt-reading-detail",
+      "stem": "What is included in the original rate?",
+      "choices": [
+        "Nothing extra; breakfast costs extra",
+        "A desk",
+        "Breakfast",
+        "Parking"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Le petit déjeuner coûte 12 € par jour en plus.",
+          "why_wrong": [
+            "B : non.",
+            "C : facturé en supplément.",
+            "D : non."
+          ],
+          "example": "Nothing extra; breakfast costs extra"
+        },
+        "en": {
+          "rule": "Breakfast costs €12 extra a day.",
+          "why_wrong": [
+            "B: no.",
+            "C: charged extra.",
+            "D: no."
+          ],
+          "example": "Nothing extra; breakfast costs extra"
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b04-pass-08",
+      "position": 1
+    },
+    {
+      "id": "p7-b04-37",
+      "part": 7,
+      "difficulty": 1,
+      "category": "qt-reading-detail",
+      "stem": "Why does Mr. Schaefer write to the hotel?",
+      "choices": [
+        "To ask for a refund",
+        "To cancel his visit",
+        "To extend his stay",
+        "To complain about noise"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Il veut prolonger d'une nuit.",
+          "why_wrong": [
+            "A : non.",
+            "B : non.",
+            "D : non."
+          ],
+          "example": "To extend his stay"
+        },
+        "en": {
+          "rule": "He wants to extend by one night.",
+          "why_wrong": [
+            "A: no.",
+            "B: no.",
+            "D: no."
+          ],
+          "example": "To extend his stay"
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b04-pass-08",
+      "position": 2
+    },
+    {
+      "id": "p7-b04-38",
+      "part": 7,
+      "difficulty": 3,
+      "category": "qt-multi-passage",
+      "stem": "How much did Mr. Schaefer pay per night for his room?",
+      "choices": [
+        "€116",
+        "€125",
+        "€110",
+        "€137"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "La facture indique 4 nuits à 125 € = 500 €.",
+          "why_wrong": [
+            "A : taxe incluse.",
+            "C : tarif initial.",
+            "D : tarif avec petit déjeuner."
+          ],
+          "example": "€125"
+        },
+        "en": {
+          "rule": "The bill shows 4 nights at €125 = €500.",
+          "why_wrong": [
+            "A: tax included.",
+            "C: original rate.",
+            "D: rate with breakfast."
+          ],
+          "example": "€125"
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b04-pass-08",
+      "position": 3
+    },
+    {
+      "id": "p7-b04-39",
+      "part": 7,
+      "difficulty": 3,
+      "category": "qt-multi-passage",
+      "stem": "What can be concluded about his requests?",
+      "choices": [
+        "The hotel accepted them.",
+        "He stayed three nights.",
+        "He paid for breakfast.",
+        "The hotel refused the extension."
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "La facture reflète la chambre avec bureau, 4 nuits, sans petit déjeuner.",
+          "why_wrong": [
+            "B : quatre nuits.",
+            "C : pas de petit déjeuner sur la facture.",
+            "D : séjour jusqu'au 24."
+          ],
+          "example": "The hotel accepted them."
+        },
+        "en": {
+          "rule": "The bill reflects the desk room, 4 nights, no breakfast.",
+          "why_wrong": [
+            "B: four nights.",
+            "C: no breakfast on the bill.",
+            "D: stay to the 24th."
+          ],
+          "example": "The hotel accepted them."
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b04-pass-08",
+      "position": 4
+    },
+    {
+      "id": "p7-b04-40",
+      "part": 7,
+      "difficulty": 1,
+      "category": "qt-reading-vocab-context",
+      "stem": "The word \"extended\" in the second document is closest in meaning to",
+      "choices": [
+        "made longer",
+        "shortened",
+        "cancelled",
+        "explained"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Extended = prolongé.",
+          "why_wrong": [
+            "B : sens contraire.",
+            "C : sens contraire.",
+            "D : sens différent."
+          ],
+          "example": "made longer"
+        },
+        "en": {
+          "rule": "Extended = made longer.",
+          "why_wrong": [
+            "B: opposite meaning.",
+            "C: opposite meaning.",
+            "D: different meaning."
+          ],
+          "example": "made longer"
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b04-pass-08",
+      "position": 5
+    },
+    {
+      "id": "p7-b04-41",
+      "part": 7,
+      "difficulty": 1,
+      "category": "qt-reading-main-idea",
+      "stem": "What is the main subject of the first article?",
+      "choices": [
+        "A bakery's price increase",
+        "A food product recall",
+        "A health study",
+        "A new bakery opening"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Titre : rappel de barres de céréales.",
+          "why_wrong": [
+            "A : non.",
+            "C : non.",
+            "D : non."
+          ],
+          "example": "A food product recall"
+        },
+        "en": {
+          "rule": "Headline: granola bar recall.",
+          "why_wrong": [
+            "A: no.",
+            "C: no.",
+            "D: no."
+          ],
+          "example": "A food product recall"
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b04-pass-09",
+      "position": 1
+    },
+    {
+      "id": "p7-b04-42",
+      "part": 7,
+      "difficulty": 2,
+      "category": "qt-reading-detail",
+      "stem": "Why were the granola bars recalled?",
+      "choices": [
+        "They were badly packaged.",
+        "They were too old.",
+        "They made customers ill.",
+        "They may contain an unlisted ingredient."
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Des traces d'arachide non indiquées sur l'étiquette.",
+          "why_wrong": [
+            "A : non, c'est l'étiquetage.",
+            "B : non.",
+            "C : aucun cas."
+          ],
+          "example": "They may contain an unlisted ingredient."
+        },
+        "en": {
+          "rule": "Peanut traces not listed on the label.",
+          "why_wrong": [
+            "A: no, it is the labeling.",
+            "B: no.",
+            "C: no cases."
+          ],
+          "example": "They may contain an unlisted ingredient."
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b04-pass-09",
+      "position": 2
+    },
+    {
+      "id": "p7-b04-43",
+      "part": 7,
+      "difficulty": 3,
+      "category": "qt-multi-passage",
+      "stem": "What will the reviewer most likely do?",
+      "choices": [
+        "Call the company for a coupon",
+        "Return the boxes to the store",
+        "Buy more granola bars",
+        "Write to a newspaper"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "« I'm taking them back today ».",
+          "why_wrong": [
+            "A : non.",
+            "C : elle les rapporte.",
+            "D : non."
+          ],
+          "example": "Return the boxes to the store"
+        },
+        "en": {
+          "rule": "'I'm taking them back today'.",
+          "why_wrong": [
+            "A: no.",
+            "C: she is returning them.",
+            "D: no."
+          ],
+          "example": "Return the boxes to the store"
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b04-pass-09",
+      "position": 3
+    },
+    {
+      "id": "p7-b04-44",
+      "part": 7,
+      "difficulty": 3,
+      "category": "qt-multi-passage",
+      "stem": "Is the reviewer's product affected by the recall?",
+      "choices": [
+        "Yes, because its date is within the range.",
+        "No, because it has no peanuts.",
+        "No, because it expires in April.",
+        "It cannot be determined."
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "15 mars est entre le 1er et le 31 mars.",
+          "why_wrong": [
+            "B : non précisé.",
+            "C : la date est le 15 mars.",
+            "D : la date est dans la plage."
+          ],
+          "example": "Yes, because its date is within the range."
+        },
+        "en": {
+          "rule": "March 15 is between March 1 and 31.",
+          "why_wrong": [
+            "B: not stated.",
+            "C: the date is March 15.",
+            "D: the date is within the range."
+          ],
+          "example": "Yes, because its date is within the range."
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b04-pass-09",
+      "position": 4
+    },
+    {
+      "id": "p7-b04-45",
+      "part": 7,
+      "difficulty": 3,
+      "category": "qt-reading-inference",
+      "stem": "What is implied about Bakehouse Foods?",
+      "choices": [
+        "It no longer sells snacks.",
+        "It is concerned about its reputation.",
+        "It refuses to give refunds.",
+        "It will close permanently."
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "La déclaration insiste sur la sécurité et le remboursement : souci de sa réputation.",
+          "why_wrong": [
+            "A : non.",
+            "C : il rembourse.",
+            "D : non."
+          ],
+          "example": "It is concerned about its reputation."
+        },
+        "en": {
+          "rule": "The statement stresses safety and refunds: concern for its reputation.",
+          "why_wrong": [
+            "A: no.",
+            "C: it refunds.",
+            "D: no."
+          ],
+          "example": "It is concerned about its reputation."
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b04-pass-09",
+      "position": 5
+    },
+    {
+      "id": "p7-b04-46",
+      "part": 7,
+      "difficulty": 1,
+      "category": "qt-reading-detail",
+      "stem": "Which course meets on Wednesday only?",
+      "choices": [
+        "German Basics",
+        "None of them",
+        "Spanish for Business",
+        "French Conversation"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "German Basics : Wed 6–9 P.M.",
+          "why_wrong": [
+            "B : German Basics = mercredi seulement.",
+            "C : lundi et mercredi.",
+            "D : mardi et jeudi."
+          ],
+          "example": "German Basics"
+        },
+        "en": {
+          "rule": "German Basics: Wed 6–9 P.M.",
+          "why_wrong": [
+            "B: German Basics = Wednesday only.",
+            "C: Monday and Wednesday.",
+            "D: Tuesday and Thursday."
+          ],
+          "example": "German Basics"
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b04-pass-10",
+      "position": 1
+    },
+    {
+      "id": "p7-b04-47",
+      "part": 7,
+      "difficulty": 3,
+      "category": "qt-multi-passage",
+      "stem": "Why did Mr. Blake think there is no schedule conflict?",
+      "choices": [
+        "They start in different months.",
+        "The courses are online.",
+        "The two courses are held on different days.",
+        "He plans to attend only half of each course."
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "L'un a lieu lundi/mercredi, l'autre mardi/jeudi.",
+          "why_wrong": [
+            "A : non.",
+            "B : non.",
+            "D : non."
+          ],
+          "example": "The two courses are held on different days."
+        },
+        "en": {
+          "rule": "One is Mon/Wed, the other Tue/Thu.",
+          "why_wrong": [
+            "A: no.",
+            "B: no.",
+            "D: no."
+          ],
+          "example": "The two courses are held on different days."
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b04-pass-10",
+      "position": 2
+    },
+    {
+      "id": "p7-b04-48",
+      "part": 7,
+      "difficulty": 3,
+      "category": "qt-multi-passage",
+      "stem": "How much discount did Mr. Blake receive?",
+      "choices": [
+        "$800",
+        "$45",
+        "$120",
+        "$60"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "15 % de 800 = 120.",
+          "why_wrong": [
+            "A : total sans remise.",
+            "B : montant erroné.",
+            "D : montant erroné."
+          ],
+          "example": "$120"
+        },
+        "en": {
+          "rule": "15 percent of 800 = 120.",
+          "why_wrong": [
+            "A: total before discount.",
+            "B: wrong amount.",
+            "D: wrong amount."
+          ],
+          "example": "$120"
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b04-pass-10",
+      "position": 3
+    },
+    {
+      "id": "p7-b04-49",
+      "part": 7,
+      "difficulty": 1,
+      "category": "qt-reading-detail",
+      "stem": "When did registration close?",
+      "choices": [
+        "June 20",
+        "July 7",
+        "June 21",
+        "June 27"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Les inscriptions closent le 27 juin.",
+          "why_wrong": [
+            "A : date de l'e-mail.",
+            "B : début des cours.",
+            "C : date du reçu."
+          ],
+          "example": "June 27"
+        },
+        "en": {
+          "rule": "Registration closes June 27.",
+          "why_wrong": [
+            "A: date of the email.",
+            "B: start of classes.",
+            "C: date of the receipt."
+          ],
+          "example": "June 27"
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b04-pass-10",
+      "position": 4
+    },
+    {
+      "id": "p7-b04-50",
+      "part": 7,
+      "difficulty": 3,
+      "category": "qt-reading-inference",
+      "stem": "What is implied about Mr. Blake?",
+      "choices": [
+        "He took the German course.",
+        "He missed the registration deadline.",
+        "He paid in cash.",
+        "He registered before the deadline."
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Il s'est inscrit les 20–21 juin, avant le 27.",
+          "why_wrong": [
+            "A : non.",
+            "B : il a payé le 21 juin.",
+            "C : carte bancaire."
+          ],
+          "example": "He registered before the deadline."
+        },
+        "en": {
+          "rule": "He registered on June 20–21, before the 27th.",
+          "why_wrong": [
+            "A: no.",
+            "B: he paid on June 21.",
+            "C: credit card."
+          ],
+          "example": "He registered before the deadline."
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b04-pass-10",
+      "position": 5
+    }
+  ]
+}

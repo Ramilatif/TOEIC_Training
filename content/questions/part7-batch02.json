@@ -1,0 +1,1198 @@
+{
+  "batch": "part7-batch02",
+  "part": 7,
+  "passages": [
+    {
+      "id": "p7-b02-pass-01",
+      "kind": "single",
+      "title": "Notice: office move",
+      "body": "NOTICE TO STAFF\n\nOn Friday, May 17, the Accounting and Payroll departments will move from the third floor to the newly renovated sixth floor. The move will take place after business hours, and movers will transport all desks, files and equipment. Employees are asked to pack personal items in the boxes provided by Facilities and to label each box with their name and new desk number. Please remove all items from the tops of desks by 5 p.m.\n\nThe sixth floor offers a larger kitchen, two additional meeting rooms and a quiet room for phone calls. Employees should report to the sixth floor on Monday, May 20. Questions may be directed to Facilities at extension 410.",
+      "transcript": null,
+      "image": null
+    },
+    {
+      "id": "p7-b02-pass-02",
+      "kind": "single",
+      "title": "Email: request for a quotation",
+      "body": "To: sales@brightprint.example\nFrom: Hana Watanabe <hana.watanabe@orchardtravel.example>\nDate: February 8\nSubject: Quotation for brochures\n\nDear Sir or Madam,\n\nOrchard Travel is preparing a new range of brochures for the summer season and would like a quotation for 5,000 full-color copies. Each brochure would have twelve pages and be printed on 120-gram glossy paper. We would need delivery to our head office in Leeds no later than March 28. Could you also tell us whether you offer a discount for orders above 3,000 copies and what your payment terms are? We have used another printer in the past, but we were not satisfied with the delivery times.\n\nI look forward to your reply.\n\nBest regards,\nHana Watanabe\nMarketing Manager, Orchard Travel",
+      "transcript": null,
+      "image": null
+    },
+    {
+      "id": "p7-b02-pass-03",
+      "kind": "single",
+      "title": "Text-message chain",
+      "body": "Marco Silva (9:12 A.M.)\nI'm stuck on the highway. There's been an accident near exit 14.\n\nLena Berg (9:14 A.M.)\nHow long do you think you'll be delayed? The client presentation starts at ten.\n\nMarco Silva (9:15 A.M.)\nProbably thirty minutes. Could you start with the introduction slides?\n\nLena Berg (9:17 A.M.)\nSure. But the client wants to see the budget figures, and those are on your laptop.\n\nMarco Silva (9:18 A.M.)\nI'll email them to you right now. They're in the file named Q3_Budget.\n\nLena Berg (9:20 A.M.)\nGot it. Drive safely!",
+      "transcript": null,
+      "image": null
+    },
+    {
+      "id": "p7-b02-pass-04",
+      "kind": "single",
+      "title": "Job posting",
+      "body": "JOB OPENING: CUSTOMER SERVICE COORDINATOR\n\nLakeside Hotels, one of the region's leading hospitality groups, is seeking a Customer Service Coordinator to join its Reservations Center in Madison. [1] The successful candidate will respond to guest inquiries by phone and e-mail, resolve booking problems and train new team members. [2] Applicants must have at least two years of customer service experience and strong communication skills. Knowledge of Spanish is an advantage but not required. [3]\n\nWe offer a competitive salary, paid vacation and free meals at our hotels. [4] Interested applicants should send a résumé and cover letter to jobs@lakesidehotels.example by June 15.",
+      "transcript": null,
+      "image": null
+    },
+    {
+      "id": "p7-b02-pass-05",
+      "kind": "single",
+      "title": "Article: museum reopening",
+      "body": "CITY MUSEUM TO REOPEN AFTER EXPANSION\n\nThe Harbor City Museum will reopen to the public on September 3 after a two-year expansion project. The new wing adds 2,000 square meters of gallery space and a rooftop café overlooking the river. Director Elaine Foster said the expansion was funded mainly by private donations. \"Visitors will find more interactive exhibits than ever before,\" she said.\n\nTo celebrate the reopening, admission will be free during the first weekend. After that, tickets will cost twelve dollars for adults and six dollars for students. Guided tours in English, French and Spanish will be offered daily at 11 a.m. and 3 p.m. The museum will be open from Tuesday to Sunday.",
+      "transcript": null,
+      "image": null
+    },
+    {
+      "id": "p7-b02-pass-06",
+      "kind": "single",
+      "title": "Invoice",
+      "body": "GREENLEAF OFFICE FURNITURE\nInvoice No. 20418      Date: July 9\nCustomer: Roth & Partners, 14 Mill Street\n\nItem                         Qty    Unit price    Total\nAdjustable desk (white)       6      $320         $1,920\nErgonomic chair               6      $185         $1,110\nFiling cabinet (3-drawer)     2      $140         $280\nDelivery and assembly                               $150\n\nSubtotal: $3,460\nDiscount (5% for orders over $3,000): -$173\nTotal due: $3,287\n\nPayment is due within 30 days. A late fee of 2% per month applies to overdue balances. Items may be returned within 14 days if unused and in their original packaging.",
+      "transcript": null,
+      "image": null
+    },
+    {
+      "id": "p7-b02-pass-07",
+      "kind": "single",
+      "title": "Web page: evening classes",
+      "body": "RIVERSIDE COMMUNITY COLLEGE — EVENING CLASSES\n\nExpand your skills this autumn with our evening courses, designed for working adults.\n\nIntroduction to Bookkeeping — Mondays, 6:30–8:30 P.M. — 8 weeks — $180\nBusiness Writing — Wednesdays, 7:00–9:00 P.M. — 6 weeks — $150\nSpreadsheet Skills — Thursdays, 6:00–8:00 P.M. — 4 weeks — $120\n\nRegistration opens August 1 and closes one week before each course begins. Students who register for two or more courses receive a 10 percent discount on the total. Course materials are included in the fee. Classes are held in the Wilson Building, and free parking is available behind the building.",
+      "transcript": null,
+      "image": null
+    },
+    {
+      "id": "p7-b02-pass-08",
+      "kind": "single",
+      "title": "Letter: change of schedule",
+      "body": "Dear Ms. Ibrahim,\n\nI am writing to confirm the details of your visit to our Rotterdam plant on October 22. Because of a scheduling conflict, the factory tour will begin at 9:30 A.M. instead of 10:00 A.M. Please bring a photo ID and sign in at the security desk. Closed-toe shoes are required in the production area, and safety glasses will be provided.\n\nFollowing the tour, our director of operations, Mr. De Vries, will join you for lunch in the executive dining room. He would like to discuss the proposed delivery schedule for next year. If you have any dietary restrictions, please let my office know by October 15.\n\nSincerely,\nJonas Pieters\nPlant Manager",
+      "transcript": null,
+      "image": null
+    },
+    {
+      "id": "p7-b02-pass-09",
+      "kind": "single",
+      "title": "Library announcement",
+      "body": "OAKDALE PUBLIC LIBRARY — NEW SERVICES\n\nStarting on January 5, library cardholders will be able to borrow e-books and audiobooks through the library's new mobile app. The app is free and can be downloaded from major app stores. Users can borrow up to five digital items at a time for 21 days. Items return automatically, so there are no late fees.\n\nIn addition, the library will extend its Saturday hours. Beginning January 5, the main branch will stay open until 8 P.M. instead of 5 P.M. Children's story time will continue every Saturday at 10 A.M. For more information, please ask at the front desk or visit the library's website.",
+      "transcript": null,
+      "image": null
+    },
+    {
+      "id": "p7-b02-pass-10",
+      "kind": "single",
+      "title": "Online review",
+      "body": "★★★★☆  Great food, slow service\nPosted by Daniel K. on May 2\n\nI took my team to Casa Verde for a farewell lunch and was very impressed by the food. The grilled fish was perfectly cooked, and the vegetarian options were creative. However, we waited nearly twenty minutes to be seated even though we had a reservation, and our server seemed overwhelmed. To its credit, the manager apologized and offered us free desserts, which was a nice gesture.\n\nPrices are reasonable for the quality, and the private room is perfect for groups of ten or more. I would return, but I would recommend arriving early if you are in a hurry.",
+      "transcript": null,
+      "image": null
+    }
+  ],
+  "questions": [
+    {
+      "id": "p7-b02-01",
+      "part": 7,
+      "difficulty": 1,
+      "category": "qt-reading-main-idea",
+      "stem": "What is the purpose of the notice?",
+      "choices": [
+        "To describe a new software system",
+        "To announce a new hire",
+        "To request vacation dates",
+        "To inform employees about a relocation"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "L'objet apparaît dans la première phrase : le déménagement de deux services.",
+          "why_wrong": [
+            "A : aucun logiciel n'est évoqué.",
+            "B : aucune embauche n'est mentionnée.",
+            "C : aucune demande de congés."
+          ],
+          "example": "To inform employees about a relocation"
+        },
+        "en": {
+          "rule": "The purpose is in the first sentence: two departments are moving.",
+          "why_wrong": [
+            "A: no software is mentioned.",
+            "B: no new hire is mentioned.",
+            "C: no vacation request."
+          ],
+          "example": "To inform employees about a relocation"
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b02-pass-01",
+      "position": 1
+    },
+    {
+      "id": "p7-b02-02",
+      "part": 7,
+      "difficulty": 1,
+      "category": "qt-reading-detail",
+      "stem": "What are employees asked to do by 5 p.m. on May 17?",
+      "choices": [
+        "Report to the sixth floor",
+        "Call extension 410",
+        "Clear their desktops",
+        "Label all computers"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Détail : « remove all items from the tops of desks by 5 p.m. ».",
+          "why_wrong": [
+            "A : ce sera le lundi.",
+            "B : seulement en cas de question.",
+            "D : on étiquette les cartons, pas les ordinateurs."
+          ],
+          "example": "Clear their desktops"
+        },
+        "en": {
+          "rule": "Detail: 'remove all items from the tops of desks by 5 p.m.'.",
+          "why_wrong": [
+            "A: that is on Monday.",
+            "B: only for questions.",
+            "D: boxes are labeled, not computers."
+          ],
+          "example": "Clear their desktops"
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b02-pass-01",
+      "position": 2
+    },
+    {
+      "id": "p7-b02-03",
+      "part": 7,
+      "difficulty": 3,
+      "category": "qt-reading-inference",
+      "stem": "What is suggested about the sixth floor?",
+      "choices": [
+        "It was recently improved.",
+        "It is smaller than the third floor.",
+        "It is already occupied by Payroll.",
+        "It has no kitchen."
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "« newly renovated » permet de déduire que l'étage a été rénové récemment.",
+          "why_wrong": [
+            "B : rien ne l'indique.",
+            "C : Payroll va y emménager.",
+            "D : elle a une cuisine plus grande."
+          ],
+          "example": "It was recently improved."
+        },
+        "en": {
+          "rule": "'newly renovated' lets us infer the floor was recently improved.",
+          "why_wrong": [
+            "B: nothing indicates this.",
+            "C: Payroll is moving there.",
+            "D: it has a larger kitchen."
+          ],
+          "example": "It was recently improved."
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b02-pass-01",
+      "position": 3
+    },
+    {
+      "id": "p7-b02-04",
+      "part": 7,
+      "difficulty": 1,
+      "category": "qt-reading-main-idea",
+      "stem": "Why did Ms. Watanabe write to Bright Print?",
+      "choices": [
+        "To apply for a job",
+        "To ask for a price estimate",
+        "To complain about a delivery",
+        "To cancel an order"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Elle demande un devis (« would like a quotation »).",
+          "why_wrong": [
+            "A : aucune candidature.",
+            "C : la plainte concerne un autre imprimeur, dans le passé.",
+            "D : aucune commande n'existe."
+          ],
+          "example": "To ask for a price estimate"
+        },
+        "en": {
+          "rule": "She asks for a quotation.",
+          "why_wrong": [
+            "A: no job application.",
+            "C: the complaint is about another printer in the past.",
+            "D: no order exists."
+          ],
+          "example": "To ask for a price estimate"
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b02-pass-02",
+      "position": 1
+    },
+    {
+      "id": "p7-b02-05",
+      "part": 7,
+      "difficulty": 2,
+      "category": "qt-reading-detail",
+      "stem": "What does Ms. Watanabe ask about discounts?",
+      "choices": [
+        "Whether students receive a discount",
+        "Whether delivery is free",
+        "Whether old customers receive a discount",
+        "Whether large orders qualify for one"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Détail : « a discount for orders above 3,000 copies ».",
+          "why_wrong": [
+            "A : non mentionné.",
+            "B : non mentionné.",
+            "C : non mentionné."
+          ],
+          "example": "Whether large orders qualify for one"
+        },
+        "en": {
+          "rule": "Detail: 'a discount for orders above 3,000 copies'.",
+          "why_wrong": [
+            "A: not mentioned.",
+            "B: not mentioned.",
+            "C: not mentioned."
+          ],
+          "example": "Whether large orders qualify for one"
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b02-pass-02",
+      "position": 2
+    },
+    {
+      "id": "p7-b02-06",
+      "part": 7,
+      "difficulty": 3,
+      "category": "qt-reading-inference",
+      "stem": "What is implied about Orchard Travel's previous printer?",
+      "choices": [
+        "It offered lower prices.",
+        "It is located in Leeds.",
+        "Its deliveries were slow.",
+        "It printed in black and white only."
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "« not satisfied with the delivery times » implique des livraisons trop lentes.",
+          "why_wrong": [
+            "A : rien n'est dit.",
+            "B : rien n'est dit.",
+            "D : rien n'est dit."
+          ],
+          "example": "Its deliveries were slow."
+        },
+        "en": {
+          "rule": "'not satisfied with the delivery times' implies slow deliveries.",
+          "why_wrong": [
+            "A: nothing is said.",
+            "B: nothing is said.",
+            "D: nothing is said."
+          ],
+          "example": "Its deliveries were slow."
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b02-pass-02",
+      "position": 3
+    },
+    {
+      "id": "p7-b02-07",
+      "part": 7,
+      "difficulty": 1,
+      "category": "qt-reading-main-idea",
+      "stem": "Why is Mr. Silva writing to Ms. Berg?",
+      "choices": [
+        "To explain that he will arrive late",
+        "To reschedule the client meeting",
+        "To ask for directions",
+        "To report a computer problem"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Il est coincé dans un embouteillage et préviendra de son retard.",
+          "why_wrong": [
+            "B : la réunion n'est pas reportée.",
+            "C : il connaît le chemin.",
+            "D : aucun problème informatique."
+          ],
+          "example": "To explain that he will arrive late"
+        },
+        "en": {
+          "rule": "He is stuck in traffic and warns of a delay.",
+          "why_wrong": [
+            "B: the meeting is not rescheduled.",
+            "C: he knows the way.",
+            "D: no computer problem."
+          ],
+          "example": "To explain that he will arrive late"
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b02-pass-03",
+      "position": 1
+    },
+    {
+      "id": "p7-b02-08",
+      "part": 7,
+      "difficulty": 1,
+      "category": "qt-reading-detail",
+      "stem": "What does Mr. Silva send to Ms. Berg?",
+      "choices": [
+        "A travel report",
+        "A presentation outline",
+        "A budget file",
+        "A client contract"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Il envoie le fichier Q3_Budget.",
+          "why_wrong": [
+            "A : non mentionné.",
+            "B : il demande de commencer avec les diapositives d'introduction, elles existent déjà.",
+            "D : non mentionné."
+          ],
+          "example": "A budget file"
+        },
+        "en": {
+          "rule": "He sends the file Q3_Budget.",
+          "why_wrong": [
+            "A: not mentioned.",
+            "B: he asks her to start with the existing introduction slides.",
+            "D: not mentioned."
+          ],
+          "example": "A budget file"
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b02-pass-03",
+      "position": 2
+    },
+    {
+      "id": "p7-b02-09",
+      "part": 7,
+      "difficulty": 3,
+      "category": "qt-reading-inference",
+      "stem": "At 9:20 A.M., what does Ms. Berg most likely mean when she writes, \"Got it\"?",
+      "choices": [
+        "She disagrees with the plan.",
+        "She received the information she needed.",
+        "She has arrived at the office.",
+        "She will cancel the meeting."
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "« Got it » = j'ai bien reçu / j'ai compris, après l'annonce de l'envoi.",
+          "why_wrong": [
+            "A : elle accepte.",
+            "C : rien ne l'indique.",
+            "D : non."
+          ],
+          "example": "She received the information she needed."
+        },
+        "en": {
+          "rule": "'Got it' = I understand / received, after the announcement of the file.",
+          "why_wrong": [
+            "A: she accepts.",
+            "C: nothing indicates this.",
+            "D: no."
+          ],
+          "example": "She received the information she needed."
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b02-pass-03",
+      "position": 3
+    },
+    {
+      "id": "p7-b02-10",
+      "part": 7,
+      "difficulty": 1,
+      "category": "qt-reading-main-idea",
+      "stem": "What is the main purpose of the posting?",
+      "choices": [
+        "To advertise hotel rooms",
+        "To announce a training course",
+        "To recruit a new employee",
+        "To announce a new hotel"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Titre « JOB OPENING » : recrutement.",
+          "why_wrong": [
+            "A : il s'agit d'un poste à pourvoir.",
+            "B : la formation est une tâche du poste.",
+            "D : aucun nouvel hôtel."
+          ],
+          "example": "To recruit a new employee"
+        },
+        "en": {
+          "rule": "Title 'JOB OPENING': recruitment.",
+          "why_wrong": [
+            "A: this is a job opening.",
+            "B: training is a task of the post.",
+            "D: no new hotel."
+          ],
+          "example": "To recruit a new employee"
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b02-pass-04",
+      "position": 1
+    },
+    {
+      "id": "p7-b02-11",
+      "part": 7,
+      "difficulty": 2,
+      "category": "qt-reading-detail",
+      "stem": "What is NOT mentioned as a benefit?",
+      "choices": [
+        "A competitive salary",
+        "Health insurance",
+        "Paid vacation",
+        "Free meals"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Question NOT : trois avantages sont cités, l'assurance santé ne l'est pas.",
+          "why_wrong": [
+            "A : cité.",
+            "C : cité.",
+            "D : cité."
+          ],
+          "example": "Health insurance"
+        },
+        "en": {
+          "rule": "NOT question: three benefits are listed, health insurance is not.",
+          "why_wrong": [
+            "A: mentioned.",
+            "C: mentioned.",
+            "D: mentioned."
+          ],
+          "example": "Health insurance"
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b02-pass-04",
+      "position": 2
+    },
+    {
+      "id": "p7-b02-12",
+      "part": 7,
+      "difficulty": 3,
+      "category": "qt-reading-sentence-position",
+      "stem": "In which position marked [1], [2], [3] or [4] does the following sentence best belong? \"Candidates who speak a second language are encouraged to apply.\"",
+      "choices": [
+        "[3]",
+        "[2]",
+        "[1]",
+        "[4]"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "La phrase prolonge la mention du espagnol (langue) à la fin du paragraphe des exigences.",
+          "why_wrong": [
+            "B : interrompt la liste des tâches.",
+            "C : avant la présentation des tâches, la phrase n'aurait pas de contexte.",
+            "D : se place dans le paragraphe des avantages."
+          ],
+          "example": "[3]"
+        },
+        "en": {
+          "rule": "The sentence extends the Spanish mention at the end of the requirements paragraph.",
+          "why_wrong": [
+            "B: interrupts the list of duties.",
+            "C: before the duties are described, the sentence has no context.",
+            "D: belongs in the benefits paragraph."
+          ],
+          "example": "[3]"
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b02-pass-04",
+      "position": 3
+    },
+    {
+      "id": "p7-b02-13",
+      "part": 7,
+      "difficulty": 1,
+      "category": "qt-reading-main-idea",
+      "stem": "What is the article mainly about?",
+      "choices": [
+        "The reopening of a museum",
+        "A change in ticket prices only",
+        "The retirement of a director",
+        "A new city park"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Le titre et la première phrase indiquent la réouverture du musée.",
+          "why_wrong": [
+            "B : les prix ne sont qu'un détail.",
+            "C : Mme Foster est citée, elle ne part pas.",
+            "D : il s'agit d'un musée."
+          ],
+          "example": "The reopening of a museum"
+        },
+        "en": {
+          "rule": "The headline and first sentence give the reopening.",
+          "why_wrong": [
+            "B: prices are only a detail.",
+            "C: Ms. Foster is quoted; she is not leaving.",
+            "D: it is a museum."
+          ],
+          "example": "The reopening of a museum"
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b02-pass-05",
+      "position": 1
+    },
+    {
+      "id": "p7-b02-14",
+      "part": 7,
+      "difficulty": 2,
+      "category": "qt-reading-detail",
+      "stem": "How was the expansion mainly paid for?",
+      "choices": [
+        "With city taxes",
+        "With a government loan",
+        "With ticket sales",
+        "With private gifts of money"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "« funded mainly by private donations ».",
+          "why_wrong": [
+            "A : non.",
+            "B : non.",
+            "C : non."
+          ],
+          "example": "With private gifts of money"
+        },
+        "en": {
+          "rule": "'funded mainly by private donations'.",
+          "why_wrong": [
+            "A: no.",
+            "B: no.",
+            "C: no."
+          ],
+          "example": "With private gifts of money"
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b02-pass-05",
+      "position": 2
+    },
+    {
+      "id": "p7-b02-15",
+      "part": 7,
+      "difficulty": 1,
+      "category": "qt-reading-detail",
+      "stem": "What will happen during the first weekend after the reopening?",
+      "choices": [
+        "Tours will be offered in four languages.",
+        "The museum will be closed.",
+        "Students will pay six dollars.",
+        "Entrance will be free."
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "« admission will be free during the first weekend ».",
+          "why_wrong": [
+            "A : trois langues citées, pas pour le premier week-end seulement.",
+            "B : c'est l'inverse.",
+            "C : c'est le tarif normal."
+          ],
+          "example": "Entrance will be free."
+        },
+        "en": {
+          "rule": "'admission will be free during the first weekend'.",
+          "why_wrong": [
+            "A: three languages are mentioned, and not only for the first weekend.",
+            "B: the opposite.",
+            "C: that is the regular price."
+          ],
+          "example": "Entrance will be free."
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b02-pass-05",
+      "position": 3
+    },
+    {
+      "id": "p7-b02-16",
+      "part": 7,
+      "difficulty": 1,
+      "category": "qt-reading-detail",
+      "stem": "What was included in the purchase?",
+      "choices": [
+        "A lamp",
+        "A computer",
+        "Delivery and assembly",
+        "A conference table"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "La ligne « Delivery and assembly » figure sur la facture.",
+          "why_wrong": [
+            "A : non.",
+            "B : non.",
+            "D : non."
+          ],
+          "example": "Delivery and assembly"
+        },
+        "en": {
+          "rule": "The 'Delivery and assembly' line appears on the invoice.",
+          "why_wrong": [
+            "A: no.",
+            "B: no.",
+            "D: no."
+          ],
+          "example": "Delivery and assembly"
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b02-pass-06",
+      "position": 1
+    },
+    {
+      "id": "p7-b02-17",
+      "part": 7,
+      "difficulty": 2,
+      "category": "qt-reading-detail",
+      "stem": "Why did Roth & Partners receive a discount?",
+      "choices": [
+        "It paid in advance.",
+        "It is a long-term customer.",
+        "Its order exceeded $3,000.",
+        "It returned an item."
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "« 5% for orders over $3,000 ».",
+          "why_wrong": [
+            "A : non.",
+            "B : non.",
+            "D : non."
+          ],
+          "example": "Its order exceeded $3,000."
+        },
+        "en": {
+          "rule": "'5% for orders over $3,000'.",
+          "why_wrong": [
+            "A: no.",
+            "B: no.",
+            "D: no."
+          ],
+          "example": "Its order exceeded $3,000."
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b02-pass-06",
+      "position": 2
+    },
+    {
+      "id": "p7-b02-18",
+      "part": 7,
+      "difficulty": 3,
+      "category": "qt-reading-inference",
+      "stem": "What will happen if Roth & Partners pays after 30 days?",
+      "choices": [
+        "The order will be returned.",
+        "The goods will be repossessed immediately.",
+        "An extra charge will be added.",
+        "The discount will double."
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "« A late fee of 2% per month » s'applique aux soldes en retard.",
+          "why_wrong": [
+            "A : non.",
+            "B : non.",
+            "D : non."
+          ],
+          "example": "An extra charge will be added."
+        },
+        "en": {
+          "rule": "'A late fee of 2% per month' applies to overdue balances.",
+          "why_wrong": [
+            "A: no.",
+            "B: no.",
+            "D: no."
+          ],
+          "example": "An extra charge will be added."
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b02-pass-06",
+      "position": 3
+    },
+    {
+      "id": "p7-b02-19",
+      "part": 7,
+      "difficulty": 1,
+      "category": "qt-reading-main-idea",
+      "stem": "Who is the web page intended for?",
+      "choices": [
+        "Adults who work during the day",
+        "Children under twelve",
+        "Retired teachers",
+        "Full-time college students"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "« designed for working adults ».",
+          "why_wrong": [
+            "B : non.",
+            "C : non.",
+            "D : non, ce sont des cours du soir pour adultes actifs."
+          ],
+          "example": "Adults who work during the day"
+        },
+        "en": {
+          "rule": "'designed for working adults'.",
+          "why_wrong": [
+            "B: no.",
+            "C: no.",
+            "D: no, evening classes for working adults."
+          ],
+          "example": "Adults who work during the day"
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b02-pass-07",
+      "position": 1
+    },
+    {
+      "id": "p7-b02-20",
+      "part": 7,
+      "difficulty": 1,
+      "category": "qt-reading-detail",
+      "stem": "How long is the Business Writing course?",
+      "choices": [
+        "Eight weeks",
+        "Six weeks",
+        "Four weeks",
+        "Ten weeks"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Business Writing : 6 weeks.",
+          "why_wrong": [
+            "A : c'est la durée de la comptabilité.",
+            "C : c'est la durée du cours de tableur.",
+            "D : non."
+          ],
+          "example": "Six weeks"
+        },
+        "en": {
+          "rule": "Business Writing: 6 weeks.",
+          "why_wrong": [
+            "A: that is the bookkeeping course.",
+            "C: that is the spreadsheet course.",
+            "D: no."
+          ],
+          "example": "Six weeks"
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b02-pass-07",
+      "position": 2
+    },
+    {
+      "id": "p7-b02-21",
+      "part": 7,
+      "difficulty": 3,
+      "category": "qt-reading-inference",
+      "stem": "How much would a student pay to take Bookkeeping and Spreadsheet Skills?",
+      "choices": [
+        "$270",
+        "$330",
+        "$150",
+        "$300"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "180 + 120 = 300 ; moins 10 % = 270.",
+          "why_wrong": [
+            "B : somme erronée.",
+            "C : somme erronée.",
+            "D : sans remise de 10 %."
+          ],
+          "example": "$270"
+        },
+        "en": {
+          "rule": "180 + 120 = 300; minus 10 percent = 270.",
+          "why_wrong": [
+            "B: wrong sum.",
+            "C: wrong sum.",
+            "D: without the 10 percent discount."
+          ],
+          "example": "$270"
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b02-pass-07",
+      "position": 3
+    },
+    {
+      "id": "p7-b02-22",
+      "part": 7,
+      "difficulty": 1,
+      "category": "qt-reading-main-idea",
+      "stem": "Why was the letter written?",
+      "choices": [
+        "To apologize for a delay",
+        "To offer Ms. Ibrahim a job",
+        "To request a payment",
+        "To confirm a visit"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Première phrase : confirmer les détails de la visite.",
+          "why_wrong": [
+            "A : pas d'excuses.",
+            "B : non.",
+            "C : non."
+          ],
+          "example": "To confirm a visit"
+        },
+        "en": {
+          "rule": "First sentence: confirm the visit details.",
+          "why_wrong": [
+            "A: no apology.",
+            "B: no.",
+            "C: no."
+          ],
+          "example": "To confirm a visit"
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b02-pass-08",
+      "position": 1
+    },
+    {
+      "id": "p7-b02-23",
+      "part": 7,
+      "difficulty": 2,
+      "category": "qt-reading-detail",
+      "stem": "What has changed about the visit?",
+      "choices": [
+        "The name of the plant manager",
+        "The location of the lunch",
+        "The date of the visit",
+        "The starting time of the tour"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "La visite commence à 9 h 30 au lieu de 10 h.",
+          "why_wrong": [
+            "A : non.",
+            "B : non.",
+            "C : la date reste le 22."
+          ],
+          "example": "The starting time of the tour"
+        },
+        "en": {
+          "rule": "The tour starts at 9:30 instead of 10:00.",
+          "why_wrong": [
+            "A: no.",
+            "B: no.",
+            "C: the date stays the 22nd."
+          ],
+          "example": "The starting time of the tour"
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b02-pass-08",
+      "position": 2
+    },
+    {
+      "id": "p7-b02-24",
+      "part": 7,
+      "difficulty": 3,
+      "category": "qt-reading-inference",
+      "stem": "What will Ms. Ibrahim probably discuss at lunch?",
+      "choices": [
+        "Safety regulations",
+        "Next year's deliveries",
+        "A new building",
+        "Her salary"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "M. De Vries veut parler du « delivery schedule for next year ».",
+          "why_wrong": [
+            "A : non.",
+            "C : non.",
+            "D : non."
+          ],
+          "example": "Next year's deliveries"
+        },
+        "en": {
+          "rule": "Mr. De Vries wants to discuss 'the delivery schedule for next year'.",
+          "why_wrong": [
+            "A: no.",
+            "C: no.",
+            "D: no."
+          ],
+          "example": "Next year's deliveries"
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b02-pass-08",
+      "position": 3
+    },
+    {
+      "id": "p7-b02-25",
+      "part": 7,
+      "difficulty": 1,
+      "category": "qt-reading-main-idea",
+      "stem": "What is the purpose of the announcement?",
+      "choices": [
+        "To ask for donations",
+        "To announce a closure",
+        "To describe new services",
+        "To recruit volunteers"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Titre : « New services ».",
+          "why_wrong": [
+            "A : non.",
+            "B : au contraire, horaires prolongés.",
+            "D : non."
+          ],
+          "example": "To describe new services"
+        },
+        "en": {
+          "rule": "Headline: 'New services'.",
+          "why_wrong": [
+            "A: no.",
+            "B: on the contrary, longer hours.",
+            "D: no."
+          ],
+          "example": "To describe new services"
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b02-pass-09",
+      "position": 1
+    },
+    {
+      "id": "p7-b02-26",
+      "part": 7,
+      "difficulty": 2,
+      "category": "qt-reading-detail",
+      "stem": "What is true about borrowing digital items?",
+      "choices": [
+        "Only three items can be borrowed.",
+        "The app costs five dollars.",
+        "They are returned without user action.",
+        "A fee is charged for each day late."
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "« Items return automatically ».",
+          "why_wrong": [
+            "A : cinq au maximum.",
+            "B : l'application est gratuite.",
+            "D : il n'y a pas de frais de retard."
+          ],
+          "example": "They are returned without user action."
+        },
+        "en": {
+          "rule": "'Items return automatically'.",
+          "why_wrong": [
+            "A: five at most.",
+            "B: the app is free.",
+            "D: there are no late fees."
+          ],
+          "example": "They are returned without user action."
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b02-pass-09",
+      "position": 2
+    },
+    {
+      "id": "p7-b02-27",
+      "part": 7,
+      "difficulty": 1,
+      "category": "qt-reading-detail",
+      "stem": "What time will the main branch close on Saturdays after January 5?",
+      "choices": [
+        "5 P.M.",
+        "10 A.M.",
+        "9 P.M.",
+        "8 P.M."
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "« stay open until 8 P.M. instead of 5 P.M. ».",
+          "why_wrong": [
+            "A : ancien horaire.",
+            "B : heure de l'heure du conte.",
+            "C : non."
+          ],
+          "example": "8 P.M."
+        },
+        "en": {
+          "rule": "'stay open until 8 P.M. instead of 5 P.M.'.",
+          "why_wrong": [
+            "A: old closing time.",
+            "B: story time start.",
+            "C: no."
+          ],
+          "example": "8 P.M."
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b02-pass-09",
+      "position": 3
+    },
+    {
+      "id": "p7-b02-28",
+      "part": 7,
+      "difficulty": 1,
+      "category": "qt-reading-main-idea",
+      "stem": "What is the review mainly about?",
+      "choices": [
+        "A cooking class",
+        "A hotel stay",
+        "A restaurant experience",
+        "A farewell speech"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Le texte évalue la nourriture et le service d'un restaurant.",
+          "why_wrong": [
+            "A : non.",
+            "B : non.",
+            "D : non."
+          ],
+          "example": "A restaurant experience"
+        },
+        "en": {
+          "rule": "The text evaluates a restaurant's food and service.",
+          "why_wrong": [
+            "A: no.",
+            "B: no.",
+            "D: no."
+          ],
+          "example": "A restaurant experience"
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b02-pass-10",
+      "position": 1
+    },
+    {
+      "id": "p7-b02-29",
+      "part": 7,
+      "difficulty": 2,
+      "category": "qt-reading-detail",
+      "stem": "Why did the manager offer free desserts?",
+      "choices": [
+        "To celebrate a birthday",
+        "To apologize for the wait",
+        "To thank a regular customer",
+        "To promote a new menu"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Le gérant s'est excusé de l'attente et a offert des desserts.",
+          "why_wrong": [
+            "A : non.",
+            "C : non.",
+            "D : non."
+          ],
+          "example": "To apologize for the wait"
+        },
+        "en": {
+          "rule": "The manager apologized for the wait and offered desserts.",
+          "why_wrong": [
+            "A: no.",
+            "C: no.",
+            "D: no."
+          ],
+          "example": "To apologize for the wait"
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b02-pass-10",
+      "position": 2
+    },
+    {
+      "id": "p7-b02-30",
+      "part": 7,
+      "difficulty": 2,
+      "category": "qt-reading-vocab-context",
+      "stem": "The word \"overwhelmed\" in paragraph 1 is closest in meaning to",
+      "choices": [
+        "surprised",
+        "careless",
+        "overloaded with work",
+        "pleased"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Overwhelmed = débordé, submergé.",
+          "why_wrong": [
+            "A : sens différent.",
+            "B : sens différent.",
+            "D : sens contraire."
+          ],
+          "example": "overloaded with work"
+        },
+        "en": {
+          "rule": "Overwhelmed = having too much to handle.",
+          "why_wrong": [
+            "A: different meaning.",
+            "B: different meaning.",
+            "D: opposite meaning."
+          ],
+          "example": "overloaded with work"
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b02-pass-10",
+      "position": 3
+    }
+  ]
+}
