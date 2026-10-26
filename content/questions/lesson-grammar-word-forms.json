@@ -1,0 +1,182 @@
+{
+  "batch": "lesson-grammar-word-forms",
+  "part": 5,
+  "passages": [],
+  "questions": [
+    {
+      "id": "lq-grammar-word-forms-01",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-word-forms",
+      "stem": "The ___ of the new software has reduced our costs.",
+      "choices": [
+        "implementable",
+        "implemented",
+        "implementation",
+        "implement"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Après un article, un nom (-tion).",
+          "why_wrong": [
+            "A : adjectif : après « the » et avant « of », un nom est attendu.",
+            "B : participe passé.",
+            "D : verbe : après « the » on attend un nom."
+          ],
+          "example": "The decision was quick."
+        },
+        "en": {
+          "rule": "After an article, a noun (-tion).",
+          "why_wrong": [
+            "A: adjective: a noun is expected after 'the' and before 'of'.",
+            "B: past participle.",
+            "D: verb: a noun is expected after 'the'."
+          ],
+          "example": "The decision was quick."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-word-forms-02",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-word-forms",
+      "stem": "Our team works ___ to meet every deadline.",
+      "choices": [
+        "efficiencies",
+        "efficient",
+        "efficiency",
+        "efficiently"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Adverbe (-ly) pour modifier un verbe.",
+          "why_wrong": [
+            "A : nom pluriel.",
+            "B : adjectif : on attend un adverbe qui modifie « works ».",
+            "C : nom."
+          ],
+          "example": "She drives carefully."
+        },
+        "en": {
+          "rule": "Adverb (-ly) to modify a verb.",
+          "why_wrong": [
+            "A: plural noun.",
+            "B: adjective: an adverb modifying 'works' is expected.",
+            "C: noun."
+          ],
+          "example": "She drives carefully."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-word-forms-03",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-word-forms",
+      "stem": "We are looking for a ___ candidate with five years of experience.",
+      "choices": [
+        "qualified",
+        "qualify",
+        "qualifying",
+        "qualification"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Devant un nom : adjectif.",
+          "why_wrong": [
+            "B : verbe.",
+            "C : sens actif inadapté (un candidat qualifié, pas qui qualifie).",
+            "D : nom : devant « candidate », on attend un adjectif."
+          ],
+          "example": "A reliable partner."
+        },
+        "en": {
+          "rule": "Before a noun: adjective.",
+          "why_wrong": [
+            "B: verb.",
+            "C: unsuitable active meaning (a qualified candidate, not one who qualifies).",
+            "D: noun: an adjective is expected before 'candidate'."
+          ],
+          "example": "A reliable partner."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-word-forms-04",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-word-forms",
+      "stem": "Mr. Wu was ___ promoted to regional director last year.",
+      "choices": [
+        "recentness",
+        "recently",
+        "recent",
+        "recency"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Entre l'auxiliaire et le participe : adverbe.",
+          "why_wrong": [
+            "A : nom rare.",
+            "C : adjectif : un adverbe est attendu entre « was » et le participe.",
+            "D : nom rare."
+          ],
+          "example": "She was quickly promoted."
+        },
+        "en": {
+          "rule": "Between the auxiliary and the participle: adverb.",
+          "why_wrong": [
+            "A: rare noun.",
+            "C: adjective: an adverb is expected between 'was' and the participle.",
+            "D: rare noun."
+          ],
+          "example": "She was quickly promoted."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-word-forms-05",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-word-forms",
+      "stem": "All employees must follow the safety ___ posted on the wall.",
+      "choices": [
+        "regulations",
+        "regulate",
+        "regularly",
+        "regulatory"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Nom composé (safety regulations) : nom attendu.",
+          "why_wrong": [
+            "B : verbe.",
+            "C : adverbe.",
+            "D : adjectif : on attend un nom après « safety »."
+          ],
+          "example": "The health policy is strict."
+        },
+        "en": {
+          "rule": "Compound noun (safety regulations): a noun is expected.",
+          "why_wrong": [
+            "B: verb.",
+            "C: adverb.",
+            "D: adjective: a noun is expected after 'safety'."
+          ],
+          "example": "The health policy is strict."
+        }
+      },
+      "vocab": []
+    }
+  ]
+}

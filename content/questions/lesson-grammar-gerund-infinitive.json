@@ -1,0 +1,182 @@
+{
+  "batch": "lesson-grammar-gerund-infinitive",
+  "part": 5,
+  "passages": [],
+  "questions": [
+    {
+      "id": "lq-grammar-gerund-infinitive-01",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-gerund-infinitive",
+      "stem": "The manager suggested ___ the meeting to Thursday.",
+      "choices": [
+        "to moving",
+        "to move",
+        "moving",
+        "move"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Suggest + -ing.",
+          "why_wrong": [
+            "A : mélange des deux structures.",
+            "B : « suggest » est suivi du gérondif.",
+            "D : forme de base : mauvaise structure."
+          ],
+          "example": "She suggested going home."
+        },
+        "en": {
+          "rule": "Suggest + -ing.",
+          "why_wrong": [
+            "A: mixes the two structures.",
+            "B: 'suggest' is followed by the gerund.",
+            "D: base form: wrong structure."
+          ],
+          "example": "She suggested going home."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-gerund-infinitive-02",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-gerund-infinitive",
+      "stem": "We have decided ___ two new analysts next quarter.",
+      "choices": [
+        "hire",
+        "to hire",
+        "hired",
+        "hiring"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Decide + to + verbe.",
+          "why_wrong": [
+            "A : il manque « to ».",
+            "C : participe passé, mauvaise forme.",
+            "D : « decide » est suivi de l'infinitif."
+          ],
+          "example": "They decided to stay."
+        },
+        "en": {
+          "rule": "Decide + to + verb.",
+          "why_wrong": [
+            "A: 'to' is missing.",
+            "C: past participle, wrong form.",
+            "D: 'decide' is followed by the infinitive."
+          ],
+          "example": "They decided to stay."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-gerund-infinitive-03",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-gerund-infinitive",
+      "stem": "We look forward to ___ you at the conference.",
+      "choices": [
+        "seen",
+        "seeing",
+        "see",
+        "be seeing"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Look forward to + -ing (to = préposition).",
+          "why_wrong": [
+            "A : participe passé.",
+            "C : « to » est ici une préposition : il faut le gérondif.",
+            "D : construction incorrecte."
+          ],
+          "example": "I look forward to meeting you."
+        },
+        "en": {
+          "rule": "Look forward to + -ing (to = preposition).",
+          "why_wrong": [
+            "A: past participle.",
+            "C: 'to' is a preposition here: the gerund is required.",
+            "D: incorrect construction."
+          ],
+          "example": "I look forward to meeting you."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-gerund-infinitive-04",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-gerund-infinitive",
+      "stem": "Please contact us before ___ any changes to your order.",
+      "choices": [
+        "to make",
+        "making",
+        "made",
+        "make"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Préposition + -ing.",
+          "why_wrong": [
+            "A : après une préposition on n'emploie pas « to + verbe ».",
+            "C : participe passé.",
+            "D : après une préposition on emploie le gérondif."
+          ],
+          "example": "Think before speaking."
+        },
+        "en": {
+          "rule": "Preposition + -ing.",
+          "why_wrong": [
+            "A: after a preposition 'to + verb' is not used.",
+            "C: past participle.",
+            "D: after a preposition use the gerund."
+          ],
+          "example": "Think before speaking."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-gerund-infinitive-05",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-gerund-infinitive",
+      "stem": "The company is committed ___ customer satisfaction.",
+      "choices": [
+        "for improving",
+        "to improving",
+        "to improve",
+        "improving"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Be committed to + -ing.",
+          "why_wrong": [
+            "A : mauvaise préposition.",
+            "C : « committed to » est suivi d'un gérondif (to = préposition).",
+            "D : il manque la préposition « to »."
+          ],
+          "example": "We are committed to growing."
+        },
+        "en": {
+          "rule": "Be committed to + -ing.",
+          "why_wrong": [
+            "A: wrong preposition.",
+            "C: 'committed to' is followed by a gerund (to = preposition).",
+            "D: the preposition 'to' is missing."
+          ],
+          "example": "We are committed to growing."
+        }
+      },
+      "vocab": []
+    }
+  ]
+}

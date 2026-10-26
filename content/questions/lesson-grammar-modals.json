@@ -1,0 +1,182 @@
+{
+  "batch": "lesson-grammar-modals",
+  "part": 5,
+  "passages": [],
+  "questions": [
+    {
+      "id": "lq-grammar-modals-01",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-modals",
+      "stem": "All visitors ___ sign in at the reception desk.",
+      "choices": [
+        "must to",
+        "musting",
+        "musts",
+        "must"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Modal + infinitif sans to.",
+          "why_wrong": [
+            "A : pas de « to » après un modal.",
+            "B : un modal n'a pas de forme en -ing.",
+            "C : un modal ne prend pas de -s."
+          ],
+          "example": "You must wait here."
+        },
+        "en": {
+          "rule": "Modal + bare infinitive.",
+          "why_wrong": [
+            "A: no 'to' after a modal.",
+            "B: a modal has no -ing form.",
+            "C: a modal never takes -s."
+          ],
+          "example": "You must wait here."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-modals-02",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-modals",
+      "stem": "The invoice ___ been sent last week, but the client says it never arrived.",
+      "choices": [
+        "should have",
+        "should be",
+        "should had",
+        "should"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Reproche ou attente passée : should have + participe passé.",
+          "why_wrong": [
+            "B : n'exprime pas le passé.",
+            "C : « have » reste à l'infinitif après un modal.",
+            "D : il manque « have » pour exprimer le passé."
+          ],
+          "example": "He should have called."
+        },
+        "en": {
+          "rule": "Past criticism or expectation: should have + past participle.",
+          "why_wrong": [
+            "B: does not express the past.",
+            "C: 'have' stays in the infinitive after a modal.",
+            "D: 'have' is missing to express the past."
+          ],
+          "example": "He should have called."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-modals-03",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-modals",
+      "stem": "Employees ___ not park in front of the main entrance.",
+      "choices": [
+        "are",
+        "being",
+        "may",
+        "might to"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "May not = interdiction (registre formel).",
+          "why_wrong": [
+            "A : il manque l'infinitif après la négation.",
+            "B : forme en -ing, pas un modal.",
+            "D : pas de « to »."
+          ],
+          "example": "You may not enter."
+        },
+        "en": {
+          "rule": "May not = prohibition (formal register).",
+          "why_wrong": [
+            "A: an infinitive is needed after the negation.",
+            "B: -ing form, not a modal.",
+            "D: no 'to'."
+          ],
+          "example": "You may not enter."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-modals-04",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-modals",
+      "stem": "If you need help, you ___ call the support desk.",
+      "choices": [
+        "can to",
+        "could to",
+        "cans",
+        "can"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Can exprime la possibilité, sans to ni -s.",
+          "why_wrong": [
+            "A : pas de « to » après un modal.",
+            "B : pas de « to » après un modal.",
+            "C : un modal ne prend pas de -s."
+          ],
+          "example": "She can help you."
+        },
+        "en": {
+          "rule": "Can expresses possibility, with no to or -s.",
+          "why_wrong": [
+            "A: no 'to' after a modal.",
+            "B: no 'to' after a modal.",
+            "C: a modal never takes -s."
+          ],
+          "example": "She can help you."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-modals-05",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-modals",
+      "stem": "You will ___ to submit the form online next year.",
+      "choices": [
+        "may can",
+        "be able",
+        "can",
+        "could"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Pour un modal au futur : will be able to.",
+          "why_wrong": [
+            "A : pas de double modal.",
+            "C : pas de double modal (will can).",
+            "D : pas de double modal."
+          ],
+          "example": "I will be able to attend."
+        },
+        "en": {
+          "rule": "To express ability in the future: will be able to.",
+          "why_wrong": [
+            "A: no double modal.",
+            "C: no double modal (will can).",
+            "D: no double modal."
+          ],
+          "example": "I will be able to attend."
+        }
+      },
+      "vocab": []
+    }
+  ]
+}

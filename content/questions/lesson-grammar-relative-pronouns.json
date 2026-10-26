@@ -1,0 +1,182 @@
+{
+  "batch": "lesson-grammar-relative-pronouns",
+  "part": 5,
+  "passages": [],
+  "questions": [
+    {
+      "id": "lq-grammar-relative-pronouns-01",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-relative-pronouns",
+      "stem": "The candidate ___ resume impressed us has accepted the job.",
+      "choices": [
+        "who",
+        "whose",
+        "whom",
+        "which"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Whose + nom exprime la possession.",
+          "why_wrong": [
+            "A : « resume » est un nom après le pronom : il faut exprimer la possession.",
+            "C : complément, et pas de possession.",
+            "D : ne s'emploie pas pour une personne."
+          ],
+          "example": "The woman whose bag was lost is here."
+        },
+        "en": {
+          "rule": "Whose + noun expresses possession.",
+          "why_wrong": [
+            "A: 'resume' is a noun after the pronoun: possession is needed.",
+            "C: object pronoun, no possession.",
+            "D: is not used for a person."
+          ],
+          "example": "The woman whose bag was lost is here."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-relative-pronouns-02",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-relative-pronouns",
+      "stem": "The conference room ___ we held the meeting is being renovated.",
+      "choices": [
+        "whose",
+        "whom",
+        "who",
+        "where"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Where introduit une relative de lieu.",
+          "why_wrong": [
+            "A : exprime la possession.",
+            "B : personne uniquement.",
+            "C : ne s'emploie que pour une personne."
+          ],
+          "example": "That is the shop where I work."
+        },
+        "en": {
+          "rule": "Where introduces a place relative clause.",
+          "why_wrong": [
+            "A: expresses possession.",
+            "B: people only.",
+            "C: is only for people."
+          ],
+          "example": "That is the shop where I work."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-relative-pronouns-03",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-relative-pronouns",
+      "stem": "The employee to ___ you spoke is on vacation this week.",
+      "choices": [
+        "whom",
+        "who",
+        "which",
+        "that"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Préposition + personne → to whom.",
+          "why_wrong": [
+            "B : après une préposition on emploie « whom ».",
+            "C : ne s'emploie pas pour une personne.",
+            "D : « that » ne s'emploie pas après une préposition."
+          ],
+          "example": "The man with whom I worked retired."
+        },
+        "en": {
+          "rule": "Preposition + person → to whom.",
+          "why_wrong": [
+            "B: after a preposition use 'whom'.",
+            "C: is not used for a person.",
+            "D: 'that' is not used after a preposition."
+          ],
+          "example": "The man with whom I worked retired."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-relative-pronouns-04",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-relative-pronouns",
+      "stem": "The software ___ we installed last week has already improved performance.",
+      "choices": [
+        "whose",
+        "that",
+        "where",
+        "who"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "That (ou which) s'emploie pour une chose.",
+          "why_wrong": [
+            "A : exprime la possession.",
+            "C : s'emploie pour un lieu.",
+            "D : ne s'emploie que pour une personne."
+          ],
+          "example": "The book that I read was long."
+        },
+        "en": {
+          "rule": "That (or which) is used for a thing.",
+          "why_wrong": [
+            "A: expresses possession.",
+            "C: is used for a place.",
+            "D: is only for people."
+          ],
+          "example": "The book that I read was long."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-relative-pronouns-05",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-relative-pronouns",
+      "stem": "Ms. Lee, ___ has led our design team for years, will retire in June.",
+      "choices": [
+        "who",
+        "which",
+        "that",
+        "whom"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Relative explicative (virgules) : who pour une personne sujet.",
+          "why_wrong": [
+            "B : ne s'emploie pas pour une personne.",
+            "C : « that » ne s'emploie pas après une virgule.",
+            "D : ici le pronom est le sujet de « has led »."
+          ],
+          "example": "My boss, who is kind, called."
+        },
+        "en": {
+          "rule": "Non-defining clause (commas): who for a subject person.",
+          "why_wrong": [
+            "B: is not used for a person.",
+            "C: 'that' is not used after a comma.",
+            "D: here the pronoun is the subject of 'has led'."
+          ],
+          "example": "My boss, who is kind, called."
+        }
+      },
+      "vocab": []
+    }
+  ]
+}

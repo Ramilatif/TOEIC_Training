@@ -1,0 +1,182 @@
+{
+  "batch": "lesson-grammar-quantifiers",
+  "part": 5,
+  "passages": [],
+  "questions": [
+    {
+      "id": "lq-grammar-quantifiers-01",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-quantifiers",
+      "stem": "We received ___ complaints this month than last month.",
+      "choices": [
+        "little",
+        "fewer",
+        "much",
+        "less"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Fewer + dénombrable pluriel ; less + indénombrable.",
+          "why_wrong": [
+            "A : ne s'emploie pas avec un dénombrable pluriel.",
+            "C : ne s'emploie pas avec un dénombrable pluriel.",
+            "D : « complaints » est dénombrable : on emploie fewer."
+          ],
+          "example": "Fewer people came."
+        },
+        "en": {
+          "rule": "Fewer + countable plural; less + uncountable.",
+          "why_wrong": [
+            "A: is not used with a countable plural.",
+            "C: is not used with a countable plural.",
+            "D: 'complaints' is countable: use fewer."
+          ],
+          "example": "Fewer people came."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-quantifiers-02",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-quantifiers",
+      "stem": "There is not ___ time left before the deadline.",
+      "choices": [
+        "much",
+        "many",
+        "few",
+        "several"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Much + indénombrable, surtout en négatif.",
+          "why_wrong": [
+            "B : « time » est indénombrable.",
+            "C : ne s'emploie pas avec un indénombrable.",
+            "D : demande un dénombrable pluriel."
+          ],
+          "example": "We do not have much money."
+        },
+        "en": {
+          "rule": "Much + uncountable, mostly in negatives.",
+          "why_wrong": [
+            "B: 'time' is uncountable.",
+            "C: is not used with an uncountable.",
+            "D: requires a countable plural."
+          ],
+          "example": "We do not have much money."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-quantifiers-03",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-quantifiers",
+      "stem": "___ of the participants completed the survey, so we have enough data.",
+      "choices": [
+        "Much",
+        "Most",
+        "Little",
+        "A little"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Most of the + nom pluriel défini.",
+          "why_wrong": [
+            "A : « participants » est dénombrable.",
+            "C : ne s'emploie pas avec un dénombrable.",
+            "D : ne s'emploie pas avec un dénombrable."
+          ],
+          "example": "Most of the staff agreed."
+        },
+        "en": {
+          "rule": "Most of the + definite plural noun.",
+          "why_wrong": [
+            "A: 'participants' is countable.",
+            "C: is not used with a countable noun.",
+            "D: is not used with a countable noun."
+          ],
+          "example": "Most of the staff agreed."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-quantifiers-04",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-quantifiers",
+      "stem": "The store has ___ of parking spaces, so you will always find one.",
+      "choices": [
+        "few",
+        "many",
+        "plenty",
+        "much"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Plenty of s'emploie avec dénombrable et indénombrable.",
+          "why_wrong": [
+            "A : sens négatif contraire à la phrase.",
+            "B : « many of » demande un déterminant : many of the spaces.",
+            "D : ne s'emploie pas avec un dénombrable."
+          ],
+          "example": "There is plenty of time."
+        },
+        "en": {
+          "rule": "Plenty of works with countable and uncountable nouns.",
+          "why_wrong": [
+            "A: negative meaning contradicts the sentence.",
+            "B: 'many of' needs a determiner: many of the spaces.",
+            "D: is not used with a countable noun."
+          ],
+          "example": "There is plenty of time."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-quantifiers-05",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-quantifiers",
+      "stem": "The ___ of employees working remotely has doubled.",
+      "choices": [
+        "deal",
+        "amount",
+        "number",
+        "quantity"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "The number of + pluriel (verbe singulier).",
+          "why_wrong": [
+            "A : nécessite « a great deal of ».",
+            "B : s'emploie avec un indénombrable.",
+            "D : s'emploie avec un indénombrable ou une mesure."
+          ],
+          "example": "The number of orders grew."
+        },
+        "en": {
+          "rule": "The number of + plural (singular verb).",
+          "why_wrong": [
+            "A: needs 'a great deal of'.",
+            "B: is used with an uncountable noun.",
+            "D: is used with an uncountable noun or a measure."
+          ],
+          "example": "The number of orders grew."
+        }
+      },
+      "vocab": []
+    }
+  ]
+}

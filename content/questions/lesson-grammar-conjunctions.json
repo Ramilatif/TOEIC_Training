@@ -1,0 +1,182 @@
+{
+  "batch": "lesson-grammar-conjunctions",
+  "part": 5,
+  "passages": [],
+  "questions": [
+    {
+      "id": "lq-grammar-conjunctions-01",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-conjunctions",
+      "stem": "___ the sales team exceeded its target, the bonuses were paid early.",
+      "choices": [
+        "Because of",
+        "Because",
+        "Despite",
+        "However"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Because + sujet + verbe exprime la cause.",
+          "why_wrong": [
+            "A : demande un nom, pas une proposition.",
+            "C : demande un nom et exprime l'opposition.",
+            "D : adverbe de liaison, ne peut pas introduire une subordonnée."
+          ],
+          "example": "Because it rained, we stayed in."
+        },
+        "en": {
+          "rule": "Because + subject + verb expresses cause.",
+          "why_wrong": [
+            "A: needs a noun, not a clause.",
+            "C: needs a noun and expresses contrast.",
+            "D: a conjunctive adverb cannot introduce a subordinate clause."
+          ],
+          "example": "Because it rained, we stayed in."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-conjunctions-02",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-conjunctions",
+      "stem": "The product is expensive; ___, it is very durable.",
+      "choices": [
+        "because",
+        "although",
+        "however",
+        "unless"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Après un point-virgule, on emploie un adverbe de liaison (however) suivi d'une virgule.",
+          "why_wrong": [
+            "A : exprime la cause, ce n'est pas le sens ici.",
+            "B : conjonction de subordination, pas après un point-virgule.",
+            "D : exprime la condition."
+          ],
+          "example": "It was late; however, we continued."
+        },
+        "en": {
+          "rule": "After a semicolon use a conjunctive adverb (however) followed by a comma.",
+          "why_wrong": [
+            "A: expresses cause, not the meaning here.",
+            "B: a subordinating conjunction, not used after a semicolon.",
+            "D: expresses condition."
+          ],
+          "example": "It was late; however, we continued."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-conjunctions-03",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-conjunctions",
+      "stem": "We will begin the meeting ___ everyone has arrived.",
+      "choices": [
+        "in addition",
+        "despite",
+        "as soon as",
+        "whereas"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "As soon as introduit une proposition de temps.",
+          "why_wrong": [
+            "A : adverbe de liaison.",
+            "B : préposition, demande un nom.",
+            "D : exprime l'opposition, pas le temps."
+          ],
+          "example": "Call me as soon as you land."
+        },
+        "en": {
+          "rule": "As soon as introduces a time clause.",
+          "why_wrong": [
+            "A: conjunctive adverb.",
+            "B: preposition, needs a noun.",
+            "D: expresses contrast, not time."
+          ],
+          "example": "Call me as soon as you land."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-conjunctions-04",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-conjunctions",
+      "stem": "___ you submit the form by Friday, your request cannot be processed.",
+      "choices": [
+        "Therefore",
+        "Whereas",
+        "Provided that",
+        "Unless"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Unless = if not : « sauf si vous envoyez le formulaire ».",
+          "why_wrong": [
+            "A : adverbe de conséquence.",
+            "B : exprime l'opposition.",
+            "C : le sens serait inversé (condition positive)."
+          ],
+          "example": "Unless you hurry, you will miss it."
+        },
+        "en": {
+          "rule": "Unless = if not: 'if you do not submit the form'.",
+          "why_wrong": [
+            "A: result adverb.",
+            "B: expresses contrast.",
+            "C: the meaning would be reversed (positive condition)."
+          ],
+          "example": "Unless you hurry, you will miss it."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-conjunctions-05",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-conjunctions",
+      "stem": "Revenue increased this year, ___ expenses decreased.",
+      "choices": [
+        "unless",
+        "so that",
+        "because of",
+        "whereas"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Whereas oppose deux faits : le chiffre d'affaires monte, alors que les dépenses baissent.",
+          "why_wrong": [
+            "A : exprime la condition.",
+            "B : exprime le but.",
+            "C : demande un nom."
+          ],
+          "example": "He likes tea, whereas she likes coffee."
+        },
+        "en": {
+          "rule": "Whereas contrasts two facts: revenue rose while expenses fell.",
+          "why_wrong": [
+            "A: expresses condition.",
+            "B: expresses purpose.",
+            "C: needs a noun."
+          ],
+          "example": "He likes tea, whereas she likes coffee."
+        }
+      },
+      "vocab": []
+    }
+  ]
+}

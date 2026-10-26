@@ -1,0 +1,182 @@
+{
+  "batch": "lesson-grammar-articles-determiners",
+  "part": 5,
+  "passages": [],
+  "questions": [
+    {
+      "id": "lq-grammar-articles-determiners-01",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-articles-determiners",
+      "stem": "Please send me ___ copy of the agreement.",
+      "choices": [
+        "others",
+        "another",
+        "each other",
+        "other"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Another + nom singulier = un autre.",
+          "why_wrong": [
+            "A : pronom pluriel, pas un déterminant.",
+            "C : exprime la réciprocité.",
+            "D : « other » ne s'emploie pas devant un nom singulier sans article."
+          ],
+          "example": "I need another pen."
+        },
+        "en": {
+          "rule": "Another + singular noun = one more.",
+          "why_wrong": [
+            "A: plural pronoun, not a determiner.",
+            "C: expresses reciprocity.",
+            "D: 'other' is not used before a singular noun without an article."
+          ],
+          "example": "I need another pen."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-articles-determiners-02",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-articles-determiners",
+      "stem": "___ employee must wear a badge at all times.",
+      "choices": [
+        "Many",
+        "All",
+        "Every",
+        "Several"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Every + nom singulier + verbe singulier.",
+          "why_wrong": [
+            "A : demande un pluriel.",
+            "B : demande un pluriel.",
+            "D : demande un pluriel."
+          ],
+          "example": "Every manager has a key."
+        },
+        "en": {
+          "rule": "Every + singular noun + singular verb.",
+          "why_wrong": [
+            "A: requires a plural.",
+            "B: requires a plural.",
+            "D: requires a plural."
+          ],
+          "example": "Every manager has a key."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-articles-determiners-03",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-articles-determiners",
+      "stem": "The company bought ___ new equipment for the factory.",
+      "choices": [
+        "a few",
+        "some",
+        "many",
+        "an"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Nom indénombrable : some / much / a lot of, jamais a / an.",
+          "why_wrong": [
+            "A : demande un nom pluriel dénombrable.",
+            "C : demande un nom pluriel dénombrable.",
+            "D : « equipment » est indénombrable : pas d'article indéfini."
+          ],
+          "example": "We need some advice."
+        },
+        "en": {
+          "rule": "Uncountable noun: some / much / a lot of, never a / an.",
+          "why_wrong": [
+            "A: requires a countable plural noun.",
+            "C: requires a countable plural noun.",
+            "D: 'equipment' is uncountable: no indefinite article."
+          ],
+          "example": "We need some advice."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-articles-determiners-04",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-articles-determiners",
+      "stem": "She is ___ honest employee who always meets deadlines.",
+      "choices": [
+        "a",
+        "the",
+        "an",
+        "no article"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "An devant un son voyelle (honest, hour).",
+          "why_wrong": [
+            "A : « honest » commence par un son voyelle (h muet).",
+            "B : première mention : article indéfini.",
+            "D : un nom singulier comptable demande un déterminant."
+          ],
+          "example": "He waited for an hour."
+        },
+        "en": {
+          "rule": "An before a vowel sound (honest, hour).",
+          "why_wrong": [
+            "A: 'honest' starts with a vowel sound (silent h).",
+            "B: first mention: indefinite article.",
+            "D: a singular countable noun needs a determiner."
+          ],
+          "example": "He waited for an hour."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-articles-determiners-05",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-articles-determiners",
+      "stem": "The report is due ___ Friday, so I will send it ___ day before.",
+      "choices": [
+        "at / the",
+        "in / a",
+        "on / a",
+        "on / the"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "On + jour ; the day before = la veille.",
+          "why_wrong": [
+            "A : « at Friday » est incorrect.",
+            "B : « in Friday » est incorrect.",
+            "C : « a day before » ne désigne pas un jour précis."
+          ],
+          "example": "See you on Monday."
+        },
+        "en": {
+          "rule": "On + day; the day before = the previous day.",
+          "why_wrong": [
+            "A: 'at Friday' is incorrect.",
+            "B: 'in Friday' is incorrect.",
+            "C: 'a day before' does not refer to a specific day."
+          ],
+          "example": "See you on Monday."
+        }
+      },
+      "vocab": []
+    }
+  ]
+}

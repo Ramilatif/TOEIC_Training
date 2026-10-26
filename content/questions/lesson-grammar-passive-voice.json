@@ -1,0 +1,182 @@
+{
+  "batch": "lesson-grammar-passive-voice",
+  "part": 5,
+  "passages": [],
+  "questions": [
+    {
+      "id": "lq-grammar-passive-voice-01",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-passive-voice",
+      "stem": "The new software ___ by all employees next month.",
+      "choices": [
+        "installing",
+        "will be installed",
+        "has installed",
+        "will install"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Futur passif : will be + participe passé.",
+          "why_wrong": [
+            "A : gérondif seul, sans auxiliaire.",
+            "C : forme active et pas de futur.",
+            "D : forme active : le logiciel n'installe pas lui-même."
+          ],
+          "example": "The files will be sent tomorrow."
+        },
+        "en": {
+          "rule": "Future passive: will be + past participle.",
+          "why_wrong": [
+            "A: gerund alone, without an auxiliary.",
+            "C: active form and not future.",
+            "D: active form: the software does not install itself."
+          ],
+          "example": "The files will be sent tomorrow."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-passive-voice-02",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-passive-voice",
+      "stem": "All visitors ___ to sign in at the front desk.",
+      "choices": [
+        "requires",
+        "require",
+        "requiring",
+        "are required"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "« be required to » est une structure passive très fréquente.",
+          "why_wrong": [
+            "A : actif et singulier.",
+            "B : actif : les visiteurs ne « requièrent » pas.",
+            "C : gérondif sans auxiliaire."
+          ],
+          "example": "Staff are required to attend."
+        },
+        "en": {
+          "rule": "'be required to' is a very common passive structure.",
+          "why_wrong": [
+            "A: active and singular.",
+            "B: active: visitors do not 'require'.",
+            "C: gerund without an auxiliary."
+          ],
+          "example": "Staff are required to attend."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-passive-voice-03",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-passive-voice",
+      "stem": "The annual meeting ___ in the main auditorium last Friday.",
+      "choices": [
+        "held",
+        "was held",
+        "holds",
+        "has held"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Le sujet est une chose et il n'y a pas d'objet : passif au prétérit (was held).",
+          "why_wrong": [
+            "A : il manque l'auxiliaire « was ».",
+            "C : présent actif, incompatible avec « last Friday ».",
+            "D : actif, sans complément d'objet."
+          ],
+          "example": "The event was held in May."
+        },
+        "en": {
+          "rule": "The subject is a thing and there is no object: past passive (was held).",
+          "why_wrong": [
+            "A: the auxiliary 'was' is missing.",
+            "C: present active, incompatible with 'last Friday'.",
+            "D: active, with no object."
+          ],
+          "example": "The event was held in May."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-passive-voice-04",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-passive-voice",
+      "stem": "The error ___ yesterday, so the invoice has been corrected.",
+      "choices": [
+        "discovered",
+        "discovering",
+        "was discovered",
+        "is discovering"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Le repère « yesterday » + sujet chose → was + participe passé.",
+          "why_wrong": [
+            "A : verbe actif sans objet.",
+            "B : participe présent sans auxiliaire.",
+            "D : présent continu actif, mauvais temps."
+          ],
+          "example": "The problem was solved quickly."
+        },
+        "en": {
+          "rule": "The clue 'yesterday' + thing subject → was + past participle.",
+          "why_wrong": [
+            "A: active verb with no object.",
+            "B: present participle without an auxiliary.",
+            "D: active present continuous, wrong tense."
+          ],
+          "example": "The problem was solved quickly."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-passive-voice-05",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-passive-voice",
+      "stem": "The incident ___ at about noon.",
+      "choices": [
+        "was occurred",
+        "occurred",
+        "was occurring",
+        "has been occurred"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Les verbes intransitifs (occur, happen, arrive…) ne s'emploient pas au passif.",
+          "why_wrong": [
+            "A : « occur » est intransitif : jamais de passif.",
+            "C : même erreur, forme passive impossible.",
+            "D : passif impossible avec un verbe intransitif."
+          ],
+          "example": "The meeting happened on Monday."
+        },
+        "en": {
+          "rule": "Intransitive verbs (occur, happen, arrive…) are not used in the passive.",
+          "why_wrong": [
+            "A: 'occur' is intransitive: never passive.",
+            "C: same error, passive impossible.",
+            "D: passive impossible with an intransitive verb."
+          ],
+          "example": "The meeting happened on Monday."
+        }
+      },
+      "vocab": []
+    }
+  ]
+}

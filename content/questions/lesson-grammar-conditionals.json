@@ -1,0 +1,182 @@
+{
+  "batch": "lesson-grammar-conditionals",
+  "part": 5,
+  "passages": [],
+  "questions": [
+    {
+      "id": "lq-grammar-conditionals-01",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-conditionals",
+      "stem": "If the supplier ___ the order today, we will receive it on Friday.",
+      "choices": [
+        "ships",
+        "would ship",
+        "shipped",
+        "will ship"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Type 1 : If + présent, will + verbe.",
+          "why_wrong": [
+            "B : pas de « would » dans la proposition en « if » (type 1).",
+            "C : le prétérit relève du type 2, incompatible avec « will receive ».",
+            "D : pas de « will » dans la proposition en « if »."
+          ],
+          "example": "If it rains, we will stay."
+        },
+        "en": {
+          "rule": "Type 1: If + present, will + verb.",
+          "why_wrong": [
+            "B: no 'would' in the 'if' clause (type 1).",
+            "C: the past tense is type 2, incompatible with 'will receive'.",
+            "D: no 'will' in the 'if' clause."
+          ],
+          "example": "If it rains, we will stay."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-conditionals-02",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-conditionals",
+      "stem": "If I ___ more time, I would attend the seminar.",
+      "choices": [
+        "will have",
+        "had",
+        "have",
+        "would have"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Type 2 : If + prétérit, would + verbe.",
+          "why_wrong": [
+            "A : pas de futur dans la proposition en « if ».",
+            "C : type 1, incompatible avec « would ».",
+            "D : pas de « would » dans la proposition en « if »."
+          ],
+          "example": "If I were you, I would wait."
+        },
+        "en": {
+          "rule": "Type 2: If + simple past, would + verb.",
+          "why_wrong": [
+            "A: no future in the 'if' clause.",
+            "C: type 1, incompatible with 'would'.",
+            "D: no 'would' in the 'if' clause."
+          ],
+          "example": "If I were you, I would wait."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-conditionals-03",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-conditionals",
+      "stem": "If we ___ the deadline, we would have lost the contract.",
+      "choices": [
+        "had missed",
+        "miss",
+        "missed",
+        "would miss"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Type 3 : If + plus-que-parfait, would have + participe passé.",
+          "why_wrong": [
+            "B : présent, incompatible avec « would have lost ».",
+            "C : prétérit simple : il faut le plus-que-parfait (type 3).",
+            "D : pas de « would » dans la proposition en « if »."
+          ],
+          "example": "If I had known, I would have called."
+        },
+        "en": {
+          "rule": "Type 3: If + past perfect, would have + past participle.",
+          "why_wrong": [
+            "B: present, incompatible with 'would have lost'.",
+            "C: simple past: the past perfect is required (type 3).",
+            "D: no 'would' in the 'if' clause."
+          ],
+          "example": "If I had known, I would have called."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-conditionals-04",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-conditionals",
+      "stem": "___ you need further assistance, please contact our help desk.",
+      "choices": [
+        "Must",
+        "Should",
+        "Did",
+        "Would"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Should + sujet = If you should (inversion formelle).",
+          "why_wrong": [
+            "A : exprime une obligation.",
+            "C : n'est pas l'inversion conditionnelle courante ici.",
+            "D : n'a pas ce sens d'inversion conditionnelle."
+          ],
+          "example": "Should you have questions, call me."
+        },
+        "en": {
+          "rule": "Should + subject = If you should (formal inversion).",
+          "why_wrong": [
+            "A: expresses obligation.",
+            "C: is not the usual conditional inversion here.",
+            "D: does not have this conditional inversion meaning."
+          ],
+          "example": "Should you have questions, call me."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-conditionals-05",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-conditionals",
+      "stem": "We will begin the project ___ the client approves the budget.",
+      "choices": [
+        "although",
+        "whereas",
+        "as long as",
+        "unless"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "As long as = à condition que (suivi du présent).",
+          "why_wrong": [
+            "A : exprime l'opposition.",
+            "B : exprime l'opposition.",
+            "D : le sens serait inversé (sauf si le client approuve)."
+          ],
+          "example": "Go as long as you are careful."
+        },
+        "en": {
+          "rule": "As long as = provided that (followed by the present).",
+          "why_wrong": [
+            "A: expresses contrast.",
+            "B: expresses contrast.",
+            "D: the meaning would be reversed (unless the client approves)."
+          ],
+          "example": "Go as long as you are careful."
+        }
+      },
+      "vocab": []
+    }
+  ]
+}

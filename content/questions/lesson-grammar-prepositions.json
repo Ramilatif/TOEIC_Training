@@ -1,0 +1,182 @@
+{
+  "batch": "lesson-grammar-prepositions",
+  "part": 5,
+  "passages": [],
+  "questions": [
+    {
+      "id": "lq-grammar-prepositions-01",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-prepositions",
+      "stem": "Please submit your expense report ___ Friday at the latest.",
+      "choices": [
+        "during",
+        "by",
+        "until",
+        "since"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "« by » = au plus tard (échéance).",
+          "why_wrong": [
+            "A : « during » s'emploie avec un événement.",
+            "C : « until » indique une durée qui continue jusqu'à un moment, pas une échéance.",
+            "D : « since » est un point de départ passé."
+          ],
+          "example": "Reply by noon."
+        },
+        "en": {
+          "rule": "'by' = no later than (deadline).",
+          "why_wrong": [
+            "A: 'during' goes with an event.",
+            "C: 'until' marks a continuing situation up to a time, not a deadline.",
+            "D: 'since' is a past starting point."
+          ],
+          "example": "Reply by noon."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-prepositions-02",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-prepositions",
+      "stem": "The workshop will take place ___ the second floor ___ 10 a.m.",
+      "choices": [
+        "in / in",
+        "on / at",
+        "on / in",
+        "at / on"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "On : étage/jour/date. At : heure précise.",
+          "why_wrong": [
+            "A : « in the second floor » est incorrect ; l'heure demande « at ».",
+            "C : l'heure précise demande « at ».",
+            "D : inversion : « on » pour l'étage, « at » pour l'heure."
+          ],
+          "example": "The meeting is on Monday at nine."
+        },
+        "en": {
+          "rule": "On: floor/day/date. At: exact time.",
+          "why_wrong": [
+            "A: 'in the second floor' is wrong; time needs 'at'.",
+            "C: an exact time needs 'at'.",
+            "D: reversed: 'on' for the floor, 'at' for the time."
+          ],
+          "example": "The meeting is on Monday at nine."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-prepositions-03",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-prepositions",
+      "stem": "We are very interested ___ your proposal.",
+      "choices": [
+        "for",
+        "in",
+        "on",
+        "with"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Expression fixe : interested in.",
+          "why_wrong": [
+            "A : « interested for » n'existe pas.",
+            "C : « interested on » n'existe pas.",
+            "D : « interested with » n'existe pas."
+          ],
+          "example": "She is interested in marketing."
+        },
+        "en": {
+          "rule": "Fixed expression: interested in.",
+          "why_wrong": [
+            "A: 'interested for' does not exist.",
+            "C: 'interested on' does not exist.",
+            "D: 'interested with' does not exist."
+          ],
+          "example": "She is interested in marketing."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-prepositions-04",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-prepositions",
+      "stem": "___ the heavy rain, the outdoor event was a success.",
+      "choices": [
+        "Because of",
+        "Although",
+        "Due to",
+        "Despite"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Despite + nom exprime la concession.",
+          "why_wrong": [
+            "A : exprime la cause, or le sens est une opposition.",
+            "B : est une conjonction, elle demande un sujet + verbe.",
+            "C : exprime la cause."
+          ],
+          "example": "Despite the cost, we bought it."
+        },
+        "en": {
+          "rule": "Despite + noun expresses contrast.",
+          "why_wrong": [
+            "A: expresses cause, but the meaning is contrast.",
+            "B: is a conjunction and needs a subject + verb.",
+            "C: expresses cause."
+          ],
+          "example": "Despite the cost, we bought it."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-prepositions-05",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-prepositions",
+      "stem": "The package must arrive ___ three business days.",
+      "choices": [
+        "within",
+        "beside",
+        "among",
+        "between"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "« within » = dans un délai de.",
+          "why_wrong": [
+            "B : « beside » signifie « à côté de ».",
+            "C : « among » demande un groupe de plus de deux éléments.",
+            "D : « between » demande deux repères (between X and Y)."
+          ],
+          "example": "Reply within a week."
+        },
+        "en": {
+          "rule": "'within' = inside a time limit of.",
+          "why_wrong": [
+            "B: 'beside' means 'next to'.",
+            "C: 'among' needs a group of more than two.",
+            "D: 'between' needs two reference points (between X and Y)."
+          ],
+          "example": "Reply within a week."
+        }
+      },
+      "vocab": []
+    }
+  ]
+}

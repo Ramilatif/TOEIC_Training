@@ -1,0 +1,182 @@
+{
+  "batch": "lesson-grammar-participles",
+  "part": 5,
+  "passages": [],
+  "questions": [
+    {
+      "id": "lq-grammar-participles-01",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-participles",
+      "stem": "The audience was ___ by the speaker's final announcement.",
+      "choices": [
+        "surprising",
+        "surprise",
+        "surprised",
+        "to surprise"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Personnes qui ressentent → -ed.",
+          "why_wrong": [
+            "A : « surprising » décrit ce qui provoque l'effet, pas ceux qui le ressentent.",
+            "B : nom ou verbe, pas un adjectif ici.",
+            "D : infinitif, incorrect après « was »."
+          ],
+          "example": "I was bored."
+        },
+        "en": {
+          "rule": "People who feel → -ed.",
+          "why_wrong": [
+            "A: 'surprising' describes what causes the effect, not who feels it.",
+            "B: noun or verb, not an adjective here.",
+            "D: infinitive, incorrect after 'was'."
+          ],
+          "example": "I was bored."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-participles-02",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-participles",
+      "stem": "Please complete all ___ fields before submitting the form.",
+      "choices": [
+        "requirement",
+        "require",
+        "requiring",
+        "required"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Participe passé = sens passif (required = qui est requis).",
+          "why_wrong": [
+            "A : nom, pas un adjectif.",
+            "B : forme de base.",
+            "C : sens actif incorrect : les champs sont requis."
+          ],
+          "example": "The attached file is ready."
+        },
+        "en": {
+          "rule": "Past participle = passive meaning (required = that is required).",
+          "why_wrong": [
+            "A: noun, not an adjective.",
+            "B: base form.",
+            "C: active meaning is wrong: the fields are required."
+          ],
+          "example": "The attached file is ready."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-participles-03",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-participles",
+      "stem": "The firm has seen a ___ demand for electric vehicles.",
+      "choices": [
+        "grown",
+        "grow",
+        "growing",
+        "growth"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Participe présent = sens actif (la demande croît).",
+          "why_wrong": [
+            "A : participe passé, sens passif inadapté.",
+            "B : forme de base.",
+            "D : nom : on attendrait un adjectif."
+          ],
+          "example": "There is an increasing need."
+        },
+        "en": {
+          "rule": "Present participle = active meaning (demand is growing).",
+          "why_wrong": [
+            "A: past participle, unsuitable passive meaning.",
+            "B: base form.",
+            "D: noun: an adjective is expected."
+          ],
+          "example": "There is an increasing need."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-participles-04",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-participles",
+      "stem": "___ the report, the director signed it immediately.",
+      "choices": [
+        "Reviews",
+        "To review",
+        "Having reviewed",
+        "Reviewed"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Having + participe passé = action antérieure, même sujet.",
+          "why_wrong": [
+            "A : verbe conjugué, pas de proposition participiale.",
+            "B : exprime le but, pas l'action antérieure.",
+            "D : sens passif : le directeur a relu, pas été relu."
+          ],
+          "example": "Having finished, he left."
+        },
+        "en": {
+          "rule": "Having + past participle = earlier action, same subject.",
+          "why_wrong": [
+            "A: conjugated verb, not a participial clause.",
+            "B: expresses purpose, not an earlier action.",
+            "D: passive meaning: the director reviewed it, was not reviewed."
+          ],
+          "example": "Having finished, he left."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-participles-05",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-participles",
+      "stem": "The new manager found the training session very ___.",
+      "choices": [
+        "interest",
+        "interested",
+        "interests",
+        "interesting"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Une chose qui provoque l'effet → -ing.",
+          "why_wrong": [
+            "A : nom.",
+            "B : décrit une personne qui ressent, pas la séance.",
+            "C : nom pluriel ou verbe conjugué."
+          ],
+          "example": "The film was boring."
+        },
+        "en": {
+          "rule": "A thing that causes the effect → -ing.",
+          "why_wrong": [
+            "A: noun.",
+            "B: describes a person who feels, not the session.",
+            "C: plural noun or conjugated verb."
+          ],
+          "example": "The film was boring."
+        }
+      },
+      "vocab": []
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "batch": "lesson-grammar-pronouns",
+  "part": 5,
+  "passages": [],
+  "questions": [
+    {
+      "id": "lq-grammar-pronouns-01",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-pronouns",
+      "stem": "Ms. Cho asked ___ to review the contract before the meeting.",
+      "choices": [
+        "my",
+        "I",
+        "mine",
+        "me"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Après un verbe (asked), on emploie le pronom complément.",
+          "why_wrong": [
+            "A : adjectif possessif, il faudrait un nom derrière.",
+            "B : pronom sujet, mais ici il s'agit du complément.",
+            "C : pronom possessif : sens incorrect."
+          ],
+          "example": "He called me yesterday."
+        },
+        "en": {
+          "rule": "After a verb (asked), use the object pronoun.",
+          "why_wrong": [
+            "A: possessive adjective, a noun would be needed.",
+            "B: subject pronoun, but this is an object position.",
+            "C: possessive pronoun: wrong meaning."
+          ],
+          "example": "He called me yesterday."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-pronouns-02",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-pronouns",
+      "stem": "The company announced ___ new office policy on Monday.",
+      "choices": [
+        "theirs",
+        "its",
+        "it's",
+        "their"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Avant un nom : adjectif possessif. Its (sans apostrophe) pour un sujet singulier non humain.",
+          "why_wrong": [
+            "A : pronom possessif, sans nom derrière.",
+            "C : contraction de « it is », pas un possessif.",
+            "D : le sujet « company » est singulier."
+          ],
+          "example": "The firm lost its way."
+        },
+        "en": {
+          "rule": "Before a noun: possessive adjective. Its (no apostrophe) for a singular non-human subject.",
+          "why_wrong": [
+            "A: possessive pronoun, with no noun after it.",
+            "C: contraction of 'it is', not a possessive.",
+            "D: the subject 'company' is singular."
+          ],
+          "example": "The firm lost its way."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-pronouns-03",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-pronouns",
+      "stem": "The new laptop on the desk is ___, not Tom's.",
+      "choices": [
+        "myself",
+        "my",
+        "mine",
+        "me"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Pronom possessif quand aucun nom ne suit.",
+          "why_wrong": [
+            "A : réfléchi : mauvais emploi.",
+            "B : adjectif possessif : un nom devrait suivre.",
+            "D : pronom complément."
+          ],
+          "example": "That seat is yours."
+        },
+        "en": {
+          "rule": "Possessive pronoun when no noun follows.",
+          "why_wrong": [
+            "A: reflexive: wrong use.",
+            "B: possessive adjective: a noun should follow.",
+            "D: object pronoun."
+          ],
+          "example": "That seat is yours."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-pronouns-04",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-pronouns",
+      "stem": "The manager completed the audit by ___ in just two days.",
+      "choices": [
+        "herself",
+        "hers",
+        "she",
+        "her"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "« by + réfléchi » = tout seul.",
+          "why_wrong": [
+            "B : pronom possessif.",
+            "C : pronom sujet.",
+            "D : pronom complément : pas de sens d'insistance."
+          ],
+          "example": "I did it by myself."
+        },
+        "en": {
+          "rule": "'by + reflexive' = alone, on one's own.",
+          "why_wrong": [
+            "B: possessive pronoun.",
+            "C: subject pronoun.",
+            "D: object pronoun: no emphasis meaning."
+          ],
+          "example": "I did it by myself."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-pronouns-05",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-pronouns",
+      "stem": "The two departments share information with ___.",
+      "choices": [
+        "their",
+        "each other",
+        "them",
+        "themselves"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Each other exprime la réciprocité entre deux sujets.",
+          "why_wrong": [
+            "A : adjectif possessif.",
+            "C : ne marque pas la réciprocité.",
+            "D : un réfléchi ne convient pas à une action réciproque."
+          ],
+          "example": "They respect each other."
+        },
+        "en": {
+          "rule": "Each other expresses reciprocity between two subjects.",
+          "why_wrong": [
+            "A: possessive adjective.",
+            "C: does not mark reciprocity.",
+            "D: a reflexive does not fit a reciprocal action."
+          ],
+          "example": "They respect each other."
+        }
+      },
+      "vocab": []
+    }
+  ]
+}

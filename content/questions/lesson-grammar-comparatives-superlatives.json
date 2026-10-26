@@ -1,0 +1,182 @@
+{
+  "batch": "lesson-grammar-comparatives-superlatives",
+  "part": 5,
+  "passages": [],
+  "questions": [
+    {
+      "id": "lq-grammar-comparatives-superlatives-01",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-comparatives-superlatives",
+      "stem": "This printer is ___ than the one we bought last year.",
+      "choices": [
+        "the more reliable",
+        "reliable",
+        "most reliable",
+        "more reliable"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Than appelle un comparatif.",
+          "why_wrong": [
+            "A : « the » est déplacé ici.",
+            "B : forme de base : « than » exige un comparatif.",
+            "C : superlatif, incompatible avec « than »."
+          ],
+          "example": "It is cheaper than before."
+        },
+        "en": {
+          "rule": "Than calls for a comparative.",
+          "why_wrong": [
+            "A: 'the' is out of place here.",
+            "B: base form: 'than' requires a comparative.",
+            "C: superlative, incompatible with 'than'."
+          ],
+          "example": "It is cheaper than before."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-comparatives-superlatives-02",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-comparatives-superlatives",
+      "stem": "Of all the candidates, Ms. Park has ___ experience.",
+      "choices": [
+        "the most",
+        "much",
+        "most",
+        "more"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "« of all / in the company » demande un superlatif avec « the ».",
+          "why_wrong": [
+            "B : ne marque pas de comparaison.",
+            "C : il manque l'article « the ».",
+            "D : comparatif : « of all » appelle un superlatif."
+          ],
+          "example": "She is the best of all."
+        },
+        "en": {
+          "rule": "'of all / in the company' requires a superlative with 'the'.",
+          "why_wrong": [
+            "B: does not mark a comparison.",
+            "C: the article 'the' is missing.",
+            "D: comparative: 'of all' calls for a superlative."
+          ],
+          "example": "She is the best of all."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-comparatives-superlatives-03",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-comparatives-superlatives",
+      "stem": "Our sales are ___ higher than those of our competitors.",
+      "choices": [
+        "very",
+        "most",
+        "too",
+        "far"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Much / far / even renforcent un comparatif (pas very).",
+          "why_wrong": [
+            "A : ne renforce pas un comparatif.",
+            "B : superlatif : mauvaise forme.",
+            "C : exprime l'excès, pas la comparaison."
+          ],
+          "example": "It is far better."
+        },
+        "en": {
+          "rule": "Much / far / even strengthen a comparative (not very).",
+          "why_wrong": [
+            "A: does not strengthen a comparative.",
+            "B: superlative: wrong form.",
+            "C: expresses excess, not comparison."
+          ],
+          "example": "It is far better."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-comparatives-superlatives-04",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-comparatives-superlatives",
+      "stem": "The new route is not ___ the old one.",
+      "choices": [
+        "as direct as",
+        "direct than",
+        "so directly as",
+        "more direct as"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Égalité : as + adjectif + as.",
+          "why_wrong": [
+            "B : forme de base avec « than » : incorrect.",
+            "C : adverbe à la place de l'adjectif.",
+            "D : mélange de deux structures."
+          ],
+          "example": "This is as easy as that."
+        },
+        "en": {
+          "rule": "Equality: as + adjective + as.",
+          "why_wrong": [
+            "B: base form with 'than': incorrect.",
+            "C: adverb instead of the adjective.",
+            "D: mixes two structures."
+          ],
+          "example": "This is as easy as that."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-comparatives-superlatives-05",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-comparatives-superlatives",
+      "stem": "___ you register, the more you save.",
+      "choices": [
+        "Earliest",
+        "The earlier",
+        "Early",
+        "More early"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "The + comparatif, the + comparatif : plus… plus…",
+          "why_wrong": [
+            "A : superlatif, mauvaise structure.",
+            "C : forme de base : la structure « the … the » demande un comparatif.",
+            "D : « early » prend -er, pas « more »."
+          ],
+          "example": "The sooner, the better."
+        },
+        "en": {
+          "rule": "The + comparative, the + comparative: the more… the more…",
+          "why_wrong": [
+            "A: superlative, wrong structure.",
+            "C: base form: the 'the … the' structure requires a comparative.",
+            "D: 'early' takes -er, not 'more'."
+          ],
+          "example": "The sooner, the better."
+        }
+      },
+      "vocab": []
+    }
+  ]
+}

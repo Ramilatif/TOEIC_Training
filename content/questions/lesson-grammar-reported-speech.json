@@ -1,0 +1,182 @@
+{
+  "batch": "lesson-grammar-reported-speech",
+  "part": 5,
+  "passages": [],
+  "questions": [
+    {
+      "id": "lq-grammar-reported-speech-01",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-reported-speech",
+      "stem": "The director said that the meeting ___ postponed until Monday.",
+      "choices": [
+        "had been",
+        "has been",
+        "will be",
+        "is"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Recul des temps : present perfect → past perfect.",
+          "why_wrong": [
+            "B : après « said » au passé, on recule d'un temps.",
+            "C : devrait devenir « would be » (recul du futur).",
+            "D : devrait reculer d'un temps."
+          ],
+          "example": "He said he had left."
+        },
+        "en": {
+          "rule": "Backshift: present perfect → past perfect.",
+          "why_wrong": [
+            "B: after past 'said', the tense is backshifted.",
+            "C: should become 'would be' (backshift of the future).",
+            "D: should be backshifted."
+          ],
+          "example": "He said he had left."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-reported-speech-02",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-reported-speech",
+      "stem": "She asked me ___ I could send the report by noon.",
+      "choices": [
+        "that",
+        "which",
+        "if",
+        "what"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Question fermée rapportée : if / whether, sans inversion.",
+          "why_wrong": [
+            "A : pour une question fermée on emploie « if / whether ».",
+            "B : ne convient pas à une question oui/non.",
+            "D : ne convient pas à une question oui/non."
+          ],
+          "example": "He asked if I was ready."
+        },
+        "en": {
+          "rule": "Reported yes/no question: if / whether, no inversion.",
+          "why_wrong": [
+            "A: for a yes/no question use 'if / whether'.",
+            "B: does not fit a yes/no question.",
+            "D: does not fit a yes/no question."
+          ],
+          "example": "He asked if I was ready."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-reported-speech-03",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-reported-speech",
+      "stem": "The manager ___ us that the deadline had changed.",
+      "choices": [
+        "talked",
+        "spoke",
+        "said",
+        "told"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Tell + personne + that.",
+          "why_wrong": [
+            "A : ne s'emploie pas ainsi au discours rapporté.",
+            "B : ne s'emploie pas ainsi au discours rapporté.",
+            "C : say n'est pas suivi directement d'une personne complément."
+          ],
+          "example": "She told me that she would call."
+        },
+        "en": {
+          "rule": "Tell + person + that.",
+          "why_wrong": [
+            "A: is not used this way in reported speech.",
+            "B: is not used this way in reported speech.",
+            "C: 'say' is not directly followed by a person object."
+          ],
+          "example": "She told me that she would call."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-reported-speech-04",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-reported-speech",
+      "stem": "Not only ___ the project on time, but they also stayed under budget.",
+      "choices": [
+        "did they finish",
+        "finished they",
+        "they finished",
+        "they did finish"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Not only + auxiliaire + sujet + verbe.",
+          "why_wrong": [
+            "B : inversion sans auxiliaire : incorrect.",
+            "C : après « not only » en tête, il faut l'inversion.",
+            "D : pas d'inversion : incorrect."
+          ],
+          "example": "Not only did he arrive late, but..."
+        },
+        "en": {
+          "rule": "Not only + auxiliary + subject + verb.",
+          "why_wrong": [
+            "B: inversion without an auxiliary: incorrect.",
+            "C: after a sentence-initial 'not only', inversion is required.",
+            "D: no inversion: incorrect."
+          ],
+          "example": "Not only did he arrive late, but..."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-reported-speech-05",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-reported-speech",
+      "stem": "Rarely ___ such a detailed proposal.",
+      "choices": [
+        "have we received",
+        "we have received",
+        "we received",
+        "received we"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Mots négatifs en tête de phrase (rarely, never, seldom) → inversion.",
+          "why_wrong": [
+            "B : après « rarely » en tête, il faut l'inversion.",
+            "C : pas d'inversion : incorrect.",
+            "D : inversion sans auxiliaire : incorrect."
+          ],
+          "example": "Never have I seen this."
+        },
+        "en": {
+          "rule": "Negative words at the start (rarely, never, seldom) → inversion.",
+          "why_wrong": [
+            "B: after a sentence-initial 'rarely', inversion is required.",
+            "C: no inversion: incorrect.",
+            "D: inversion without an auxiliary: incorrect."
+          ],
+          "example": "Never have I seen this."
+        }
+      },
+      "vocab": []
+    }
+  ]
+}
