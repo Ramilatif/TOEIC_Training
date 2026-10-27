@@ -23,9 +23,9 @@
 | Partie | Questions prévues | Questions rédigées | Format validé |
 | ------ | ----------------- | ------------------ | ------------- |
 | Part 1 | 12                | 12                  | oui           |
-| Part 2 | 50 (+25 extension)                | 50                  | oui           |
-| Part 3 | 78                | 78                  | oui           |
-| Part 4 | 60                | 60                  | oui           |
+| Part 2 | 50 (+25 extension) | 75                  | oui           |
+| Part 3 | 78 (+39 extension) | 117                 | oui           |
+| Part 4 | 60 (+30 extension) | 90                  | oui           |
 | Part 5 | 60 (+60 extension)| 120                | oui           |
 | Part 6 | 32                | 32                  | oui           |
 | Part 7 | 108 (+54 extension)| 162                 | oui           |
@@ -60,7 +60,7 @@ Leçons : grammaire 18 · vocabulaire 17 · méthodologie 7 = 42 leçons ; tous 
 2026-10-27 — Extension du contenu à la demande de l'utilisateur : cours de grammaire enrichis (pièges de francophones, exemples, quiz 8 questions), 5 nouveaux cours, lot part5-batch03 (60 questions, dont 28 de vocabulaire). Les catégories ne changent pas ; plusieurs leçons peuvent partager une catégorie (le lien « leçon liée » prend la première par id)
 2026-10-27 — Extension terminée : quiz de vocabulaire et de méthodologie à 8 questions (+ « mots complémentaires » / « plan d'entraînement »), lot part7-batch05 (54 questions : 10 passages simples, 2 doubles, 3 triples). Banque d'examen : 514 questions
 
-2026-10-27 — Lots d'extension Listening : part2-batch03 (25), part3-batch03 (13 conversations, 39 questions, 2 documents associés), part4-batch03 (10 exposés, 30 questions, 2 documents associés). Banque d'examen : 608 questions, soit 3 examens complets de plus que le quota officiel de 200 minimum. Audio toujours par synthèse vocale du navigateur
+2026-10-27 — Lots d'extension Listening : part2-batch03 (25), part3-batch03 (13 conversations, 39 questions, 2 documents associés), part4-batch03 (10 exposés, 30 questions, 2 documents associés). Banque d'examen : 608 questions (Part 1 : 12 en attente des photos). Audio toujours par synthèse vocale du navigateur
 
 ## Problèmes rencontrés
 
