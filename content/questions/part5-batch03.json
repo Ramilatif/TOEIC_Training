@@ -1,0 +1,2415 @@
+{
+  "batch": "part5-batch03",
+  "part": 5,
+  "passages": [],
+  "questions": [
+    {
+      "id": "p5-b03-001",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-verb-tenses",
+      "stem": "Ms. Okafor ___ the quarterly report every Friday afternoon.",
+      "choices": [
+        "submits",
+        "is submitted",
+        "has submitting",
+        "submitted"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Habitude : présent simple (3e personne en -s).",
+          "why_wrong": [
+            "B : Passif : Ms. Okafor fait l'action.",
+            "C : Forme verbale impossible.",
+            "D : Le prétérit ne convient pas à une habitude présente (« every Friday »)."
+          ],
+          "example": "He checks email every morning."
+        },
+        "en": {
+          "rule": "Habit: simple present (third person -s).",
+          "why_wrong": [
+            "B: Passive: Ms. Okafor does the action.",
+            "C: Impossible verb form.",
+            "D: The past tense does not fit a present habit ('every Friday')."
+          ],
+          "example": "He checks email every morning."
+        }
+      },
+      "vocab": [
+        {
+          "term": "quarterly report",
+          "fr": "rapport trimestriel"
+        }
+      ]
+    },
+    {
+      "id": "p5-b03-002",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-verb-tenses",
+      "stem": "The factory ___ at full capacity since the new machines were installed in March.",
+      "choices": [
+        "will operate",
+        "operates",
+        "was operating",
+        "has been operating"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Since + point de départ passé → present perfect.",
+          "why_wrong": [
+            "A : Futur incompatible avec « since ».",
+            "B : « since » demande un temps de l'accomplissement.",
+            "C : Le progressif passé ne marque pas le lien avec le présent."
+          ],
+          "example": "We have lived here since 2019."
+        },
+        "en": {
+          "rule": "Since + past starting point → present perfect.",
+          "why_wrong": [
+            "A: Future is incompatible with 'since'.",
+            "B: 'since' requires a perfect tense.",
+            "C: The past progressive does not link to the present."
+          ],
+          "example": "We have lived here since 2019."
+        }
+      },
+      "vocab": [
+        {
+          "term": "full capacity",
+          "fr": "pleine capacité"
+        }
+      ]
+    },
+    {
+      "id": "p5-b03-003",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-verb-tenses",
+      "stem": "When the auditors ___ next week, all records should be ready.",
+      "choices": [
+        "have arrived",
+        "arrive",
+        "arrived",
+        "will arrive"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Subordonnée de temps : présent à valeur future.",
+          "why_wrong": [
+            "A : Present perfect : pas de lien avec « next week ».",
+            "C : Prétérit : le sens est futur.",
+            "D : Pas de « will » dans une subordonnée de temps."
+          ],
+          "example": "Call me when you arrive."
+        },
+        "en": {
+          "rule": "Time clause: present with future meaning.",
+          "why_wrong": [
+            "A: Present perfect: not consistent with 'next week'.",
+            "C: Past tense: the meaning is future.",
+            "D: No 'will' in a time clause."
+          ],
+          "example": "Call me when you arrive."
+        }
+      },
+      "vocab": [
+        {
+          "term": "auditor",
+          "fr": "auditeur"
+        }
+      ]
+    },
+    {
+      "id": "p5-b03-004",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-verb-tenses",
+      "stem": "By the end of this year, the company ___ its headquarters to a larger building.",
+      "choices": [
+        "moves",
+        "has moved",
+        "moved",
+        "will have moved"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "By + date future → futur antérieur.",
+          "why_wrong": [
+            "A : Le présent ne marque pas l'achèvement avant « by the end of ».",
+            "B : Present perfect : incompatible avec « by the end of this year » (futur).",
+            "C : Prétérit : le sens est futur."
+          ],
+          "example": "By May, I will have finished."
+        },
+        "en": {
+          "rule": "By + future date → future perfect.",
+          "why_wrong": [
+            "A: The present does not show completion before 'by the end of'.",
+            "B: Present perfect: inconsistent with future 'by the end of this year'.",
+            "C: Past tense: the meaning is future."
+          ],
+          "example": "By May, I will have finished."
+        }
+      },
+      "vocab": [
+        {
+          "term": "headquarters",
+          "fr": "siège social"
+        }
+      ]
+    },
+    {
+      "id": "p5-b03-005",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-verb-tenses",
+      "stem": "Our accounting department ___ a new software program at the moment.",
+      "choices": [
+        "is testing",
+        "tested",
+        "has tested",
+        "tests"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "At the moment → présent continu.",
+          "why_wrong": [
+            "B : Prétérit : « at the moment » demande le présent continu.",
+            "C : Present perfect : pas de lien avec « at the moment ».",
+            "D : Le présent simple décrit une habitude, pas « at the moment »."
+          ],
+          "example": "She is working now."
+        },
+        "en": {
+          "rule": "At the moment → present progressive.",
+          "why_wrong": [
+            "B: Past tense: 'at the moment' needs the present progressive.",
+            "C: Present perfect: not consistent with 'at the moment'.",
+            "D: The simple present describes a habit, not 'at the moment'."
+          ],
+          "example": "She is working now."
+        }
+      },
+      "vocab": [
+        {
+          "term": "accounting",
+          "fr": "comptabilité"
+        }
+      ]
+    },
+    {
+      "id": "p5-b03-006",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-subject-verb-agreement",
+      "stem": "The list of attendees ___ available at the registration desk.",
+      "choices": [
+        "is",
+        "were",
+        "have been",
+        "are"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Accord avec le noyau du sujet.",
+          "why_wrong": [
+            "B : Pluriel et passé : incompatible.",
+            "C : Pluriel : le sujet est singulier.",
+            "D : Le sujet est « list » (singulier), pas « attendees »."
+          ],
+          "example": "The key to success is effort."
+        },
+        "en": {
+          "rule": "Agree with the head noun of the subject.",
+          "why_wrong": [
+            "B: Plural and past: inconsistent.",
+            "C: Plural: the subject is singular.",
+            "D: The subject is 'list' (singular), not 'attendees'."
+          ],
+          "example": "The key to success is effort."
+        }
+      },
+      "vocab": [
+        {
+          "term": "attendee",
+          "fr": "participant"
+        }
+      ]
+    },
+    {
+      "id": "p5-b03-007",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-subject-verb-agreement",
+      "stem": "Each of the technicians ___ responsible for a separate section of the plant.",
+      "choices": [
+        "is",
+        "be",
+        "are",
+        "were"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Each of + pluriel → verbe singulier.",
+          "why_wrong": [
+            "B : Forme de base sans accord.",
+            "C : « Each » est singulier.",
+            "D : Pluriel : « each » est singulier."
+          ],
+          "example": "Each of them has a key."
+        },
+        "en": {
+          "rule": "Each of + plural → singular verb.",
+          "why_wrong": [
+            "B: Base form without agreement.",
+            "C: 'Each' is singular.",
+            "D: Plural: 'each' is singular."
+          ],
+          "example": "Each of them has a key."
+        }
+      },
+      "vocab": [
+        {
+          "term": "technician",
+          "fr": "technicien"
+        }
+      ]
+    },
+    {
+      "id": "p5-b03-008",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-subject-verb-agreement",
+      "stem": "Neither the director nor the project managers ___ aware of the policy change.",
+      "choices": [
+        "is",
+        "were",
+        "has been",
+        "was"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Neither/nor : accord avec le sujet le plus proche.",
+          "why_wrong": [
+            "A : Singulier et présent : le contexte est au passé et le sujet proche est pluriel.",
+            "C : Singulier : le sujet proche est pluriel.",
+            "D : Accord avec le sujet le plus proche : « managers » (pluriel)."
+          ],
+          "example": "Neither he nor they are late."
+        },
+        "en": {
+          "rule": "Neither/nor: agree with the nearest subject.",
+          "why_wrong": [
+            "A: Singular present: wrong tense and number.",
+            "C: Singular: the nearest subject is plural.",
+            "D: Agreement with the nearest subject: 'managers' (plural)."
+          ],
+          "example": "Neither he nor they are late."
+        }
+      },
+      "vocab": [
+        {
+          "term": "aware of",
+          "fr": "au courant de"
+        }
+      ]
+    },
+    {
+      "id": "p5-b03-009",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-subject-verb-agreement",
+      "stem": "The news about the merger ___ welcomed by shareholders.",
+      "choices": [
+        "are",
+        "have been",
+        "were",
+        "was"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "News est non dénombrable : singulier.",
+          "why_wrong": [
+            "A : « news » est singulier.",
+            "B : « news » est singulier.",
+            "C : « news » est singulier."
+          ],
+          "example": "The news is good."
+        },
+        "en": {
+          "rule": "News is uncountable: singular.",
+          "why_wrong": [
+            "A: 'news' is singular.",
+            "B: 'news' is singular.",
+            "C: 'news' is singular."
+          ],
+          "example": "The news is good."
+        }
+      },
+      "vocab": [
+        {
+          "term": "merger",
+          "fr": "fusion"
+        },
+        {
+          "term": "shareholder",
+          "fr": "actionnaire"
+        }
+      ]
+    },
+    {
+      "id": "p5-b03-010",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-passive-voice",
+      "stem": "All visitors ___ to sign in at the front desk upon arrival.",
+      "choices": [
+        "require",
+        "have required",
+        "are required",
+        "requiring"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "be required to = être tenu de.",
+          "why_wrong": [
+            "A : Actif : les visiteurs ne « requièrent » pas.",
+            "B : Actif : mauvais sens.",
+            "D : Participe présent sans auxiliaire."
+          ],
+          "example": "Staff are required to wear badges."
+        },
+        "en": {
+          "rule": "be required to = must.",
+          "why_wrong": [
+            "A: Active: visitors do not 'require'.",
+            "B: Active: wrong meaning.",
+            "D: Present participle with no auxiliary."
+          ],
+          "example": "Staff are required to wear badges."
+        }
+      },
+      "vocab": [
+        {
+          "term": "upon arrival",
+          "fr": "à l'arrivée"
+        }
+      ]
+    },
+    {
+      "id": "p5-b03-011",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-passive-voice",
+      "stem": "The new safety regulations ___ into effect on January 1.",
+      "choices": [
+        "will be going",
+        "will be gone",
+        "are gone",
+        "will go"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Certains verbes ne se mettent jamais au passif.",
+          "why_wrong": [
+            "A : Progressif : sens inadapté.",
+            "B : « go into effect » est actif.",
+            "C : Passif : incorrect."
+          ],
+          "example": "The law goes into effect soon."
+        },
+        "en": {
+          "rule": "Some verbs are never passive.",
+          "why_wrong": [
+            "A: Progressive: inappropriate meaning.",
+            "B: 'go into effect' is active.",
+            "C: Passive: incorrect."
+          ],
+          "example": "The law goes into effect soon."
+        }
+      },
+      "vocab": [
+        {
+          "term": "safety regulations",
+          "fr": "règlements de sécurité"
+        }
+      ]
+    },
+    {
+      "id": "p5-b03-012",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-passive-voice",
+      "stem": "The conference room ___ for a client presentation this afternoon.",
+      "choices": [
+        "has reserved",
+        "has been reserved",
+        "reserves",
+        "is reserving"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Le sujet subit l'action → passif.",
+          "why_wrong": [
+            "A : Actif : la salle ne réserve pas.",
+            "C : Actif au présent : même problème.",
+            "D : Actif progressif : même problème."
+          ],
+          "example": "The table was booked."
+        },
+        "en": {
+          "rule": "The subject receives the action → passive.",
+          "why_wrong": [
+            "A: Active: the room does not reserve.",
+            "C: Active present: same problem.",
+            "D: Active progressive: same problem."
+          ],
+          "example": "The table was booked."
+        }
+      },
+      "vocab": [
+        {
+          "term": "reserve",
+          "fr": "réserver"
+        }
+      ]
+    },
+    {
+      "id": "p5-b03-013",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-prepositions",
+      "stem": "Please return the signed contract ___ the end of the week.",
+      "choices": [
+        "by",
+        "during",
+        "since",
+        "until"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "By = au plus tard.",
+          "why_wrong": [
+            "B : « during » + événement.",
+            "C : « since » + point de départ passé.",
+            "D : « until » indique une durée, pas une échéance."
+          ],
+          "example": "Finish by noon."
+        },
+        "en": {
+          "rule": "By = no later than.",
+          "why_wrong": [
+            "B: 'during' + event.",
+            "C: 'since' + past starting point.",
+            "D: 'until' marks duration, not a deadline."
+          ],
+          "example": "Finish by noon."
+        }
+      },
+      "vocab": [
+        {
+          "term": "signed contract",
+          "fr": "contrat signé"
+        }
+      ]
+    },
+    {
+      "id": "p5-b03-014",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-prepositions",
+      "stem": "The training workshop will take place ___ June 14.",
+      "choices": [
+        "in",
+        "at",
+        "to",
+        "on"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "On + date précise.",
+          "why_wrong": [
+            "A : « in » s'emploie avec un mois ou une année seuls.",
+            "B : « at » s'emploie avec une heure.",
+            "C : « to » indique un mouvement."
+          ],
+          "example": "The meeting is on Tuesday."
+        },
+        "en": {
+          "rule": "On + specific date.",
+          "why_wrong": [
+            "A: 'in' is used with a month or year alone.",
+            "B: 'at' is used with a clock time.",
+            "C: 'to' indicates movement."
+          ],
+          "example": "The meeting is on Tuesday."
+        }
+      },
+      "vocab": [
+        {
+          "term": "workshop",
+          "fr": "atelier"
+        }
+      ]
+    },
+    {
+      "id": "p5-b03-015",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-prepositions",
+      "stem": "We are very interested ___ expanding our business to Southeast Asia.",
+      "choices": [
+        "for",
+        "on",
+        "about to",
+        "in"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "interested in + -ing.",
+          "why_wrong": [
+            "A : « interested for » n'existe pas.",
+            "B : « interested on » n'existe pas.",
+            "C : Construction incorrecte."
+          ],
+          "example": "She is interested in art."
+        },
+        "en": {
+          "rule": "interested in + -ing.",
+          "why_wrong": [
+            "A: 'interested for' does not exist.",
+            "B: 'interested on' does not exist.",
+            "C: Incorrect construction."
+          ],
+          "example": "She is interested in art."
+        }
+      },
+      "vocab": [
+        {
+          "term": "expand",
+          "fr": "développer"
+        }
+      ]
+    },
+    {
+      "id": "p5-b03-016",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-prepositions",
+      "stem": "___ the heavy rain, the outdoor event proceeded as planned.",
+      "choices": [
+        "Despite",
+        "Because of",
+        "According to",
+        "Due to"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Despite + nom = malgré.",
+          "why_wrong": [
+            "B : Cause : le sens est une opposition.",
+            "C : Source d'information : mauvais sens.",
+            "D : Cause : le sens est une opposition."
+          ],
+          "example": "Despite the delay, we won."
+        },
+        "en": {
+          "rule": "Despite + noun = in spite of.",
+          "why_wrong": [
+            "B: Cause: the meaning is contrast.",
+            "C: Source of information: wrong meaning.",
+            "D: Cause: the meaning is contrast."
+          ],
+          "example": "Despite the delay, we won."
+        }
+      },
+      "vocab": [
+        {
+          "term": "proceed",
+          "fr": "se dérouler"
+        }
+      ]
+    },
+    {
+      "id": "p5-b03-017",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-conjunctions",
+      "stem": "___ the conference was expensive, many employees still chose to attend.",
+      "choices": [
+        "Because",
+        "Despite",
+        "Unless",
+        "Although"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Although + sujet + verbe.",
+          "why_wrong": [
+            "A : Cause : le sens est une opposition.",
+            "B : Préposition : elle ne peut pas introduire une proposition.",
+            "C : Condition négative : mauvais sens."
+          ],
+          "example": "Although it rained, we left."
+        },
+        "en": {
+          "rule": "Although + subject + verb.",
+          "why_wrong": [
+            "A: Cause: the meaning is contrast.",
+            "B: Preposition: cannot introduce a clause.",
+            "C: Negative condition: wrong meaning."
+          ],
+          "example": "Although it rained, we left."
+        }
+      },
+      "vocab": [
+        {
+          "term": "attend",
+          "fr": "assister à"
+        }
+      ]
+    },
+    {
+      "id": "p5-b03-018",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-conjunctions",
+      "stem": "Please arrive early ___ the session can begin on time.",
+      "choices": [
+        "even though",
+        "in case",
+        "so that",
+        "as if"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "So that + sujet + verbe = pour que.",
+          "why_wrong": [
+            "A : Concession : sens opposé.",
+            "B : = au cas où : le sens est la précaution, pas le but.",
+            "D : Comparaison irréelle : mauvais sens."
+          ],
+          "example": "Speak slowly so that everyone understands."
+        },
+        "en": {
+          "rule": "So that + subject + verb = in order that.",
+          "why_wrong": [
+            "A: Concession: opposite meaning.",
+            "B: = just in case: precaution, not purpose.",
+            "D: Unreal comparison: wrong meaning."
+          ],
+          "example": "Speak slowly so that everyone understands."
+        }
+      },
+      "vocab": [
+        {
+          "term": "on time",
+          "fr": "à l'heure"
+        }
+      ]
+    },
+    {
+      "id": "p5-b03-019",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-conjunctions",
+      "stem": "Employees may work from home ___ they complete their tasks on time.",
+      "choices": [
+        "as long as",
+        "so as",
+        "in case",
+        "even though"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "As long as = à condition que.",
+          "why_wrong": [
+            "B : Incomplet.",
+            "C : = au cas où : sens différent.",
+            "D : Concession : sens différent."
+          ],
+          "example": "You can go as long as you're quiet."
+        },
+        "en": {
+          "rule": "As long as = provided that.",
+          "why_wrong": [
+            "B: Incomplete.",
+            "C: = just in case: different meaning.",
+            "D: Concession: different meaning."
+          ],
+          "example": "You can go as long as you're quiet."
+        }
+      },
+      "vocab": [
+        {
+          "term": "complete a task",
+          "fr": "terminer une tâche"
+        }
+      ]
+    },
+    {
+      "id": "p5-b03-020",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-relative-pronouns",
+      "stem": "The candidate ___ resume impressed the committee was offered the job.",
+      "choices": [
+        "whom",
+        "whose",
+        "who",
+        "which"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Whose + nom = possession.",
+          "why_wrong": [
+            "A : Cas régime, pas de possession.",
+            "C : Il manque la possession.",
+            "D : Réservé aux choses."
+          ],
+          "example": "The man whose car was stolen called."
+        },
+        "en": {
+          "rule": "Whose + noun = possession.",
+          "why_wrong": [
+            "A: Object case, no possession.",
+            "C: Possession is missing.",
+            "D: For things."
+          ],
+          "example": "The man whose car was stolen called."
+        }
+      },
+      "vocab": [
+        {
+          "term": "resume",
+          "fr": "CV"
+        }
+      ]
+    },
+    {
+      "id": "p5-b03-021",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-relative-pronouns",
+      "stem": "The conference, ___ takes place every year in Chicago, attracts thousands of visitors.",
+      "choices": [
+        "that",
+        "who",
+        "what",
+        "which"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Relative non restrictive : which, pas that.",
+          "why_wrong": [
+            "A : « that » ne s'emploie pas après une virgule.",
+            "B : Réservé aux personnes.",
+            "C : Pas un pronom relatif ici."
+          ],
+          "example": "The report, which is long, is ready."
+        },
+        "en": {
+          "rule": "Non-restrictive clause: which, not that.",
+          "why_wrong": [
+            "A: 'that' is not used after a comma.",
+            "B: For people.",
+            "C: Not a relative pronoun here."
+          ],
+          "example": "The report, which is long, is ready."
+        }
+      },
+      "vocab": [
+        {
+          "term": "attract",
+          "fr": "attirer"
+        }
+      ]
+    },
+    {
+      "id": "p5-b03-022",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-pronouns",
+      "stem": "Ms. Duval will present the findings ___.",
+      "choices": [
+        "she",
+        "herself",
+        "hers",
+        "her"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Pronom réfléchi d'insistance.",
+          "why_wrong": [
+            "A : Pronom sujet.",
+            "C : Pronom possessif.",
+            "D : Pronom objet simple, pas d'emphase."
+          ],
+          "example": "I did it myself."
+        },
+        "en": {
+          "rule": "Emphatic reflexive pronoun.",
+          "why_wrong": [
+            "A: Subject pronoun.",
+            "C: Possessive pronoun.",
+            "D: Plain object pronoun, no emphasis."
+          ],
+          "example": "I did it myself."
+        }
+      },
+      "vocab": [
+        {
+          "term": "findings",
+          "fr": "conclusions"
+        }
+      ]
+    },
+    {
+      "id": "p5-b03-023",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-articles-determiners",
+      "stem": "Mr. Chen is looking for ___ apartment close to his office.",
+      "choices": [
+        "an",
+        "the",
+        "a",
+        "many"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "An devant son voyelle.",
+          "why_wrong": [
+            "B : Appartement non précisé : pas de défini.",
+            "C : « apartment » commence par un son voyelle.",
+            "D : « many » demande un pluriel."
+          ],
+          "example": "an office"
+        },
+        "en": {
+          "rule": "An before a vowel sound.",
+          "why_wrong": [
+            "B: Unspecified apartment: no definite article.",
+            "C: 'apartment' starts with a vowel sound.",
+            "D: 'many' requires a plural noun."
+          ],
+          "example": "an office"
+        }
+      },
+      "vocab": [
+        {
+          "term": "apartment",
+          "fr": "appartement"
+        }
+      ]
+    },
+    {
+      "id": "p5-b03-024",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-comparatives-superlatives",
+      "stem": "This year's profits were ___ than last year's.",
+      "choices": [
+        "highest",
+        "more high",
+        "the higher",
+        "higher"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Comparatif court + than.",
+          "why_wrong": [
+            "A : Superlatif : « than » demande un comparatif.",
+            "B : « high » est court : « higher ».",
+            "C : Article inutile."
+          ],
+          "example": "It is cheaper than before."
+        },
+        "en": {
+          "rule": "Short comparative + than.",
+          "why_wrong": [
+            "A: Superlative: 'than' requires a comparative.",
+            "B: 'high' is short: 'higher'.",
+            "C: Unnecessary article."
+          ],
+          "example": "It is cheaper than before."
+        }
+      },
+      "vocab": [
+        {
+          "term": "profit",
+          "fr": "bénéfice"
+        }
+      ]
+    },
+    {
+      "id": "p5-b03-025",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-modals",
+      "stem": "Employees ___ submit their expense reports within 30 days; it is company policy.",
+      "choices": [
+        "must",
+        "would",
+        "might",
+        "could"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Must = obligation forte.",
+          "why_wrong": [
+            "B : Conditionnel : ne convient pas à une règle.",
+            "C : Possibilité faible : une règle demande une obligation.",
+            "D : Capacité ou possibilité : pas d'obligation."
+          ],
+          "example": "You must sign here."
+        },
+        "en": {
+          "rule": "Must = strong obligation.",
+          "why_wrong": [
+            "B: Conditional: does not suit a rule.",
+            "C: Weak possibility: a rule requires obligation.",
+            "D: Ability or possibility: no obligation."
+          ],
+          "example": "You must sign here."
+        }
+      },
+      "vocab": [
+        {
+          "term": "expense report",
+          "fr": "note de frais"
+        }
+      ]
+    },
+    {
+      "id": "p5-b03-026",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-conditionals",
+      "stem": "___ we received your payment earlier, the order would have shipped on time.",
+      "choices": [
+        "If",
+        "Had",
+        "Should",
+        "Would"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Had + sujet + p.p. = if … had + p.p.",
+          "why_wrong": [
+            "A : « If we received » : mauvais temps ; irréel passé exigerait « had received ».",
+            "C : « Should » = condition future.",
+            "D : Mauvaise inversion."
+          ],
+          "example": "Had I known, I would have called."
+        },
+        "en": {
+          "rule": "Had + subject + p.p. = if … had + p.p.",
+          "why_wrong": [
+            "A: 'If we received' is the wrong tense for the unreal past.",
+            "C: 'Should' = future condition.",
+            "D: Wrong inversion."
+          ],
+          "example": "Had I known, I would have called."
+        }
+      },
+      "vocab": [
+        {
+          "term": "ship",
+          "fr": "expédier"
+        }
+      ]
+    },
+    {
+      "id": "p5-b03-027",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-gerund-infinitive",
+      "stem": "The board has decided ___ the company's headquarters next year.",
+      "choices": [
+        "to relocate",
+        "having relocated",
+        "relocating",
+        "relocate"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Decide + to.",
+          "why_wrong": [
+            "B : Gérondif parfait : incorrect.",
+            "C : « decide » + infinitif.",
+            "D : Forme de base : « to » manque."
+          ],
+          "example": "We decided to wait."
+        },
+        "en": {
+          "rule": "Decide + to.",
+          "why_wrong": [
+            "B: Perfect gerund: incorrect.",
+            "C: 'decide' + infinitive.",
+            "D: Base form: 'to' is missing."
+          ],
+          "example": "We decided to wait."
+        }
+      },
+      "vocab": [
+        {
+          "term": "relocate",
+          "fr": "déménager"
+        }
+      ]
+    },
+    {
+      "id": "p5-b03-028",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-participles",
+      "stem": "The ___ employees were rewarded with an extra day off.",
+      "choices": [
+        "outstanding",
+        "outstood",
+        "outstand",
+        "outstandingly"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Adjectif en -ing devant un nom.",
+          "why_wrong": [
+            "B : Forme incorrecte.",
+            "C : Verbe de base.",
+            "D : Adverbe : un adjectif est attendu devant un nom."
+          ],
+          "example": "An outstanding result."
+        },
+        "en": {
+          "rule": "-ing adjective before a noun.",
+          "why_wrong": [
+            "B: Incorrect form.",
+            "C: Base verb.",
+            "D: Adverb: an adjective is expected before a noun."
+          ],
+          "example": "An outstanding result."
+        }
+      },
+      "vocab": [
+        {
+          "term": "outstanding",
+          "fr": "remarquable"
+        }
+      ]
+    },
+    {
+      "id": "p5-b03-029",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-word-forms",
+      "stem": "The ___ of the new software has reduced processing time by half.",
+      "choices": [
+        "installation",
+        "installed",
+        "install",
+        "installable"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Article + __ + of → nom.",
+          "why_wrong": [
+            "B : Participe.",
+            "C : Verbe : nom attendu après « the ».",
+            "D : Adjectif : un nom est attendu après « the »."
+          ],
+          "example": "The completion of the project."
+        },
+        "en": {
+          "rule": "Article + __ + of → noun.",
+          "why_wrong": [
+            "B: Participle.",
+            "C: Verb: noun expected after 'the'.",
+            "D: Adjective: a noun is expected after 'the'."
+          ],
+          "example": "The completion of the project."
+        }
+      },
+      "vocab": [
+        {
+          "term": "processing time",
+          "fr": "temps de traitement"
+        }
+      ]
+    },
+    {
+      "id": "p5-b03-030",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-word-forms",
+      "stem": "Please review the ___ document before the meeting.",
+      "choices": [
+        "attaching",
+        "attached",
+        "attachment",
+        "attach"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Participe passé adjectival.",
+          "why_wrong": [
+            "A : Participe présent : sens actif.",
+            "C : Nom.",
+            "D : Verbe."
+          ],
+          "example": "The enclosed brochure."
+        },
+        "en": {
+          "rule": "Past participle used as an adjective.",
+          "why_wrong": [
+            "A: Present participle: active meaning.",
+            "C: Noun.",
+            "D: Verb."
+          ],
+          "example": "The enclosed brochure."
+        }
+      },
+      "vocab": [
+        {
+          "term": "review",
+          "fr": "examiner"
+        }
+      ]
+    },
+    {
+      "id": "p5-b03-031",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-quantifiers",
+      "stem": "Only ___ employees attended the optional seminar.",
+      "choices": [
+        "less",
+        "a little",
+        "much",
+        "a few"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "A few + pluriel dénombrable.",
+          "why_wrong": [
+            "A : Pour les non dénombrables.",
+            "B : Pour les non dénombrables.",
+            "C : Pour les non dénombrables."
+          ],
+          "example": "A few people came."
+        },
+        "en": {
+          "rule": "A few + countable plural.",
+          "why_wrong": [
+            "A: For uncountables.",
+            "B: For uncountables.",
+            "C: For uncountables."
+          ],
+          "example": "A few people came."
+        }
+      },
+      "vocab": [
+        {
+          "term": "optional",
+          "fr": "facultatif"
+        }
+      ]
+    },
+    {
+      "id": "p5-b03-032",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-reported-speech",
+      "stem": "The manager asked ___ the report had been completed.",
+      "choices": [
+        "that",
+        "which",
+        "whether",
+        "what"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Question oui/non rapportée : whether / if.",
+          "why_wrong": [
+            "A : « that » ne convient pas à une question.",
+            "B : Mauvais sens.",
+            "D : Mauvais sens."
+          ],
+          "example": "She asked if I knew."
+        },
+        "en": {
+          "rule": "Reported yes/no question: whether / if.",
+          "why_wrong": [
+            "A: 'that' does not fit a question.",
+            "B: Wrong meaning.",
+            "D: Wrong meaning."
+          ],
+          "example": "She asked if I knew."
+        }
+      },
+      "vocab": [
+        {
+          "term": "complete a report",
+          "fr": "terminer un rapport"
+        }
+      ]
+    },
+    {
+      "id": "p5-b03-033",
+      "part": 5,
+      "difficulty": 1,
+      "category": "voc-office",
+      "stem": "Please ___ the document to all department heads before noon.",
+      "choices": [
+        "distract",
+        "distinguish",
+        "distribute",
+        "district"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Distribute = distribuer.",
+          "why_wrong": [
+            "A : = distraire.",
+            "B : = distinguer.",
+            "D : Nom (quartier)."
+          ],
+          "example": "Distribute the agenda."
+        },
+        "en": {
+          "rule": "Distribute = hand out.",
+          "why_wrong": [
+            "A: = divert attention.",
+            "B: = tell apart.",
+            "D: Noun (area)."
+          ],
+          "example": "Distribute the agenda."
+        }
+      },
+      "vocab": [
+        {
+          "term": "distribute",
+          "fr": "distribuer"
+        }
+      ]
+    },
+    {
+      "id": "p5-b03-034",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-office",
+      "stem": "The new copier is ___ to the network, so everyone can print from their desk.",
+      "choices": [
+        "concerned",
+        "connected",
+        "collected",
+        "covered"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Connected to = relié à.",
+          "why_wrong": [
+            "A : = concerné.",
+            "C : = collecté.",
+            "D : = couvert."
+          ],
+          "example": "The printer is connected to Wi-Fi."
+        },
+        "en": {
+          "rule": "Connected to = linked to.",
+          "why_wrong": [
+            "A: = worried.",
+            "C: = gathered.",
+            "D: = covered."
+          ],
+          "example": "The printer is connected to Wi-Fi."
+        }
+      },
+      "vocab": [
+        {
+          "term": "network",
+          "fr": "réseau"
+        }
+      ]
+    },
+    {
+      "id": "p5-b03-035",
+      "part": 5,
+      "difficulty": 1,
+      "category": "voc-meetings",
+      "stem": "The meeting has been ___ until Thursday because several directors are traveling.",
+      "choices": [
+        "prevented",
+        "postponed",
+        "preceded",
+        "proposed"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Postpone = reporter.",
+          "why_wrong": [
+            "A : = empêché.",
+            "C : = précédé.",
+            "D : = proposé."
+          ],
+          "example": "They postponed the launch."
+        },
+        "en": {
+          "rule": "Postpone = delay to a later time.",
+          "why_wrong": [
+            "A: = stopped.",
+            "C: = came before.",
+            "D: = suggested."
+          ],
+          "example": "They postponed the launch."
+        }
+      },
+      "vocab": [
+        {
+          "term": "postpone",
+          "fr": "reporter"
+        }
+      ]
+    },
+    {
+      "id": "p5-b03-036",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-meetings",
+      "stem": "Participants are asked to ___ their questions until the end of the presentation.",
+      "choices": [
+        "keep up",
+        "hold",
+        "take",
+        "hang"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Hold questions = garder ses questions pour plus tard.",
+          "why_wrong": [
+            "A : Autre sens.",
+            "C : Ne convient pas avec « until ».",
+            "D : Ne se combine pas avec « questions »."
+          ],
+          "example": "Hold your comments."
+        },
+        "en": {
+          "rule": "Hold questions = save them for later.",
+          "why_wrong": [
+            "A: Different meaning.",
+            "C: Does not fit with 'until'.",
+            "D: Does not combine with 'questions'."
+          ],
+          "example": "Hold your comments."
+        }
+      },
+      "vocab": [
+        {
+          "term": "participant",
+          "fr": "participant"
+        }
+      ]
+    },
+    {
+      "id": "p5-b03-037",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-meetings",
+      "stem": "The chairperson will ___ the agenda before the discussion begins.",
+      "choices": [
+        "outline",
+        "outlook",
+        "outstand",
+        "outcome"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Outline = présenter les grandes lignes.",
+          "why_wrong": [
+            "B : Nom (perspective).",
+            "C : Verbe inexistant.",
+            "D : Nom (résultat)."
+          ],
+          "example": "He outlined the plan."
+        },
+        "en": {
+          "rule": "Outline = summarize the main points.",
+          "why_wrong": [
+            "B: Noun (prospect).",
+            "C: Non-existent verb.",
+            "D: Noun (result)."
+          ],
+          "example": "He outlined the plan."
+        }
+      },
+      "vocab": [
+        {
+          "term": "chairperson",
+          "fr": "président de séance"
+        },
+        {
+          "term": "agenda",
+          "fr": "ordre du jour"
+        }
+      ]
+    },
+    {
+      "id": "p5-b03-038",
+      "part": 5,
+      "difficulty": 1,
+      "category": "voc-travel",
+      "stem": "Passengers must ___ their luggage at the counter at least two hours before departure.",
+      "choices": [
+        "check in",
+        "check over",
+        "check out",
+        "check up"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Check in = enregistrer.",
+          "why_wrong": [
+            "B : = vérifier rapidement.",
+            "C : = quitter l'hôtel.",
+            "D : = examen médical."
+          ],
+          "example": "Check in your bags."
+        },
+        "en": {
+          "rule": "Check in = register.",
+          "why_wrong": [
+            "B: = examine quickly.",
+            "C: = leave a hotel.",
+            "D: = medical exam."
+          ],
+          "example": "Check in your bags."
+        }
+      },
+      "vocab": [
+        {
+          "term": "departure",
+          "fr": "départ"
+        }
+      ]
+    },
+    {
+      "id": "p5-b03-039",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-travel",
+      "stem": "The airline offered a full ___ to passengers whose flight was cancelled.",
+      "choices": [
+        "refuse",
+        "reform",
+        "refer",
+        "refund"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Refund = remboursement.",
+          "why_wrong": [
+            "A : = refuser.",
+            "B : = réforme.",
+            "C : = se référer."
+          ],
+          "example": "Ask for a refund."
+        },
+        "en": {
+          "rule": "Refund = money returned.",
+          "why_wrong": [
+            "A: = decline.",
+            "B: = change.",
+            "C: = mention."
+          ],
+          "example": "Ask for a refund."
+        }
+      },
+      "vocab": [
+        {
+          "term": "refund",
+          "fr": "remboursement"
+        }
+      ]
+    },
+    {
+      "id": "p5-b03-040",
+      "part": 5,
+      "difficulty": 3,
+      "category": "voc-travel",
+      "stem": "Because of the strike, all trains were ___ this morning.",
+      "choices": [
+        "suspending",
+        "suspected",
+        "suspended",
+        "suspicious"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Suspend = suspendre, interrompre.",
+          "why_wrong": [
+            "A : Participe actif.",
+            "B : = soupçonné.",
+            "D : Adjectif (méfiant)."
+          ],
+          "example": "Service was suspended."
+        },
+        "en": {
+          "rule": "Suspend = temporarily stop.",
+          "why_wrong": [
+            "A: Active participle.",
+            "B: = doubted.",
+            "D: Adjective (distrustful)."
+          ],
+          "example": "Service was suspended."
+        }
+      },
+      "vocab": [
+        {
+          "term": "strike",
+          "fr": "grève"
+        }
+      ]
+    },
+    {
+      "id": "p5-b03-041",
+      "part": 5,
+      "difficulty": 1,
+      "category": "voc-finance",
+      "stem": "The company's ___ for the next fiscal year is $2 million.",
+      "choices": [
+        "budget",
+        "budgetary",
+        "budgeting",
+        "budgeted"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Budget = budget (nom).",
+          "why_wrong": [
+            "B : Adjectif.",
+            "C : Gérondif : mauvais sens.",
+            "D : Participe."
+          ],
+          "example": "A tight budget."
+        },
+        "en": {
+          "rule": "Budget = planned spending (noun).",
+          "why_wrong": [
+            "B: Adjective.",
+            "C: Gerund: wrong sense.",
+            "D: Participle."
+          ],
+          "example": "A tight budget."
+        }
+      },
+      "vocab": [
+        {
+          "term": "fiscal year",
+          "fr": "exercice fiscal"
+        }
+      ]
+    },
+    {
+      "id": "p5-b03-042",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-finance",
+      "stem": "Customers who pay within ten days will receive a five percent ___.",
+      "choices": [
+        "discount",
+        "discipline",
+        "discard",
+        "discourse"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Discount = remise.",
+          "why_wrong": [
+            "B : = discipline.",
+            "C : = jeter.",
+            "D : = discours."
+          ],
+          "example": "A student discount."
+        },
+        "en": {
+          "rule": "Discount = price reduction.",
+          "why_wrong": [
+            "B: = self-control.",
+            "C: = throw away.",
+            "D: = speech."
+          ],
+          "example": "A student discount."
+        }
+      },
+      "vocab": [
+        {
+          "term": "discount",
+          "fr": "remise"
+        }
+      ]
+    },
+    {
+      "id": "p5-b03-043",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-finance",
+      "stem": "The bank will ___ a fee for any transfer made after 5 p.m.",
+      "choices": [
+        "charge",
+        "charter",
+        "chart",
+        "charm"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Charge a fee = facturer des frais.",
+          "why_wrong": [
+            "B : = affréter.",
+            "C : = graphique.",
+            "D : = charmer."
+          ],
+          "example": "They charge a fee."
+        },
+        "en": {
+          "rule": "Charge a fee = bill a cost.",
+          "why_wrong": [
+            "B: = hire (a vehicle).",
+            "C: = diagram.",
+            "D: = attract."
+          ],
+          "example": "They charge a fee."
+        }
+      },
+      "vocab": [
+        {
+          "term": "fee",
+          "fr": "frais"
+        }
+      ]
+    },
+    {
+      "id": "p5-b03-044",
+      "part": 5,
+      "difficulty": 3,
+      "category": "voc-finance",
+      "stem": "Please ___ all receipts to the expense report before submitting it.",
+      "choices": [
+        "attack",
+        "attend",
+        "attempt",
+        "attach"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Attach = joindre.",
+          "why_wrong": [
+            "A : = attaquer.",
+            "B : = assister.",
+            "C : = tenter."
+          ],
+          "example": "Attach the receipts."
+        },
+        "en": {
+          "rule": "Attach = add to.",
+          "why_wrong": [
+            "A: = assault.",
+            "B: = be present.",
+            "C: = try."
+          ],
+          "example": "Attach the receipts."
+        }
+      },
+      "vocab": [
+        {
+          "term": "receipt",
+          "fr": "reçu"
+        }
+      ]
+    },
+    {
+      "id": "p5-b03-045",
+      "part": 5,
+      "difficulty": 1,
+      "category": "voc-hr",
+      "stem": "Applicants must have at least three years of ___ in sales.",
+      "choices": [
+        "experiment",
+        "experience",
+        "expenditure",
+        "expense"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Years of experience = années d'expérience.",
+          "why_wrong": [
+            "A : = expérience scientifique.",
+            "C : = dépense.",
+            "D : = dépense."
+          ],
+          "example": "Five years of experience."
+        },
+        "en": {
+          "rule": "Years of experience = work history.",
+          "why_wrong": [
+            "A: = scientific test.",
+            "C: = spending.",
+            "D: = cost."
+          ],
+          "example": "Five years of experience."
+        }
+      },
+      "vocab": [
+        {
+          "term": "applicant",
+          "fr": "candidat"
+        }
+      ]
+    },
+    {
+      "id": "p5-b03-046",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-hr",
+      "stem": "New employees will ___ a two-week training program before starting their duties.",
+      "choices": [
+        "compare",
+        "compose",
+        "complete",
+        "compete"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Complete = terminer.",
+          "why_wrong": [
+            "A : = comparer.",
+            "B : = composer.",
+            "D : = concourir."
+          ],
+          "example": "Complete the form."
+        },
+        "en": {
+          "rule": "Complete = finish.",
+          "why_wrong": [
+            "A: = weigh.",
+            "B: = write.",
+            "D: = contend."
+          ],
+          "example": "Complete the form."
+        }
+      },
+      "vocab": [
+        {
+          "term": "duties",
+          "fr": "fonctions"
+        }
+      ]
+    },
+    {
+      "id": "p5-b03-047",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-hr",
+      "stem": "The company will ___ two new engineers to join the product team.",
+      "choices": [
+        "record",
+        "recruit",
+        "recycle",
+        "recover"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Recruit = recruter.",
+          "why_wrong": [
+            "A : = enregistrer.",
+            "C : = recycler.",
+            "D : = récupérer."
+          ],
+          "example": "We are recruiting."
+        },
+        "en": {
+          "rule": "Recruit = hire.",
+          "why_wrong": [
+            "A: = document.",
+            "C: = reuse.",
+            "D: = regain."
+          ],
+          "example": "We are recruiting."
+        }
+      },
+      "vocab": [
+        {
+          "term": "recruit",
+          "fr": "recruter"
+        }
+      ]
+    },
+    {
+      "id": "p5-b03-048",
+      "part": 5,
+      "difficulty": 1,
+      "category": "voc-purchasing",
+      "stem": "To place an order, simply ___ the form on our website.",
+      "choices": [
+        "subscribe",
+        "substitute",
+        "submit",
+        "subtract"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Submit = envoyer, soumettre.",
+          "why_wrong": [
+            "A : = s'abonner.",
+            "B : = remplacer.",
+            "D : = soustraire."
+          ],
+          "example": "Submit your application."
+        },
+        "en": {
+          "rule": "Submit = send in.",
+          "why_wrong": [
+            "A: = sign up.",
+            "B: = replace.",
+            "D: = take away."
+          ],
+          "example": "Submit your application."
+        }
+      },
+      "vocab": [
+        {
+          "term": "place an order",
+          "fr": "passer une commande"
+        }
+      ]
+    },
+    {
+      "id": "p5-b03-049",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-purchasing",
+      "stem": "All items are covered by a one-year ___ against manufacturing defects.",
+      "choices": [
+        "warehouse",
+        "warning",
+        "warrant",
+        "warranty"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Warranty = garantie.",
+          "why_wrong": [
+            "A : = entrepôt.",
+            "B : = avertissement.",
+            "C : = mandat."
+          ],
+          "example": "Under warranty."
+        },
+        "en": {
+          "rule": "Warranty = guarantee.",
+          "why_wrong": [
+            "A: = storage building.",
+            "B: = alert.",
+            "C: = authorization."
+          ],
+          "example": "Under warranty."
+        }
+      },
+      "vocab": [
+        {
+          "term": "defect",
+          "fr": "défaut"
+        }
+      ]
+    },
+    {
+      "id": "p5-b03-050",
+      "part": 5,
+      "difficulty": 3,
+      "category": "voc-purchasing",
+      "stem": "Orders over $100 are eligible for ___ shipping.",
+      "choices": [
+        "complementary",
+        "compulsory",
+        "competitive",
+        "complimentary"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Complimentary = gratuit.",
+          "why_wrong": [
+            "A : = complémentaire (faux ami).",
+            "B : = obligatoire.",
+            "C : = concurrentiel."
+          ],
+          "example": "A complimentary drink."
+        },
+        "en": {
+          "rule": "Complimentary = free of charge.",
+          "why_wrong": [
+            "A: = completing (look-alike).",
+            "B: = required.",
+            "C: = rivalrous."
+          ],
+          "example": "A complimentary drink."
+        }
+      },
+      "vocab": [
+        {
+          "term": "eligible",
+          "fr": "admissible"
+        }
+      ]
+    },
+    {
+      "id": "p5-b03-051",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-health",
+      "stem": "Employees are encouraged to take regular breaks to ___ eye strain.",
+      "choices": [
+        "require",
+        "produce",
+        "reduce",
+        "introduce"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Reduce = réduire.",
+          "why_wrong": [
+            "A : = exiger.",
+            "B : = produire.",
+            "D : = présenter."
+          ],
+          "example": "Reduce costs."
+        },
+        "en": {
+          "rule": "Reduce = lessen.",
+          "why_wrong": [
+            "A: = demand.",
+            "B: = create.",
+            "D: = present."
+          ],
+          "example": "Reduce costs."
+        }
+      },
+      "vocab": [
+        {
+          "term": "eye strain",
+          "fr": "fatigue visuelle"
+        }
+      ]
+    },
+    {
+      "id": "p5-b03-052",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-health",
+      "stem": "Please consult a ___ before beginning any new exercise program.",
+      "choices": [
+        "physician",
+        "physical",
+        "physicist",
+        "physics"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Physician = médecin.",
+          "why_wrong": [
+            "B : Adjectif/nom (examen médical), pas une personne.",
+            "C : = physicien.",
+            "D : = physique."
+          ],
+          "example": "See a physician."
+        },
+        "en": {
+          "rule": "Physician = doctor.",
+          "why_wrong": [
+            "B: Adjective/noun (medical exam), not a person.",
+            "C: = scientist of physics.",
+            "D: = science."
+          ],
+          "example": "See a physician."
+        }
+      },
+      "vocab": [
+        {
+          "term": "physician",
+          "fr": "médecin"
+        }
+      ]
+    },
+    {
+      "id": "p5-b03-053",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-marketing",
+      "stem": "The new ad campaign is designed to ___ younger customers.",
+      "choices": [
+        "attract",
+        "attack",
+        "attach",
+        "attend"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Attract = attirer.",
+          "why_wrong": [
+            "B : = attaquer.",
+            "C : = attacher.",
+            "D : = assister."
+          ],
+          "example": "Attract new clients."
+        },
+        "en": {
+          "rule": "Attract = draw in.",
+          "why_wrong": [
+            "B: = assault.",
+            "C: = fasten.",
+            "D: = be present at."
+          ],
+          "example": "Attract new clients."
+        }
+      },
+      "vocab": [
+        {
+          "term": "ad campaign",
+          "fr": "campagne publicitaire"
+        }
+      ]
+    },
+    {
+      "id": "p5-b03-054",
+      "part": 5,
+      "difficulty": 3,
+      "category": "voc-marketing",
+      "stem": "The survey results show that customer ___ has risen by 12 percent.",
+      "choices": [
+        "satisfaction",
+        "satisfy",
+        "satisfied",
+        "satisfactorily"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Nom attendu après « customer ».",
+          "why_wrong": [
+            "B : Verbe.",
+            "C : Adjectif.",
+            "D : Adverbe."
+          ],
+          "example": "Customer satisfaction."
+        },
+        "en": {
+          "rule": "A noun is expected after 'customer'.",
+          "why_wrong": [
+            "B: Verb.",
+            "C: Adjective.",
+            "D: Adverb."
+          ],
+          "example": "Customer satisfaction."
+        }
+      },
+      "vocab": [
+        {
+          "term": "survey",
+          "fr": "enquête"
+        }
+      ]
+    },
+    {
+      "id": "p5-b03-055",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-manufacturing",
+      "stem": "The plant will ___ production while the machines are being upgraded.",
+      "choices": [
+        "suspend",
+        "suspense",
+        "suspect",
+        "suspension"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Suspend production = arrêter temporairement.",
+          "why_wrong": [
+            "B : = suspense.",
+            "C : = soupçonner.",
+            "D : Nom."
+          ],
+          "example": "Production is suspended."
+        },
+        "en": {
+          "rule": "Suspend production = halt temporarily.",
+          "why_wrong": [
+            "B: = tension.",
+            "C: = doubt.",
+            "D: Noun."
+          ],
+          "example": "Production is suspended."
+        }
+      },
+      "vocab": [
+        {
+          "term": "upgrade",
+          "fr": "moderniser"
+        }
+      ]
+    },
+    {
+      "id": "p5-b03-056",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-real-estate",
+      "stem": "The tenant must give 30 days' ___ before moving out.",
+      "choices": [
+        "notice",
+        "note",
+        "notion",
+        "noticing"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Give notice = prévenir (préavis).",
+          "why_wrong": [
+            "B : = note.",
+            "C : = notion.",
+            "D : Gérondif : incorrect après 'days'."
+          ],
+          "example": "Give a week's notice."
+        },
+        "en": {
+          "rule": "Give notice = formally warn.",
+          "why_wrong": [
+            "B: = short message.",
+            "C: = idea.",
+            "D: Gerund: incorrect after 'days'."
+          ],
+          "example": "Give a week's notice."
+        }
+      },
+      "vocab": [
+        {
+          "term": "tenant",
+          "fr": "locataire"
+        }
+      ]
+    },
+    {
+      "id": "p5-b03-057",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-dining",
+      "stem": "The restaurant is fully booked, so we recommend making a ___ in advance.",
+      "choices": [
+        "reservation",
+        "reservoir",
+        "reserve",
+        "reservoirs"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Make a reservation = réserver.",
+          "why_wrong": [
+            "B : = réservoir.",
+            "C : Verbe / réserve.",
+            "D : Pluriel."
+          ],
+          "example": "Make a reservation."
+        },
+        "en": {
+          "rule": "Make a reservation = book.",
+          "why_wrong": [
+            "B: = tank.",
+            "C: Verb / supply.",
+            "D: Plural."
+          ],
+          "example": "Make a reservation."
+        }
+      },
+      "vocab": [
+        {
+          "term": "fully booked",
+          "fr": "complet"
+        }
+      ]
+    },
+    {
+      "id": "p5-b03-058",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-technology",
+      "stem": "Please ___ your password every three months to protect your account.",
+      "choices": [
+        "upload",
+        "upgrade",
+        "update",
+        "upset"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Update = mettre à jour.",
+          "why_wrong": [
+            "A : = téléverser.",
+            "B : Autre sens (améliorer le matériel).",
+            "D : = contrarier."
+          ],
+          "example": "Update your profile."
+        },
+        "en": {
+          "rule": "Update = refresh.",
+          "why_wrong": [
+            "A: = send a file.",
+            "B: Different sense (improve hardware).",
+            "D: = distress."
+          ],
+          "example": "Update your profile."
+        }
+      },
+      "vocab": [
+        {
+          "term": "password",
+          "fr": "mot de passe"
+        }
+      ]
+    },
+    {
+      "id": "p5-b03-059",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-general",
+      "stem": "The new policy will be ___ starting next Monday.",
+      "choices": [
+        "effectively",
+        "effectiveness",
+        "effective",
+        "effect"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Effective + date = en vigueur à partir de.",
+          "why_wrong": [
+            "A : Adverbe.",
+            "B : Nom.",
+            "D : Nom."
+          ],
+          "example": "Effective immediately."
+        },
+        "en": {
+          "rule": "Effective + date = in force from.",
+          "why_wrong": [
+            "A: Adverb.",
+            "B: Noun.",
+            "D: Noun."
+          ],
+          "example": "Effective immediately."
+        }
+      },
+      "vocab": [
+        {
+          "term": "policy",
+          "fr": "politique"
+        }
+      ]
+    },
+    {
+      "id": "p5-b03-060",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-collocations",
+      "stem": "The new director is ___ for overseeing all regional operations.",
+      "choices": [
+        "responsibly",
+        "responsible",
+        "responsive",
+        "response"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Responsible for = responsable de.",
+          "why_wrong": [
+            "A : Adverbe.",
+            "C : = réactif : faux ami.",
+            "D : Nom."
+          ],
+          "example": "She is responsible for sales."
+        },
+        "en": {
+          "rule": "Responsible for = in charge of.",
+          "why_wrong": [
+            "A: Adverb.",
+            "C: = quick to react: look-alike.",
+            "D: Noun."
+          ],
+          "example": "She is responsible for sales."
+        }
+      },
+      "vocab": [
+        {
+          "term": "oversee",
+          "fr": "superviser"
+        }
+      ]
+    }
+  ]
+}
