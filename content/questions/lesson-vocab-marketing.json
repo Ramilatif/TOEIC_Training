@@ -177,6 +177,111 @@
         }
       },
       "vocab": []
+    },
+    {
+      "id": "lq-vocab-marketing-06",
+      "part": 5,
+      "difficulty": 1,
+      "category": "voc-marketing",
+      "stem": "The company will ___ its new line of sneakers in September.",
+      "choices": [
+        "lunch",
+        "launch",
+        "lurch",
+        "larch"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Launch = lancer.",
+          "why_wrong": [
+            "A : = déjeuner.",
+            "C : = vaciller.",
+            "D : = mélèze."
+          ],
+          "example": "Launch a product."
+        },
+        "en": {
+          "rule": "Launch = introduce.",
+          "why_wrong": [
+            "A: = meal.",
+            "C: = stumble.",
+            "D: = tree."
+          ],
+          "example": "Launch a product."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-marketing-07",
+      "part": 5,
+      "difficulty": 1,
+      "category": "voc-marketing",
+      "stem": "Our ___ audience is people aged 25 to 40.",
+      "choices": [
+        "target",
+        "tangle",
+        "tarnish",
+        "tariff"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Target audience = public cible.",
+          "why_wrong": [
+            "B : = emmêler.",
+            "C : = ternir.",
+            "D : = droit de douane."
+          ],
+          "example": "Target market."
+        },
+        "en": {
+          "rule": "Target audience = intended customers.",
+          "why_wrong": [
+            "B: = knot.",
+            "C: = stain.",
+            "D: = tax."
+          ],
+          "example": "Target market."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-marketing-08",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-marketing",
+      "stem": "Offering a ___ program encourages customers to return.",
+      "choices": [
+        "loyally",
+        "loyalty",
+        "loyalist",
+        "loyal"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Loyalty program = programme de fidélité.",
+          "why_wrong": [
+            "A : Adverbe.",
+            "C : Nom (personne).",
+            "D : Adjectif : un nom est attendu."
+          ],
+          "example": "A loyalty card."
+        },
+        "en": {
+          "rule": "Loyalty program = rewards scheme.",
+          "why_wrong": [
+            "A: Adverb.",
+            "C: Noun (person).",
+            "D: Adjective: a noun is expected."
+          ],
+          "example": "A loyalty card."
+        }
+      },
+      "vocab": []
     }
   ]
 }

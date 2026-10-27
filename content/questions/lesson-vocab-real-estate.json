@@ -177,6 +177,111 @@
         }
       },
       "vocab": []
+    },
+    {
+      "id": "lq-vocab-real-estate-06",
+      "part": 5,
+      "difficulty": 1,
+      "category": "voc-real-estate",
+      "stem": "The tenant signed a one-year ___ for the office space.",
+      "choices": [
+        "leash",
+        "lesson",
+        "lens",
+        "lease"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Lease = bail.",
+          "why_wrong": [
+            "A : = laisse.",
+            "B : = leçon.",
+            "C : = lentille."
+          ],
+          "example": "Sign a lease."
+        },
+        "en": {
+          "rule": "Lease = rental contract.",
+          "why_wrong": [
+            "A: = dog strap.",
+            "B: = class.",
+            "C: = glass."
+          ],
+          "example": "Sign a lease."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-real-estate-07",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-real-estate",
+      "stem": "The monthly rent includes ___ such as water and electricity.",
+      "choices": [
+        "utensils",
+        "uniforms",
+        "utilities",
+        "utopias"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Utilities = charges.",
+          "why_wrong": [
+            "A : = ustensiles.",
+            "B : = uniformes.",
+            "D : = utopies."
+          ],
+          "example": "Utilities included."
+        },
+        "en": {
+          "rule": "Utilities = water, power, gas.",
+          "why_wrong": [
+            "A: = tools.",
+            "B: = outfits.",
+            "D: = ideal places."
+          ],
+          "example": "Utilities included."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-real-estate-08",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-real-estate",
+      "stem": "The building is being ___ and will reopen next spring.",
+      "choices": [
+        "resigned",
+        "renovated",
+        "recalled",
+        "replied"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Renovate = rénover.",
+          "why_wrong": [
+            "A : = démissionné.",
+            "C : = rappelé.",
+            "D : = répondu."
+          ],
+          "example": "Renovate a house."
+        },
+        "en": {
+          "rule": "Renovate = restore.",
+          "why_wrong": [
+            "A: = quit.",
+            "C: = remembered.",
+            "D: = answered."
+          ],
+          "example": "Renovate a house."
+        }
+      },
+      "vocab": []
     }
   ]
 }

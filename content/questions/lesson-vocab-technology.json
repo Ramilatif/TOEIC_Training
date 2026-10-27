@@ -177,6 +177,111 @@
         }
       },
       "vocab": []
+    },
+    {
+      "id": "lq-vocab-technology-06",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-technology",
+      "stem": "Please ___ your files regularly to avoid losing data.",
+      "choices": [
+        "back off",
+        "back out",
+        "back down",
+        "back up"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Back up = sauvegarder.",
+          "why_wrong": [
+            "A : = reculer.",
+            "B : = se retirer.",
+            "C : = céder."
+          ],
+          "example": "Back up your data."
+        },
+        "en": {
+          "rule": "Back up = save a copy.",
+          "why_wrong": [
+            "A: = retreat.",
+            "B: = withdraw.",
+            "C: = give in."
+          ],
+          "example": "Back up your data."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-technology-07",
+      "part": 5,
+      "difficulty": 3,
+      "category": "voc-technology",
+      "stem": "The IT staff will ___ the problem and call you back within an hour.",
+      "choices": [
+        "troubled",
+        "troubleshoot",
+        "troublesome",
+        "trouble-free"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Troubleshoot = dépanner.",
+          "why_wrong": [
+            "A : Participe/adjectif.",
+            "C : Adjectif (gênant).",
+            "D : Adjectif."
+          ],
+          "example": "Troubleshoot an error."
+        },
+        "en": {
+          "rule": "Troubleshoot = diagnose and fix.",
+          "why_wrong": [
+            "A: Participle/adjective.",
+            "C: Adjective (annoying).",
+            "D: Adjective."
+          ],
+          "example": "Troubleshoot an error."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-technology-08",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-technology",
+      "stem": "This printer is not ___ with your operating system.",
+      "choices": [
+        "compatible",
+        "competent",
+        "compliant",
+        "comparable"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Compatible with = compatible avec.",
+          "why_wrong": [
+            "B : = compétent.",
+            "C : = conforme.",
+            "D : = comparable."
+          ],
+          "example": "Compatible software."
+        },
+        "en": {
+          "rule": "Compatible with = works with.",
+          "why_wrong": [
+            "B: = skilled.",
+            "C: = obedient.",
+            "D: = similar."
+          ],
+          "example": "Compatible software."
+        }
+      },
+      "vocab": []
     }
   ]
 }

@@ -177,6 +177,111 @@
         }
       },
       "vocab": []
+    },
+    {
+      "id": "lq-vocab-hr-06",
+      "part": 5,
+      "difficulty": 1,
+      "category": "voc-hr",
+      "stem": "The applicant must submit a ___ and a cover letter.",
+      "choices": [
+        "result",
+        "remedy",
+        "resume (verbe)",
+        "résumé"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Résumé = CV.",
+          "why_wrong": [
+            "A : = résultat.",
+            "B : = remède.",
+            "C : = reprendre."
+          ],
+          "example": "Send your résumé."
+        },
+        "en": {
+          "rule": "Résumé = CV.",
+          "why_wrong": [
+            "A: = outcome.",
+            "B: = cure.",
+            "C: = start again."
+          ],
+          "example": "Send your résumé."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-hr-07",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-hr",
+      "stem": "Employees receive health ___ after three months of service.",
+      "choices": [
+        "branches",
+        "bonds",
+        "budgets",
+        "benefits"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Benefits = avantages sociaux.",
+          "why_wrong": [
+            "A : = succursales.",
+            "B : = obligations.",
+            "C : = budgets."
+          ],
+          "example": "Health benefits."
+        },
+        "en": {
+          "rule": "Benefits = perks.",
+          "why_wrong": [
+            "A: = offices.",
+            "B: = debts.",
+            "C: = financial plans."
+          ],
+          "example": "Health benefits."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-hr-08",
+      "part": 5,
+      "difficulty": 1,
+      "category": "voc-hr",
+      "stem": "After thirty years with the firm, Mr. Weber will ___ in June.",
+      "choices": [
+        "return",
+        "retain",
+        "retreat",
+        "retire"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Retire = prendre sa retraite.",
+          "why_wrong": [
+            "A : = revenir.",
+            "B : = conserver.",
+            "C : = se retirer / battre en retraite."
+          ],
+          "example": "She retires soon."
+        },
+        "en": {
+          "rule": "Retire = stop working at old age.",
+          "why_wrong": [
+            "A: = come back.",
+            "B: = keep.",
+            "C: = withdraw."
+          ],
+          "example": "She retires soon."
+        }
+      },
+      "vocab": []
     }
   ]
 }

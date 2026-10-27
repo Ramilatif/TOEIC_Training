@@ -55,6 +55,22 @@ Les textes de Part 7 sur les commandes utilisent souvent « back order » et « 
 
 Ajoutez ces mots à vos flashcards pour les réviser avec la répétition espacée.
 
+<!-- extra -->
+## Mots complémentaires
+
+| Mot | Traduction | Exemple |
+| --- | --- | --- |
+| **invoice** | facture | Pay the invoice. |
+| **quote** | devis | Request a quote. |
+| **bulk** | en gros | Buy in bulk. |
+| **backorder** | commande en attente | The item is on backorder. |
+| **subscription** | abonnement | Renew your subscription. |
+| **return policy** | politique de retour | Check the return policy. |
+
+## À retenir
+
+*Order*, *invoice*, *shipment*, *delivery* : retenez l'ordre logique d'un achat. *Refund* arrive après un retour.
+
 <!-- lang:en -->
 # Vocabulary: purchasing and sales
 
@@ -90,3 +106,18 @@ Orders, discounts, deliveries: a theme found throughout TOEIC emails and ads.
 Part 7 texts about orders often use 'back order' and 'out of stock': look for what delays delivery.
 
 Add these words to your flashcards to review them with spaced repetition.
+
+## More words
+
+| Word | Translation | Example |
+| --- | --- | --- |
+| **invoice** | facture | Pay the invoice. |
+| **quote** | devis | Request a quote. |
+| **bulk** | en gros | Buy in bulk. |
+| **backorder** | commande en attente | The item is on backorder. |
+| **subscription** | abonnement | Renew your subscription. |
+| **return policy** | politique de retour | Check the return policy. |
+
+## Remember
+
+*Order*, *invoice*, *shipment*, *delivery*: remember the logical order of a purchase. *Refund* follows a return.

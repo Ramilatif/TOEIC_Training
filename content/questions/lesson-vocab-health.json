@@ -177,6 +177,111 @@
         }
       },
       "vocab": []
+    },
+    {
+      "id": "lq-vocab-health-06",
+      "part": 5,
+      "difficulty": 1,
+      "category": "voc-health",
+      "stem": "The doctor wrote a ___ for antibiotics.",
+      "choices": [
+        "description",
+        "prescription",
+        "inscription",
+        "subscription"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Prescription = ordonnance.",
+          "why_wrong": [
+            "A : = description.",
+            "C : = inscription.",
+            "D : = abonnement."
+          ],
+          "example": "Fill the prescription."
+        },
+        "en": {
+          "rule": "Prescription = doctor's order for medicine.",
+          "why_wrong": [
+            "A: = details.",
+            "C: = engraving.",
+            "D: = regular service."
+          ],
+          "example": "Fill the prescription."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-health-07",
+      "part": 5,
+      "difficulty": 1,
+      "category": "voc-health",
+      "stem": "Patients should ___ an appointment at least two days in advance.",
+      "choices": [
+        "schedule",
+        "shed",
+        "scatter",
+        "scratch"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Schedule an appointment = prendre rendez-vous.",
+          "why_wrong": [
+            "B : = perdre.",
+            "C : = disperser.",
+            "D : = gratter."
+          ],
+          "example": "Schedule a visit."
+        },
+        "en": {
+          "rule": "Schedule an appointment = book a time.",
+          "why_wrong": [
+            "B: = lose.",
+            "C: = spread.",
+            "D: = scrape."
+          ],
+          "example": "Schedule a visit."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-health-08",
+      "part": 5,
+      "difficulty": 1,
+      "category": "voc-health",
+      "stem": "Regular exercise helps ___ the risk of heart disease.",
+      "choices": [
+        "repeat",
+        "reduce",
+        "require",
+        "produce"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Reduce = réduire.",
+          "why_wrong": [
+            "A : = répéter.",
+            "C : = exiger.",
+            "D : = produire."
+          ],
+          "example": "Reduce stress."
+        },
+        "en": {
+          "rule": "Reduce = lessen.",
+          "why_wrong": [
+            "A: = do again.",
+            "C: = demand.",
+            "D: = create."
+          ],
+          "example": "Reduce stress."
+        }
+      },
+      "vocab": []
     }
   ]
 }

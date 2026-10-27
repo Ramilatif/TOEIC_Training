@@ -177,6 +177,111 @@
         }
       },
       "vocab": []
+    },
+    {
+      "id": "lq-vocab-meetings-06",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-meetings",
+      "stem": "The meeting was ___ at 4:30 p.m. after all items had been discussed.",
+      "choices": [
+        "adopted",
+        "advised",
+        "adjusted",
+        "adjourned"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Adjourn = lever la séance.",
+          "why_wrong": [
+            "A : = adopté.",
+            "B : = conseillé.",
+            "C : = ajusté."
+          ],
+          "example": "The court adjourned."
+        },
+        "en": {
+          "rule": "Adjourn = end a meeting.",
+          "why_wrong": [
+            "A: = accepted.",
+            "B: = suggested.",
+            "C: = modified."
+          ],
+          "example": "The court adjourned."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-meetings-07",
+      "part": 5,
+      "difficulty": 1,
+      "category": "voc-meetings",
+      "stem": "Please send the ___ of yesterday's meeting to all attendees.",
+      "choices": [
+        "agendas",
+        "minutes",
+        "notices",
+        "seconds"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Minutes = compte rendu.",
+          "why_wrong": [
+            "A : L'ordre du jour est avant la réunion.",
+            "C : = avis.",
+            "D : Durée, pas compte rendu."
+          ],
+          "example": "Take minutes."
+        },
+        "en": {
+          "rule": "Minutes = written record.",
+          "why_wrong": [
+            "A: The agenda is before the meeting.",
+            "C: = announcements.",
+            "D: A time unit, not a record."
+          ],
+          "example": "Take minutes."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-meetings-08",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-meetings",
+      "stem": "The team could not ___ a decision, so the vote was postponed.",
+      "choices": [
+        "meet",
+        "reach",
+        "catch",
+        "arrive"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Reach a decision / consensus.",
+          "why_wrong": [
+            "A : Ne se construit pas ainsi.",
+            "C : Autre sens.",
+            "D : Ne se construit pas avec « a decision »."
+          ],
+          "example": "Reach an agreement."
+        },
+        "en": {
+          "rule": "Reach a decision / consensus.",
+          "why_wrong": [
+            "A: Not used this way.",
+            "C: Different sense.",
+            "D: Not used with 'a decision'."
+          ],
+          "example": "Reach an agreement."
+        }
+      },
+      "vocab": []
     }
   ]
 }

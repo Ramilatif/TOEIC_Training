@@ -55,6 +55,22 @@ Aux questions de Part 2 sur une réservation, une réponse sur l'heure ou le nom
 
 Ajoutez ces mots à vos flashcards pour les réviser avec la répétition espacée.
 
+<!-- extra -->
+## Mots complémentaires
+
+| Mot | Traduction | Exemple |
+| --- | --- | --- |
+| **chef** | chef cuisinier | The chef prepared a menu. |
+| **buffet** | buffet | A buffet lunch. |
+| **catered** | préparé par un traiteur | A catered event. |
+| **complimentary** | gratuit | A complimentary drink. |
+| **waitstaff** | personnel de salle | The waitstaff was polite. |
+| **takeout** | à emporter | Order takeout. |
+
+## À retenir
+
+*Venue* (lieu), *catering* (traiteur), *RSVP* (répondre) : la logique d'un événement.
+
 <!-- lang:en -->
 # Vocabulary: dining and events
 
@@ -90,3 +106,18 @@ Reservations, catering, banquets: a frequent theme in Parts 1, 2, 3 and 7.
 For Part 2 questions about a reservation, an answer about the time or number of guests is often correct.
 
 Add these words to your flashcards to review them with spaced repetition.
+
+## More words
+
+| Word | Translation | Example |
+| --- | --- | --- |
+| **chef** | chef cuisinier | The chef prepared a menu. |
+| **buffet** | buffet | A buffet lunch. |
+| **catered** | préparé par un traiteur | A catered event. |
+| **complimentary** | gratuit | A complimentary drink. |
+| **waitstaff** | personnel de salle | The waitstaff was polite. |
+| **takeout** | à emporter | Order takeout. |
+
+## Remember
+
+*Venue*, *catering*, *RSVP*: the logic of an event.

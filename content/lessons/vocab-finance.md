@@ -55,6 +55,22 @@ Ne confondez pas « revenue » (recettes) et « profit » (bénéfice) : une ent
 
 Ajoutez ces mots à vos flashcards pour les réviser avec la répétition espacée.
 
+<!-- extra -->
+## Mots complémentaires
+
+| Mot | Traduction | Exemple |
+| --- | --- | --- |
+| **account** | compte | Open an account. |
+| **loan** | prêt | She applied for a loan. |
+| **invest** | investir | Invest in stocks. |
+| **income** | revenu | Annual income rose. |
+| **statement** | relevé | A bank statement arrived. |
+| **reimbursement** | remboursement (frais) | Submit for reimbursement. |
+
+## À retenir
+
+*Expense* = dépense, *revenue* = chiffre d'affaires, *profit* = bénéfice : trois mots à ne pas inverser.
+
 <!-- lang:en -->
 # Vocabulary: finance and banking
 
@@ -90,3 +106,18 @@ Budgets, invoices, interest: finance is a recurring theme in Parts 5, 6 and 7.
 Do not confuse 'revenue' (income) with 'profit' (what is left): a firm can have high revenue and low profit.
 
 Add these words to your flashcards to review them with spaced repetition.
+
+## More words
+
+| Word | Translation | Example |
+| --- | --- | --- |
+| **account** | compte | Open an account. |
+| **loan** | prêt | She applied for a loan. |
+| **invest** | investir | Invest in stocks. |
+| **income** | revenu | Annual income rose. |
+| **statement** | relevé | A bank statement arrived. |
+| **reimbursement** | remboursement (frais) | Submit for reimbursement. |
+
+## Remember
+
+*Expense* = spending, *revenue* = sales income, *profit* = what's left: do not mix them up.

@@ -55,6 +55,22 @@ Avec « supply » et « supplier », attention à la nature du mot : un nom (sup
 
 Ajoutez ces mots à vos flashcards pour les réviser avec la répétition espacée.
 
+<!-- extra -->
+## Mots complémentaires
+
+| Mot | Traduction | Exemple |
+| --- | --- | --- |
+| **production line** | chaîne de production | Stop the production line. |
+| **component** | composant | Replace the component. |
+| **machinery** | machines | Machinery is old. |
+| **blueprint** | plan technique | Check the blueprint. |
+| **shift** | équipe (horaires) | The night shift starts at 10. |
+| **recall** | rappel (produit) | A product recall. |
+
+## À retenir
+
+En Part 4, un exposé d'usine parle souvent de *shift*, *safety*, *inspection*, *inventory*.
+
 <!-- lang:en -->
 # Vocabulary: manufacturing and logistics
 
@@ -90,3 +106,18 @@ Factories, assembly lines, inventory and transport: a classic theme in Parts 3, 
 With 'supply' and 'supplier', watch the word class: noun (supply, supplier) or verb (supply). A Part 5 classic.
 
 Add these words to your flashcards to review them with spaced repetition.
+
+## More words
+
+| Word | Translation | Example |
+| --- | --- | --- |
+| **production line** | chaîne de production | Stop the production line. |
+| **component** | composant | Replace the component. |
+| **machinery** | machines | Machinery is old. |
+| **blueprint** | plan technique | Check the blueprint. |
+| **shift** | équipe (horaires) | The night shift starts at 10. |
+| **recall** | rappel (produit) | A product recall. |
+
+## Remember
+
+A factory talk in Part 4 often mentions *shift*, *safety*, *inspection*, *inventory*.

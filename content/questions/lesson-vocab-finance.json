@@ -177,6 +177,111 @@
         }
       },
       "vocab": []
+    },
+    {
+      "id": "lq-vocab-finance-06",
+      "part": 5,
+      "difficulty": 1,
+      "category": "voc-finance",
+      "stem": "The bank offers a low ___ rate on small business loans.",
+      "choices": [
+        "interesting",
+        "interest",
+        "interference",
+        "interested"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Interest rate = taux d'intérêt.",
+          "why_wrong": [
+            "A : Adjectif (intéressant).",
+            "C : = ingérence.",
+            "D : Participe (intéressé)."
+          ],
+          "example": "High interest rates."
+        },
+        "en": {
+          "rule": "Interest rate = cost of borrowing.",
+          "why_wrong": [
+            "A: Adjective.",
+            "C: = obstruction.",
+            "D: Participle."
+          ],
+          "example": "High interest rates."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-finance-07",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-finance",
+      "stem": "Your payment is ___; please settle the invoice immediately.",
+      "choices": [
+        "outgoing",
+        "overdue",
+        "outdated",
+        "outspoken"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Overdue = en retard de paiement.",
+          "why_wrong": [
+            "A : = sortant.",
+            "C : = périmé.",
+            "D : = franc."
+          ],
+          "example": "An overdue bill."
+        },
+        "en": {
+          "rule": "Overdue = past due.",
+          "why_wrong": [
+            "A: = leaving.",
+            "C: = old-fashioned.",
+            "D: = direct."
+          ],
+          "example": "An overdue bill."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-finance-08",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-finance",
+      "stem": "The company's ___ rose to $5 million this quarter, up from $4 million.",
+      "choices": [
+        "revision",
+        "review",
+        "revenge",
+        "revenue"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Revenue = chiffre d'affaires.",
+          "why_wrong": [
+            "A : = révision.",
+            "B : = évaluation.",
+            "C : = vengeance."
+          ],
+          "example": "Annual revenue."
+        },
+        "en": {
+          "rule": "Revenue = total income.",
+          "why_wrong": [
+            "A: = edit.",
+            "B: = assessment.",
+            "C: = payback."
+          ],
+          "example": "Annual revenue."
+        }
+      },
+      "vocab": []
     }
   ]
 }

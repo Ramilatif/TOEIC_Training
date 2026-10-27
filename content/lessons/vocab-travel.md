@@ -55,6 +55,22 @@ Pour les annonces d'aéroport (Part 4), notez la porte (gate), l'heure et la rai
 
 Ajoutez ces mots à vos flashcards pour les réviser avec la répétition espacée.
 
+<!-- extra -->
+## Mots complémentaires
+
+| Mot | Traduction | Exemple |
+| --- | --- | --- |
+| **destination** | destination | Our destination is Tokyo. |
+| **gate** | porte d'embarquement | Proceed to Gate 12. |
+| **carry-on** | bagage à main | Only one carry-on is allowed. |
+| **customs** | douane | Go through customs. |
+| **shuttle** | navette | A shuttle serves the hotel. |
+| **vacancy** | chambre libre | No vacancies tonight. |
+
+## À retenir
+
+*Delay*, *cancel*, *reschedule* : les annonces d'aéroport (Part 4) concernent presque toujours un changement.
+
 <!-- lang:en -->
 # Vocabulary: travel
 
@@ -90,3 +106,18 @@ Tickets, bookings, delays: business travel is a major theme in Parts 2, 3, 4 and
 For airport announcements (Part 4), note the gate, the time and the reason for the delay: the three classic questions.
 
 Add these words to your flashcards to review them with spaced repetition.
+
+## More words
+
+| Word | Translation | Example |
+| --- | --- | --- |
+| **destination** | destination | Our destination is Tokyo. |
+| **gate** | porte d'embarquement | Proceed to Gate 12. |
+| **carry-on** | bagage à main | Only one carry-on is allowed. |
+| **customs** | douane | Go through customs. |
+| **shuttle** | navette | A shuttle serves the hotel. |
+| **vacancy** | chambre libre | No vacancies tonight. |
+
+## Remember
+
+*Delay*, *cancel*, *reschedule*: airport announcements (Part 4) almost always involve a change.

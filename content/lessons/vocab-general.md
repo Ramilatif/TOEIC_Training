@@ -55,6 +55,22 @@ Les mots transversaux des affaires : contrats, partenariats, objectifs. Ils appa
 
 Ajoutez ces mots à vos flashcards pour les réviser avec la répétition espacée.
 
+<!-- extra -->
+## Mots complémentaires
+
+| Mot | Traduction | Exemple |
+| --- | --- | --- |
+| **annual** | annuel | An annual report. |
+| **estimate** | estimer / devis | A rough estimate. |
+| **implement** | mettre en œuvre | Implement the plan. |
+| **significant** | important | A significant change. |
+| **regarding** | concernant | Regarding your order… |
+| **in advance** | à l'avance | Book in advance. |
+
+## À retenir
+
+Pensez *synonymes* : *regarding / concerning / about*, *approximately / about / roughly*. Le TOEIC reformule.
+
 <!-- lang:en -->
 # Vocabulary: general business
 
@@ -90,3 +106,18 @@ Cross-cutting business words: contracts, partnerships, goals. They appear in eve
 'Regarding', 'concerning' and 'with respect to' open almost every Part 7 email: spot them to find the subject.
 
 Add these words to your flashcards to review them with spaced repetition.
+
+## More words
+
+| Word | Translation | Example |
+| --- | --- | --- |
+| **annual** | annuel | An annual report. |
+| **estimate** | estimer / devis | A rough estimate. |
+| **implement** | mettre en œuvre | Implement the plan. |
+| **significant** | important | A significant change. |
+| **regarding** | concernant | Regarding your order… |
+| **in advance** | à l'avance | Book in advance. |
+
+## Remember
+
+Think *synonyms*: *regarding / concerning / about*, *approximately / about / roughly*. The TOEIC paraphrases.

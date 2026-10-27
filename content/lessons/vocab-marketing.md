@@ -55,6 +55,22 @@ Dans une publicité de Part 4, la date limite et l'avantage offert sont presque 
 
 Ajoutez ces mots à vos flashcards pour les réviser avec la répétition espacée.
 
+<!-- extra -->
+## Mots complémentaires
+
+| Mot | Traduction | Exemple |
+| --- | --- | --- |
+| **endorse** | recommander publiquement | A star endorsed the product. |
+| **outreach** | démarchage | Community outreach. |
+| **demographic** | catégorie démographique | A young demographic. |
+| **niche** | créneau | A niche market. |
+| **billboard** | panneau publicitaire | A billboard ad. |
+| **competitor** | concurrent | Beat the competitors. |
+
+## À retenir
+
+*Target* (cibler), *launch* (lancer), *promote* (promouvoir) : les trois verbes de base du marketing.
+
 <!-- lang:en -->
 # Vocabulary: marketing
 
@@ -90,3 +106,18 @@ Campaigns, customers, brands: marketing feeds many ads and articles in Part 7.
 In a Part 4 advertisement, the deadline and the benefit offered are almost always asked: listen for 'until', 'only', 'free'.
 
 Add these words to your flashcards to review them with spaced repetition.
+
+## More words
+
+| Word | Translation | Example |
+| --- | --- | --- |
+| **endorse** | recommander publiquement | A star endorsed the product. |
+| **outreach** | démarchage | Community outreach. |
+| **demographic** | catégorie démographique | A young demographic. |
+| **niche** | créneau | A niche market. |
+| **billboard** | panneau publicitaire | A billboard ad. |
+| **competitor** | concurrent | Beat the competitors. |
+
+## Remember
+
+*Target*, *launch*, *promote*: the three basic marketing verbs.

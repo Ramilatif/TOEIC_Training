@@ -55,6 +55,22 @@ Logiciels, réseaux, sauvegarde : le vocabulaire informatique s'invite dans de n
 
 Ajoutez ces mots à vos flashcards pour les réviser avec la répétition espacée.
 
+<!-- extra -->
+## Mots complémentaires
+
+| Mot | Traduction | Exemple |
+| --- | --- | --- |
+| **device** | appareil | A mobile device. |
+| **update** | mise à jour | Install the update. |
+| **cloud storage** | stockage en ligne | Use cloud storage. |
+| **encrypt** | chiffrer | Encrypt the file. |
+| **bandwidth** | bande passante | Bandwidth is limited. |
+| **outage** | panne | A power outage. |
+
+## À retenir
+
+*Install*, *upgrade*, *troubleshoot* : les verbes du service informatique. *Password* et *log in* sont les mots du compte utilisateur.
+
 <!-- lang:en -->
 # Vocabulary: technology
 
@@ -90,3 +106,18 @@ Software, networks, backups: IT vocabulary shows up in many texts.
 'Out of order' and 'not working' are common paraphrases: in Part 3 they refer to a breakdown.
 
 Add these words to your flashcards to review them with spaced repetition.
+
+## More words
+
+| Word | Translation | Example |
+| --- | --- | --- |
+| **device** | appareil | A mobile device. |
+| **update** | mise à jour | Install the update. |
+| **cloud storage** | stockage en ligne | Use cloud storage. |
+| **encrypt** | chiffrer | Encrypt the file. |
+| **bandwidth** | bande passante | Bandwidth is limited. |
+| **outage** | panne | A power outage. |
+
+## Remember
+
+*Install*, *upgrade*, *troubleshoot*: the IT-department verbs. *Password* and *log in* are user-account words.

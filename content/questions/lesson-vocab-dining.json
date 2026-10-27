@@ -177,6 +177,111 @@
         }
       },
       "vocab": []
+    },
+    {
+      "id": "lq-vocab-dining-06",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-dining",
+      "stem": "Please ___ by Friday so that we can plan the number of seats.",
+      "choices": [
+        "RSVP",
+        "RSS",
+        "ASAP",
+        "RIP"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "RSVP = répondre à l'invitation.",
+          "why_wrong": [
+            "B : Sigle sans rapport.",
+            "C : Se dit d'une urgence, pas d'une réponse à une invitation.",
+            "D : = repose en paix."
+          ],
+          "example": "RSVP today."
+        },
+        "en": {
+          "rule": "RSVP = reply to an invitation.",
+          "why_wrong": [
+            "B: Unrelated acronym.",
+            "C: Means urgency, not replying to an invitation.",
+            "D: = rest in peace."
+          ],
+          "example": "RSVP today."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-dining-07",
+      "part": 5,
+      "difficulty": 1,
+      "category": "voc-dining",
+      "stem": "The company hired a ___ company to serve lunch at the seminar.",
+      "choices": [
+        "cattle",
+        "catalog",
+        "category",
+        "catering"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Catering = traiteur.",
+          "why_wrong": [
+            "A : = bétail.",
+            "B : = catalogue.",
+            "C : = catégorie."
+          ],
+          "example": "A catering service."
+        },
+        "en": {
+          "rule": "Catering = food service.",
+          "why_wrong": [
+            "A: = cows.",
+            "B: = product list.",
+            "C: = class."
+          ],
+          "example": "A catering service."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-dining-08",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-dining",
+      "stem": "Guests with ___ restrictions should inform the restaurant in advance.",
+      "choices": [
+        "diary",
+        "directory",
+        "dietary",
+        "dictionary"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Dietary restrictions = restrictions alimentaires.",
+          "why_wrong": [
+            "A : = journal intime.",
+            "B : = annuaire.",
+            "D : = dictionnaire."
+          ],
+          "example": "Dietary needs."
+        },
+        "en": {
+          "rule": "Dietary = about diet.",
+          "why_wrong": [
+            "A: = daily record.",
+            "B: = listing.",
+            "D: = word book."
+          ],
+          "example": "Dietary needs."
+        }
+      },
+      "vocab": []
     }
   ]
 }

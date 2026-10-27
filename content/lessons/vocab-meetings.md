@@ -55,6 +55,22 @@ En Part 3, « call off » et « put off » reformulent souvent « cancel » et �
 
 Ajoutez ces mots à vos flashcards pour les réviser avec la répétition espacée.
 
+<!-- extra -->
+## Mots complémentaires
+
+| Mot | Traduction | Exemple |
+| --- | --- | --- |
+| **chair** | présider | Ms. Kim will chair the meeting. |
+| **motion** | proposition (soumise au vote) | The motion passed. |
+| **consensus** | consensus | We reached a consensus. |
+| **minutes** | compte rendu | Please approve the minutes. |
+| **action item** | tâche à réaliser | Add it as an action item. |
+| **wrap up** | conclure | Let's wrap up. |
+
+## À retenir
+
+Au TOEIC, *minutes* = compte rendu (pas « minutes » de durée). Les mots *agenda*, *adjourn*, *follow up* signalent presque toujours une réunion.
+
 <!-- lang:en -->
 # Vocabulary: meetings
 
@@ -90,3 +106,18 @@ Scheduling, agendas, decisions: meeting vocabulary is everywhere in Parts 3, 4 a
 In Part 3, 'call off' and 'put off' often reword 'cancel' and 'postpone'. Watch for paraphrases.
 
 Add these words to your flashcards to review them with spaced repetition.
+
+## More words
+
+| Word | Translation | Example |
+| --- | --- | --- |
+| **chair** | présider | Ms. Kim will chair the meeting. |
+| **motion** | proposition (soumise au vote) | The motion passed. |
+| **consensus** | consensus | We reached a consensus. |
+| **minutes** | compte rendu | Please approve the minutes. |
+| **action item** | tâche à réaliser | Add it as an action item. |
+| **wrap up** | conclure | Let's wrap up. |
+
+## Remember
+
+On the TOEIC, *minutes* = written record (not just time). *Agenda*, *adjourn*, *follow up* almost always signal a meeting.

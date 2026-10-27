@@ -177,6 +177,111 @@
         }
       },
       "vocab": []
+    },
+    {
+      "id": "lq-vocab-collocations-06",
+      "part": 5,
+      "difficulty": 1,
+      "category": "voc-collocations",
+      "stem": "Please ___ attention to the safety instructions.",
+      "choices": [
+        "do",
+        "give",
+        "make",
+        "pay"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Pay attention to.",
+          "why_wrong": [
+            "A : Collocation : « pay attention ».",
+            "B : Collocation : « pay attention ».",
+            "C : Collocation : « pay attention »."
+          ],
+          "example": "Pay attention."
+        },
+        "en": {
+          "rule": "Pay attention to.",
+          "why_wrong": [
+            "A: Collocation: 'pay attention'.",
+            "B: Collocation: 'pay attention'.",
+            "C: Collocation: 'pay attention'."
+          ],
+          "example": "Pay attention."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-collocations-07",
+      "part": 5,
+      "difficulty": 1,
+      "category": "voc-collocations",
+      "stem": "We must ___ the deadline to avoid a penalty.",
+      "choices": [
+        "touch",
+        "catch",
+        "hit on",
+        "meet"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Meet a deadline.",
+          "why_wrong": [
+            "A : Collocation : « meet a deadline ».",
+            "B : Collocation : « meet a deadline ».",
+            "C : Collocation : « meet a deadline »."
+          ],
+          "example": "Meet the deadline."
+        },
+        "en": {
+          "rule": "Meet a deadline.",
+          "why_wrong": [
+            "A: Collocation: 'meet a deadline'.",
+            "B: Collocation: 'meet a deadline'.",
+            "C: Collocation: 'meet a deadline'."
+          ],
+          "example": "Meet the deadline."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-collocations-08",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-collocations",
+      "stem": "The two companies finally ___ an agreement after weeks of talks.",
+      "choices": [
+        "arrived",
+        "reached",
+        "took",
+        "made"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Reach an agreement.",
+          "why_wrong": [
+            "A : Collocation : « reach an agreement ».",
+            "C : Collocation : « reach an agreement ».",
+            "D : On dit « make a deal » mais « reach an agreement »."
+          ],
+          "example": "Reach a decision."
+        },
+        "en": {
+          "rule": "Reach an agreement.",
+          "why_wrong": [
+            "A: Collocation: 'reach an agreement'.",
+            "C: Collocation: 'reach an agreement'.",
+            "D: 'make a deal' but 'reach an agreement'."
+          ],
+          "example": "Reach a decision."
+        }
+      },
+      "vocab": []
     }
   ]
 }

@@ -55,6 +55,22 @@ En Part 3, les chiffres (loyer, surface, durée du bail) servent souvent de piè
 
 Ajoutez ces mots à vos flashcards pour les réviser avec la répétition espacée.
 
+<!-- extra -->
+## Mots complémentaires
+
+| Mot | Traduction | Exemple |
+| --- | --- | --- |
+| **square feet** | pieds carrés | 1,200 square feet. |
+| **commute** | trajet domicile-travail | A short commute. |
+| **amenities** | équipements | The building has many amenities. |
+| **sublet** | sous-louer | She sublets her room. |
+| **zoning** | zonage | Zoning rules. |
+| **listing** | annonce immobilière | A new listing. |
+
+## À retenir
+
+*Lease* (bail), *tenant* (locataire), *landlord* (propriétaire) : le trio de base d'un dialogue immobilier.
+
 <!-- lang:en -->
 # Vocabulary: real estate
 
@@ -90,3 +106,18 @@ Rentals, leases and viewings: real estate returns in Parts 3 and 7.
 In Part 3, figures (rent, area, lease term) are often traps: note them as you listen.
 
 Add these words to your flashcards to review them with spaced repetition.
+
+## More words
+
+| Word | Translation | Example |
+| --- | --- | --- |
+| **square feet** | pieds carrés | 1,200 square feet. |
+| **commute** | trajet domicile-travail | A short commute. |
+| **amenities** | équipements | The building has many amenities. |
+| **sublet** | sous-louer | She sublets her room. |
+| **zoning** | zonage | Zoning rules. |
+| **listing** | annonce immobilière | A new listing. |
+
+## Remember
+
+*Lease*, *tenant*, *landlord*: the core trio in a real-estate dialogue.

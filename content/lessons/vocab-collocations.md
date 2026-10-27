@@ -55,6 +55,22 @@ En Part 5, si quatre verbes ont le même sens, la collocation décide : cherchez
 
 Ajoutez ces mots à vos flashcards pour les réviser avec la répétition espacée.
 
+<!-- extra -->
+## Mots complémentaires
+
+| Mot | Traduction | Exemple |
+| --- | --- | --- |
+| **make progress** | progresser | We made progress. |
+| **take notes** | prendre des notes | Take notes. |
+| **give a presentation** | faire une présentation | She gave a presentation. |
+| **do research** | faire de la recherche | Do some research. |
+| **reach a conclusion** | arriver à une conclusion | Reach a conclusion. |
+| **meet expectations** | répondre aux attentes | It meets expectations. |
+
+## À retenir
+
+Un verbe ne se choisit pas par sens mais par **habitude** : *make a decision*, *do business*, *take a break*. Apprenez-les par blocs.
+
 <!-- lang:en -->
 # Vocabulary: collocations and expressions
 
@@ -90,3 +106,18 @@ Collocations (verb + noun, adjective + noun) are heavily tested in Part 5. Learn
 In Part 5, if four verbs mean roughly the same, the collocation decides: pick the one that sounds natural with the noun.
 
 Add these words to your flashcards to review them with spaced repetition.
+
+## More words
+
+| Word | Translation | Example |
+| --- | --- | --- |
+| **make progress** | progresser | We made progress. |
+| **take notes** | prendre des notes | Take notes. |
+| **give a presentation** | faire une présentation | She gave a presentation. |
+| **do research** | faire de la recherche | Do some research. |
+| **reach a conclusion** | arriver à une conclusion | Reach a conclusion. |
+| **meet expectations** | répondre aux attentes | It meets expectations. |
+
+## Remember
+
+A verb is chosen by **habit**, not by meaning: *make a decision*, *do business*, *take a break*. Learn them in blocks.

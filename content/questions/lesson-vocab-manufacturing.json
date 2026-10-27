@@ -177,6 +177,111 @@
         }
       },
       "vocab": []
+    },
+    {
+      "id": "lq-vocab-manufacturing-06",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-manufacturing",
+      "stem": "The new machine will increase ___ by 20 percent.",
+      "choices": [
+        "outlook",
+        "outcome",
+        "outline",
+        "output"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Output = production.",
+          "why_wrong": [
+            "A : = perspective.",
+            "B : = résultat.",
+            "C : = plan."
+          ],
+          "example": "Output rose."
+        },
+        "en": {
+          "rule": "Output = amount produced.",
+          "why_wrong": [
+            "A: = prospect.",
+            "B: = result.",
+            "C: = summary."
+          ],
+          "example": "Output rose."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-manufacturing-07",
+      "part": 5,
+      "difficulty": 1,
+      "category": "voc-manufacturing",
+      "stem": "Every product goes through a strict ___ check before shipping.",
+      "choices": [
+        "qualified",
+        "quantity",
+        "qualification",
+        "quality"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Quality control = contrôle qualité.",
+          "why_wrong": [
+            "A : = qualifié.",
+            "B : = quantité.",
+            "C : = qualification."
+          ],
+          "example": "Quality check."
+        },
+        "en": {
+          "rule": "Quality control = checking standards.",
+          "why_wrong": [
+            "A: = skilled.",
+            "B: = amount.",
+            "C: = credential."
+          ],
+          "example": "Quality check."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-manufacturing-08",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-manufacturing",
+      "stem": "The warehouse manager keeps track of ___ levels weekly.",
+      "choices": [
+        "inventory",
+        "invention",
+        "investigation",
+        "investment"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Inventory = stock.",
+          "why_wrong": [
+            "B : = invention.",
+            "C : = enquête.",
+            "D : = investissement."
+          ],
+          "example": "Check the inventory."
+        },
+        "en": {
+          "rule": "Inventory = goods on hand.",
+          "why_wrong": [
+            "B: = new device.",
+            "C: = inquiry.",
+            "D: = money put in."
+          ],
+          "example": "Check the inventory."
+        }
+      },
+      "vocab": []
     }
   ]
 }

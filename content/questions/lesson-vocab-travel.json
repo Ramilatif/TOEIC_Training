@@ -177,6 +177,111 @@
         }
       },
       "vocab": []
+    },
+    {
+      "id": "lq-vocab-travel-06",
+      "part": 5,
+      "difficulty": 1,
+      "category": "voc-travel",
+      "stem": "Please proceed to ___ 14 to board the flight to Madrid.",
+      "choices": [
+        "Game",
+        "Gate",
+        "Gain",
+        "Gap"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Gate = porte d'embarquement.",
+          "why_wrong": [
+            "A : = jeu.",
+            "C : = gain.",
+            "D : = écart."
+          ],
+          "example": "Gate 5."
+        },
+        "en": {
+          "rule": "Gate = boarding door.",
+          "why_wrong": [
+            "A: = match.",
+            "C: = profit.",
+            "D: = space."
+          ],
+          "example": "Gate 5."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-travel-07",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-travel",
+      "stem": "Travelers must pass through ___ before entering the country.",
+      "choices": [
+        "custodians",
+        "customs",
+        "customers",
+        "costumes"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Customs = douane.",
+          "why_wrong": [
+            "A : = gardiens.",
+            "C : = clients.",
+            "D : = déguisements."
+          ],
+          "example": "Go through customs."
+        },
+        "en": {
+          "rule": "Customs = border control.",
+          "why_wrong": [
+            "A: = caretakers.",
+            "C: = buyers.",
+            "D: = clothes."
+          ],
+          "example": "Go through customs."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-travel-08",
+      "part": 5,
+      "difficulty": 1,
+      "category": "voc-travel",
+      "stem": "The hotel offers a free ___ service to and from the airport.",
+      "choices": [
+        "shutter",
+        "shortcut",
+        "shuttle",
+        "shelter"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Shuttle = navette.",
+          "why_wrong": [
+            "A : = volet.",
+            "B : = raccourci.",
+            "D : = abri."
+          ],
+          "example": "Take the shuttle."
+        },
+        "en": {
+          "rule": "Shuttle = scheduled transport.",
+          "why_wrong": [
+            "A: = window cover.",
+            "B: = quick route.",
+            "D: = protection."
+          ],
+          "example": "Take the shuttle."
+        }
+      },
+      "vocab": []
     }
   ]
 }

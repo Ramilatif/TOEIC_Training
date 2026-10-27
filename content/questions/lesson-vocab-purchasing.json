@@ -177,6 +177,111 @@
         }
       },
       "vocab": []
+    },
+    {
+      "id": "lq-vocab-purchasing-06",
+      "part": 5,
+      "difficulty": 1,
+      "category": "voc-purchasing",
+      "stem": "Customers may return unused items within 30 days for a full ___.",
+      "choices": [
+        "reform",
+        "refuse",
+        "refer",
+        "refund"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Refund = remboursement.",
+          "why_wrong": [
+            "A : = réformer.",
+            "B : = refuser.",
+            "C : = se référer."
+          ],
+          "example": "A full refund."
+        },
+        "en": {
+          "rule": "Refund = money back.",
+          "why_wrong": [
+            "A: = change.",
+            "B: = decline.",
+            "C: = mention."
+          ],
+          "example": "A full refund."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-purchasing-07",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-purchasing",
+      "stem": "If the item is ___, we will notify you when it returns to the shelves.",
+      "choices": [
+        "in season",
+        "on sale",
+        "in stock",
+        "out of stock"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Out of stock = en rupture.",
+          "why_wrong": [
+            "A : = de saison.",
+            "B : = en promotion.",
+            "C : Sens opposé."
+          ],
+          "example": "Sold out."
+        },
+        "en": {
+          "rule": "Out of stock = unavailable.",
+          "why_wrong": [
+            "A: = available now.",
+            "B: = discounted.",
+            "C: Opposite meaning."
+          ],
+          "example": "Sold out."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-purchasing-08",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-purchasing",
+      "stem": "Buying in ___ lowers the unit price.",
+      "choices": [
+        "bundle",
+        "bulk",
+        "bubble",
+        "bunch"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "In bulk = en gros.",
+          "why_wrong": [
+            "A : = lot, pack (autre expression).",
+            "C : = bulle.",
+            "D : Informel et rarement employé ainsi."
+          ],
+          "example": "Buy in bulk."
+        },
+        "en": {
+          "rule": "In bulk = in large quantities.",
+          "why_wrong": [
+            "A: = package (other expression).",
+            "C: = air pocket.",
+            "D: Informal, not used so."
+          ],
+          "example": "Buy in bulk."
+        }
+      },
+      "vocab": []
     }
   ]
 }

@@ -55,6 +55,22 @@ En Part 2, une question sur un rendez-vous appelle souvent une réponse sur l'he
 
 Ajoutez ces mots à vos flashcards pour les réviser avec la répétition espacée.
 
+<!-- extra -->
+## Mots complémentaires
+
+| Mot | Traduction | Exemple |
+| --- | --- | --- |
+| **dentist** | dentiste | Visit the dentist. |
+| **nurse** | infirmier | A nurse helped. |
+| **dose** | dose | Take a double dose. |
+| **surgery** | chirurgie | He had surgery. |
+| **therapy** | thérapie | Physical therapy. |
+| **wellness** | bien-être | A wellness program. |
+
+## À retenir
+
+Pensez à la séquence : *appointment → checkup → diagnosis → prescription → pharmacy*.
+
 <!-- lang:en -->
 # Vocabulary: health
 
@@ -90,3 +106,18 @@ Medical appointments, prescriptions, insurance: health topics appear mostly in P
 In Part 2, a question about an appointment often gets an answer about time or availability, not just 'yes'.
 
 Add these words to your flashcards to review them with spaced repetition.
+
+## More words
+
+| Word | Translation | Example |
+| --- | --- | --- |
+| **dentist** | dentiste | Visit the dentist. |
+| **nurse** | infirmier | A nurse helped. |
+| **dose** | dose | Take a double dose. |
+| **surgery** | chirurgie | He had surgery. |
+| **therapy** | thérapie | Physical therapy. |
+| **wellness** | bien-être | A wellness program. |
+
+## Remember
+
+Think of the sequence: *appointment → checkup → diagnosis → prescription → pharmacy*.

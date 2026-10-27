@@ -177,6 +177,111 @@
         }
       },
       "vocab": []
+    },
+    {
+      "id": "lq-vocab-office-06",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-office",
+      "stem": "The printer is out of ___; please order a new cartridge.",
+      "choices": [
+        "tenor",
+        "tonic",
+        "toner",
+        "tuner"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Toner = encre de photocopieuse.",
+          "why_wrong": [
+            "A : = ténor.",
+            "B : = tonique.",
+            "D : = accordeur."
+          ],
+          "example": "Replace the toner."
+        },
+        "en": {
+          "rule": "Toner = printer powder.",
+          "why_wrong": [
+            "A: = singing voice.",
+            "B: = a drink.",
+            "D: = tuning device."
+          ],
+          "example": "Replace the toner."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-office-07",
+      "part": 5,
+      "difficulty": 1,
+      "category": "voc-office",
+      "stem": "Please ___ the old files in the cabinet by year.",
+      "choices": [
+        "shred",
+        "shine",
+        "shake",
+        "shrink"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Shred = déchiqueter.",
+          "why_wrong": [
+            "B : = briller.",
+            "C : = secouer.",
+            "D : = rétrécir."
+          ],
+          "example": "Shred confidential papers."
+        },
+        "en": {
+          "rule": "Shred = destroy paper.",
+          "why_wrong": [
+            "B: = glow.",
+            "C: = move quickly.",
+            "D: = get smaller."
+          ],
+          "example": "Shred confidential papers."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-office-08",
+      "part": 5,
+      "difficulty": 1,
+      "category": "voc-office",
+      "stem": "Mr. Oda sent a ___ to all staff announcing the new dress code.",
+      "choices": [
+        "memo",
+        "menu",
+        "memory",
+        "mood"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Memo = note de service.",
+          "why_wrong": [
+            "B : = carte.",
+            "C : = mémoire.",
+            "D : = humeur."
+          ],
+          "example": "Read the memo."
+        },
+        "en": {
+          "rule": "Memo = internal note.",
+          "why_wrong": [
+            "B: = list of dishes.",
+            "C: = recall.",
+            "D: = feeling."
+          ],
+          "example": "Read the memo."
+        }
+      },
+      "vocab": []
     }
   ]
 }

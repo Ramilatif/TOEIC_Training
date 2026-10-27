@@ -55,6 +55,22 @@ Les verbes à particule (fill out, hand out, sign in) sont fréquents en Part 2 
 
 Ajoutez ces mots à vos flashcards pour les réviser avec la répétition espacée.
 
+<!-- extra -->
+## Mots complémentaires
+
+| Mot | Traduction | Exemple |
+| --- | --- | --- |
+| **cabinet** | meuble de rangement | Keep the files in the cabinet. |
+| **bulletin board** | panneau d'affichage | Post it on the bulletin board. |
+| **submit** | remettre | Submit your request to HR. |
+| **outgoing mail** | courrier départ | Outgoing mail leaves at 4. |
+| **copy machine** | photocopieuse | The copy machine is jammed. |
+| **clerk** | employé de bureau | A clerk filed the papers. |
+
+## À retenir
+
+Les dialogues Part 3 se passent souvent au bureau : *jam* (bourrage), *out of order* (en panne), *supplies* reviennent sans cesse.
+
 <!-- lang:en -->
 # Vocabulary: the office
 
@@ -90,3 +106,18 @@ Everyday office life appears in every part of the TOEIC: supplies, equipment, ma
 Phrasal verbs (fill out, hand out, sign in) are frequent in Parts 2 and 3: learn them as chunks.
 
 Add these words to your flashcards to review them with spaced repetition.
+
+## More words
+
+| Word | Translation | Example |
+| --- | --- | --- |
+| **cabinet** | meuble de rangement | Keep the files in the cabinet. |
+| **bulletin board** | panneau d'affichage | Post it on the bulletin board. |
+| **submit** | remettre | Submit your request to HR. |
+| **outgoing mail** | courrier départ | Outgoing mail leaves at 4. |
+| **copy machine** | photocopieuse | The copy machine is jammed. |
+| **clerk** | employé de bureau | A clerk filed the papers. |
+
+## Remember
+
+Part 3 dialogues often take place in an office: *jam*, *out of order*, *supplies* come back again and again.

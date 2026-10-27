@@ -55,6 +55,22 @@ Recrutement, évaluation, avantages : les RH apparaissent en Parts 3, 4, 6 et 7.
 
 Ajoutez ces mots à vos flashcards pour les réviser avec la répétition espacée.
 
+<!-- extra -->
+## Mots complémentaires
+
+| Mot | Traduction | Exemple |
+| --- | --- | --- |
+| **overtime** | heures supplémentaires | Overtime is paid. |
+| **salary** | salaire | A competitive salary. |
+| **colleague** | collègue | Ask a colleague. |
+| **vacancy** | poste vacant | We have a vacancy. |
+| **qualification** | qualification | She has the right qualifications. |
+| **orientation** | accueil des nouveaux | Orientation starts Monday. |
+
+## À retenir
+
+Annonces d'emploi : *seeking*, *apply*, *résumé*, *qualified*, *benefits* reviennent presque toujours.
+
 <!-- lang:en -->
 # Vocabulary: human resources
 
@@ -90,3 +106,18 @@ Recruitment, reviews, benefits: HR topics appear in Parts 3, 4, 6 and 7.
 'Applicant' (one who applies) and 'candidate' are close: the TOEIC mostly uses 'applicant'.
 
 Add these words to your flashcards to review them with spaced repetition.
+
+## More words
+
+| Word | Translation | Example |
+| --- | --- | --- |
+| **overtime** | heures supplémentaires | Overtime is paid. |
+| **salary** | salaire | A competitive salary. |
+| **colleague** | collègue | Ask a colleague. |
+| **vacancy** | poste vacant | We have a vacancy. |
+| **qualification** | qualification | She has the right qualifications. |
+| **orientation** | accueil des nouveaux | Orientation starts Monday. |
+
+## Remember
+
+Job ads: *seeking*, *apply*, *résumé*, *qualified*, *benefits* come up almost every time.

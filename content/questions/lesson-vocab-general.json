@@ -177,6 +177,111 @@
         }
       },
       "vocab": []
+    },
+    {
+      "id": "lq-vocab-general-06",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-general",
+      "stem": "The two firms announced a ___ that will create the largest supplier in the region.",
+      "choices": [
+        "market",
+        "merger",
+        "margin",
+        "manner"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Merger = fusion.",
+          "why_wrong": [
+            "A : = marché.",
+            "C : = marge.",
+            "D : = manière."
+          ],
+          "example": "A merger was announced."
+        },
+        "en": {
+          "rule": "Merger = joining of companies.",
+          "why_wrong": [
+            "A: = trading area.",
+            "C: = profit gap.",
+            "D: = way."
+          ],
+          "example": "A merger was announced."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-general-07",
+      "part": 5,
+      "difficulty": 1,
+      "category": "voc-general",
+      "stem": "The meeting will last ___ two hours.",
+      "choices": [
+        "approximated",
+        "approximate",
+        "approximation",
+        "approximately"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Approximately = environ.",
+          "why_wrong": [
+            "A : Participe.",
+            "B : Adjectif.",
+            "C : Nom."
+          ],
+          "example": "About 50 people came."
+        },
+        "en": {
+          "rule": "Approximately = about.",
+          "why_wrong": [
+            "A: Participle.",
+            "B: Adjective.",
+            "C: Noun."
+          ],
+          "example": "About 50 people came."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-general-08",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-general",
+      "stem": "She spoke ___ behalf of the entire department.",
+      "choices": [
+        "on",
+        "for",
+        "by",
+        "at"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "On behalf of = au nom de.",
+          "why_wrong": [
+            "B : Expression fixe : « on behalf of ».",
+            "C : Expression fixe : « on behalf of ».",
+            "D : Expression fixe : « on behalf of »."
+          ],
+          "example": "On behalf of the team."
+        },
+        "en": {
+          "rule": "On behalf of = representing.",
+          "why_wrong": [
+            "B: Fixed phrase: 'on behalf of'.",
+            "C: Fixed phrase: 'on behalf of'.",
+            "D: Fixed phrase: 'on behalf of'."
+          ],
+          "example": "On behalf of the team."
+        }
+      },
+      "vocab": []
     }
   ]
 }
