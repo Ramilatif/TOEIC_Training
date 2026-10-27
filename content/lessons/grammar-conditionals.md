@@ -39,6 +39,19 @@ On peut supprimer *if* en inversant : ***Had** we known, we would have acted.* /
 2. Après **unless**, **as long as**, **provided that**, **in case** : présent pour le futur.
 3. **Wish + prétérit** (regret présent) : *I wish I **had** more time.*
 
+<!-- extra -->
+## Pièges des francophones
+
+- **Pas de « will » ni de « would » dans la proposition en if** : *If I **have** time, I will call.* / *If I **had** time, I would call.*
+- **Trois types** : réel (*if + présent → will*), irréel présent (*if + prétérit → would*), irréel passé (*if + had + p.p. → would have + p.p.*).
+- **Inversion formelle** : *Should you need help, call us.* = *If you need help…* ; *Had we known…* = *If we had known…*
+- **Unless** = *if… not*. **Provided that / as long as** = *à condition que*.
+
+## Exemples en contexte
+
+- *If the shipment **arrives** today, we will start Monday.*
+- *Had the team been informed, the error would have been avoided.*
+
 <!-- lang:en -->
 # Conditionals
 
@@ -64,3 +77,15 @@ You can drop *if* by inverting: ***Had** we known, we would have acted.* / ***Sh
 1. **Never *will* or *would* in the *if* clause.**
 2. After **unless**, **as long as**, **provided that**, **in case**: present for the future.
 3. **Wish + simple past** (present regret): *I wish I **had** more time.*
+
+## Traps for French speakers
+
+- **No "will" or "would" in the if-clause**: *If I **have** time, I will call.* / *If I **had** time, I would call.*
+- **Three types**: real (*if + present → will*), unreal present (*if + past → would*), unreal past (*if + had + p.p. → would have + p.p.*).
+- **Formal inversion**: *Should you need help, call us.* = *If you need help…*; *Had we known…* = *If we had known…*
+- **Unless** = *if… not*. **Provided that / as long as** = on condition that.
+
+## Examples in context
+
+- *If the shipment **arrives** today, we will start Monday.*
+- *Had the team been informed, the error would have been avoided.*

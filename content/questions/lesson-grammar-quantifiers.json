@@ -177,6 +177,111 @@
         }
       },
       "vocab": []
+    },
+    {
+      "id": "lq-grammar-quantifiers-06",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-quantifiers",
+      "stem": "We do not have ___ time to finish the proposal.",
+      "choices": [
+        "few",
+        "many",
+        "several",
+        "much"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "much + non dénombrable.",
+          "why_wrong": [
+            "A : « few » va avec un dénombrable pluriel.",
+            "B : « many » va avec un dénombrable pluriel ; « time » est non dénombrable.",
+            "C : « several » va avec un dénombrable pluriel."
+          ],
+          "example": "How much money is left?"
+        },
+        "en": {
+          "rule": "much + uncountable.",
+          "why_wrong": [
+            "A: 'few' goes with countable plurals.",
+            "B: 'many' goes with countable plurals; 'time' is uncountable.",
+            "C: 'several' goes with countable plurals."
+          ],
+          "example": "How much money is left?"
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-quantifiers-07",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-quantifiers",
+      "stem": "___ of the applicants have the required certification, so we have a small pool.",
+      "choices": [
+        "Little",
+        "A little",
+        "Much",
+        "Few"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Few + pluriel = presque aucun.",
+          "why_wrong": [
+            "A : « little » va avec un non dénombrable.",
+            "B : Même problème : « applicants » est dénombrable.",
+            "C : « much » va avec un non dénombrable."
+          ],
+          "example": "Few people came."
+        },
+        "en": {
+          "rule": "Few + plural = hardly any.",
+          "why_wrong": [
+            "A: 'little' goes with uncountable nouns.",
+            "B: Same problem: 'applicants' is countable.",
+            "C: 'much' goes with uncountable nouns."
+          ],
+          "example": "Few people came."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-quantifiers-08",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-quantifiers",
+      "stem": "___ employee must wear an ID badge at all times.",
+      "choices": [
+        "Many",
+        "Every",
+        "All",
+        "Several"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Every / each + nom singulier.",
+          "why_wrong": [
+            "A : « many » appelle un pluriel.",
+            "C : « all » appelle un pluriel ou un non dénombrable.",
+            "D : « several » appelle un pluriel."
+          ],
+          "example": "Every worker is here."
+        },
+        "en": {
+          "rule": "Every / each + singular noun.",
+          "why_wrong": [
+            "A: 'many' needs a plural.",
+            "C: 'all' needs a plural or uncountable noun.",
+            "D: 'several' needs a plural."
+          ],
+          "example": "Every worker is here."
+        }
+      },
+      "vocab": []
     }
   ]
 }

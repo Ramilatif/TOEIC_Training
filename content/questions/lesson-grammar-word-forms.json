@@ -177,6 +177,111 @@
         }
       },
       "vocab": []
+    },
+    {
+      "id": "lq-grammar-word-forms-06",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-word-forms",
+      "stem": "The company's ___ growth has attracted many investors.",
+      "choices": [
+        "rapidness",
+        "rapidity",
+        "rapidly",
+        "rapid"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Devant un nom → adjectif.",
+          "why_wrong": [
+            "A : Nom rare : un adjectif est attendu.",
+            "B : Nom : un adjectif est attendu.",
+            "C : Adverbe : un adjectif est attendu devant un nom."
+          ],
+          "example": "A quick reply."
+        },
+        "en": {
+          "rule": "Before a noun → adjective.",
+          "why_wrong": [
+            "A: Rare noun: an adjective is expected.",
+            "B: Noun: an adjective is expected.",
+            "C: Adverb: an adjective is expected before a noun."
+          ],
+          "example": "A quick reply."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-word-forms-07",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-word-forms",
+      "stem": "Sales have increased ___ since the new campaign.",
+      "choices": [
+        "considerate",
+        "considerably",
+        "considerable",
+        "consideration"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Modifier un verbe → adverbe.",
+          "why_wrong": [
+            "A : Adjectif (prévenant) : mauvais sens et mauvaise nature.",
+            "C : Adjectif : un adverbe est attendu pour modifier « increased ».",
+            "D : Nom : un adverbe est attendu."
+          ],
+          "example": "Prices dropped sharply."
+        },
+        "en": {
+          "rule": "Modifying a verb → adverb.",
+          "why_wrong": [
+            "A: Adjective (thoughtful): wrong meaning and wrong word class.",
+            "C: Adjective: an adverb is needed to modify 'increased'.",
+            "D: Noun: an adverb is expected."
+          ],
+          "example": "Prices dropped sharply."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-word-forms-08",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-word-forms",
+      "stem": "Mr. Ito's ___ to the team was recognized with an award.",
+      "choices": [
+        "contributing",
+        "contribution",
+        "contribute",
+        "contributive"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Après un possessif → nom.",
+          "why_wrong": [
+            "A : Gérondif ou participe : le sens ne convient pas ici.",
+            "C : Verbe : un nom est attendu après « 's ».",
+            "D : Adjectif rare : un nom est attendu."
+          ],
+          "example": "Her decision was wise."
+        },
+        "en": {
+          "rule": "After a possessive → noun.",
+          "why_wrong": [
+            "A: Gerund or participle: the meaning does not fit here.",
+            "C: Verb: a noun is expected after \"'s\".",
+            "D: Rare adjective: a noun is expected."
+          ],
+          "example": "Her decision was wise."
+        }
+      },
+      "vocab": []
     }
   ]
 }

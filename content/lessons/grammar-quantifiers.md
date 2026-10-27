@@ -43,6 +43,20 @@ Le choix dépend de la nature du nom : **dénombrable** (pluriel) ou **indénomb
 3. **All / both** + *of the* : *all of the files*.
 4. **A number of** (pluriel) ≠ **the number of** (singulier).
 
+<!-- extra -->
+## Pièges des francophones
+
+- **many / few / a few** + dénombrable pluriel ; **much / little / a little** + non dénombrable. *many employees, much information*.
+- **few / little** = presque pas (négatif) ; **a few / a little** = quelques (positif).
+- **a lot of / lots of** : informel mais admis dans les deux cas.
+- **Each / every / any / all** : *each* + singulier, *all* + pluriel ou non dénombrable, *any* surtout en négation et question.
+- **Pas de « of » devant un nom sans déterminant** : *most **employees*** mais *most **of the** employees*.
+
+## Exemples en contexte
+
+- *We received **few** applications, so we extended the deadline.*
+- *There is **little** time left before the deadline.*
+
 <!-- lang:en -->
 # Quantifiers
 
@@ -72,3 +86,16 @@ The choice depends on the noun: **countable** (plural) or **uncountable**.
 2. **Each / every / either / neither** → singular.
 3. **All / both** + *of the*: *all of the files*.
 4. **A number of** (plural) ≠ **the number of** (singular).
+
+## Traps for French speakers
+
+- **many / few / a few** + countable plural; **much / little / a little** + uncountable. *many employees, much information*.
+- **few / little** = hardly any (negative); **a few / a little** = some (positive).
+- **a lot of / lots of**: informal but fine with both.
+- **Each / every / any / all**: *each* + singular, *all* + plural or uncountable, *any* mostly in negatives and questions.
+- **No "of" before a noun without a determiner**: *most **employees*** but *most **of the** employees*.
+
+## Examples in context
+
+- *We received **few** applications, so we extended the deadline.*
+- *There is **little** time left before the deadline.*

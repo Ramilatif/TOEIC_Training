@@ -45,6 +45,20 @@ L'inversion sujet-auxiliaire apparaît après certains mots négatifs ou restric
 
 Dans une question rapportée, **plus d'inversion** : *She asked where **the file was**.* (et non *where was the file*).
 
+<!-- extra -->
+## Pièges des francophones
+
+- **Concordance des temps** : si le verbe introducteur est au passé, on « recule » d'un temps. *"I **am** busy"* → *He said he **was** busy.*
+- **Pas de ponctuation ni d'inversion** dans le discours rapporté : *She asked **where the office was*** (pas *where was the office*).
+- **say vs tell** : *say (that)…*, *tell + personne + (that)…* : *He **told me** he was late.*
+- **Questions indirectes** : *if / whether* pour oui/non.
+- **Inversion avec adverbe négatif** (TOEIC) : *Rarely **do we** see…*, *Not only **did he** arrive late…*
+
+## Exemples en contexte
+
+- *The manager said that the report **would be** ready by noon.*
+- *He asked **whether** the meeting had been cancelled.*
+
 <!-- lang:en -->
 # Reported speech and inversion
 
@@ -76,3 +90,16 @@ Subject-auxiliary inversion appears after some negative or restrictive words at 
 ## Trap
 
 In a reported question there is **no inversion**: *She asked where **the file was**.* (not *where was the file*).
+
+## Traps for French speakers
+
+- **Backshift**: if the reporting verb is in the past, tenses move back. *"I **am** busy"* → *He said he **was** busy.*
+- **No question inversion** in reported speech: *She asked **where the office was*** (not "where was the office").
+- **say vs tell**: *say (that)…*, *tell + person + (that)…*: *He **told me** he was late.*
+- **Indirect questions**: *if / whether* for yes/no.
+- **Inversion after negative adverbs** (TOEIC): *Rarely **do we** see…*, *Not only **did he** arrive late…*
+
+## Examples in context
+
+- *The manager said that the report **would be** ready by noon.*
+- *He asked **whether** the meeting had been cancelled.*

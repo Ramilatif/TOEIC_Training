@@ -41,6 +41,20 @@ vocab:
 2. **Pas d'article** devant un possessif : *the my report* est faux.
 3. **Nom indénombrable** (advice, equipment, furniture, information) : jamais *a* ni de pluriel.
 
+<!-- extra -->
+## Pièges des francophones
+
+- **Pas d'article devant un nom non dénombrable général** : *Information is power.* (en français : « l'information »).
+- **a / an selon le son** : *an hour, an MBA* (son voyelle), *a university, a European firm* (son consonne).
+- **the** pour ce qui est déjà identifié ou unique : *the CEO, the report we discussed*.
+- **Pas de « the » avec les noms de villes, de personnes, de jours seuls** : *in Paris, on Monday*.
+- **Déterminants distincts** : *this/these* (proche), *that/those* (éloigné) ; *another* + singulier, *other* + pluriel.
+
+## Exemples en contexte
+
+- *She is **an** honest manager.*
+- *We need **another** copy of **the** contract.*
+
 <!-- lang:en -->
 # Articles and determiners
 
@@ -68,3 +82,16 @@ vocab:
 1. **another + plural noun** is wrong (except *another two days*).
 2. **No article** before a possessive: *the my report* is wrong.
 3. **Uncountable nouns** (advice, equipment, furniture, information): never *a* or a plural.
+
+## Traps for French speakers
+
+- **No article before a general uncountable noun**: *Information is power.* (French says "l'information").
+- **a / an depends on the sound**: *an hour, an MBA* (vowel sound), *a university, a European firm* (consonant sound).
+- **the** for something already identified or unique: *the CEO, the report we discussed*.
+- **No "the" with cities, people, or days alone**: *in Paris, on Monday*.
+- **Distinct determiners**: *this/these* (near), *that/those* (far); *another* + singular, *other* + plural.
+
+## Examples in context
+
+- *She is **an** honest manager.*
+- *We need **another** copy of **the** contract.*

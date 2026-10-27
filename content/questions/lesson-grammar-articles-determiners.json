@@ -177,6 +177,111 @@
         }
       },
       "vocab": []
+    },
+    {
+      "id": "lq-grammar-articles-determiners-06",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-articles-determiners",
+      "stem": "Ms. Alvarez has been working as ___ interpreter for ten years.",
+      "choices": [
+        "a",
+        "(aucun article)",
+        "an",
+        "the"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "an devant un son voyelle.",
+          "why_wrong": [
+            "A : « interpreter » commence par un son voyelle : « an ».",
+            "B : Un métier singulier dénombrable exige un article.",
+            "D : Pas de référence précise : article indéfini attendu."
+          ],
+          "example": "an hour, an umbrella"
+        },
+        "en": {
+          "rule": "an before a vowel sound.",
+          "why_wrong": [
+            "A: 'interpreter' starts with a vowel sound: 'an'.",
+            "B: A singular countable job title requires an article.",
+            "D: No specific reference: an indefinite article is expected."
+          ],
+          "example": "an hour, an umbrella"
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-articles-determiners-07",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-articles-determiners",
+      "stem": "Please send me ___ about your latest products.",
+      "choices": [
+        "informations",
+        "an information",
+        "some informations",
+        "information"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Information, advice, news : jamais de « s » ni de « a ».",
+          "why_wrong": [
+            "A : Pas de pluriel en anglais.",
+            "B : « information » est non dénombrable : pas d'article indéfini.",
+            "C : Même erreur : pas de pluriel."
+          ],
+          "example": "Thanks for the advice."
+        },
+        "en": {
+          "rule": "Information, advice, news: never 's' or 'a'.",
+          "why_wrong": [
+            "A: No plural in English.",
+            "B: 'information' is uncountable: no indefinite article.",
+            "C: Same error: no plural."
+          ],
+          "example": "Thanks for the advice."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-articles-determiners-08",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-articles-determiners",
+      "stem": "We still need ___ two weeks to complete the renovation.",
+      "choices": [
+        "others",
+        "other",
+        "the others",
+        "another"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "another + nombre + pluriel = encore…",
+          "why_wrong": [
+            "A : Pronom sans nom à la suite.",
+            "B : « other » se place avant un pluriel sans nombre ; ici le nombre précède.",
+            "C : Pronom défini : incorrect devant « two weeks »."
+          ],
+          "example": "I need another three days."
+        },
+        "en": {
+          "rule": "another + number + plural = a further…",
+          "why_wrong": [
+            "A: Pronoun with no noun following.",
+            "B: 'other' needs a plural noun without a number before it.",
+            "C: Definite pronoun: incorrect before 'two weeks'."
+          ],
+          "example": "I need another three days."
+        }
+      },
+      "vocab": []
     }
   ]
 }

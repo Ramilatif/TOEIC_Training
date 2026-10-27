@@ -39,6 +39,19 @@ La question la plus fréquente de la Part 5 : **quelle catégorie grammaticale**
 
 Gardez le sens : *economic* (qui concerne l'économie) ≠ *economical* (économe) ; *considerable* (important) ≠ *considerate* (prévenant).
 
+<!-- extra -->
+## Pièges des francophones
+
+- **Raisonner par position** : *après un article/adjectif → nom* ; *après un sujet → verbe* ; *avant un adjectif → adverbe* ; *entre « be » et un nom → adjectif*.
+- **Suffixes de noms** : -tion, -ment, -ness, -ity, -ance/-ence, -er/-or (personne). **Adjectifs** : -ful, -ous, -able, -ive, -al, -ic. **Adverbes** : -ly.
+- **Faux amis de dérivation** : *economic* (relatif à l'économie) ≠ *economical* (économique, bon marché) ; *considerable* (important) ≠ *considerate* (prévenant).
+- **Adverbes sans -ly** : *fast, hard, late* (≠ *hardly*, *lately*).
+
+## Exemples en contexte
+
+- *The **successful** applicant will start in May.*
+- *Prices have risen **significantly**.*
+
 <!-- lang:en -->
 # Word forms
 
@@ -64,3 +77,15 @@ The most frequent Part 5 question: **which part of speech** does the blank need?
 ## Trap
 
 Keep the meaning in mind: *economic* (about the economy) ≠ *economical* (thrifty); *considerable* (large) ≠ *considerate* (thoughtful).
+
+## Traps for French speakers
+
+- **Reason by position**: *after an article/adjective → noun*; *after a subject → verb*; *before an adjective → adverb*; *between "be" and a noun → adjective*.
+- **Noun suffixes**: -tion, -ment, -ness, -ity, -ance/-ence, -er/-or (person). **Adjectives**: -ful, -ous, -able, -ive, -al, -ic. **Adverbs**: -ly.
+- **Derivation look-alikes**: *economic* (about the economy) ≠ *economical* (cheap, thrifty); *considerable* (large) ≠ *considerate* (thoughtful).
+- **Adverbs without -ly**: *fast, hard, late* (≠ *hardly*, *lately*).
+
+## Examples in context
+
+- *The **successful** applicant will start in May.*
+- *Prices have risen **significantly**.*

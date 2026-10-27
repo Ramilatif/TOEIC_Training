@@ -177,6 +177,111 @@
         }
       },
       "vocab": []
+    },
+    {
+      "id": "lq-grammar-conditionals-06",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-conditionals",
+      "stem": "If the budget ___ approved, we will hire two more analysts.",
+      "choices": [
+        "was being",
+        "will be",
+        "would be",
+        "is"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "If + présent → will + verbe.",
+          "why_wrong": [
+            "A : Forme progressive passée : sens incorrect.",
+            "B : Pas de « will » dans la proposition en « if ».",
+            "C : « would » appartient à l'irréel, pas au conditionnel réel."
+          ],
+          "example": "If it rains, we will stay."
+        },
+        "en": {
+          "rule": "If + present → will + verb.",
+          "why_wrong": [
+            "A: Past progressive: wrong meaning.",
+            "B: No 'will' in the if-clause.",
+            "C: 'would' belongs to the unreal conditional, not the real one."
+          ],
+          "example": "If it rains, we will stay."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-conditionals-07",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-conditionals",
+      "stem": "If I ___ more experience, I would apply for the director position.",
+      "choices": [
+        "would have",
+        "will have",
+        "had",
+        "have"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "If + prétérit → would + verbe.",
+          "why_wrong": [
+            "A : « would » ne va pas dans la proposition en « if ».",
+            "B : « will » est interdit dans la proposition en « if ».",
+            "D : Irréel du présent : « if + prétérit »."
+          ],
+          "example": "If I were you, I would wait."
+        },
+        "en": {
+          "rule": "If + past → would + verb.",
+          "why_wrong": [
+            "A: 'would' does not go in the if-clause.",
+            "B: 'will' is not allowed in the if-clause.",
+            "D: Unreal present: 'if + past'."
+          ],
+          "example": "If I were you, I would wait."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-conditionals-08",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-conditionals",
+      "stem": "___ you require further assistance, please contact our help desk.",
+      "choices": [
+        "Had",
+        "Unless",
+        "Would",
+        "Should"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Should + sujet + verbe = if + présent (formel).",
+          "why_wrong": [
+            "A : « Had » exige un participe passé (irréel passé).",
+            "B : « Unless » ne s'inverse pas et contient une négation.",
+            "C : « Would you require » n'est pas la tournure d'inversion conditionnelle."
+          ],
+          "example": "Should you have questions, call me."
+        },
+        "en": {
+          "rule": "Should + subject + verb = if + present (formal).",
+          "why_wrong": [
+            "A: 'Had' requires a past participle (unreal past).",
+            "B: 'Unless' does not invert and already contains a negation.",
+            "C: 'Would you require' is not the conditional inversion."
+          ],
+          "example": "Should you have questions, call me."
+        }
+      },
+      "vocab": []
     }
   ]
 }

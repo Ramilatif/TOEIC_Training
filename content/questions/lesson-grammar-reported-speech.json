@@ -177,6 +177,111 @@
         }
       },
       "vocab": []
+    },
+    {
+      "id": "lq-grammar-reported-speech-06",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-reported-speech",
+      "stem": "The director told ___ that the contract would be signed on Friday.",
+      "choices": [
+        "that",
+        "us",
+        "to us",
+        "for us"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "tell + personne + that…",
+          "why_wrong": [
+            "A : Il manque la personne après « told ».",
+            "C : « tell » est suivi directement de la personne.",
+            "D : Préposition inutile."
+          ],
+          "example": "She told me to wait."
+        },
+        "en": {
+          "rule": "tell + person + that…",
+          "why_wrong": [
+            "A: The person after 'told' is missing.",
+            "C: 'tell' is followed directly by the person.",
+            "D: Unnecessary preposition."
+          ],
+          "example": "She told me to wait."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-reported-speech-07",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-reported-speech",
+      "stem": "She asked me where ___ the previous week.",
+      "choices": [
+        "I had been",
+        "had I been",
+        "was I",
+        "I am"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Question indirecte : ordre sujet-verbe + recul du temps.",
+          "why_wrong": [
+            "B : Pas d'inversion dans une question indirecte.",
+            "C : Inversion et temps incorrects.",
+            "D : Pas de recul du temps après « asked » au passé."
+          ],
+          "example": "He asked where I lived."
+        },
+        "en": {
+          "rule": "Indirect question: subject-verb order + backshift.",
+          "why_wrong": [
+            "B: No inversion in an indirect question.",
+            "C: Wrong inversion and tense.",
+            "D: No backshift after past 'asked'."
+          ],
+          "example": "He asked where I lived."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-reported-speech-08",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-reported-speech",
+      "stem": "Not only ___ the deadline, but they also exceeded the budget.",
+      "choices": [
+        "missed they",
+        "they missed",
+        "they did miss",
+        "did they miss"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Not only + auxiliaire + sujet + verbe.",
+          "why_wrong": [
+            "A : Inversion avec le verbe lexical : incorrect.",
+            "B : Après « not only » en tête de phrase, l'inversion est obligatoire.",
+            "C : Pas d'inversion : incorrect."
+          ],
+          "example": "Never have I seen this."
+        },
+        "en": {
+          "rule": "Not only + auxiliary + subject + verb.",
+          "why_wrong": [
+            "A: Inversion with the lexical verb: incorrect.",
+            "B: After sentence-initial 'not only', inversion is required.",
+            "C: No inversion: incorrect."
+          ],
+          "example": "Never have I seen this."
+        }
+      },
+      "vocab": []
     }
   ]
 }

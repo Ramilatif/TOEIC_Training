@@ -42,6 +42,20 @@ Un modal est suivi du **verbe à l'infinitif sans *to*** et ne prend jamais de *
 2. **Pas de double modal** : *will can* → *will be able to*.
 3. **Pas de -s** à la 3e personne : *she can*, pas *she cans*.
 
+<!-- extra -->
+## Pièges des francophones
+
+- **Pas de « to » après un modal** : *must **leave***, *can **attend*** (jamais *must to leave*). Exception : *have to, ought to, be able to*.
+- **Pas de -s à la 3e personne** : *She **can** help* (pas *cans*).
+- **Obligation** : *must* (forte), *have to* (externe), *should* (conseil). Interdiction : *must not* ≠ absence d'obligation : *don't have to*.
+- **Probabilité** : *must* (quasi certain), *may/might* (possible), *can't* (impossible).
+- **Passé** : *should have + p.p.* (reproche), *could have + p.p.* (possibilité manquée).
+
+## Exemples en contexte
+
+- *Visitors **must not** enter without a badge.*
+- *You **don't have to** attend, but it is recommended.*
+
 <!-- lang:en -->
 # Modal verbs
 
@@ -70,3 +84,16 @@ A modal is followed by the **bare infinitive** (no *to*) and never takes *-s* or
 1. **No *to* after a modal**: *can **to** go* is wrong.
 2. **No double modal**: *will can* → *will be able to*.
 3. **No -s** in the third person: *she can*, not *she cans*.
+
+## Traps for French speakers
+
+- **No "to" after a modal**: *must **leave***, *can **attend*** (never "must to leave"). Exceptions: *have to, ought to, be able to*.
+- **No -s in the third person**: *She **can** help* (not "cans").
+- **Obligation**: *must* (strong), *have to* (external), *should* (advice). Prohibition: *must not* ≠ no obligation: *don't have to*.
+- **Probability**: *must* (almost certain), *may/might* (possible), *can't* (impossible).
+- **Past**: *should have + p.p.* (criticism), *could have + p.p.* (missed possibility).
+
+## Examples in context
+
+- *Visitors **must not** enter without a badge.*
+- *You **don't have to** attend, but it is recommended.*

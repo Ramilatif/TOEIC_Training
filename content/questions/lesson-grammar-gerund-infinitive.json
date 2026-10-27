@@ -177,6 +177,111 @@
         }
       },
       "vocab": []
+    },
+    {
+      "id": "lq-grammar-gerund-infinitive-06",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-gerund-infinitive",
+      "stem": "The manager suggested ___ the meeting to Thursday.",
+      "choices": [
+        "moving",
+        "move",
+        "to moving",
+        "to move"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "suggest, avoid, consider + -ing.",
+          "why_wrong": [
+            "B : Forme de base : incorrecte après « suggested ».",
+            "C : Mélange des deux constructions.",
+            "D : « suggest » est suivi du gérondif."
+          ],
+          "example": "I suggest leaving early."
+        },
+        "en": {
+          "rule": "suggest, avoid, consider + -ing.",
+          "why_wrong": [
+            "B: Base form: incorrect after 'suggested'.",
+            "C: Mixes the two constructions.",
+            "D: 'suggest' is followed by a gerund."
+          ],
+          "example": "I suggest leaving early."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-gerund-infinitive-07",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-gerund-infinitive",
+      "stem": "We look forward to ___ you at the conference.",
+      "choices": [
+        "see",
+        "seeing",
+        "to see",
+        "have seen"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "look forward to + -ing.",
+          "why_wrong": [
+            "A : Après « look forward to » (to = préposition) : -ing.",
+            "C : Double « to » : incorrect.",
+            "D : Forme parfaite : incorrecte ici."
+          ],
+          "example": "I look forward to meeting you."
+        },
+        "en": {
+          "rule": "look forward to + -ing.",
+          "why_wrong": [
+            "A: After 'look forward to' (to = preposition): -ing.",
+            "C: Double 'to': incorrect.",
+            "D: Perfect form: incorrect here."
+          ],
+          "example": "I look forward to meeting you."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-gerund-infinitive-08",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-gerund-infinitive",
+      "stem": "The company can no longer afford ___ its employees overtime.",
+      "choices": [
+        "paying",
+        "being paid",
+        "pay",
+        "to pay"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "afford, decide, plan, agree + to + verbe.",
+          "why_wrong": [
+            "A : « afford » est suivi de l'infinitif.",
+            "B : Passif : le sujet paie, il ne reçoit pas.",
+            "C : Forme de base sans « to » : incorrecte."
+          ],
+          "example": "We decided to wait."
+        },
+        "en": {
+          "rule": "afford, decide, plan, agree + to + verb.",
+          "why_wrong": [
+            "A: 'afford' is followed by an infinitive.",
+            "B: Passive: the subject pays, it does not receive.",
+            "C: Base form without 'to': incorrect."
+          ],
+          "example": "We decided to wait."
+        }
+      },
+      "vocab": []
     }
   ]
 }

@@ -177,6 +177,111 @@
         }
       },
       "vocab": []
+    },
+    {
+      "id": "lq-grammar-modals-06",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-modals",
+      "stem": "Employees ___ wear safety goggles in the laboratory; it is mandatory.",
+      "choices": [
+        "might",
+        "may",
+        "must",
+        "could"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "must = obligation forte.",
+          "why_wrong": [
+            "A : « might » exprime une possibilité faible.",
+            "B : « may » exprime la permission ou la possibilité, pas l'obligation.",
+            "D : « could » exprime une capacité ou possibilité passée."
+          ],
+          "example": "You must sign here."
+        },
+        "en": {
+          "rule": "must = strong obligation.",
+          "why_wrong": [
+            "A: 'might' expresses weak possibility.",
+            "B: 'may' expresses permission or possibility, not obligation.",
+            "D: 'could' expresses ability or past possibility."
+          ],
+          "example": "You must sign here."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-modals-07",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-modals",
+      "stem": "Passengers ___ to check in online, but they may also use the kiosk.",
+      "choices": [
+        "cannot",
+        "must not",
+        "do not have to",
+        "would not"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "don't have to = pas obligé ; must not = interdit.",
+          "why_wrong": [
+            "A : Impossible : contredit « they may also ».",
+            "B : « must not » = interdit ; ici c'est facultatif.",
+            "D : Sens incorrect (hypothèse)."
+          ],
+          "example": "You don't have to pay."
+        },
+        "en": {
+          "rule": "don't have to = not required; must not = forbidden.",
+          "why_wrong": [
+            "A: Impossible: contradicts 'they may also'.",
+            "B: 'must not' = forbidden; here it is optional.",
+            "D: Wrong meaning (hypothetical)."
+          ],
+          "example": "You don't have to pay."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-modals-08",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-modals",
+      "stem": "The report was late; you ___ have informed us earlier.",
+      "choices": [
+        "can",
+        "must",
+        "will",
+        "should"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "should have + p.p. = reproche sur le passé.",
+          "why_wrong": [
+            "A : « can have » n'existe pas dans cet emploi.",
+            "B : « must have » exprime une déduction, pas un reproche.",
+            "C : « will have » parle du futur."
+          ],
+          "example": "You should have called."
+        },
+        "en": {
+          "rule": "should have + p.p. = criticism about the past.",
+          "why_wrong": [
+            "A: 'can have' is not used this way.",
+            "B: 'must have' expresses deduction, not criticism.",
+            "C: 'will have' refers to the future."
+          ],
+          "example": "You should have called."
+        }
+      },
+      "vocab": []
     }
   ]
 }

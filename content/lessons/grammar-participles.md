@@ -46,6 +46,19 @@ Règle rapide : une **personne** qui ressent → *-ed* ; une **chose** qui provo
 
 Le sujet de la proposition participiale doit être **le même** que celui de la principale : *Walking home, **the rain** started* est faux.
 
+<!-- extra -->
+## Pièges des francophones
+
+- **-ing = qui fait / cause**, **-ed = qui subit / ressent**. *The meeting was **boring*** (ennuyeux) / *I was **bored*** (ennuyé).
+- **Participe en début de phrase** : le sujet de la phrase principale doit faire l'action. *Having finished the report, **Ms. Cho** left.*
+- **Adjectifs participes fréquents** : *an exciting offer, a satisfied customer, the attached file, the enclosed form, a detailed report*.
+- **Participe présent = temps simultané**, **parfait** (*having + p.p.*) = action antérieure.
+
+## Exemples en contexte
+
+- *The **revised** schedule is attached.*
+- *Employees **working** overtime must record their hours.*
+
 <!-- lang:en -->
 # Participles
 
@@ -78,3 +91,15 @@ Quick rule: a **person** who feels → *-ed*; a **thing** that causes → *-ing*
 ## Trap
 
 The subject of the participial clause must be **the same** as the main clause: *Walking home, **the rain** started* is wrong.
+
+## Traps for French speakers
+
+- **-ing = does / causes**, **-ed = receives / feels**. *The meeting was **boring*** / *I was **bored***.
+- **Participle at the start of a sentence**: the subject of the main clause must do the action. *Having finished the report, **Ms. Cho** left.*
+- **Frequent participle adjectives**: *an exciting offer, a satisfied customer, the attached file, the enclosed form, a detailed report*.
+- **Present participle = simultaneous**, **perfect** (*having + p.p.*) = earlier action.
+
+## Examples in context
+
+- *The **revised** schedule is attached.*
+- *Employees **working** overtime must record their hours.*

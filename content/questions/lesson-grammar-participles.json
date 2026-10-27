@@ -177,6 +177,111 @@
         }
       },
       "vocab": []
+    },
+    {
+      "id": "lq-grammar-participles-06",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-participles",
+      "stem": "The customers were ___ with the quick service.",
+      "choices": [
+        "satisfied",
+        "satisfying",
+        "satisfaction",
+        "satisfy"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Personne qui ressent → -ed.",
+          "why_wrong": [
+            "B : -ing = qui cause la satisfaction ; les clients la ressentent.",
+            "C : Nom : un adjectif est attendu après « were ».",
+            "D : Forme verbale de base."
+          ],
+          "example": "He was surprised."
+        },
+        "en": {
+          "rule": "Person who feels → -ed.",
+          "why_wrong": [
+            "B: -ing = causes satisfaction; customers feel it.",
+            "C: Noun: an adjective is expected after 'were'.",
+            "D: Base verb form."
+          ],
+          "example": "He was surprised."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-participles-07",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-participles",
+      "stem": "Please complete the ___ form and return it by Friday.",
+      "choices": [
+        "attached",
+        "attaching",
+        "attachment",
+        "attach"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Chose qui subit l'action → -ed.",
+          "why_wrong": [
+            "B : -ing = qui attache ; le formulaire est attaché.",
+            "C : Nom : le sens « attaché » est adjectival.",
+            "D : Verbe à la forme de base."
+          ],
+          "example": "The enclosed brochure is free."
+        },
+        "en": {
+          "rule": "Thing receiving the action → -ed.",
+          "why_wrong": [
+            "B: -ing = that attaches; the form is attached.",
+            "C: Noun: the 'attached' meaning is adjectival.",
+            "D: Base verb form."
+          ],
+          "example": "The enclosed brochure is free."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-participles-08",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-participles",
+      "stem": "___ the contract carefully, the lawyer found several errors.",
+      "choices": [
+        "Review",
+        "Having reviewed",
+        "Reviewed",
+        "To review"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Having + p.p. = action antérieure faite par le sujet.",
+          "why_wrong": [
+            "A : Forme de base : incorrecte en tête de phrase.",
+            "C : Passif : le juriste fait l'action.",
+            "D : Infinitif de but, sens différent."
+          ],
+          "example": "Having eaten, we left."
+        },
+        "en": {
+          "rule": "Having + p.p. = earlier action done by the subject.",
+          "why_wrong": [
+            "A: Base form: incorrect at sentence start.",
+            "C: Passive: the lawyer does the action.",
+            "D: Infinitive of purpose, different meaning."
+          ],
+          "example": "Having eaten, we left."
+        }
+      },
+      "vocab": []
     }
   ]
 }

@@ -44,6 +44,20 @@ Après un verbe, on choisit entre **-ing** (gérondif) et **to + verbe** (infini
 - **But** : *in order **to** + verbe*.
 - **Adjectif + to + verbe** : *ready to start*, *eager to learn*.
 
+<!-- extra -->
+## Pièges des francophones
+
+- **Verbes suivis du gérondif (-ing)** : *enjoy, avoid, consider, suggest, finish, postpone, recommend, mind, keep*. *We **considered hiring** him.*
+- **Verbes suivis de l'infinitif (to)** : *decide, plan, hope, expect, agree, refuse, manage, afford, intend*. *They **decided to relocate**.*
+- **Après une préposition : toujours -ing** : *interested **in working***, *look forward **to meeting*** (ici « to » est une préposition !).
+- **Changement de sens** : *remember/forget/stop + -ing* (passé) ≠ *+ to* (action à faire). *Stop to call* = s'arrêter pour appeler.
+- **But : to + verbe** : *We use this tool **to track** sales.*
+
+## Exemples en contexte
+
+- *We look forward to **hearing** from you.*
+- *The company agreed **to extend** the deadline.*
+
 <!-- lang:en -->
 # Gerund and infinitive
 
@@ -74,3 +88,16 @@ After a verb, choose between **-ing** (gerund) and **to + verb** (infinitive) de
 - **After a preposition**: always the gerund: *by **signing***, *before **leaving***.
 - **Purpose**: *in order **to** + verb*.
 - **Adjective + to + verb**: *ready to start*, *eager to learn*.
+
+## Traps for French speakers
+
+- **Verbs followed by a gerund (-ing)**: *enjoy, avoid, consider, suggest, finish, postpone, recommend, mind, keep*. *We **considered hiring** him.*
+- **Verbs followed by an infinitive (to)**: *decide, plan, hope, expect, agree, refuse, manage, afford, intend*. *They **decided to relocate**.*
+- **After a preposition: always -ing**: *interested **in working***, *look forward **to meeting*** ("to" is a preposition here!).
+- **Change of meaning**: *remember/forget/stop + -ing* (past) ≠ *+ to* (action to do). *Stop to call* = stop in order to call.
+- **Purpose: to + verb**: *We use this tool **to track** sales.*
+
+## Examples in context
+
+- *We look forward to **hearing** from you.*
+- *The company agreed **to extend** the deadline.*
