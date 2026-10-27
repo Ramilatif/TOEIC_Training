@@ -28,9 +28,9 @@
 | Part 4 | 60                | 60                  | oui           |
 | Part 5 | 60 (+60 extension)| 120                | oui           |
 | Part 6 | 32                | 32                  | oui           |
-| Part 7 | 108               | 108                  | oui           |
+| Part 7 | 108 (+54 extension)| 162                 | oui           |
 
-Leçons : grammaire 18 · vocabulaire 16 · méthodologie 7 = 41 leçons. Les 16 leçons de grammaire d'origine ont une section « Pièges des francophones » et 8 questions de quiz ; les 5 nouvelles (liaison, adverbes, faux amis, phrasal verbs, courriels) 8 questions ; vocabulaire et méthodologie d'origine : 5 questions.
+Leçons : grammaire 18 · vocabulaire 16 · méthodologie 7 = 41 leçons ; tous les quiz ont 8 questions. Les 16 leçons de grammaire d'origine ont une section « Pièges des francophones » et 8 questions de quiz ; les 5 nouvelles (liaison, adverbes, faux amis, phrasal verbs, courriels) 8 questions ; vocabulaire et méthodologie d'origine : 5 questions.
 
 ## Journal des décisions
 
@@ -58,7 +58,7 @@ Leçons : grammaire 18 · vocabulaire 16 · méthodologie 7 = 41 leçons. Les 16
 2026-10-26 — Poste de dev Windows 11 (et non Arch comme dans PROMPT.md) — décision de l utilisateur ; commandes Docker/Node identiques
 
 2026-10-27 — Extension du contenu à la demande de l'utilisateur : cours de grammaire enrichis (pièges de francophones, exemples, quiz 8 questions), 5 nouveaux cours, lot part5-batch03 (60 questions, dont 28 de vocabulaire). Les catégories ne changent pas ; plusieurs leçons peuvent partager une catégorie (le lien « leçon liée » prend la première par id)
-2026-10-27 — Reste à faire dans cette extension : quiz des 14 leçons de vocabulaire et 7 de méthodologie à 8 questions, lots Part 7 supplémentaires
+2026-10-27 — Extension terminée : quiz de vocabulaire et de méthodologie à 8 questions (+ « mots complémentaires » / « plan d'entraînement »), lot part7-batch05 (54 questions : 10 passages simples, 2 doubles, 3 triples). Banque d'examen : 514 questions
 
 ## Problèmes rencontrés
 
