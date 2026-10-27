@@ -1,0 +1,287 @@
+{
+  "batch": "lesson-vocab-business-emails",
+  "part": 5,
+  "passages": [],
+  "questions": [
+    {
+      "id": "lq-vocab-business-emails-01",
+      "part": 5,
+      "difficulty": 1,
+      "category": "voc-office",
+      "stem": "Please find the contract ___ to this email.",
+      "choices": [
+        "attaching",
+        "attached",
+        "enclosed",
+        "attachment"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "attached = joint à un e-mail.",
+          "why_wrong": [
+            "A : Participe présent incorrect ici.",
+            "C : S'emploie pour un courrier papier (dans l'enveloppe).",
+            "D : Nom : un participe est attendu."
+          ],
+          "example": "See the attached file."
+        },
+        "en": {
+          "rule": "attached = included with an email.",
+          "why_wrong": [
+            "A: Present participle incorrect here.",
+            "C: Used for paper mail (inside the envelope).",
+            "D: Noun: a participle is expected."
+          ],
+          "example": "See the attached file."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-business-emails-02",
+      "part": 5,
+      "difficulty": 1,
+      "category": "voc-office",
+      "stem": "I am writing ___ about the status of my order.",
+      "choices": [
+        "inquire",
+        "inquiring",
+        "to inquire",
+        "for inquire"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "I am writing to + verbe.",
+          "why_wrong": [
+            "A : Il faut « to » devant le verbe de but.",
+            "B : Gérondif incorrect après « writing ».",
+            "D : Construction incorrecte."
+          ],
+          "example": "I am writing to apply."
+        },
+        "en": {
+          "rule": "I am writing to + verb.",
+          "why_wrong": [
+            "A: 'to' is needed before the verb of purpose.",
+            "B: Incorrect gerund after 'writing'.",
+            "D: Incorrect construction."
+          ],
+          "example": "I am writing to apply."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-business-emails-03",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-office",
+      "stem": "Please reply ___ so that we can finalize the schedule.",
+      "choices": [
+        "on your early convenient",
+        "in your convenient",
+        "at your earliest convenience",
+        "at earliest your convenience"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Formule figée : at your earliest convenience.",
+          "why_wrong": [
+            "A : Incorrect.",
+            "B : Incorrect.",
+            "D : Mauvais ordre des mots."
+          ],
+          "example": "Call at your convenience."
+        },
+        "en": {
+          "rule": "Fixed phrase: at your earliest convenience.",
+          "why_wrong": [
+            "A: Incorrect.",
+            "B: Incorrect.",
+            "D: Wrong word order."
+          ],
+          "example": "Call at your convenience."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-business-emails-04",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-office",
+      "stem": "We ___ for the delay in delivery and offer you a refund.",
+      "choices": [
+        "apologize",
+        "forgive",
+        "excuse",
+        "regret to"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "apologize for + nom.",
+          "why_wrong": [
+            "B : Trop fort et se dit rarement dans un courrier.",
+            "C : « excuse » s'emploie surtout avec « me » (excuse me).",
+            "D : Autre tournure, ne s'emploie pas avec « for »."
+          ],
+          "example": "We apologize for the error."
+        },
+        "en": {
+          "rule": "apologize for + noun.",
+          "why_wrong": [
+            "B: Too strong and rarely used in business letters.",
+            "C: 'excuse' is mostly used in 'excuse me'.",
+            "D: Other structure, not used with 'for'."
+          ],
+          "example": "We apologize for the error."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-business-emails-05",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-office",
+      "stem": "___ your request of May 3, the shipment will arrive on Thursday.",
+      "choices": [
+        "Regards",
+        "Regarded",
+        "Regardless",
+        "Regarding"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "regarding = concernant.",
+          "why_wrong": [
+            "A : = salutations.",
+            "B : = considéré.",
+            "C : = malgré / peu importe."
+          ],
+          "example": "Regarding your offer…"
+        },
+        "en": {
+          "rule": "regarding = about.",
+          "why_wrong": [
+            "A: = greetings.",
+            "B: = considered.",
+            "C: = despite."
+          ],
+          "example": "Regarding your offer…"
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-business-emails-06",
+      "part": 5,
+      "difficulty": 1,
+      "category": "voc-office",
+      "stem": "Which closing is appropriate when you do not know the recipient's name?",
+      "choices": [
+        "Dear Sir or Madam … Yours faithfully",
+        "Hi guys … See ya",
+        "Dear friend … Love",
+        "Hello … Bye"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Registre formel en e-mail professionnel.",
+          "why_wrong": [
+            "B : Trop familier.",
+            "C : Ton personnel.",
+            "D : Trop familier."
+          ],
+          "example": "Dear Sir or Madam"
+        },
+        "en": {
+          "rule": "Formal register in business email.",
+          "why_wrong": [
+            "B: Too informal.",
+            "C: Personal tone.",
+            "D: Too informal."
+          ],
+          "example": "Dear Sir or Madam"
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-business-emails-07",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-office",
+      "stem": "Mr. Park ___ the message to the entire sales team.",
+      "choices": [
+        "forwards",
+        "forwarding",
+        "forwarded",
+        "forward to"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "forward = transférer.",
+          "why_wrong": [
+            "A : Présent : le contexte est passé.",
+            "B : Gérondif : verbe conjugué attendu.",
+            "D : « to » ne fait pas partie du verbe ici."
+          ],
+          "example": "Please forward this email."
+        },
+        "en": {
+          "rule": "forward = send on.",
+          "why_wrong": [
+            "A: Present tense: past context.",
+            "B: Gerund: a conjugated verb is expected.",
+            "D: 'to' is not part of the verb here."
+          ],
+          "example": "Please forward this email."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-business-emails-08",
+      "part": 5,
+      "difficulty": 1,
+      "category": "voc-office",
+      "stem": "Please ___ your attendance by replying to this message.",
+      "choices": [
+        "confirmation",
+        "confirm",
+        "confirming",
+        "confirmed"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Please + verbe de base.",
+          "why_wrong": [
+            "A : Nom : verbe attendu.",
+            "C : Participe : verbe attendu.",
+            "D : Participe : un impératif est attendu."
+          ],
+          "example": "Please sign here."
+        },
+        "en": {
+          "rule": "Please + base verb.",
+          "why_wrong": [
+            "A: Noun: verb expected.",
+            "C: Participle: verb expected.",
+            "D: Participle: an imperative is expected."
+          ],
+          "example": "Please sign here."
+        }
+      },
+      "vocab": []
+    }
+  ]
+}

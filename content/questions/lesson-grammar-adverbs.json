@@ -1,0 +1,287 @@
+{
+  "batch": "lesson-grammar-adverbs",
+  "part": 5,
+  "passages": [],
+  "questions": [
+    {
+      "id": "lq-grammar-adverbs-01",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-word-forms",
+      "stem": "The new employee has ___ adapted to the team.",
+      "choices": [
+        "quickness",
+        "quickly",
+        "quick",
+        "quicker"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Adverbe devant un participe.",
+          "why_wrong": [
+            "A : Nom.",
+            "C : Adjectif : un adverbe est attendu devant « adapted ».",
+            "D : Comparatif : pas de « than »."
+          ],
+          "example": "He has already left."
+        },
+        "en": {
+          "rule": "Adverb before a participle.",
+          "why_wrong": [
+            "A: Noun.",
+            "C: Adjective: an adverb is expected before 'adapted'.",
+            "D: Comparative: no 'than'."
+          ],
+          "example": "He has already left."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-adverbs-02",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-word-forms",
+      "stem": "We are ___ qualified to handle this type of project.",
+      "choices": [
+        "height",
+        "high",
+        "highly",
+        "heighten"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Adverbe de degré + adjectif.",
+          "why_wrong": [
+            "A : Nom.",
+            "B : Adjectif : un adverbe de degré est attendu.",
+            "D : Verbe."
+          ],
+          "example": "A highly rated hotel."
+        },
+        "en": {
+          "rule": "Degree adverb + adjective.",
+          "why_wrong": [
+            "A: Noun.",
+            "B: Adjective: a degree adverb is expected.",
+            "D: Verb."
+          ],
+          "example": "A highly rated hotel."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-adverbs-03",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-word-forms",
+      "stem": "Which sentence is correct?",
+      "choices": [
+        "She speaks Spanish fluently.",
+        "She fluently speaks Spanish well.",
+        "She speaks Spanish fluent.",
+        "She speaks fluently Spanish."
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Verbe + complément + adverbe.",
+          "why_wrong": [
+            "B : Deux adverbes redondants.",
+            "C : Adjectif au lieu d'un adverbe.",
+            "D : Pas d'adverbe entre le verbe et son complément."
+          ],
+          "example": "He drives carefully."
+        },
+        "en": {
+          "rule": "Verb + object + adverb.",
+          "why_wrong": [
+            "B: Two redundant adverbs.",
+            "C: Adjective instead of an adverb.",
+            "D: No adverb between verb and object."
+          ],
+          "example": "He drives carefully."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-adverbs-04",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-word-forms",
+      "stem": "The order has not been delivered ___.",
+      "choices": [
+        "already",
+        "ever",
+        "yet",
+        "since"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "yet = négation/question.",
+          "why_wrong": [
+            "A : « already » s'emploie dans une phrase affirmative.",
+            "B : Mauvais sens.",
+            "D : Préposition ou conjonction."
+          ],
+          "example": "Have you finished yet?"
+        },
+        "en": {
+          "rule": "yet = negative/question.",
+          "why_wrong": [
+            "A: 'already' is used in affirmative sentences.",
+            "B: Wrong meaning.",
+            "D: Preposition or conjunction."
+          ],
+          "example": "Have you finished yet?"
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-adverbs-05",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-word-forms",
+      "stem": "Our profits have risen ___ over the past three years.",
+      "choices": [
+        "steadily",
+        "steadiness",
+        "steadied",
+        "steady"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Adverbe après un verbe de mouvement.",
+          "why_wrong": [
+            "B : Nom.",
+            "C : Verbe passé.",
+            "D : Adjectif."
+          ],
+          "example": "Sales rose sharply."
+        },
+        "en": {
+          "rule": "Adverb after a verb of movement.",
+          "why_wrong": [
+            "B: Noun.",
+            "C: Past verb.",
+            "D: Adjective."
+          ],
+          "example": "Sales rose sharply."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-adverbs-06",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-word-forms",
+      "stem": "She works so ___ that she often stays late.",
+      "choices": [
+        "harder",
+        "hard",
+        "hardly",
+        "hardness"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "hard est aussi un adverbe (≠ hardly).",
+          "why_wrong": [
+            "A : Comparatif.",
+            "C : = à peine : sens opposé.",
+            "D : Nom."
+          ],
+          "example": "He tried hard."
+        },
+        "en": {
+          "rule": "hard is also an adverb (≠ hardly).",
+          "why_wrong": [
+            "A: Comparative.",
+            "C: = barely: opposite meaning.",
+            "D: Noun."
+          ],
+          "example": "He tried hard."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-adverbs-07",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-word-forms",
+      "stem": "The company ___ announced a merger with a European firm.",
+      "choices": [
+        "recent",
+        "recentness",
+        "more recent",
+        "recently"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Adverbe entre auxiliaire et participe, ou avant le verbe.",
+          "why_wrong": [
+            "A : Adjectif.",
+            "B : Nom.",
+            "C : Comparatif."
+          ],
+          "example": "We recently moved."
+        },
+        "en": {
+          "rule": "Adverb between auxiliary and participle, or before the verb.",
+          "why_wrong": [
+            "A: Adjective.",
+            "B: Noun.",
+            "C: Comparative."
+          ],
+          "example": "We recently moved."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-adverbs-08",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-word-forms",
+      "stem": "___, the keynote speaker was unable to attend.",
+      "choices": [
+        "Fortune",
+        "Unfortunately",
+        "Unfortunate",
+        "Unfortunateness"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Adverbe de phrase + virgule.",
+          "why_wrong": [
+            "A : Nom.",
+            "C : Adjectif.",
+            "D : Nom."
+          ],
+          "example": "Sadly, he left."
+        },
+        "en": {
+          "rule": "Sentence adverb + comma.",
+          "why_wrong": [
+            "A: Noun.",
+            "C: Adjective.",
+            "D: Noun."
+          ],
+          "example": "Sadly, he left."
+        }
+      },
+      "vocab": []
+    }
+  ]
+}

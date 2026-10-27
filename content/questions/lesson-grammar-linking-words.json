@@ -1,0 +1,287 @@
+{
+  "batch": "lesson-grammar-linking-words",
+  "part": 5,
+  "passages": [],
+  "questions": [
+    {
+      "id": "lq-grammar-linking-words-01",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-conjunctions",
+      "stem": "The software is expensive. ___, it saves a great deal of time.",
+      "choices": [
+        "However",
+        "Therefore",
+        "Moreover",
+        "Otherwise"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "However = opposition entre deux phrases.",
+          "why_wrong": [
+            "B : Exprime une conséquence ; ici il y a une opposition.",
+            "C : Ajoute un argument de même sens ; ici le sens s'oppose.",
+            "D : Signifie « sinon » : ne convient pas."
+          ],
+          "example": "It is old. However, it works."
+        },
+        "en": {
+          "rule": "However = contrast between two sentences.",
+          "why_wrong": [
+            "B: Expresses result; here there is contrast.",
+            "C: Adds a same-direction point; here the sense is opposed.",
+            "D: Means 'or else': does not fit."
+          ],
+          "example": "It is old. However, it works."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-linking-words-02",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-conjunctions",
+      "stem": "Our sales doubled this year. ___, we plan to hire more staff.",
+      "choices": [
+        "Otherwise",
+        "Consequently",
+        "Instead",
+        "Nevertheless"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Consequently = conséquence.",
+          "why_wrong": [
+            "A : « Sinon » : mauvais sens.",
+            "C : Remplacement : mauvais sens.",
+            "D : Opposition : ne suit pas logiquement."
+          ],
+          "example": "It rained; consequently, we stayed."
+        },
+        "en": {
+          "rule": "Consequently = result.",
+          "why_wrong": [
+            "A: 'Or else': wrong meaning.",
+            "C: Replacement: wrong meaning.",
+            "D: Contrast: does not follow logically."
+          ],
+          "example": "It rained; consequently, we stayed."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-linking-words-03",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-conjunctions",
+      "stem": "Please confirm by Friday; ___, your reservation will be cancelled.",
+      "choices": [
+        "moreover",
+        "therefore",
+        "meanwhile",
+        "otherwise"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Otherwise = sinon, conséquence négative.",
+          "why_wrong": [
+            "A : Addition : mauvais sens.",
+            "B : Conséquence positive : mauvais sens.",
+            "C : Simultanéité : mauvais sens."
+          ],
+          "example": "Hurry; otherwise you will miss it."
+        },
+        "en": {
+          "rule": "Otherwise = or else.",
+          "why_wrong": [
+            "A: Addition: wrong meaning.",
+            "B: Positive result: wrong meaning.",
+            "C: Simultaneity: wrong meaning."
+          ],
+          "example": "Hurry; otherwise you will miss it."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-linking-words-04",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-conjunctions",
+      "stem": "The design is elegant. ___, it is very affordable.",
+      "choices": [
+        "Instead",
+        "Otherwise",
+        "However",
+        "Moreover"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Moreover = addition.",
+          "why_wrong": [
+            "A : Remplacement : mauvais sens.",
+            "B : « Sinon » : mauvais sens.",
+            "C : Opposition : l'idée s'ajoute, elle ne s'oppose pas."
+          ],
+          "example": "It is fast; moreover, it is quiet."
+        },
+        "en": {
+          "rule": "Moreover = addition.",
+          "why_wrong": [
+            "A: Replacement: wrong meaning.",
+            "B: 'Or else': wrong meaning.",
+            "C: Contrast: the idea adds, it does not oppose."
+          ],
+          "example": "It is fast; moreover, it is quiet."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-linking-words-05",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-conjunctions",
+      "stem": "Which sentence is correct?",
+      "choices": [
+        "The report was late; however the client accepted it.",
+        "The report was late however the client accepted it.",
+        "The report was late; however, the client accepted it.",
+        "The report was late, however the client accepted it."
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "; however, = ponctuation correcte.",
+          "why_wrong": [
+            "A : Il manque la virgule après « however ».",
+            "B : Pas de ponctuation : « however » ne relie pas deux propositions comme une conjonction.",
+            "D : Une virgule seule ne suffit pas (virgule fautive)."
+          ],
+          "example": "I tried; however, I failed."
+        },
+        "en": {
+          "rule": "; however, = correct punctuation.",
+          "why_wrong": [
+            "A: The comma after 'however' is missing.",
+            "B: No punctuation: 'however' does not join clauses like a conjunction.",
+            "D: A comma alone is not enough (comma splice)."
+          ],
+          "example": "I tried; however, I failed."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-linking-words-06",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-conjunctions",
+      "stem": "The first phase ends in May. ___, the second phase will begin in June.",
+      "choices": [
+        "Subsequently",
+        "For instance",
+        "Nevertheless",
+        "Otherwise"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Subsequently / then = ensuite.",
+          "why_wrong": [
+            "B : Exemple : mauvais sens.",
+            "C : Opposition : mauvais sens.",
+            "D : « Sinon » : mauvais sens."
+          ],
+          "example": "Subsequently, she resigned."
+        },
+        "en": {
+          "rule": "Subsequently / then = next.",
+          "why_wrong": [
+            "B: Example: wrong meaning.",
+            "C: Contrast: wrong meaning.",
+            "D: 'Or else': wrong meaning."
+          ],
+          "example": "Subsequently, she resigned."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-linking-words-07",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-conjunctions",
+      "stem": "Many employees work from home; ___, some prefer the office.",
+      "choices": [
+        "nevertheless",
+        "meanwhile",
+        "therefore",
+        "in addition"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Nevertheless = néanmoins.",
+          "why_wrong": [
+            "B : Simultanéité : pas de relation logique.",
+            "C : Conséquence : le sens s'oppose ici.",
+            "D : Addition : le sens s'oppose ici."
+          ],
+          "example": "It is hard; nevertheless, I like it."
+        },
+        "en": {
+          "rule": "Nevertheless = even so.",
+          "why_wrong": [
+            "B: Simultaneity: no logical link.",
+            "C: Result: the meaning here is contrast.",
+            "D: Addition: the meaning here is contrast."
+          ],
+          "example": "It is hard; nevertheless, I like it."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-linking-words-08",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-conjunctions",
+      "stem": "We lack funds. ___, we must postpone the project.",
+      "choices": [
+        "On the other hand",
+        "As a result",
+        "In contrast",
+        "For example"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "As a result = conséquence.",
+          "why_wrong": [
+            "A : Opposition : mauvais sens.",
+            "C : Opposition : mauvais sens.",
+            "D : Exemple : mauvais sens."
+          ],
+          "example": "As a result, sales rose."
+        },
+        "en": {
+          "rule": "As a result = result.",
+          "why_wrong": [
+            "A: Contrast: wrong meaning.",
+            "C: Contrast: wrong meaning.",
+            "D: Example: wrong meaning."
+          ],
+          "example": "As a result, sales rose."
+        }
+      },
+      "vocab": []
+    }
+  ]
+}

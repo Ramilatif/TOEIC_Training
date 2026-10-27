@@ -1,0 +1,287 @@
+{
+  "batch": "lesson-vocab-phrasal-verbs",
+  "part": 5,
+  "passages": [],
+  "questions": [
+    {
+      "id": "lq-vocab-phrasal-verbs-01",
+      "part": 5,
+      "difficulty": 1,
+      "category": "voc-collocations",
+      "stem": "The management decided to ___ the product launch until next quarter.",
+      "choices": [
+        "put up",
+        "put on",
+        "put out",
+        "put off"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "put off = reporter.",
+          "why_wrong": [
+            "A : = installer / héberger.",
+            "B : = enfiler / mettre.",
+            "C : = éteindre / publier."
+          ],
+          "example": "Don't put off the call."
+        },
+        "en": {
+          "rule": "put off = postpone.",
+          "why_wrong": [
+            "A: = erect / host.",
+            "B: = wear / turn on.",
+            "C: = extinguish / publish."
+          ],
+          "example": "Don't put off the call."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-phrasal-verbs-02",
+      "part": 5,
+      "difficulty": 1,
+      "category": "voc-collocations",
+      "stem": "We have ___ paper, so please order more.",
+      "choices": [
+        "run into",
+        "run out of",
+        "run over",
+        "run up"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "run out of = manquer de.",
+          "why_wrong": [
+            "A : = tomber sur.",
+            "C : = écraser.",
+            "D : = accumuler (dette)."
+          ],
+          "example": "We ran out of time."
+        },
+        "en": {
+          "rule": "run out of = use up.",
+          "why_wrong": [
+            "A: = bump into.",
+            "C: = knock down.",
+            "D: = accumulate (debt)."
+          ],
+          "example": "We ran out of time."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-phrasal-verbs-03",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-collocations",
+      "stem": "Ms. Tan will ___ the project when Mr. Gomez retires.",
+      "choices": [
+        "take in",
+        "take off",
+        "take out",
+        "take over"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "take over = reprendre la direction.",
+          "why_wrong": [
+            "A : = comprendre, héberger.",
+            "B : = décoller, retirer.",
+            "C : = sortir."
+          ],
+          "example": "She took over the team."
+        },
+        "en": {
+          "rule": "take over = assume control.",
+          "why_wrong": [
+            "A: = absorb, house.",
+            "B: = leave the ground, remove.",
+            "C: = remove."
+          ],
+          "example": "She took over the team."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-phrasal-verbs-04",
+      "part": 5,
+      "difficulty": 1,
+      "category": "voc-collocations",
+      "stem": "Please ___ the application form and return it by Friday.",
+      "choices": [
+        "fill out",
+        "fill away",
+        "fill off",
+        "fill on"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "fill out / fill in = remplir.",
+          "why_wrong": [
+            "B : N'existe pas.",
+            "C : N'existe pas.",
+            "D : N'existe pas."
+          ],
+          "example": "Fill out the form."
+        },
+        "en": {
+          "rule": "fill out / fill in = complete.",
+          "why_wrong": [
+            "B: Does not exist.",
+            "C: Does not exist.",
+            "D: Does not exist."
+          ],
+          "example": "Fill out the form."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-phrasal-verbs-05",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-collocations",
+      "stem": "The committee will ___ the complaint and respond within a week.",
+      "choices": [
+        "look up",
+        "look into",
+        "look over",
+        "look after"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "look into = examiner un problème.",
+          "why_wrong": [
+            "A : = chercher (dans un dictionnaire).",
+            "C : = parcourir rapidement.",
+            "D : = s'occuper de (quelqu'un)."
+          ],
+          "example": "We'll look into it."
+        },
+        "en": {
+          "rule": "look into = investigate.",
+          "why_wrong": [
+            "A: = search for.",
+            "C: = glance through.",
+            "D: = take care of (someone)."
+          ],
+          "example": "We'll look into it."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-phrasal-verbs-06",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-collocations",
+      "stem": "The outdoor concert was ___ because of the storm.",
+      "choices": [
+        "called up",
+        "called off",
+        "called in",
+        "called on"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "call off = annuler.",
+          "why_wrong": [
+            "A : = téléphoner / mobiliser.",
+            "C : = appeler (quelqu'un) sur place.",
+            "D : = rendre visite à."
+          ],
+          "example": "They called off the strike."
+        },
+        "en": {
+          "rule": "call off = cancel.",
+          "why_wrong": [
+            "A: = phone / mobilize.",
+            "C: = summon.",
+            "D: = visit."
+          ],
+          "example": "They called off the strike."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-phrasal-verbs-07",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-collocations",
+      "stem": "She quickly ___ a solution to the scheduling conflict.",
+      "choices": [
+        "came up with",
+        "came through",
+        "came over",
+        "came across"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "come up with = trouver (une idée).",
+          "why_wrong": [
+            "B : = réussir / traverser.",
+            "C : = venir chez quelqu'un.",
+            "D : = tomber par hasard sur."
+          ],
+          "example": "Come up with a plan."
+        },
+        "en": {
+          "rule": "come up with = think of.",
+          "why_wrong": [
+            "B: = succeed / pass through.",
+            "C: = visit.",
+            "D: = find by chance."
+          ],
+          "example": "Come up with a plan."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-phrasal-verbs-08",
+      "part": 5,
+      "difficulty": 3,
+      "category": "voc-collocations",
+      "stem": "Our sales representative will ___ with the client next week.",
+      "choices": [
+        "follow through of",
+        "follow after",
+        "follow up",
+        "follow out"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "follow up (with) = relancer, assurer le suivi.",
+          "why_wrong": [
+            "A : Construction incorrecte.",
+            "B : N'existe pas dans ce sens.",
+            "D : N'existe pas dans ce sens."
+          ],
+          "example": "I'll follow up tomorrow."
+        },
+        "en": {
+          "rule": "follow up (with) = continue contact.",
+          "why_wrong": [
+            "A: Incorrect construction.",
+            "B: Not used in this sense.",
+            "D: Not used in this sense."
+          ],
+          "example": "I'll follow up tomorrow."
+        }
+      },
+      "vocab": []
+    }
+  ]
+}

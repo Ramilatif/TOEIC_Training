@@ -1,0 +1,287 @@
+{
+  "batch": "lesson-vocab-false-friends",
+  "part": 5,
+  "passages": [],
+  "questions": [
+    {
+      "id": "lq-vocab-false-friends-01",
+      "part": 5,
+      "difficulty": 1,
+      "category": "voc-general",
+      "stem": "The CEO is ___ on a business trip and will return on Monday.",
+      "choices": [
+        "eventually",
+        "actually",
+        "possibly",
+        "currently"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "currently = actuellement.",
+          "why_wrong": [
+            "A : Signifie « finalement ».",
+            "B : Signifie « en fait », pas « actuellement ».",
+            "C : Signifie « peut-être »."
+          ],
+          "example": "I am currently busy."
+        },
+        "en": {
+          "rule": "currently = at present.",
+          "why_wrong": [
+            "A: Means 'in the end'.",
+            "B: Means 'in fact', not 'at present'.",
+            "C: Means 'perhaps'."
+          ],
+          "example": "I am currently busy."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-false-friends-02",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-general",
+      "stem": "After several revisions, the board ___ approved the plan.",
+      "choices": [
+        "sensibly",
+        "possibly",
+        "currently",
+        "eventually"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "eventually = finalement, à terme.",
+          "why_wrong": [
+            "A : Signifie « raisonnablement ».",
+            "B : Signifie « peut-être ».",
+            "C : Signifie « actuellement » : ne va pas avec un passé narratif."
+          ],
+          "example": "He eventually left."
+        },
+        "en": {
+          "rule": "eventually = in the end.",
+          "why_wrong": [
+            "A: Means 'reasonably'.",
+            "B: Means 'perhaps'.",
+            "C: Means 'at present': does not fit a past narrative."
+          ],
+          "example": "He eventually left."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-false-friends-03",
+      "part": 5,
+      "difficulty": 1,
+      "category": "voc-general",
+      "stem": "More than 300 professionals ___ the annual convention.",
+      "choices": [
+        "joined to",
+        "attended",
+        "participated",
+        "assisted"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "attend = assister à (sans préposition).",
+          "why_wrong": [
+            "A : Construction incorrecte.",
+            "C : Il faudrait « participated in ».",
+            "D : « assist » = aider, pas assister à."
+          ],
+          "example": "She attended the class."
+        },
+        "en": {
+          "rule": "attend = be present at (no preposition).",
+          "why_wrong": [
+            "A: Incorrect construction.",
+            "C: 'participated in' would be needed.",
+            "D: 'assist' = help, not be present at."
+          ],
+          "example": "She attended the class."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-false-friends-04",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-general",
+      "stem": "Mr. Vance gave a ___ to the new interns on safety rules.",
+      "choices": [
+        "lecture",
+        "conference",
+        "reading",
+        "course"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "lecture = exposé, cours magistral.",
+          "why_wrong": [
+            "B : Une conférence réunit plusieurs intervenants.",
+            "C : Un « reading » est une lecture de texte à voix haute.",
+            "D : Un « course » est une formation sur plusieurs séances."
+          ],
+          "example": "The lecture was long."
+        },
+        "en": {
+          "rule": "lecture = a talk or class.",
+          "why_wrong": [
+            "B: A conference brings together several speakers.",
+            "C: A 'reading' is a spoken reading of a text.",
+            "D: A 'course' is a training spread over several sessions."
+          ],
+          "example": "The lecture was long."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-false-friends-05",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-general",
+      "stem": "Please keep this report private; it contains ___ financial data.",
+      "choices": [
+        "sensational",
+        "sensitive",
+        "sensory",
+        "sensible"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "sensitive = délicat / confidentiel.",
+          "why_wrong": [
+            "A : = sensationnel.",
+            "C : = lié aux sens.",
+            "D : « sensible » = raisonnable."
+          ],
+          "example": "Handle sensitive data carefully."
+        },
+        "en": {
+          "rule": "sensitive = delicate / confidential.",
+          "why_wrong": [
+            "A: = spectacular.",
+            "C: = related to the senses.",
+            "D: 'sensible' = reasonable."
+          ],
+          "example": "Handle sensitive data carefully."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-false-friends-06",
+      "part": 5,
+      "difficulty": 3,
+      "category": "voc-general",
+      "stem": "The new software did not ___ users; it exceeded their expectations.",
+      "choices": [
+        "deceive",
+        "disturb",
+        "disappoint",
+        "delay"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "disappoint = décevoir ; deceive = tromper.",
+          "why_wrong": [
+            "A : = tromper.",
+            "B : = déranger.",
+            "D : = retarder."
+          ],
+          "example": "Don't disappoint us."
+        },
+        "en": {
+          "rule": "disappoint = let down; deceive = mislead.",
+          "why_wrong": [
+            "A: = mislead.",
+            "B: = bother.",
+            "D: = postpone."
+          ],
+          "example": "Don't disappoint us."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-false-friends-07",
+      "part": 5,
+      "difficulty": 3,
+      "category": "voc-general",
+      "stem": "The ___ of the staff will move to the new office next week.",
+      "choices": [
+        "resting",
+        "rested",
+        "restful",
+        "rest"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "the rest of = le reste de.",
+          "why_wrong": [
+            "A : Participe présent : un nom est attendu.",
+            "B : Participe passé : un nom est attendu après « the ».",
+            "C : Adjectif (reposant) : un nom est attendu."
+          ],
+          "example": "The rest is easy."
+        },
+        "en": {
+          "rule": "the rest of = the remainder of.",
+          "why_wrong": [
+            "A: Present participle: a noun is expected.",
+            "B: Past participle: a noun is expected after 'the'.",
+            "C: Adjective (relaxing): a noun is expected."
+          ],
+          "example": "The rest is easy."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-vocab-false-friends-08",
+      "part": 5,
+      "difficulty": 1,
+      "category": "voc-general",
+      "stem": "Our ___ offers free books for members.",
+      "choices": [
+        "lecture",
+        "bookshop of loan",
+        "library",
+        "librairie"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "library = bibliothèque ; bookstore = librairie.",
+          "why_wrong": [
+            "A : = cours magistral.",
+            "B : Expression inexistante.",
+            "D : Mot français : « librairie » = bookstore."
+          ],
+          "example": "A public library."
+        },
+        "en": {
+          "rule": "library = a place to borrow books.",
+          "why_wrong": [
+            "A: = a talk.",
+            "B: Non-existent expression.",
+            "D: French word: the English is 'bookstore'."
+          ],
+          "example": "A public library."
+        }
+      },
+      "vocab": []
+    }
+  ]
+}
