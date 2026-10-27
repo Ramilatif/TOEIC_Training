@@ -43,6 +43,19 @@ vocab:
 2. **Changements** : *The event has been moved to…* → c'est la **nouvelle** information qui compte.
 3. **Le locuteur** peut demander de **rappeler**, de **visiter un site**, de **s'inscrire** : ce sont des questions d'action fréquentes.
 
+<!-- extra -->
+## Plan d'entraînement
+
+1. Semaine 1 : identifiez le **type de document** (annonce, message vocal, publicité) dès la première phrase.
+2. Semaine 2 : notez chiffres, jours et lieux sur 5 exposés par jour.
+3. Semaine 3 : entraînez-vous aux questions d'intention.
+
+## Checklist avant le test
+
+- Annonces d'aéroport : retards, portes, changements.
+- Messages vocaux : qui appelle, pourquoi, quoi faire ensuite.
+- Publicités : produit, promotion, date limite.
+
 <!-- lang:en -->
 # Part 4 — Talks
 
@@ -72,3 +85,15 @@ vocab:
 1. **Close numbers** (fifteen / fifty): listen for the stress.
 2. **Changes**: *The event has been moved to…* → the **new** information counts.
 3. **The speaker** may ask you to **call back**, **visit a website** or **register**: frequent action questions.
+
+## Training plan
+
+1. Week 1: identify the **type of talk** (announcement, voicemail, advertisement) from the first sentence.
+2. Week 2: note numbers, days and places on 5 talks a day.
+3. Week 3: practice intention questions.
+
+## Pre-test checklist
+
+- Airport announcements: delays, gates, changes.
+- Voicemails: who calls, why, what to do next.
+- Advertisements: product, offer, deadline.

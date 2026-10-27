@@ -177,6 +177,111 @@
         }
       },
       "vocab": []
+    },
+    {
+      "id": "lq-method-part-4-06",
+      "part": 5,
+      "difficulty": 1,
+      "category": "qt-talk-gist",
+      "stem": "A talk begins 'Hi, this is Mia from the dentist's office…'. What type of talk is it?",
+      "choices": [
+        "A weather forecast",
+        "A voicemail message",
+        "A radio ad",
+        "A speech"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Identifiez le type d'exposé dès les premiers mots.",
+          "why_wrong": [
+            "A : Pas de météo ici.",
+            "C : Pas de publicité.",
+            "D : Pas un discours."
+          ],
+          "example": "—"
+        },
+        "en": {
+          "rule": "Identify the talk type from the first words.",
+          "why_wrong": [
+            "A: No weather here.",
+            "C: Not an advertisement.",
+            "D: Not a speech."
+          ],
+          "example": "—"
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-method-part-4-07",
+      "part": 5,
+      "difficulty": 2,
+      "category": "qt-talk-gist",
+      "stem": "The speaker says 'The event has been moved to Friday'. Which information matters?",
+      "choices": [
+        "The original date",
+        "Friday",
+        "The speaker's name",
+        "The weather"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "En cas de changement, la nouvelle information compte.",
+          "why_wrong": [
+            "A : L'ancienne date est écartée.",
+            "C : Hors sujet.",
+            "D : Hors sujet."
+          ],
+          "example": "—"
+        },
+        "en": {
+          "rule": "When something changes, the new information counts.",
+          "why_wrong": [
+            "A: The old date is discarded.",
+            "C: Off topic.",
+            "D: Off topic."
+          ],
+          "example": "—"
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-method-part-4-08",
+      "part": 5,
+      "difficulty": 1,
+      "category": "qt-talk-gist",
+      "stem": "Which part of a talk usually contains the request to the listeners?",
+      "choices": [
+        "The conclusion",
+        "The introduction",
+        "None",
+        "The middle details"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Demande/action à venir = conclusion.",
+          "why_wrong": [
+            "B : L'introduction présente le sujet.",
+            "C : Souvent à la fin.",
+            "D : Le corps donne les détails."
+          ],
+          "example": "—"
+        },
+        "en": {
+          "rule": "Request/next step = conclusion.",
+          "why_wrong": [
+            "B: The introduction states the topic.",
+            "C: Often at the end.",
+            "D: The body gives details."
+          ],
+          "example": "—"
+        }
+      },
+      "vocab": []
     }
   ]
 }

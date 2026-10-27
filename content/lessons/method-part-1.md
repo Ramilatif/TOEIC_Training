@@ -42,6 +42,19 @@ vocab:
 
 Environ **5 secondes par question** pour l'audio ; passez à la photo suivante dès que vous avez éliminé les 3 mauvaises réponses.
 
+<!-- extra -->
+## Plan d'entraînement
+
+1. Semaine 1 : 10 photos par jour, en décrivant la scène à voix haute **avant** l'audio.
+2. Semaine 2 : écoutez chaque énoncé et justifiez pourquoi les trois autres sont faux.
+3. Semaine 3 : minutez-vous à 5 secondes par photo.
+
+## Checklist avant le test
+
+- Vocabulaire des actions (*carrying, pushing, stacking, reaching for*).
+- Prépositions de lieu (*beside, behind, in front of*).
+- Différence entre action (*is holding*) et état (*is parked*).
+
 <!-- lang:en -->
 # Part 1 — Photographs
 
@@ -70,3 +83,15 @@ Environ **5 secondes par question** pour l'audio ; passez à la photo suivante d
 ## Time management
 
 About **5 seconds per question** for the audio; move on as soon as you have eliminated the three wrong answers.
+
+## Training plan
+
+1. Week 1: 10 photos a day, describing the scene aloud **before** the audio.
+2. Week 2: listen to each statement and justify why the other three are wrong.
+3. Week 3: time yourself at 5 seconds per photo.
+
+## Pre-test checklist
+
+- Action vocabulary (*carrying, pushing, stacking, reaching for*).
+- Place prepositions (*beside, behind, in front of*).
+- Action (*is holding*) versus state (*is parked*).

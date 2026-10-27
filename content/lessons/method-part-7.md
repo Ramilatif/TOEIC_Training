@@ -51,6 +51,19 @@ Une question peut demander de **combiner** deux sources : une date dans l'email,
 
 Si une question de détail dépasse **1 min 30**, devinez et continuez ; gardez les passages triples pour la fin si vous manquez de temps.
 
+<!-- extra -->
+## Plan d'entraînement
+
+1. Semaine 1 : un passage simple par jour, en lisant **les questions d'abord**.
+2. Semaine 2 : passages doubles, repérez les liens (dates, noms, références).
+3. Semaine 3 : passages triples chronométrés (environ 8 minutes).
+
+## Checklist avant le test
+
+- Tournures de reformulation (*refund = money back*).
+- Types de documents (email, annonce, facture, article).
+- Gestion du temps : environ 1 min 15 par question.
+
 <!-- lang:en -->
 # Part 7 — Reading Comprehension
 
@@ -88,3 +101,15 @@ A question may ask you to **combine** two sources: a date in the email, a price 
 ## Time management
 
 If a detail question takes over **1 min 30**, guess and continue; keep triple passages for the end if you are short of time.
+
+## Training plan
+
+1. Week 1: one single passage a day, reading **the questions first**.
+2. Week 2: double passages, spotting links (dates, names, references).
+3. Week 3: timed triple passages (about 8 minutes).
+
+## Pre-test checklist
+
+- Paraphrase patterns (*refund = money back*).
+- Document types (email, notice, invoice, article).
+- Time management: about 1 min 15 per question.

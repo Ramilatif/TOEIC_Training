@@ -45,6 +45,19 @@ vocab:
 - **Pronom sans référent** dans la phrase insérée.
 - **Redondance** : la phrase répète l'information déjà donnée.
 
+<!-- extra -->
+## Plan d'entraînement
+
+1. Semaine 1 : lisez le **texte entier** avant de répondre ; repérez le type de document.
+2. Semaine 2 : entraînez-vous aux phrases à insérer (cause, exemple, conséquence).
+3. Semaine 3 : chronométrez-vous à 8 minutes par texte.
+
+## Checklist avant le test
+
+- Connecteurs logiques (*however, as a result, in addition*).
+- Cohérence des temps.
+- Pronoms et leur référent.
+
 <!-- lang:en -->
 # Part 6 — Text Completion
 
@@ -76,3 +89,15 @@ vocab:
 - **Illogical connector**: *However* after a sentence that continues the idea.
 - **Pronoun with no referent** in the inserted sentence.
 - **Redundancy**: the sentence repeats information already given.
+
+## Training plan
+
+1. Week 1: read the **whole text** before answering; identify the document type.
+2. Week 2: practice sentence insertion (cause, example, result).
+3. Week 3: time yourself at 8 minutes per text.
+
+## Pre-test checklist
+
+- Logical connectors (*however, as a result, in addition*).
+- Tense consistency.
+- Pronouns and their referents.

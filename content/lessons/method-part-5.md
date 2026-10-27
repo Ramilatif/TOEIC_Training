@@ -43,6 +43,19 @@ vocab:
 
 Si vous bloquez plus de 30 secondes, **choisissez au hasard** et avancez : chaque question compte pour un point, la Part 7 attend votre temps.
 
+<!-- extra -->
+## Plan d'entraînement
+
+1. Semaine 1 : 20 questions par jour, chronométrées à **20 secondes**.
+2. Semaine 2 : tenez un carnet de collocations et de mots qui se ressemblent.
+3. Semaine 3 : faites 30 questions d'affilée en 10 minutes.
+
+## Checklist avant le test
+
+- Natures de mots (nom, verbe, adjectif, adverbe).
+- Temps et accord.
+- Prépositions et conjonctions courantes.
+
 <!-- lang:en -->
 # Part 5 — Incomplete Sentences
 
@@ -72,3 +85,15 @@ Si vous bloquez plus de 30 secondes, **choisissez au hasard** et avancez : chaqu
 ## Time management
 
 If you are stuck for over 30 seconds, **guess** and move on: every question is worth one point, and Part 7 needs your time.
+
+## Training plan
+
+1. Week 1: 20 questions a day, timed at **20 seconds** each.
+2. Week 2: keep a notebook of collocations and look-alike words.
+3. Week 3: do 30 questions in a row in 10 minutes.
+
+## Pre-test checklist
+
+- Word classes (noun, verb, adjective, adverb).
+- Tenses and agreement.
+- Common prepositions and conjunctions.

@@ -45,6 +45,19 @@ Fréquentes aux niveaux 800+ : *« Let me check »*, *« I'm not sure »*, *« I
 
 Si vous hésitez, éliminez les deux plus absurdes puis choisissez ; ne ruminez pas, la question suivante arrive vite.
 
+<!-- extra -->
+## Plan d'entraînement
+
+1. Semaine 1 : 15 questions par jour, concentrez-vous sur **le premier mot** (Who/When/Where…).
+2. Semaine 2 : repérez les 3 pièges (écho sonore, mauvais sujet, mauvais type de réponse).
+3. Semaine 3 : entraînez-vous aux réponses indirectes (*Let me check*, *It depends*).
+
+## Checklist avant le test
+
+- Savoir à quoi répond chaque mot interrogatif.
+- Ne pas choisir la réponse qui répète un mot de la question.
+- Garder l'attention sur le début de la question.
+
 <!-- lang:en -->
 # Part 2 — Question-Response
 
@@ -76,3 +89,15 @@ Frequent at 800+ level: *"Let me check"*, *"I'm not sure"*, *"It depends"*, *"Yo
 ## Time management
 
 If unsure, eliminate the two most absurd answers then choose; do not dwell, the next question comes quickly.
+
+## Training plan
+
+1. Week 1: 15 questions a day, focusing on **the first word** (Who/When/Where…).
+2. Week 2: spot the 3 traps (sound echo, wrong subject, wrong answer type).
+3. Week 3: practice indirect answers (*Let me check*, *It depends*).
+
+## Pre-test checklist
+
+- Know what each question word asks for.
+- Do not choose the answer that repeats a word from the question.
+- Keep your attention on the start of the question.

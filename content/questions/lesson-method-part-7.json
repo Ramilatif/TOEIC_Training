@@ -177,6 +177,111 @@
         }
       },
       "vocab": []
+    },
+    {
+      "id": "lq-method-part-7-06",
+      "part": 5,
+      "difficulty": 1,
+      "category": "qt-reading-main-idea",
+      "stem": "Which reading approach is recommended in Part 7?",
+      "choices": [
+        "Skip the questions",
+        "Read the questions first, then scan the passage",
+        "Read every word slowly",
+        "Read only the last line"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Lisez les questions pour guider la lecture.",
+          "why_wrong": [
+            "A : Absurde.",
+            "C : Trop lent.",
+            "D : Insuffisant."
+          ],
+          "example": "—"
+        },
+        "en": {
+          "rule": "Read the questions to guide reading.",
+          "why_wrong": [
+            "A: Absurd.",
+            "C: Too slow.",
+            "D: Insufficient."
+          ],
+          "example": "—"
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-method-part-7-07",
+      "part": 5,
+      "difficulty": 2,
+      "category": "qt-reading-main-idea",
+      "stem": "A choice contains the exact words of the passage but answers a different question. What is it?",
+      "choices": [
+        "A vocabulary item",
+        "A trap",
+        "Always the correct answer",
+        "A typo"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Vrai mais hors sujet = faux.",
+          "why_wrong": [
+            "A : Hors sujet.",
+            "C : Un mot repris peut être un piège.",
+            "D : Hors sujet."
+          ],
+          "example": "—"
+        },
+        "en": {
+          "rule": "True but off-topic = wrong.",
+          "why_wrong": [
+            "A: Off topic.",
+            "C: A repeated word can be a trap.",
+            "D: Off topic."
+          ],
+          "example": "—"
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-method-part-7-08",
+      "part": 5,
+      "difficulty": 1,
+      "category": "qt-reading-main-idea",
+      "stem": "A detail question takes more than 1 min 30. What does the lesson advise?",
+      "choices": [
+        "Stop the test",
+        "Keep rereading until sure",
+        "Guess and continue",
+        "Read the choices backwards"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Ne perdez pas de temps sur une question.",
+          "why_wrong": [
+            "A : Absurde.",
+            "B : Vous perdez du temps.",
+            "D : Inutile."
+          ],
+          "example": "—"
+        },
+        "en": {
+          "rule": "Do not waste time on one question.",
+          "why_wrong": [
+            "A: Absurd.",
+            "B: You lose time.",
+            "D: Useless."
+          ],
+          "example": "—"
+        }
+      },
+      "vocab": []
     }
   ]
 }

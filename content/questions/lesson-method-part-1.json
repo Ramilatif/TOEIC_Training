@@ -177,6 +177,111 @@
         }
       },
       "vocab": []
+    },
+    {
+      "id": "lq-method-part-1-06",
+      "part": 5,
+      "difficulty": 1,
+      "category": "qt-photo-people",
+      "stem": "What should you do in the 3 seconds before the audio of a Part 1 question?",
+      "choices": [
+        "Identify who and what is in the photo and guess the action",
+        "Close your eyes",
+        "Translate the title",
+        "Read the choices"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Observer avant d'écouter.",
+          "why_wrong": [
+            "B : Il faut observer.",
+            "C : Il n'y a pas de titre.",
+            "D : Les choix ne sont pas imprimés en Part 1."
+          ],
+          "example": "—"
+        },
+        "en": {
+          "rule": "Observe before listening.",
+          "why_wrong": [
+            "B: You need to observe.",
+            "C: There is no title.",
+            "D: Choices are not printed in Part 1."
+          ],
+          "example": "—"
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-method-part-1-07",
+      "part": 5,
+      "difficulty": 1,
+      "category": "qt-photo-people",
+      "stem": "A statement describes an object that is NOT in the photo. What is the best response?",
+      "choices": [
+        "Eliminate it",
+        "Choose the longest one",
+        "Choose it because it sounds likely",
+        "Wait for a repeat"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Éliminez les énoncés qui décrivent un élément absent.",
+          "why_wrong": [
+            "B : La longueur n'est pas un indice.",
+            "C : Un objet absent rend l'énoncé faux.",
+            "D : L'audio n'est lu qu'une fois."
+          ],
+          "example": "—"
+        },
+        "en": {
+          "rule": "Eliminate statements describing something absent.",
+          "why_wrong": [
+            "B: Length is not a clue.",
+            "C: An absent object makes the statement wrong.",
+            "D: The audio plays only once."
+          ],
+          "example": "—"
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-method-part-1-08",
+      "part": 5,
+      "difficulty": 2,
+      "category": "qt-photo-people",
+      "stem": "Which verb form describes a visible action in progress?",
+      "choices": [
+        "are stacked",
+        "will carry",
+        "is carrying",
+        "was carried"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Présent continu = action en cours.",
+          "why_wrong": [
+            "A : Passif : décrit un état.",
+            "B : Futur.",
+            "D : Passé : pas une action visible."
+          ],
+          "example": "—"
+        },
+        "en": {
+          "rule": "Present continuous = ongoing action.",
+          "why_wrong": [
+            "A: Passive: describes a state.",
+            "B: Future.",
+            "D: Past: not a visible action."
+          ],
+          "example": "—"
+        }
+      },
+      "vocab": []
     }
   ]
 }

@@ -177,6 +177,111 @@
         }
       },
       "vocab": []
+    },
+    {
+      "id": "lq-method-part-3-06",
+      "part": 5,
+      "difficulty": 1,
+      "category": "qt-conversation-gist",
+      "stem": "When should you read the three questions of a Part 3 conversation?",
+      "choices": [
+        "Only the first one",
+        "After the audio ends",
+        "While the directions are being read",
+        "Never"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Lisez les questions pendant la consigne.",
+          "why_wrong": [
+            "A : Il faut lire les trois.",
+            "B : Vous perdriez l'information.",
+            "D : Lire les questions aide à écouter."
+          ],
+          "example": "—"
+        },
+        "en": {
+          "rule": "Read the questions during the directions.",
+          "why_wrong": [
+            "A: You need all three.",
+            "B: You would lose the information.",
+            "D: Reading helps listening."
+          ],
+          "example": "—"
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-method-part-3-07",
+      "part": 5,
+      "difficulty": 1,
+      "category": "qt-conversation-gist",
+      "stem": "Where is the answer to 'What will the woman do next?' usually found?",
+      "choices": [
+        "Never in the audio",
+        "At the very beginning",
+        "Only in the graphic",
+        "Near the end of the conversation"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Prochaine action = fin.",
+          "why_wrong": [
+            "A : Elle est dans l'audio.",
+            "B : Le début présente le sujet.",
+            "C : Pas toujours."
+          ],
+          "example": "—"
+        },
+        "en": {
+          "rule": "Next action = end.",
+          "why_wrong": [
+            "A: It is in the audio.",
+            "B: The beginning introduces the topic.",
+            "C: Not always."
+          ],
+          "example": "—"
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-method-part-3-08",
+      "part": 5,
+      "difficulty": 2,
+      "category": "qt-conversation-gist",
+      "stem": "The audio says 'Let's call off the event'. Which choice paraphrases this?",
+      "choices": [
+        "They will extend the event.",
+        "They will cancel the event.",
+        "They will advertise the event.",
+        "They will confirm the event."
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "La bonne réponse reformule : call off = cancel.",
+          "why_wrong": [
+            "A : Sens différent.",
+            "C : Sens opposé.",
+            "D : Sens opposé."
+          ],
+          "example": "—"
+        },
+        "en": {
+          "rule": "The right answer paraphrases: call off = cancel.",
+          "why_wrong": [
+            "A: Different meaning.",
+            "C: Opposite meaning.",
+            "D: Opposite meaning."
+          ],
+          "example": "—"
+        }
+      },
+      "vocab": []
     }
   ]
 }

@@ -177,6 +177,111 @@
         }
       },
       "vocab": []
+    },
+    {
+      "id": "lq-method-part-2-06",
+      "part": 5,
+      "difficulty": 1,
+      "category": "qt-wh-questions",
+      "stem": "The question is 'When is the next training session?' Which answer is most likely correct?",
+      "choices": [
+        "On Thursday afternoon.",
+        "Yes, it was useful.",
+        "In the conference room.",
+        "Mr. Park is leading it."
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "When → une date ou une heure.",
+          "why_wrong": [
+            "B : Yes/No ne répond pas à « When ».",
+            "C : Un lieu répond à « Where ».",
+            "D : Une personne répond à « Who »."
+          ],
+          "example": "—"
+        },
+        "en": {
+          "rule": "When → a date or time.",
+          "why_wrong": [
+            "B: Yes/No does not answer 'When'.",
+            "C: A place answers 'Where'.",
+            "D: A person answers 'Who'."
+          ],
+          "example": "—"
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-method-part-2-07",
+      "part": 5,
+      "difficulty": 1,
+      "category": "qt-wh-questions",
+      "stem": "A response repeats a word that sounds like one in the question. What should you suspect?",
+      "choices": [
+        "A grammar error",
+        "A Part 3 question",
+        "A perfect answer",
+        "A sound-echo trap"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Écho sonore = piège fréquent.",
+          "why_wrong": [
+            "A : Hors sujet.",
+            "B : Hors sujet.",
+            "C : Les répétitions sont souvent des pièges."
+          ],
+          "example": "—"
+        },
+        "en": {
+          "rule": "Sound echo = frequent trap.",
+          "why_wrong": [
+            "A: Off topic.",
+            "B: Off topic.",
+            "C: Repetitions are often traps."
+          ],
+          "example": "—"
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-method-part-2-08",
+      "part": 5,
+      "difficulty": 3,
+      "category": "qt-wh-questions",
+      "stem": "'Do you know where the supply closet is?' Which answer is a typical indirect response?",
+      "choices": [
+        "It's a big closet.",
+        "Yes, I do know.",
+        "I just started here myself.",
+        "At 3 o'clock."
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Une réponse indirecte évite de répondre mais reste logique.",
+          "why_wrong": [
+            "A : Ne répond pas à la question.",
+            "B : Réponse directe, pas indirecte.",
+            "D : Répond à « When »."
+          ],
+          "example": "—"
+        },
+        "en": {
+          "rule": "An indirect answer avoids replying yet stays logical.",
+          "why_wrong": [
+            "A: Does not answer the question.",
+            "B: A direct answer, not indirect.",
+            "D: Answers 'When'."
+          ],
+          "example": "—"
+        }
+      },
+      "vocab": []
     }
   ]
 }

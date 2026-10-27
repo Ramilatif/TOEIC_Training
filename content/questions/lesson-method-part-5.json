@@ -177,6 +177,111 @@
         }
       },
       "vocab": []
+    },
+    {
+      "id": "lq-method-part-5-06",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-word-forms",
+      "stem": "The four choices are 'decide, decision, decisive, decisively'. What type of question is this?",
+      "choices": [
+        "Vocabulary",
+        "Preposition",
+        "Conjunction",
+        "Grammar (word form)"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "4 formes du même mot = question de grammaire.",
+          "why_wrong": [
+            "A : Les choix sont des formes du même mot.",
+            "B : Pas de prépositions ici.",
+            "C : Pas de conjonctions ici."
+          ],
+          "example": "—"
+        },
+        "en": {
+          "rule": "4 forms of one word = grammar question.",
+          "why_wrong": [
+            "A: The choices are forms of one word.",
+            "B: No prepositions here.",
+            "C: No conjunctions here."
+          ],
+          "example": "—"
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-method-part-5-07",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-word-forms",
+      "stem": "For a grammar question, which words around the blank matter most?",
+      "choices": [
+        "The first word of the sentence",
+        "The last word only",
+        "The word before and the word after",
+        "None"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Regardez le contexte immédiat.",
+          "why_wrong": [
+            "A : Pas nécessairement.",
+            "B : Insuffisant.",
+            "D : Il y a toujours des indices."
+          ],
+          "example": "—"
+        },
+        "en": {
+          "rule": "Look at the immediate context.",
+          "why_wrong": [
+            "A: Not necessarily.",
+            "B: Not enough.",
+            "D: There are always clues."
+          ],
+          "example": "—"
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-method-part-5-08",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-word-forms",
+      "stem": "A Part 5 question takes over 30 seconds. What does the lesson recommend?",
+      "choices": [
+        "Skip the whole part",
+        "Ask for help",
+        "Re-read it five times",
+        "Guess and move on"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Ne pas bloquer.",
+          "why_wrong": [
+            "A : Chaque question compte.",
+            "B : Impossible pendant le test.",
+            "C : Perte de temps."
+          ],
+          "example": "—"
+        },
+        "en": {
+          "rule": "Do not get stuck.",
+          "why_wrong": [
+            "A: Every question counts.",
+            "B: Impossible during the test.",
+            "C: Waste of time."
+          ],
+          "example": "—"
+        }
+      },
+      "vocab": []
     }
   ]
 }

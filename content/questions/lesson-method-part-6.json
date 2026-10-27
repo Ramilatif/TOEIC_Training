@@ -177,6 +177,111 @@
         }
       },
       "vocab": []
+    },
+    {
+      "id": "lq-method-part-6-06",
+      "part": 5,
+      "difficulty": 1,
+      "category": "qt-text-completion",
+      "stem": "What should you check first in a sentence-insertion question?",
+      "choices": [
+        "The length of the sentence",
+        "The number of commas",
+        "The logical link with the sentences before and after",
+        "The first letter"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Lien logique avant/après.",
+          "why_wrong": [
+            "A : Ne dit rien.",
+            "B : Ne dit rien.",
+            "D : Ne dit rien."
+          ],
+          "example": "—"
+        },
+        "en": {
+          "rule": "Logical link before/after.",
+          "why_wrong": [
+            "A: Tells nothing.",
+            "B: Tells nothing.",
+            "D: Tells nothing."
+          ],
+          "example": "—"
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-method-part-6-07",
+      "part": 5,
+      "difficulty": 2,
+      "category": "qt-text-completion",
+      "stem": "A sentence starts with 'However,' but the previous sentence continues the same idea. What is wrong?",
+      "choices": [
+        "The connector is illogical",
+        "Nothing",
+        "The verb tense",
+        "The punctuation"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "However = opposition.",
+          "why_wrong": [
+            "B : Il y a une contradiction.",
+            "C : Le problème est logique.",
+            "D : Le problème est logique."
+          ],
+          "example": "—"
+        },
+        "en": {
+          "rule": "However = contrast.",
+          "why_wrong": [
+            "B: There is a contradiction.",
+            "C: The issue is logical.",
+            "D: The issue is logical."
+          ],
+          "example": "—"
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-method-part-6-08",
+      "part": 5,
+      "difficulty": 1,
+      "category": "qt-text-completion",
+      "stem": "In which order is it efficient to answer Part 6 blanks?",
+      "choices": [
+        "Random order",
+        "From the last blank",
+        "Insertion first",
+        "Grammar blanks first, sentence insertion last"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Commencez par le plus rapide.",
+          "why_wrong": [
+            "A : Moins efficace.",
+            "B : Pas conseillé.",
+            "C : L'insertion demande le plus de temps."
+          ],
+          "example": "—"
+        },
+        "en": {
+          "rule": "Start with the quickest.",
+          "why_wrong": [
+            "A: Less efficient.",
+            "B: Not advised.",
+            "C: Insertion takes the longest."
+          ],
+          "example": "—"
+        }
+      },
+      "vocab": []
     }
   ]
 }

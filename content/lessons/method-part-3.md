@@ -45,6 +45,19 @@ vocab:
 
 Le temps entre deux conversations est court : lisez les questions suivantes **pendant** que vous répondez à la fin de la précédente.
 
+<!-- extra -->
+## Plan d'entraînement
+
+1. Semaine 1 : lisez les trois questions **avant** l'audio sur 5 conversations par jour.
+2. Semaine 2 : notez les mots-clés et vérifiez l'ordre des réponses.
+3. Semaine 3 : entraînez-vous aux questions d'intention et de document associé.
+
+## Checklist avant le test
+
+- Prévoir la prochaine action : elle est à la fin.
+- Identifier qui parle (*the man / the woman*).
+- Repérer les reformulations.
+
 <!-- lang:en -->
 # Part 3 — Conversations
 
@@ -76,3 +89,15 @@ Le temps entre deux conversations est court : lisez les questions suivantes **pe
 ## Time management
 
 The gap between conversations is short: read the next questions **while** answering the last one of the previous set.
+
+## Training plan
+
+1. Week 1: read the three questions **before** the audio on 5 conversations a day.
+2. Week 2: note keywords and check the order of the answers.
+3. Week 3: practice intention and graphic questions.
+
+## Pre-test checklist
+
+- Predict the next action: it is at the end.
+- Identify who speaks (*the man / the woman*).
+- Spot paraphrases.
