@@ -30,7 +30,7 @@
 | Part 6 | 32                | 32                  | oui           |
 | Part 7 | 108 (+54 extension)| 162                 | oui           |
 
-Leçons : grammaire 18 · vocabulaire 16 · méthodologie 7 = 41 leçons ; tous les quiz ont 8 questions. Les 16 leçons de grammaire d'origine ont une section « Pièges des francophones » et 8 questions de quiz ; les 5 nouvelles (liaison, adverbes, faux amis, phrasal verbs, courriels) 8 questions ; vocabulaire et méthodologie d'origine : 5 questions.
+Leçons : grammaire 18 · vocabulaire 17 · méthodologie 7 = 42 leçons ; tous les quiz ont 8 questions (336 au total). Chaque cours d'origine a une section de complément (pièges de francophones, mots complémentaires ou plan d'entraînement).
 
 ## Journal des décisions
 
