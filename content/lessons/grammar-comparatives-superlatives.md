@@ -41,6 +41,21 @@ vocab:
 
 Dès que vous voyez **than**, éliminez la forme de base et le superlatif ; dès que vous voyez **the … of / in**, cherchez le superlatif.
 
+<!-- extra -->
+## Pièges des francophones
+
+- **Mots courts : -er / -est ; mots longs : more / most.** *cheaper, the cheapest* / *more efficient, the most efficient*.
+- **Pas de double comparatif** : *more cheaper* est faux. *cheaper*.
+- **than, pas « that »** : *higher **than** expected*. En français on dit « que » : ne confondez pas.
+- **Le superlatif prend « the »** et souvent *in/of* : *the largest company **in** the region.*
+- **as… as** pour l'égalité : *as fast as*, *not as expensive as*.
+- **The more… the more** : *The sooner you apply, the better your chances.*
+
+## Exemples en contexte
+
+- *Sales were **higher than** last year.*
+- *This is **the most reliable** model we sell.*
+
 <!-- lang:en -->
 # Comparatives and superlatives
 
@@ -68,3 +83,17 @@ Dès que vous voyez **than**, éliminez la forme de base et le superlatif ; dès
 ## Tip
 
 As soon as you see **than**, eliminate the base form and the superlative; when you see **the … of / in**, look for the superlative.
+
+## Traps for French speakers
+
+- **Short words: -er / -est; long words: more / most.** *cheaper, the cheapest* / *more efficient, the most efficient*.
+- **No double comparative**: "more cheaper" is wrong. *cheaper*.
+- **than, not "that"**: *higher **than** expected*.
+- **The superlative takes "the"** and often *in/of*: *the largest company **in** the region.*
+- **as… as** for equality: *as fast as*, *not as expensive as*.
+- **The more… the more**: *The sooner you apply, the better your chances.*
+
+## Examples in context
+
+- *Sales were **higher than** last year.*
+- *This is **the most reliable** model we sell.*

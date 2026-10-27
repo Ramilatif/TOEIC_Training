@@ -177,6 +177,111 @@
         }
       },
       "vocab": []
+    },
+    {
+      "id": "lq-grammar-verb-tenses-06",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-verb-tenses",
+      "stem": "As soon as the committee ___ its decision, we will inform all applicants.",
+      "choices": [
+        "makes",
+        "made",
+        "will make",
+        "has been making"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Subordonnée de temps (as soon as, when, before…) : présent à sens futur.",
+          "why_wrong": [
+            "B : Le prétérit parle du passé ; le sens est futur.",
+            "C : Pas de « will » après « as soon as » : on emploie le présent.",
+            "D : Forme continue inutile et incohérente avec « will inform »."
+          ],
+          "example": "I will call you when I arrive."
+        },
+        "en": {
+          "rule": "Time clause (as soon as, when, before…): present with future meaning.",
+          "why_wrong": [
+            "B: The past tense refers to the past; the meaning is future.",
+            "C: No 'will' after 'as soon as': use the present.",
+            "D: Unnecessary progressive form, inconsistent with 'will inform'."
+          ],
+          "example": "I will call you when I arrive."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-verb-tenses-07",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-verb-tenses",
+      "stem": "Our company ___ in the Asian market since 2015.",
+      "choices": [
+        "operates",
+        "has operated",
+        "will operate",
+        "operated"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Since + point de départ → present perfect.",
+          "why_wrong": [
+            "A : « since » exige un temps de l'accomplissement (present perfect).",
+            "C : Le futur est incompatible avec « since 2015 ».",
+            "D : Le prétérit s'emploie pour une période terminée, pas avec « since » ici."
+          ],
+          "example": "She has worked here since May."
+        },
+        "en": {
+          "rule": "Since + starting point → present perfect.",
+          "why_wrong": [
+            "A: 'since' requires a perfect tense.",
+            "C: The future is incompatible with 'since 2015'.",
+            "D: The simple past is for a finished period, not with 'since' here."
+          ],
+          "example": "She has worked here since May."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-verb-tenses-08",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-verb-tenses",
+      "stem": "By the time the auditors arrive, we ___ all the records.",
+      "choices": [
+        "are updating",
+        "update",
+        "updated",
+        "will have updated"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "By the time + présent → will have + participe passé.",
+          "why_wrong": [
+            "A : Le présent continu décrit une action en cours, pas achevée.",
+            "B : Le présent seul ne marque pas l'achèvement avant un moment futur.",
+            "C : Le prétérit n'exprime pas une action achevée avant un futur."
+          ],
+          "example": "By noon, I will have finished."
+        },
+        "en": {
+          "rule": "By the time + present → will have + past participle.",
+          "why_wrong": [
+            "A: The present progressive describes an ongoing action, not a completed one.",
+            "B: The simple present does not show completion before a future time.",
+            "C: The simple past does not express completion before a future point."
+          ],
+          "example": "By noon, I will have finished."
+        }
+      },
+      "vocab": []
     }
   ]
 }

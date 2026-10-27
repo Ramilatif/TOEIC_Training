@@ -37,6 +37,20 @@ Ils relient une **proposition relative** à un nom (l'antécédent). Choisissez 
 3. **Which** (pas *that*) après une virgule ou une préposition : *the room **in which** we met*.
 4. **Pas de pronom** doublon : *The man who he called…* est faux.
 
+<!-- extra -->
+## Pièges des francophones
+
+- **who** = personne, **which** = chose, **that** = personne ou chose (sans virgule). *The employee **who** called…* / *The device **which** failed…*
+- **Pas de « that » après une virgule** ni après une préposition : *the manager, **who** was late* ; *the company **for which** he works*.
+- **whose** = dont (possession) : *a company **whose** profits rose*.
+- **Pas de pronom doublé** : *The report that I wrote it* est faux. *The report **that** I wrote…*
+- **« dont » ne se traduit pas toujours par whose** : *the project I told you **about*** (préposition rejetée à la fin).
+
+## Exemples en contexte
+
+- *Anyone **who** wishes to attend must register.*
+- *The software, **which** was released in May, has many users.*
+
 <!-- lang:en -->
 # Relative pronouns
 
@@ -60,3 +74,16 @@ They link a **relative clause** to a noun (the antecedent). Choose according to 
 2. **Whose** is always followed by a **noun**.
 3. **Which** (not *that*) after a comma or a preposition: *the room **in which** we met*.
 4. **No duplicate pronoun**: *The man who he called…* is wrong.
+
+## Traps for French speakers
+
+- **who** = person, **which** = thing, **that** = person or thing (no comma). *The employee **who** called…* / *The device **which** failed…*
+- **No "that" after a comma** or after a preposition: *the manager, **who** was late*; *the company **for which** he works*.
+- **whose** = of whom/which (possession): *a company **whose** profits rose*.
+- **No doubled pronoun**: "The report that I wrote it" is wrong. *The report **that** I wrote…*
+- **French "dont" is not always whose**: *the project I told you **about*** (preposition at the end).
+
+## Examples in context
+
+- *Anyone **who** wishes to attend must register.*
+- *The software, **which** was released in May, has many users.*

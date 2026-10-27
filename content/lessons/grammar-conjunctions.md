@@ -40,6 +40,20 @@ Trois familles à bien distinguer : **conjonctions de coordination**, **conjonct
 2. **Adverbe de liaison ne relie pas** deux phrases sans ponctuation : *…; however, …*.
 3. **Unless** a déjà un sens négatif : pas de *not* derrière.
 
+<!-- extra -->
+## Pièges des francophones
+
+- **Conjonction + sujet + verbe, préposition + nom** : *Although it rained* ≠ *Despite the rain*. *Because it was late* ≠ *Because of the delay*.
+- **« While » et « whereas »** expriment l'opposition ; *while* exprime aussi la simultanéité.
+- **« So that » = pour que** (but), **« so… that » = tellement… que** (conséquence).
+- **« Unless » = à moins que** et contient déjà une négation : *Unless you call, we will start* (pas *unless you don't call*).
+- **« Both… and », « either… or », « not only… but also »** : les deux éléments reliés ont la même forme grammaticale.
+
+## Exemples en contexte
+
+- *Please call us **if** you have any questions **or** need assistance.*
+- *The event was cancelled **because of** the storm.*
+
 <!-- lang:en -->
 # Conjunctions and connectors
 
@@ -66,3 +80,16 @@ Three families to tell apart: **coordinating conjunctions**, **subordinating con
 1. **Conjunction + noun** is wrong: *Although **the rain*** → *Although it rained* or *Despite the rain*.
 2. **A conjunctive adverb does not join** two sentences without punctuation: *…; however, …*.
 3. **Unless** already means "if not": no extra *not* after it.
+
+## Traps for French speakers
+
+- **Conjunction + subject + verb, preposition + noun**: *Although it rained* ≠ *Despite the rain*. *Because it was late* ≠ *Because of the delay*.
+- **"While" and "whereas"** express contrast; *while* can also mean "at the same time".
+- **"So that" = in order that** (purpose), **"so… that" = such… that** (result).
+- **"Unless" = if… not** and already contains a negation: *Unless you call, we will start* (not "unless you don't call").
+- **"Both… and", "either… or", "not only… but also"**: the two joined items have the same grammatical form.
+
+## Examples in context
+
+- *Please call us **if** you have any questions **or** need assistance.*
+- *The event was cancelled **because of** the storm.*

@@ -177,6 +177,111 @@
         }
       },
       "vocab": []
+    },
+    {
+      "id": "lq-grammar-prepositions-06",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-prepositions",
+      "stem": "The shipment arrived ___ time for the product launch.",
+      "choices": [
+        "by",
+        "on",
+        "in",
+        "at"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "In time for = assez tôt pour un événement.",
+          "why_wrong": [
+            "A : « by time » n'est pas une expression correcte.",
+            "B : « on time » = à l'heure prévue ; ici « in time for » = assez tôt pour.",
+            "D : « at time » n'existe pas dans cet emploi."
+          ],
+          "example": "We arrived in time for the keynote."
+        },
+        "en": {
+          "rule": "In time for = early enough for an event.",
+          "why_wrong": [
+            "A: 'by time' is not a correct expression.",
+            "B: 'on time' = at the scheduled time; here 'in time for' = early enough for.",
+            "D: 'at time' is not used this way."
+          ],
+          "example": "We arrived in time for the keynote."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-prepositions-07",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-prepositions",
+      "stem": "The store will remain open ___ 9 p.m. tonight.",
+      "choices": [
+        "by",
+        "since",
+        "until",
+        "during"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Until = jusqu'à (situation qui continue).",
+          "why_wrong": [
+            "A : « by » indique une échéance, pas une durée continue.",
+            "B : « since » désigne un point de départ passé.",
+            "D : « during » demande un événement, pas une heure."
+          ],
+          "example": "Wait here until noon."
+        },
+        "en": {
+          "rule": "Until = up to (ongoing situation).",
+          "why_wrong": [
+            "A: 'by' marks a deadline, not an ongoing state.",
+            "B: 'since' is a past starting point.",
+            "D: 'during' needs an event, not a time."
+          ],
+          "example": "Wait here until noon."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-prepositions-08",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-prepositions",
+      "stem": "Mr. Lee is responsible ___ the training of new employees.",
+      "choices": [
+        "for",
+        "of",
+        "to",
+        "with"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "responsible for + tâche ; responsible to + supérieur.",
+          "why_wrong": [
+            "B : Erreur de francophone : « responsable de » se dit « responsible for ».",
+            "C : « responsible to » = devant qui on rend des comptes, pas la tâche.",
+            "D : « with » ne s'emploie pas avec « responsible »."
+          ],
+          "example": "She is responsible for payroll."
+        },
+        "en": {
+          "rule": "responsible for + task; responsible to + superior.",
+          "why_wrong": [
+            "B: French-speaker error: 'responsible for', not 'of'.",
+            "C: 'responsible to' = who you report to, not the task.",
+            "D: 'with' is not used with 'responsible'."
+          ],
+          "example": "She is responsible for payroll."
+        }
+      },
+      "vocab": []
     }
   ]
 }

@@ -177,6 +177,111 @@
         }
       },
       "vocab": []
+    },
+    {
+      "id": "lq-grammar-pronouns-06",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-pronouns",
+      "stem": "The manager asked the assistants to finish the work ___.",
+      "choices": [
+        "theirs",
+        "themselves",
+        "their",
+        "them"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Pronom réfléchi pour insister ou renvoyer au sujet.",
+          "why_wrong": [
+            "A : Pronom possessif, sens incorrect.",
+            "C : Adjectif possessif : il demande un nom.",
+            "D : Pronom objet simple ; ici on insiste sur « eux-mêmes »."
+          ],
+          "example": "I fixed it myself."
+        },
+        "en": {
+          "rule": "Reflexive pronoun for emphasis or to refer back to the subject.",
+          "why_wrong": [
+            "A: Possessive pronoun, wrong meaning.",
+            "C: Possessive adjective: needs a noun.",
+            "D: Simple object pronoun; here the emphasis is 'by themselves'."
+          ],
+          "example": "I fixed it myself."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-pronouns-07",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-pronouns",
+      "stem": "This laptop is not mine; it must be ___.",
+      "choices": [
+        "hers",
+        "herself",
+        "her",
+        "she"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Pronom possessif (mine, hers, theirs) = sans nom après.",
+          "why_wrong": [
+            "B : Pronom réfléchi : sens incorrect.",
+            "C : Adjectif possessif : il faudrait un nom (« her laptop »).",
+            "D : Pronom sujet."
+          ],
+          "example": "The decision is yours."
+        },
+        "en": {
+          "rule": "Possessive pronoun (mine, hers, theirs) = no noun after.",
+          "why_wrong": [
+            "B: Reflexive pronoun: wrong meaning.",
+            "C: Possessive adjective: needs a noun ('her laptop').",
+            "D: Subject pronoun."
+          ],
+          "example": "The decision is yours."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-pronouns-08",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-pronouns",
+      "stem": "The two companies have agreed to share information with ___.",
+      "choices": [
+        "each other",
+        "another each",
+        "themselves",
+        "one"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Each other = réciprocité entre deux sujets.",
+          "why_wrong": [
+            "B : Forme inexistante.",
+            "C : Réfléchi : ils partageraient avec eux-mêmes, pas l'un avec l'autre.",
+            "D : Pronom indéfini incomplet."
+          ],
+          "example": "They help each other."
+        },
+        "en": {
+          "rule": "Each other = reciprocity between two subjects.",
+          "why_wrong": [
+            "B: Non-existent form.",
+            "C: Reflexive: they would share with themselves, not with one another.",
+            "D: Incomplete indefinite pronoun."
+          ],
+          "example": "They help each other."
+        }
+      },
+      "vocab": []
     }
   ]
 }

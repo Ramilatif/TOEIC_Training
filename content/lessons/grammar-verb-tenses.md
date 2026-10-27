@@ -41,6 +41,20 @@ Au TOEIC (Part 5 et 6), il faut choisir le bon temps grâce aux **indices de tem
 
 Repérez d'abord le mot-indice (since, yesterday, by the time, next week…), éliminez les temps incompatibles, puis vérifiez l'accord avec le sujet.
 
+<!-- extra -->
+## Pièges des francophones
+
+- **Pas de futur après if / when / as soon as / before / after** : on utilise le présent. *When the manager **arrives**, we will start* (pas « will arrive »).
+- **since / for + present perfect** : *We have worked here **since** 2020 / **for** five years.* En français on dit « travaille depuis » (présent) : en anglais, jamais le présent simple.
+- **Repères de temps** : *yesterday, last week, ago* → prétérit ; *already, yet, recently, so far* → present perfect ; *by the time + présent, … will have + participe passé* → futur antérieur.
+- **Verbes d'état** (*know, own, need, belong*) ne se mettent pas à la forme progressive.
+
+## Exemples en contexte
+
+- *The shipment **left** two days ago.* (prétérit + ago)
+- *We **have** not **received** the invoice yet.* (present perfect + yet)
+- *By next June, the team **will have completed** the merger.* (futur antérieur)
+
 <!-- lang:en -->
 # Verb tenses
 
@@ -68,3 +82,16 @@ In TOEIC Parts 5 and 6, you pick the right tense thanks to the **time clues** in
 ## TOEIC tip
 
 Spot the clue word first (since, yesterday, by the time, next week…), eliminate incompatible tenses, then check agreement with the subject.
+
+## Traps for French speakers
+
+- **No future after if / when / as soon as / before / after**: use the present. *When the manager **arrives**, we will start* (not "will arrive").
+- **since / for + present perfect**: *We have worked here **since** 2020 / **for** five years.* French uses the present ("travaille depuis"); English never uses the simple present here.
+- **Time markers**: *yesterday, last week, ago* → simple past; *already, yet, recently, so far* → present perfect; *by the time + present, … will have + past participle* → future perfect.
+- **State verbs** (*know, own, need, belong*) are not used in the progressive.
+
+## Examples in context
+
+- *The shipment **left** two days ago.* (past + ago)
+- *We **have** not **received** the invoice yet.* (present perfect + yet)
+- *By next June, the team **will have completed** the merger.* (future perfect)

@@ -40,6 +40,20 @@ Le verbe s'accorde avec le **noyau du sujet**, pas avec le mot qui le précède 
 
 Barrez mentalement tout ce qui est entre le sujet et le verbe (groupes en *of*, *with*, *as well as*, virgules) pour retrouver le noyau.
 
+<!-- extra -->
+## Pièges des francophones
+
+- **Le noyau du sujet, pas le mot le plus proche** : *The list of new products **is** ready.* (sujet = *list*).
+- **Each, every, either, neither + singulier** : *Each of the employees **has** a badge.*
+- **Sujets collectifs** (*team, staff, committee*) : verbe au singulier en anglais américain (*The staff **is** meeting*).
+- **Mots toujours pluriels pour un français ≠ anglais** : *news, information, advice, equipment, furniture* sont **non dénombrables** et singuliers : *The news **is** good.* (jamais *informations*, *advices*).
+- **A number of + pluriel / The number of + singulier** : *A number of clients **are** waiting* / *The number of clients **is** growing*.
+
+## Exemples en contexte
+
+- *Neither the manager nor the assistants **were** informed.* (le verbe s'accorde avec le sujet le plus proche)
+- *The information in these files **is** confidential.*
+
 <!-- lang:en -->
 # Subject-verb agreement
 
@@ -66,3 +80,16 @@ The verb agrees with the **head of the subject**, not with the word right before
 ## TOEIC tip
 
 Mentally cross out everything between subject and verb (*of*-groups, *with*, *as well as*, commas) to find the head noun.
+
+## Traps for French speakers
+
+- **The head of the subject, not the nearest word**: *The list of new products **is** ready.* (subject = *list*).
+- **Each, every, either, neither + singular**: *Each of the employees **has** a badge.*
+- **Collective subjects** (*team, staff, committee*): singular verb in American English (*The staff **is** meeting*).
+- **Uncountable nouns**: *news, information, advice, equipment, furniture* are singular: *The news **is** good.* (never "informations", "advices").
+- **A number of + plural / The number of + singular**: *A number of clients **are** waiting* / *The number of clients **is** growing*.
+
+## Examples in context
+
+- *Neither the manager nor the assistants **were** informed.* (verb agrees with the nearer subject)
+- *The information in these files **is** confidential.*

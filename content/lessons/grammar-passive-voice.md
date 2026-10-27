@@ -41,6 +41,20 @@ On l'utilise quand l'**action** (ou celui qui la subit) compte plus que l'auteur
 
 Si le verbe est suivi d'un complément (*She **sent** the report*), c'est l'actif. S'il est suivi de *by*, d'une préposition de lieu ou de rien, pensez au passif.
 
+<!-- extra -->
+## Pièges des francophones
+
+- **Verbes intransitifs sans passif** : *happen, occur, arrive, rise, remain* ne se mettent jamais au passif. *The meeting **took place*** (pas *was taken place*).
+- **to be + participe passé** : l'auxiliaire change de temps, le participe reste. *is made, was made, has been made, will be made, must be made*.
+- **Agent « by »** : facultatif, utilisé seulement s'il est important. *The report was written **by** Ms. Kim.*
+- **Pronom « on »** : le français « on dit que… » devient *It is said that…* ou *The product is said to…*.
+- **Adjectif ou passif ?** *The store is closed* (état) / *The store is closed at 6 by the manager* (action).
+
+## Exemples en contexte
+
+- *All invoices **must be submitted** before the 5th.*
+- *The new policy **has been approved** by the board.*
+
 <!-- lang:en -->
 # The passive voice
 
@@ -68,3 +82,16 @@ Use it when the **action** (or the receiver) matters more than who performs it.
 ## Tip
 
 If the verb is followed by an object (*She **sent** the report*), it is active. If it is followed by *by*, a place preposition or nothing, think passive.
+
+## Traps for French speakers
+
+- **Intransitive verbs have no passive**: *happen, occur, arrive, rise, remain* are never passive. *The meeting **took place*** (not "was taken place").
+- **to be + past participle**: the auxiliary changes tense, the participle stays. *is made, was made, has been made, will be made, must be made*.
+- **Agent "by"**: optional, used only if important. *The report was written **by** Ms. Kim.*
+- **French "on"**: "on dit que…" becomes *It is said that…* or *The product is said to…*.
+- **Adjective or passive?** *The store is closed* (state) / *The store is closed at 6 by the manager* (action).
+
+## Examples in context
+
+- *All invoices **must be submitted** before the 5th.*
+- *The new policy **has been approved** by the board.*

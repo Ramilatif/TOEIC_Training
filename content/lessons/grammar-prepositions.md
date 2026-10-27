@@ -45,6 +45,21 @@ Les prépositions du TOEIC sont de trois types : **temps/lieu**, **expressions f
 
 Après une préposition, on trouve un **nom** ou un **gérondif**, jamais un verbe conjugué. *Despite **the delay***, *Despite **being** late*.
 
+<!-- extra -->
+## Pièges des francophones
+
+- **in time / on time** : *in time* = assez tôt pour quelque chose ; *on time* = à l'heure prévue. *The train arrived on time.*
+- **during / for** : *during* + événement (*during the meeting*), *for* + durée (*for two hours*).
+- **until / by** : *until* = jusqu'à (action qui dure), *by* = au plus tard (échéance). *Stay until 5* / *Finish by 5*.
+- **Pas de « depend of »** : on dit *depend **on***. Pas de « discuss about » : *discuss* se construit sans préposition.
+- **Après une préposition** : nom ou *-ing*. *Thank you for **coming**.*
+
+## Exemples en contexte
+
+- *Applications must be submitted **by** March 15.*
+- *The office will be closed **during** the renovation.*
+- *Our prices are lower **than** those of our competitors.*
+
 <!-- lang:en -->
 # Prepositions
 
@@ -76,3 +91,17 @@ TOEIC prepositions come in three kinds: **time/place**, **fixed expressions** (v
 ## Tip
 
 After a preposition comes a **noun** or a **gerund**, never a conjugated verb. *Despite **the delay***, *Despite **being** late*.
+
+## Traps for French speakers
+
+- **in time / on time**: *in time* = early enough for something; *on time* = at the scheduled time. *The train arrived on time.*
+- **during / for**: *during* + event (*during the meeting*), *for* + length (*for two hours*).
+- **until / by**: *until* = up to (ongoing), *by* = no later than (deadline). *Stay until 5* / *Finish by 5*.
+- **No "depend of"**: say *depend **on***. No "discuss about": *discuss* takes no preposition.
+- **After a preposition**: noun or *-ing*. *Thank you for **coming**.*
+
+## Examples in context
+
+- *Applications must be submitted **by** March 15.*
+- *The office will be closed **during** the renovation.*
+- *Our prices are lower **than** those of our competitors.*

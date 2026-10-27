@@ -177,6 +177,111 @@
         }
       },
       "vocab": []
+    },
+    {
+      "id": "lq-grammar-comparatives-superlatives-06",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-comparatives-superlatives",
+      "stem": "Our new model is ___ than the previous one.",
+      "choices": [
+        "efficienter",
+        "most efficient",
+        "more efficient",
+        "more efficiently"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Mot long : more + adjectif + than.",
+          "why_wrong": [
+            "A : « efficient » est un mot long : on utilise « more ».",
+            "B : Superlatif : il ne se combine pas avec « than ».",
+            "D : Adverbe : on attend un adjectif après « is »."
+          ],
+          "example": "This is more useful than that."
+        },
+        "en": {
+          "rule": "Long word: more + adjective + than.",
+          "why_wrong": [
+            "A: 'efficient' is a long word: use 'more'.",
+            "B: Superlative: not used with 'than'.",
+            "D: Adverb: an adjective is expected after 'is'."
+          ],
+          "example": "This is more useful than that."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-comparatives-superlatives-07",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-comparatives-superlatives",
+      "stem": "Of all the candidates, Ms. Park has ___ experience.",
+      "choices": [
+        "the most",
+        "more",
+        "most",
+        "the more"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Superlatif = the + most/-est.",
+          "why_wrong": [
+            "B : Comparatif : « of all » demande un superlatif.",
+            "C : Il manque l'article « the ».",
+            "D : Comparatif avec article : incorrect ici."
+          ],
+          "example": "She has the most experience."
+        },
+        "en": {
+          "rule": "Superlative = the + most/-est.",
+          "why_wrong": [
+            "B: Comparative: 'of all' requires a superlative.",
+            "C: The article 'the' is missing.",
+            "D: Comparative with article: incorrect here."
+          ],
+          "example": "She has the most experience."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-comparatives-superlatives-08",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-comparatives-superlatives",
+      "stem": "The ___ you submit the form, the sooner you will receive a reply.",
+      "choices": [
+        "early",
+        "more early",
+        "earlier",
+        "earliest"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "The + comparatif, the + comparatif = plus… plus…",
+          "why_wrong": [
+            "A : La structure « the + comparatif… the + comparatif » exige un comparatif.",
+            "B : « early » est court : on dit « earlier ».",
+            "D : Superlatif : incorrect dans cette structure."
+          ],
+          "example": "The more, the merrier."
+        },
+        "en": {
+          "rule": "The + comparative, the + comparative.",
+          "why_wrong": [
+            "A: 'the + comparative… the + comparative' requires a comparative.",
+            "B: 'early' is short: say 'earlier'.",
+            "D: Superlative: incorrect in this structure."
+          ],
+          "example": "The more, the merrier."
+        }
+      },
+      "vocab": []
     }
   ]
 }

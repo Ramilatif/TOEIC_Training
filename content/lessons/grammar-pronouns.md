@@ -44,6 +44,20 @@ Le TOEIC teste surtout le **choix de la forme** selon la fonction dans la phrase
 - **Each other / one another** = réciproque, pas un réfléchi.
 - Pronom indéfini + **singulier** : *Everyone has their badge* est accepté, mais *everyone **has***.
 
+<!-- extra -->
+## Pièges des francophones
+
+- **Sujet / objet / possessif** : *he – him – his – his*. *The decision is **his*** (pronom) / *his decision* (adjectif).
+- **Réfléchi** : *myself, himself, themselves…* s'emploie quand sujet = objet ou pour insister. *She taught **herself** Spanish.* Pas « each other » dans ce cas.
+- **Each other / one another** = l'un l'autre : *The partners trust **each other**.*
+- **It / there** : *There is a meeting* (existence) ≠ *It is a meeting* (identification).
+- **One / ones** évite la répétition : *I prefer the blue **one**.*
+
+## Exemples en contexte
+
+- *Please contact **me** if you need help.*
+- *The clients themselves requested the change.*
+
 <!-- lang:en -->
 # Pronouns
 
@@ -74,3 +88,16 @@ The TOEIC mostly tests **choosing the right form** for the function in the sente
 - **its** (possessive) ≠ **it's** (it is / it has).
 - **Each other / one another** = reciprocal, not reflexive.
 - Indefinite pronouns take a **singular** verb: *everyone **has***.
+
+## Traps for French speakers
+
+- **Subject / object / possessive**: *he – him – his – his*. *The decision is **his*** (pronoun) / *his decision* (adjective).
+- **Reflexive**: *myself, himself, themselves…* is used when subject = object or for emphasis. *She taught **herself** Spanish.*
+- **Each other / one another** = reciprocal: *The partners trust **each other**.*
+- **It / there**: *There is a meeting* (existence) ≠ *It is a meeting* (identification).
+- **One / ones** avoids repetition: *I prefer the blue **one**.*
+
+## Examples in context
+
+- *Please contact **me** if you need help.*
+- *The clients themselves requested the change.*

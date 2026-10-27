@@ -177,6 +177,111 @@
         }
       },
       "vocab": []
+    },
+    {
+      "id": "lq-grammar-passive-voice-06",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-passive-voice",
+      "stem": "The annual conference ___ in Chicago next spring.",
+      "choices": [
+        "will hold",
+        "will be held",
+        "will be holding",
+        "holds"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Sujet = chose qui subit l'action → passif.",
+          "why_wrong": [
+            "A : Actif : la conférence ne « tient » pas elle-même quelque chose.",
+            "C : Actif progressif : même problème de sens.",
+            "D : Actif au présent : l'événement est organisé par quelqu'un."
+          ],
+          "example": "The event will be held in May."
+        },
+        "en": {
+          "rule": "Subject = thing receiving the action → passive.",
+          "why_wrong": [
+            "A: Active: the conference does not 'hold' anything itself.",
+            "C: Active progressive: same meaning problem.",
+            "D: Active present: the event is organized by someone."
+          ],
+          "example": "The event will be held in May."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-passive-voice-07",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-passive-voice",
+      "stem": "A serious problem ___ during the installation of the new software.",
+      "choices": [
+        "has been occurred",
+        "occurred",
+        "was occurred",
+        "was occurring by"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Les verbes intransitifs (occur, happen, arrive) n'ont pas de passif.",
+          "why_wrong": [
+            "A : Même erreur : pas de passif avec « occur ».",
+            "C : « occur » est intransitif : pas de passif.",
+            "D : Faux : pas de passif, pas d'agent « by »."
+          ],
+          "example": "An error happened."
+        },
+        "en": {
+          "rule": "Intransitive verbs (occur, happen, arrive) have no passive.",
+          "why_wrong": [
+            "A: Same error: no passive with 'occur'.",
+            "C: 'occur' is intransitive: no passive.",
+            "D: Wrong: no passive, no 'by' agent."
+          ],
+          "example": "An error happened."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-passive-voice-08",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-passive-voice",
+      "stem": "All employees ___ to submit their time sheets by Friday.",
+      "choices": [
+        "require",
+        "requiring",
+        "are required",
+        "are requiring"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "be required to + verbe = être tenu de.",
+          "why_wrong": [
+            "A : Actif : les employés ne « requièrent » pas.",
+            "B : Participe présent sans auxiliaire : phrase incomplète.",
+            "D : Actif progressif : mauvais sens."
+          ],
+          "example": "Visitors are required to sign in."
+        },
+        "en": {
+          "rule": "be required to + verb = must.",
+          "why_wrong": [
+            "A: Active: employees do not 'require'.",
+            "B: Present participle without auxiliary: incomplete sentence.",
+            "D: Active progressive: wrong meaning."
+          ],
+          "example": "Visitors are required to sign in."
+        }
+      },
+      "vocab": []
     }
   ]
 }

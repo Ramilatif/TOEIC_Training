@@ -177,6 +177,111 @@
         }
       },
       "vocab": []
+    },
+    {
+      "id": "lq-grammar-relative-pronouns-06",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-relative-pronouns",
+      "stem": "The consultant, ___ report was praised, will join the team.",
+      "choices": [
+        "which",
+        "whose",
+        "that",
+        "who"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Whose + nom = possession.",
+          "why_wrong": [
+            "A : « which » désigne une chose, et ne marque pas la possession.",
+            "C : « that » ne s'emploie pas après une virgule.",
+            "D : « who » ne marque pas la possession ; il faudrait « whose report »."
+          ],
+          "example": "The man whose car was stolen called."
+        },
+        "en": {
+          "rule": "Whose + noun = possession.",
+          "why_wrong": [
+            "A: 'which' refers to a thing and shows no possession.",
+            "C: 'that' is not used after a comma.",
+            "D: 'who' does not show possession; 'whose report' is needed."
+          ],
+          "example": "The man whose car was stolen called."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-relative-pronouns-07",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-relative-pronouns",
+      "stem": "The software ___ we purchased last month has improved our workflow.",
+      "choices": [
+        "that",
+        "whose",
+        "who",
+        "what"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "That/which pour une chose ; le pronom objet peut même être omis.",
+          "why_wrong": [
+            "B : « whose » marque la possession.",
+            "C : « who » est réservé aux personnes.",
+            "D : « what » n'est pas un pronom relatif après un nom."
+          ],
+          "example": "The book (that) I read was long."
+        },
+        "en": {
+          "rule": "That/which for a thing; an object pronoun can even be omitted.",
+          "why_wrong": [
+            "B: 'whose' shows possession.",
+            "C: 'who' is for people.",
+            "D: 'what' is not a relative pronoun after a noun."
+          ],
+          "example": "The book (that) I read was long."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-relative-pronouns-08",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-relative-pronouns",
+      "stem": "The firm ___ he works has offices in twelve countries.",
+      "choices": [
+        "whom",
+        "for which",
+        "which for",
+        "that for"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Préposition + which/whom (jamais that).",
+          "why_wrong": [
+            "A : « whom » désigne une personne.",
+            "C : L'ordre est inversé : « for which ».",
+            "D : « that » ne se combine pas avec une préposition devant."
+          ],
+          "example": "The room in which we met was small."
+        },
+        "en": {
+          "rule": "Preposition + which/whom (never that).",
+          "why_wrong": [
+            "A: 'whom' refers to a person.",
+            "C: Wrong order: 'for which'.",
+            "D: 'that' cannot follow a preposition placed in front."
+          ],
+          "example": "The room in which we met was small."
+        }
+      },
+      "vocab": []
     }
   ]
 }

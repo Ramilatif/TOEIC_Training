@@ -177,6 +177,111 @@
         }
       },
       "vocab": []
+    },
+    {
+      "id": "lq-grammar-conjunctions-06",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-conjunctions",
+      "stem": "___ the heavy traffic, the keynote speaker arrived on time.",
+      "choices": [
+        "However",
+        "Despite",
+        "Because",
+        "Although"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Despite + nom ; although + sujet + verbe.",
+          "why_wrong": [
+            "A : Adverbe de liaison, il ne s'emploie pas devant un groupe nominal.",
+            "C : Sens de cause, faux ici : il y a une opposition.",
+            "D : « Although » introduit une proposition (sujet + verbe), pas un nom."
+          ],
+          "example": "Although it was late, we stayed."
+        },
+        "en": {
+          "rule": "Despite + noun; although + subject + verb.",
+          "why_wrong": [
+            "A: A linking adverb; it does not precede a noun phrase.",
+            "C: Cause meaning, wrong here: the idea is contrast.",
+            "D: 'Although' introduces a clause (subject + verb), not a noun."
+          ],
+          "example": "Although it was late, we stayed."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-conjunctions-07",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-conjunctions",
+      "stem": "We will begin the presentation ___ everyone has taken a seat.",
+      "choices": [
+        "despite",
+        "once",
+        "rather",
+        "during"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Once, as soon as, after + proposition = conjonction de temps.",
+          "why_wrong": [
+            "A : Préposition : elle ne peut pas introduire une proposition.",
+            "C : « rather » seul n'est pas une conjonction de temps.",
+            "D : Préposition aussi, suivie d'un nom."
+          ],
+          "example": "Once you finish, call me."
+        },
+        "en": {
+          "rule": "Once, as soon as, after + clause = time conjunction.",
+          "why_wrong": [
+            "A: A preposition: it cannot introduce a clause.",
+            "C: 'rather' alone is not a time conjunction.",
+            "D: Also a preposition, followed by a noun."
+          ],
+          "example": "Once you finish, call me."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-conjunctions-08",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-conjunctions",
+      "stem": "The new printer is ___ fast ___ reliable.",
+      "choices": [
+        "either / or",
+        "both / but",
+        "neither / or",
+        "both / and"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Both… and : deux éléments ajoutés.",
+          "why_wrong": [
+            "A : « either… or » exprime un choix, pas une addition.",
+            "B : « both » va avec « and ».",
+            "C : « neither » va avec « nor », pas « or »."
+          ],
+          "example": "He is both polite and efficient."
+        },
+        "en": {
+          "rule": "Both… and: two items added together.",
+          "why_wrong": [
+            "A: 'either… or' expresses a choice, not addition.",
+            "B: 'both' goes with 'and'.",
+            "C: 'neither' goes with 'nor', not 'or'."
+          ],
+          "example": "He is both polite and efficient."
+        }
+      },
+      "vocab": []
     }
   ]
 }

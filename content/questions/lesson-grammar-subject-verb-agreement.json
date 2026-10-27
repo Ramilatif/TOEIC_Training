@@ -177,6 +177,111 @@
         }
       },
       "vocab": []
+    },
+    {
+      "id": "lq-grammar-subject-verb-agreement-06",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-subject-verb-agreement",
+      "stem": "The number of applicants for the position ___ increased this year.",
+      "choices": [
+        "were",
+        "has",
+        "are",
+        "have"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "The number of + nom pluriel → verbe singulier.",
+          "why_wrong": [
+            "A : Même erreur : le sujet « number » est singulier.",
+            "C : « are » est pluriel et ne s'emploie pas avec « has increased ».",
+            "D : « The number of » est singulier : « has »."
+          ],
+          "example": "The number of errors is low."
+        },
+        "en": {
+          "rule": "The number of + plural noun → singular verb.",
+          "why_wrong": [
+            "A: Same error: the subject 'number' is singular.",
+            "C: 'are' is plural and does not fit 'increased' here.",
+            "D: 'The number of' is singular: 'has'."
+          ],
+          "example": "The number of errors is low."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-subject-verb-agreement-07",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-subject-verb-agreement",
+      "stem": "The equipment in the laboratory ___ regularly inspected.",
+      "choices": [
+        "have been",
+        "were",
+        "is",
+        "are"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Equipment, information, advice, news : singuliers.",
+          "why_wrong": [
+            "A : Forme plurielle incompatible avec « equipment ».",
+            "B : Le pluriel passé ne convient pas à « equipment ».",
+            "D : « equipment » est non dénombrable : singulier."
+          ],
+          "example": "The advice was useful."
+        },
+        "en": {
+          "rule": "Equipment, information, advice, news: singular.",
+          "why_wrong": [
+            "A: Plural form incompatible with 'equipment'.",
+            "B: The plural past does not suit 'equipment'.",
+            "D: 'equipment' is uncountable: singular."
+          ],
+          "example": "The advice was useful."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-grammar-subject-verb-agreement-08",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-subject-verb-agreement",
+      "stem": "Either the director or her assistants ___ going to present the results.",
+      "choices": [
+        "was",
+        "are",
+        "has been",
+        "is"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Either/or, neither/nor : accord avec le sujet le plus proche.",
+          "why_wrong": [
+            "A : Singulier : le sujet proche est pluriel.",
+            "C : Singulier et temps incohérent avec « going to ».",
+            "D : Avec « either… or », on accorde avec le sujet le plus proche (« assistants », pluriel)."
+          ],
+          "example": "Neither she nor I am ready."
+        },
+        "en": {
+          "rule": "Either/or, neither/nor: agree with the nearer subject.",
+          "why_wrong": [
+            "A: Singular: the nearer subject is plural.",
+            "C: Singular and inconsistent with 'going to'.",
+            "D: With 'either… or', agree with the nearer subject ('assistants', plural)."
+          ],
+          "example": "Neither she nor I am ready."
+        }
+      },
+      "vocab": []
     }
   ]
 }
