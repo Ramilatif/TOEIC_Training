@@ -1,7 +1,8 @@
-import { Link, Navigate, Route, Routes } from "react-router-dom";
+import { Link, NavLink, Navigate, Route, Routes } from "react-router-dom";
 import { useAuth } from "./auth";
 import { api } from "./api/client";
 import { t } from "./i18n";
+import Icon from "./components/Icon";
 import Login from "./pages/Login";
 import Home from "./pages/Home";
 import Dashboard from "./pages/Dashboard";
@@ -15,6 +16,17 @@ import ExamSetup from "./pages/ExamSetup";
 import ExamRun from "./pages/ExamRun";
 import ExamResults from "./pages/ExamResults";
 
+/** Entrées de la barre latérale : route, icône, clé i18n. */
+const NAV = [
+  ["/", "dashboard", "dashboard"],
+  ["/train", "train", "trainTitle"],
+  ["/lessons", "lessons", "lessonsTitle"],
+  ["/cards", "cards", "flashcards"],
+  ["/planning", "planning", "planning"],
+  ["/mistakes", "mistakes", "mistakes"],
+  ["/exams", "exams", "exams"],
+] as const;
+
 export default function App() {
   const { user, loading, logout, setUser } = useAuth();
   if (loading) return <p className="center">…</p>;
@@ -22,30 +34,21 @@ export default function App() {
   const lang = user.lang_pref;
 
   return (
-    <>
-      <header className="topbar">
+    <div className="shell">
+      <aside className="sidebar">
         <Link to="/" className="brand">
+          <span className="logo">C8</span>
           {t(lang, "appName")}
         </Link>
-        <nav>
-          <Link to="/cards" className="navlink">
-            {t(lang, "flashcards")}
-          </Link>
-          <Link to="/planning" className="navlink">
-            {t(lang, "planning")}
-          </Link>
-          <Link to="/lessons" className="navlink">
-            {t(lang, "lessonsTitle")}
-          </Link>
-          <Link to="/train" className="navlink">
-            {t(lang, "trainTitle")}
-          </Link>
-          <Link to="/mistakes" className="navlink">
-            {t(lang, "mistakes")}
-          </Link>
-          <Link to="/exams" className="navlink">
-            {t(lang, "exams")}
-          </Link>
+        <nav className="side-nav">
+          {NAV.map(([to, icon, key]) => (
+            <NavLink key={to} to={to} end={to === "/"} className="navlink">
+              <Icon name={icon} />
+              <span>{t(lang, key)}</span>
+            </NavLink>
+          ))}
+        </nav>
+        <div className="side-foot">
           <select
             aria-label={t(lang, "explanationLang")}
             value={lang}
@@ -54,12 +57,12 @@ export default function App() {
             <option value="fr">FR</option>
             <option value="en">EN</option>
           </select>
-          <span className="muted">{user.pseudo}</span>
+          <span className="muted user">{user.pseudo}</span>
           <button className="link" onClick={logout}>
             {t(lang, "logout")}
           </button>
-        </nav>
-      </header>
+        </div>
+      </aside>
       <main className="container">
         <Routes>
           <Route path="/" element={<Dashboard />} />
@@ -76,6 +79,6 @@ export default function App() {
           <Route path="*" element={<Navigate to="/" replace />} />
         </Routes>
       </main>
-    </>
+    </div>
   );
 }
