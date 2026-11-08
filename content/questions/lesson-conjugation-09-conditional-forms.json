@@ -1,0 +1,287 @@
+{
+  "batch": "lesson-conjugation-09-conditional-forms",
+  "part": 5,
+  "passages": [],
+  "questions": [
+    {
+      "id": "lq-conjugation-09-conditional-forms-01",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-conditionals",
+      "stem": "If the supplier ___ on time, we will start the production on Monday.",
+      "choices": [
+        "delivered",
+        "delivers",
+        "would deliver",
+        "will deliver"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Type 1 : if + présent, will + base.",
+          "why_wrong": [
+            "A : Prétérit : type 2, incompatible avec « will » dans la principale.",
+            "C : « would » : irréel, pas dans la proposition en « if » réelle.",
+            "D : Pas de « will » après « if »."
+          ],
+          "example": "If it rains, we will stay."
+        },
+        "en": {
+          "rule": "Type 1: if + present, will + base.",
+          "why_wrong": [
+            "A: Past: type 2, inconsistent with 'will' in the main clause.",
+            "C: 'would': unreal, not in a real 'if' clause.",
+            "D: No 'will' after 'if'."
+          ],
+          "example": "If it rains, we will stay."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-conjugation-09-conditional-forms-02",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-conditionals",
+      "stem": "If I ___ the manager, I would give everyone a raise.",
+      "choices": [
+        "am",
+        "would be",
+        "were",
+        "will be"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Type 2 : if + prétérit (were), would + base.",
+          "why_wrong": [
+            "A : Irréel du présent : prétérit (were).",
+            "B : Pas de « would » après « if ».",
+            "D : Pas de « will » après « if »."
+          ],
+          "example": "If I were you, I would wait."
+        },
+        "en": {
+          "rule": "Type 2: if + past (were), would + base.",
+          "why_wrong": [
+            "A: Unreal present: past tense (were).",
+            "B: No 'would' after 'if'.",
+            "D: No 'will' after 'if'."
+          ],
+          "example": "If I were you, I would wait."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-conjugation-09-conditional-forms-03",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-conditionals",
+      "stem": "If we had received the payment earlier, we ___ the order on time.",
+      "choices": [
+        "shipped",
+        "would have shipped",
+        "would ship",
+        "will ship"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Type 3 : if + had + p.p., would have + p.p.",
+          "why_wrong": [
+            "A : Prétérit : incompatible avec l'irréel du passé.",
+            "C : Irréel du passé : would have + participe.",
+            "D : Futur : incompatible avec « had received »."
+          ],
+          "example": "If I had known, I would have called."
+        },
+        "en": {
+          "rule": "Type 3: if + had + p.p., would have + p.p.",
+          "why_wrong": [
+            "A: Simple past: inconsistent with the unreal past.",
+            "C: Unreal past: would have + participle.",
+            "D: Future: inconsistent with 'had received'."
+          ],
+          "example": "If I had known, I would have called."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-conjugation-09-conditional-forms-04",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-conditionals",
+      "stem": "___ you need further assistance, please call our help desk.",
+      "choices": [
+        "Did",
+        "Should",
+        "Had",
+        "Would"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Should + sujet + base = if + présent (formel).",
+          "why_wrong": [
+            "A : « Did you need » : question au passé.",
+            "C : « Had » demande un participe passé.",
+            "D : « Would you need » n'est pas une inversion conditionnelle."
+          ],
+          "example": "Should you have questions, call me."
+        },
+        "en": {
+          "rule": "Should + subject + base = if + present (formal).",
+          "why_wrong": [
+            "A: 'Did you need': a past question.",
+            "C: 'Had' requires a past participle.",
+            "D: 'Would you need' is not a conditional inversion."
+          ],
+          "example": "Should you have questions, call me."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-conjugation-09-conditional-forms-05",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-conditionals",
+      "stem": "___ we known about the delay, we would have chosen another carrier.",
+      "choices": [
+        "Should",
+        "Had",
+        "Would",
+        "Were"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Had + sujet + p.p. = if + had + p.p.",
+          "why_wrong": [
+            "A : « Should we known » est impossible.",
+            "C : « Would we known » est impossible.",
+            "D : « Were we known » est impossible."
+          ],
+          "example": "Had I known, I would have gone."
+        },
+        "en": {
+          "rule": "Had + subject + p.p. = if + had + p.p.",
+          "why_wrong": [
+            "A: 'Should we known' is impossible.",
+            "C: 'Would we known' is impossible.",
+            "D: 'Were we known' is impossible."
+          ],
+          "example": "Had I known, I would have gone."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-conjugation-09-conditional-forms-06",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-conditionals",
+      "stem": "You can leave early ___ you finish all your tasks.",
+      "choices": [
+        "despite",
+        "even if",
+        "as long as",
+        "unless"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "as long as = à condition que.",
+          "why_wrong": [
+            "A : Préposition : pas de proposition ensuite.",
+            "B : « even if » : concession, autre sens.",
+            "D : « unless » = à moins que : sens opposé."
+          ],
+          "example": "You may stay as long as you like."
+        },
+        "en": {
+          "rule": "as long as = provided that.",
+          "why_wrong": [
+            "A: Preposition: no clause after it.",
+            "B: 'even if': concession, different meaning.",
+            "D: 'unless' = if not: opposite meaning."
+          ],
+          "example": "You may stay as long as you like."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-conjugation-09-conditional-forms-07",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-conditionals",
+      "stem": "We will cancel the event ___ enough people register.",
+      "choices": [
+        "provided",
+        "as long as",
+        "unless",
+        "so that"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "unless = if … not.",
+          "why_wrong": [
+            "A : « provided » seul est incomplet.",
+            "B : Contresens : l'annulation dépend de l'absence d'inscriptions.",
+            "D : But : mauvais sens."
+          ],
+          "example": "Unless you hurry, you'll be late."
+        },
+        "en": {
+          "rule": "unless = if … not.",
+          "why_wrong": [
+            "A: 'provided' alone is incomplete.",
+            "B: Wrong sense: cancellation depends on lack of registrations.",
+            "D: Purpose: wrong meaning."
+          ],
+          "example": "Unless you hurry, you'll be late."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-conjugation-09-conditional-forms-08",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-conditionals",
+      "stem": "If it ___ tomorrow, the outdoor event will be moved indoors.",
+      "choices": [
+        "rained",
+        "will rain",
+        "would rain",
+        "rains"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Type 1 : if + présent simple.",
+          "why_wrong": [
+            "A : Prétérit : incompatible avec « will be moved ».",
+            "B : Pas de « will » après « if ».",
+            "C : Pas de « would » après « if » dans un conditionnel réel."
+          ],
+          "example": "If it snows, we stay."
+        },
+        "en": {
+          "rule": "Type 1: if + simple present.",
+          "why_wrong": [
+            "A: Past: inconsistent with 'will be moved'.",
+            "B: No 'will' after 'if'.",
+            "C: No 'would' after 'if' in a real conditional."
+          ],
+          "example": "If it snows, we stay."
+        }
+      },
+      "vocab": []
+    }
+  ]
+}

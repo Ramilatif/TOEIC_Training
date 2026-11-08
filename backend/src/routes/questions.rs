@@ -264,7 +264,7 @@ pub(crate) async fn lesson_for(
     part: i64,
 ) -> ApiResult<Option<String>> {
     let direct: Option<(String,)> = sqlx::query_as(
-        "SELECT id FROM lessons WHERE category_id = $1 AND type <> 'method' ORDER BY id LIMIT 1",
+        "SELECT id FROM lessons WHERE category_id = $1 AND type <> 'method' ORDER BY (type = 'conjugation'), id LIMIT 1",
     )
     .bind(category)
     .fetch_optional(&state.pool)

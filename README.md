@@ -12,7 +12,7 @@ contenus 100 % originaux, pour un usage entre amis et collègues.
 - Examens blancs : complet (200 questions, 2 h) et mini-tests paramétrables, correction détaillée
 - Tableau de bord : score estimé (10-990), évolution, réussite par partie et par catégorie, écart avec l'objectif
 - Révision des erreurs, priorisée par catégorie faible
-- 37 cours (16 grammaire, 14 vocabulaire, 7 méthodologie) avec mini-quiz et suivi de progression
+- 52 cours (18 grammaire, 10 conjugaison, 17 vocabulaire, 7 méthodologie) avec mini-quiz et suivi de progression
 - Flashcards à répétition espacée (SM-2) alimentées par les questions, les cours et vos ajouts
 - Planning adaptatif jusqu'à la date d'examen
 

@@ -1,0 +1,287 @@
+{
+  "batch": "lesson-conjugation-08-modal-forms",
+  "part": 5,
+  "passages": [],
+  "questions": [
+    {
+      "id": "lq-conjugation-08-modal-forms-01",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-modals",
+      "stem": "Employees ___ park in the visitors' lot; it is reserved.",
+      "choices": [
+        "cannot to",
+        "may to",
+        "must not",
+        "do not have to"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "must not = interdiction.",
+          "why_wrong": [
+            "A : Pas de « to » après un modal.",
+            "B : Pas de « to » après un modal.",
+            "D : Pas obligé ≠ interdit."
+          ],
+          "example": "You must not smoke."
+        },
+        "en": {
+          "rule": "must not = prohibition.",
+          "why_wrong": [
+            "A: No 'to' after a modal.",
+            "B: No 'to' after a modal.",
+            "D: Not required ≠ forbidden."
+          ],
+          "example": "You must not smoke."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-conjugation-08-modal-forms-02",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-modals",
+      "stem": "She ___ speak three languages.",
+      "choices": [
+        "does can",
+        "can to",
+        "cans",
+        "can"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Modal + base verbale, sans -s.",
+          "why_wrong": [
+            "A : Pas de « do » avec un modal.",
+            "B : Pas de « to » après un modal.",
+            "C : Pas de -s aux modaux."
+          ],
+          "example": "He can swim."
+        },
+        "en": {
+          "rule": "Modal + base form, no -s.",
+          "why_wrong": [
+            "A: No 'do' with a modal.",
+            "B: No 'to' after a modal.",
+            "C: No -s with modals."
+          ],
+          "example": "He can swim."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-conjugation-08-modal-forms-03",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-modals",
+      "stem": "The shipment is late. The truck ___ have broken down.",
+      "choices": [
+        "will to",
+        "can to",
+        "might",
+        "must to"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "might have + participe = peut-être.",
+          "why_wrong": [
+            "A : Pas de « to » après un modal.",
+            "B : Pas de « to » après un modal.",
+            "D : Pas de « to » après un modal."
+          ],
+          "example": "He might have forgotten."
+        },
+        "en": {
+          "rule": "might have + participle = maybe.",
+          "why_wrong": [
+            "A: No 'to' after a modal.",
+            "B: No 'to' after a modal.",
+            "D: No 'to' after a modal."
+          ],
+          "example": "He might have forgotten."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-conjugation-08-modal-forms-04",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-modals",
+      "stem": "You ___ the form before you left; now we have to start again.",
+      "choices": [
+        "should had completed",
+        "should have completed",
+        "must complete",
+        "should complete"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "should have + p.p. = reproche.",
+          "why_wrong": [
+            "A : « should » est suivi de « have », pas « had ».",
+            "C : Obligation présente : mauvais sens.",
+            "D : Reproche sur le passé : should have + participe."
+          ],
+          "example": "You should have called."
+        },
+        "en": {
+          "rule": "should have + p.p. = criticism.",
+          "why_wrong": [
+            "A: 'should' is followed by 'have', not 'had'.",
+            "C: Present obligation: wrong meaning.",
+            "D: Criticism about the past: should have + participle."
+          ],
+          "example": "You should have called."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-conjugation-08-modal-forms-05",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-modals",
+      "stem": "We ___ deliver the order on Friday, but not before.",
+      "choices": [
+        "can will",
+        "will can",
+        "will to can",
+        "will be able to"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Pour combiner can et will : will be able to.",
+          "why_wrong": [
+            "A : Pas deux modaux ensemble.",
+            "B : Pas deux modaux ensemble.",
+            "C : Forme impossible."
+          ],
+          "example": "We will be able to help."
+        },
+        "en": {
+          "rule": "To combine can and will: will be able to.",
+          "why_wrong": [
+            "A: No two modals together.",
+            "B: No two modals together.",
+            "C: Impossible form."
+          ],
+          "example": "We will be able to help."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-conjugation-08-modal-forms-06",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-modals",
+      "stem": "___ I use your phone, please?",
+      "choices": [
+        "Do",
+        "May",
+        "Am",
+        "Will to"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "May I ...? = demande de permission polie.",
+          "why_wrong": [
+            "A : « do » ne s'emploie pas avec un modal.",
+            "C : « am » + base verbale est impossible.",
+            "D : Pas de « to » après un modal."
+          ],
+          "example": "May I sit here?"
+        },
+        "en": {
+          "rule": "May I ...? = polite request for permission.",
+          "why_wrong": [
+            "A: 'do' is not used with a modal.",
+            "C: 'am' + base verb is impossible.",
+            "D: No 'to' after a modal."
+          ],
+          "example": "May I sit here?"
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-conjugation-08-modal-forms-07",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-modals",
+      "stem": "The lights are off; the staff ___ have left already.",
+      "choices": [
+        "should",
+        "shall",
+        "must",
+        "would"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "must have + p.p. = déduction quasi certaine.",
+          "why_wrong": [
+            "A : « should have » = reproche, pas déduction.",
+            "B : « shall have » n'exprime pas la déduction.",
+            "D : « would have » = irréel du passé."
+          ],
+          "example": "He must have left."
+        },
+        "en": {
+          "rule": "must have + p.p. = almost certain deduction.",
+          "why_wrong": [
+            "A: 'should have' = criticism, not deduction.",
+            "B: 'shall have' does not express deduction.",
+            "D: 'would have' = unreal past."
+          ],
+          "example": "He must have left."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-conjugation-08-modal-forms-08",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-modals",
+      "stem": "Customers ___ to return items within 30 days.",
+      "choices": [
+        "must allow",
+        "are allowed",
+        "allowing",
+        "allows"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "be allowed to = avoir la permission de.",
+          "why_wrong": [
+            "A : Actif : mauvais sens.",
+            "C : Participe sans auxiliaire.",
+            "D : Actif au singulier : mauvais sens et accord."
+          ],
+          "example": "You are allowed to enter."
+        },
+        "en": {
+          "rule": "be allowed to = have permission to.",
+          "why_wrong": [
+            "A: Active: wrong meaning.",
+            "C: Participle with no auxiliary.",
+            "D: Singular active: wrong meaning and agreement."
+          ],
+          "example": "You are allowed to enter."
+        }
+      },
+      "vocab": []
+    }
+  ]
+}

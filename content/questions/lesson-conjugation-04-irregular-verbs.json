@@ -1,0 +1,287 @@
+{
+  "batch": "lesson-conjugation-04-irregular-verbs",
+  "part": 5,
+  "passages": [],
+  "questions": [
+    {
+      "id": "lq-conjugation-04-irregular-verbs-01",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-verb-tenses",
+      "stem": "The new product line has not been ___ yet.",
+      "choices": [
+        "sell",
+        "sold",
+        "selling",
+        "selled"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "sell → sold → sold.",
+          "why_wrong": [
+            "A : Après « been » : participe passé.",
+            "C : Passif : participe passé, pas -ing.",
+            "D : Verbe irrégulier : sold."
+          ],
+          "example": "It was sold last year."
+        },
+        "en": {
+          "rule": "sell → sold → sold.",
+          "why_wrong": [
+            "A: After 'been': past participle.",
+            "C: Passive: past participle, not -ing.",
+            "D: Irregular verb: sold."
+          ],
+          "example": "It was sold last year."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-conjugation-04-irregular-verbs-02",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-verb-tenses",
+      "stem": "The board has ___ a new chairperson.",
+      "choices": [
+        "chosen",
+        "choosed",
+        "choose",
+        "chose"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "choose → chose → chosen.",
+          "why_wrong": [
+            "B : Verbe irrégulier.",
+            "C : Base verbale : après « has », participe.",
+            "D : Après « has » : participe passé (chosen)."
+          ],
+          "example": "She has chosen."
+        },
+        "en": {
+          "rule": "choose → chose → chosen.",
+          "why_wrong": [
+            "B: Irregular verb.",
+            "C: Base form: after 'has', participle.",
+            "D: After 'has': past participle (chosen)."
+          ],
+          "example": "She has chosen."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-conjugation-04-irregular-verbs-03",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-verb-tenses",
+      "stem": "Ms. Ibarra ___ the contract on Monday.",
+      "choices": [
+        "has wrote",
+        "wrote",
+        "written",
+        "writed"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "write → wrote → written.",
+          "why_wrong": [
+            "A : Après « has », participe : written.",
+            "C : Le participe ne s'emploie pas seul au prétérit.",
+            "D : Verbe irrégulier."
+          ],
+          "example": "I wrote it yesterday."
+        },
+        "en": {
+          "rule": "write → wrote → written.",
+          "why_wrong": [
+            "A: After 'has', participle: written.",
+            "C: A participle cannot stand alone as the past.",
+            "D: Irregular verb."
+          ],
+          "example": "I wrote it yesterday."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-conjugation-04-irregular-verbs-04",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-verb-tenses",
+      "stem": "The staff meeting was ___ in the main hall.",
+      "choices": [
+        "holded",
+        "hold",
+        "holding",
+        "held"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "hold → held → held.",
+          "why_wrong": [
+            "A : Verbe irrégulier.",
+            "B : Passif : participe passé.",
+            "C : Passif : participe passé."
+          ],
+          "example": "The event was held in May."
+        },
+        "en": {
+          "rule": "hold → held → held.",
+          "why_wrong": [
+            "A: Irregular verb.",
+            "B: Passive: past participle.",
+            "C: Passive: past participle."
+          ],
+          "example": "The event was held in May."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-conjugation-04-irregular-verbs-05",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-verb-tenses",
+      "stem": "We have ___ all our savings on this project.",
+      "choices": [
+        "spend",
+        "spenden",
+        "spent",
+        "spended"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "spend → spent → spent.",
+          "why_wrong": [
+            "A : Après « have » : participe passé.",
+            "B : Forme inexistante.",
+            "D : Verbe irrégulier."
+          ],
+          "example": "She spent a week there."
+        },
+        "en": {
+          "rule": "spend → spent → spent.",
+          "why_wrong": [
+            "A: After 'have': past participle.",
+            "B: Non-existent form.",
+            "D: Irregular verb."
+          ],
+          "example": "She spent a week there."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-conjugation-04-irregular-verbs-06",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-verb-tenses",
+      "stem": "The meeting has ___ and everyone is waiting.",
+      "choices": [
+        "begin",
+        "beginned",
+        "began",
+        "begun"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "begin → began → begun.",
+          "why_wrong": [
+            "A : Base verbale.",
+            "B : Verbe irrégulier.",
+            "C : Après « has » : begun (participe)."
+          ],
+          "example": "It has begun."
+        },
+        "en": {
+          "rule": "begin → began → begun.",
+          "why_wrong": [
+            "A: Base form.",
+            "B: Irregular verb.",
+            "C: After 'has': begun (participle)."
+          ],
+          "example": "It has begun."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-conjugation-04-irregular-verbs-07",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-verb-tenses",
+      "stem": "Which sentence is correct?",
+      "choices": [
+        "The report was written by the finance team.",
+        "The report was writing by the finance team.",
+        "The report written by the finance team.",
+        "The report was wrote by the finance team."
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "write → wrote → written.",
+          "why_wrong": [
+            "B : Passif : participe passé.",
+            "C : Il manque « was ».",
+            "D : Passif : participe « written »."
+          ],
+          "example": "It was written in March."
+        },
+        "en": {
+          "rule": "write → wrote → written.",
+          "why_wrong": [
+            "B: Passive: past participle.",
+            "C: 'was' is missing.",
+            "D: Passive: participle 'written'."
+          ],
+          "example": "It was written in March."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-conjugation-04-irregular-verbs-08",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-verb-tenses",
+      "stem": "Last quarter we ___ more than 5,000 units.",
+      "choices": [
+        "have sold",
+        "sell",
+        "sold",
+        "selled"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "sell → sold.",
+          "why_wrong": [
+            "A : « last quarter » interdit le present perfect.",
+            "B : Passé : « last quarter ».",
+            "D : Verbe irrégulier."
+          ],
+          "example": "We sold ten."
+        },
+        "en": {
+          "rule": "sell → sold.",
+          "why_wrong": [
+            "A: 'last quarter' rules out the present perfect.",
+            "B: Past: 'last quarter'.",
+            "D: Irregular verb."
+          ],
+          "example": "We sold ten."
+        }
+      },
+      "vocab": []
+    }
+  ]
+}

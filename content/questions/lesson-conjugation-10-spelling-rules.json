@@ -1,0 +1,287 @@
+{
+  "batch": "lesson-conjugation-10-spelling-rules",
+  "part": 5,
+  "passages": [],
+  "questions": [
+    {
+      "id": "lq-conjugation-10-spelling-rules-01",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-word-forms",
+      "stem": "Which spelling is correct?",
+      "choices": [
+        "She studies every evening.",
+        "She studyes every evening.",
+        "She studdies every evening.",
+        "She studys every evening."
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "study → studies.",
+          "why_wrong": [
+            "B : Orthographe incorrecte : studies.",
+            "C : Pas de doublement ici.",
+            "D : consonne + y → ies."
+          ],
+          "example": "He tries hard."
+        },
+        "en": {
+          "rule": "study → studies.",
+          "why_wrong": [
+            "B: Wrong spelling: studies.",
+            "C: No doubling here.",
+            "D: consonant + y → ies."
+          ],
+          "example": "He tries hard."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-conjugation-10-spelling-rules-02",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-word-forms",
+      "stem": "They are ___ a new office downtown.",
+      "choices": [
+        "openning",
+        "opening",
+        "openeing",
+        "openin"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "open → opening (pas de doublement).",
+          "why_wrong": [
+            "A : Mot accentué sur la 1re syllabe : pas de doublement.",
+            "C : Orthographe incorrecte.",
+            "D : Il manque le g."
+          ],
+          "example": "visiting"
+        },
+        "en": {
+          "rule": "open → opening (no doubling).",
+          "why_wrong": [
+            "A: Stressed on the first syllable: no doubling.",
+            "C: Wrong spelling.",
+            "D: The g is missing."
+          ],
+          "example": "visiting"
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-conjugation-10-spelling-rules-03",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-word-forms",
+      "stem": "The company ___ its prices last year.",
+      "choices": [
+        "reduced",
+        "reduceed",
+        "reduse",
+        "reducd"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Verbe en -e : + d.",
+          "why_wrong": [
+            "B : Verbe en -e : + d seulement.",
+            "C : Orthographe de la base incorrecte.",
+            "D : Il manque le e."
+          ],
+          "example": "arrive → arrived"
+        },
+        "en": {
+          "rule": "Verb ending in -e: + d.",
+          "why_wrong": [
+            "B: Verb ending in -e: just add d.",
+            "C: Wrong base spelling.",
+            "D: The e is missing."
+          ],
+          "example": "arrive → arrived"
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-conjugation-10-spelling-rules-04",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-word-forms",
+      "stem": "The manager is ___ a meeting for next week.",
+      "choices": [
+        "plannig",
+        "planing",
+        "planeing",
+        "planning"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "plan → planning.",
+          "why_wrong": [
+            "A : Orthographe incorrecte.",
+            "B : Doubler le n : planning.",
+            "C : Orthographe incorrecte."
+          ],
+          "example": "stop → stopping"
+        },
+        "en": {
+          "rule": "plan → planning.",
+          "why_wrong": [
+            "A: Wrong spelling.",
+            "B: Double the n: planning.",
+            "C: Wrong spelling."
+          ],
+          "example": "stop → stopping"
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-conjugation-10-spelling-rules-05",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-word-forms",
+      "stem": "He ___ the boxes to the loading dock.",
+      "choices": [
+        "carryed",
+        "carrid",
+        "carried",
+        "caried"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "carry → carried.",
+          "why_wrong": [
+            "A : consonne + y → ied.",
+            "B : Orthographe incorrecte.",
+            "D : Un seul r : carried."
+          ],
+          "example": "study → studied"
+        },
+        "en": {
+          "rule": "carry → carried.",
+          "why_wrong": [
+            "A: consonant + y → ied.",
+            "B: Wrong spelling.",
+            "D: Double r: carried."
+          ],
+          "example": "study → studied"
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-conjugation-10-spelling-rules-06",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-word-forms",
+      "stem": "Which spelling of the -ing form is correct?",
+      "choices": [
+        "makking",
+        "making",
+        "makeing",
+        "maiking"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "make → making.",
+          "why_wrong": [
+            "A : Pas de doublement ici.",
+            "C : On supprime le e muet.",
+            "D : Orthographe incorrecte."
+          ],
+          "example": "arrive → arriving"
+        },
+        "en": {
+          "rule": "make → making.",
+          "why_wrong": [
+            "A: No doubling here.",
+            "C: Drop the silent e.",
+            "D: Wrong spelling."
+          ],
+          "example": "arrive → arriving"
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-conjugation-10-spelling-rules-07",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-word-forms",
+      "stem": "The technician ___ the files and found the error.",
+      "choices": [
+        "checked",
+        "checkd",
+        "checkt",
+        "checkked"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "check → checked.",
+          "why_wrong": [
+            "B : Il manque le e.",
+            "C : Orthographe incorrecte.",
+            "D : Pas de doublement avec « ck »."
+          ],
+          "example": "work → worked"
+        },
+        "en": {
+          "rule": "check → checked.",
+          "why_wrong": [
+            "B: The e is missing.",
+            "C: Wrong spelling.",
+            "D: No doubling with 'ck'."
+          ],
+          "example": "work → worked"
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-conjugation-10-spelling-rules-08",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-word-forms",
+      "stem": "She ___ the report to her supervisor every Friday.",
+      "choices": [
+        "sendes",
+        "sends",
+        "sendies",
+        "send"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "send → sends.",
+          "why_wrong": [
+            "A : Pas de -es après « d ».",
+            "C : Orthographe incorrecte.",
+            "D : 3e personne : -s."
+          ],
+          "example": "He works."
+        },
+        "en": {
+          "rule": "send → sends.",
+          "why_wrong": [
+            "A: No -es after 'd'.",
+            "C: Wrong spelling.",
+            "D: Third person: -s."
+          ],
+          "example": "He works."
+        }
+      },
+      "vocab": []
+    }
+  ]
+}

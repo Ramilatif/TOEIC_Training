@@ -1,0 +1,287 @@
+{
+  "batch": "lesson-conjugation-05-present-perfect",
+  "part": 5,
+  "passages": [],
+  "questions": [
+    {
+      "id": "lq-conjugation-05-present-perfect-01",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-verb-tenses",
+      "stem": "We ___ in this building since 2018.",
+      "choices": [
+        "are",
+        "were",
+        "will be",
+        "have been"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "since + point de départ → present perfect.",
+          "why_wrong": [
+            "A : « since » demande un temps parfait.",
+            "B : Le prétérit ne marque pas la durée jusqu'à maintenant.",
+            "C : Futur : incompatible avec « since »."
+          ],
+          "example": "I have lived here since May."
+        },
+        "en": {
+          "rule": "since + starting point → present perfect.",
+          "why_wrong": [
+            "A: 'since' requires a perfect tense.",
+            "B: The simple past does not show duration up to now.",
+            "C: Future: incompatible with 'since'."
+          ],
+          "example": "I have lived here since May."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-conjugation-05-present-perfect-02",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-verb-tenses",
+      "stem": "Ms. Lopez has worked for the company ___ ten years.",
+      "choices": [
+        "ago",
+        "for",
+        "during",
+        "since"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "for + durée.",
+          "why_wrong": [
+            "A : « ago » se place après la durée et demande le prétérit.",
+            "C : « during » ne s'emploie pas pour une durée chiffrée.",
+            "D : « since » est suivi d'un point de départ."
+          ],
+          "example": "for three weeks"
+        },
+        "en": {
+          "rule": "for + length.",
+          "why_wrong": [
+            "A: 'ago' comes after the length and needs the simple past.",
+            "C: 'during' is not used with a number of years.",
+            "D: 'since' takes a starting point."
+          ],
+          "example": "for three weeks"
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-conjugation-05-present-perfect-03",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-verb-tenses",
+      "stem": "The merger ___ announced last Tuesday.",
+      "choices": [
+        "have been",
+        "has been",
+        "was",
+        "is"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Date passée précise → prétérit (ici passif : was announced).",
+          "why_wrong": [
+            "A : Même problème, et accord incorrect.",
+            "B : « last Tuesday » est une date passée : prétérit.",
+            "D : Présent : le sens est passé."
+          ],
+          "example": "It was sent yesterday."
+        },
+        "en": {
+          "rule": "Precise past date → simple past (passive here: was announced).",
+          "why_wrong": [
+            "A: Same problem, and wrong agreement.",
+            "B: 'last Tuesday' is a past date: simple past.",
+            "D: Present: the meaning is past."
+          ],
+          "example": "It was sent yesterday."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-conjugation-05-present-perfect-04",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-verb-tenses",
+      "stem": "They ___ not replied to our email yet.",
+      "choices": [
+        "are",
+        "were",
+        "have",
+        "did"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "yet + négation → have/has not + participe.",
+          "why_wrong": [
+            "A : « are » ne convient pas avec « replied ».",
+            "B : « were » + participe = passif, pas ici.",
+            "D : « yet » demande le present perfect."
+          ],
+          "example": "I have not finished yet."
+        },
+        "en": {
+          "rule": "yet + negative → have/has not + participle.",
+          "why_wrong": [
+            "A: 'are' does not fit 'replied'.",
+            "B: 'were' + participle = passive, not here.",
+            "D: 'yet' requires the present perfect."
+          ],
+          "example": "I have not finished yet."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-conjugation-05-present-perfect-05",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-verb-tenses",
+      "stem": "Sales ___ rapidly since the new campaign began.",
+      "choices": [
+        "had grown",
+        "grew",
+        "have grown",
+        "grow"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "have/has + participe passé.",
+          "why_wrong": [
+            "A : Plus-que-parfait : pas de lien avec le présent.",
+            "B : « since » + présent résultat : present perfect.",
+            "D : Présent simple : « since » demande un temps parfait."
+          ],
+          "example": "Prices have risen."
+        },
+        "en": {
+          "rule": "have/has + past participle.",
+          "why_wrong": [
+            "A: Past perfect: no link with the present.",
+            "B: 'since' + present result: present perfect.",
+            "D: Simple present: 'since' needs a perfect tense."
+          ],
+          "example": "Prices have risen."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-conjugation-05-present-perfect-06",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-verb-tenses",
+      "stem": "How long ___ you been working on this project?",
+      "choices": [
+        "are",
+        "did",
+        "do",
+        "have"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "have/has + been + -ing.",
+          "why_wrong": [
+            "A : « are » ne se combine pas avec « been working ».",
+            "B : « been working » = present perfect progressif : have.",
+            "C : « do » ne se combine pas avec « been »."
+          ],
+          "example": "I have been waiting."
+        },
+        "en": {
+          "rule": "have/has + been + -ing.",
+          "why_wrong": [
+            "A: 'are' does not combine with 'been working'.",
+            "B: 'been working' = present perfect progressive: have.",
+            "C: 'do' does not combine with 'been'."
+          ],
+          "example": "I have been waiting."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-conjugation-05-present-perfect-07",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-verb-tenses",
+      "stem": "Mr. Ito is not in his office; he ___ to the bank and will be back at noon.",
+      "choices": [
+        "had gone",
+        "has gone",
+        "went",
+        "has been"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "has gone to = il y est encore ; has been to = il en est revenu.",
+          "why_wrong": [
+            "A : Plus-que-parfait : pas de lien avec le présent.",
+            "C : Prétérit : pas de lien avec le présent.",
+            "D : « has been to » = y est allé et revenu."
+          ],
+          "example": "She has gone out."
+        },
+        "en": {
+          "rule": "has gone to = still there; has been to = came back.",
+          "why_wrong": [
+            "A: Past perfect: no link with the present.",
+            "C: Simple past: no link with the present.",
+            "D: 'has been to' = went and came back."
+          ],
+          "example": "She has gone out."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-conjugation-05-present-perfect-08",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-verb-tenses",
+      "stem": "I ___ him twice this month.",
+      "choices": [
+        "met",
+        "have met",
+        "meet",
+        "was meeting"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Période non terminée → present perfect.",
+          "why_wrong": [
+            "A : « this month » est une période non terminée : present perfect.",
+            "C : Présent : « twice » exprime une expérience passée.",
+            "D : Passé continu : mauvais sens."
+          ],
+          "example": "I have seen him today."
+        },
+        "en": {
+          "rule": "Unfinished period → present perfect.",
+          "why_wrong": [
+            "A: 'this month' is an unfinished period: present perfect.",
+            "C: Present: 'twice' expresses past experience.",
+            "D: Past continuous: wrong meaning."
+          ],
+          "example": "I have seen him today."
+        }
+      },
+      "vocab": []
+    }
+  ]
+}

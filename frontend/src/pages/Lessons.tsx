@@ -4,7 +4,7 @@ import { api, type LessonItem, type ModuleProgress } from "../api/client";
 import { useAuth } from "../auth";
 import { t, type Key } from "../i18n";
 
-const TYPES = ["method", "grammar", "vocab"] as const;
+const TYPES = ["method", "grammar", "conjugation", "vocab"] as const;
 
 /** Liste des cours par module, avec le pourcentage de progression de chaque module. */
 export default function Lessons() {

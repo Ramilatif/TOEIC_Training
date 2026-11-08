@@ -1,0 +1,287 @@
+{
+  "batch": "lesson-conjugation-06-past-perfect-future",
+  "part": 5,
+  "passages": [],
+  "questions": [
+    {
+      "id": "lq-conjugation-06-past-perfect-future-01",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-verb-tenses",
+      "stem": "When the technician arrived, the printer ___ already been repaired.",
+      "choices": [
+        "has",
+        "had",
+        "will have",
+        "was"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Action antérieure à une autre au passé → had + participe.",
+          "why_wrong": [
+            "A : Récit au passé : plus-que-parfait.",
+            "C : Futur antérieur : le contexte est passé.",
+            "D : « was » + « been » est impossible."
+          ],
+          "example": "She had left."
+        },
+        "en": {
+          "rule": "Action before another past action → had + participle.",
+          "why_wrong": [
+            "A: Past narrative: past perfect.",
+            "C: Future perfect: the context is past.",
+            "D: 'was' + 'been' is impossible."
+          ],
+          "example": "She had left."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-conjugation-06-past-perfect-future-02",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-verb-tenses",
+      "stem": "As soon as the contract ___ signed, we will begin production.",
+      "choices": [
+        "was",
+        "is",
+        "has been being",
+        "will be"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Subordonnée de temps : présent.",
+          "why_wrong": [
+            "A : Le sens est futur.",
+            "C : Forme impossible.",
+            "D : Pas de « will » après « as soon as »."
+          ],
+          "example": "I'll call when I arrive."
+        },
+        "en": {
+          "rule": "Time clause: present.",
+          "why_wrong": [
+            "A: The meaning is future.",
+            "C: Impossible form.",
+            "D: No 'will' after 'as soon as'."
+          ],
+          "example": "I'll call when I arrive."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-conjugation-06-past-perfect-future-03",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-verb-tenses",
+      "stem": "By the end of June, the team ___ the migration to the new system.",
+      "choices": [
+        "completes",
+        "will complete",
+        "will have completed",
+        "completed"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "By + date future → will have + participe.",
+          "why_wrong": [
+            "A : Présent : ne marque pas l'achèvement futur.",
+            "B : « By the end of » appelle un futur antérieur (achevé avant).",
+            "D : Prétérit : le sens est futur."
+          ],
+          "example": "By May, I will have finished."
+        },
+        "en": {
+          "rule": "By + future date → will have + participle.",
+          "why_wrong": [
+            "A: Present: does not show future completion.",
+            "B: 'By the end of' calls for a future perfect (finished before).",
+            "D: Simple past: the meaning is future."
+          ],
+          "example": "By May, I will have finished."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-conjugation-06-past-perfect-future-04",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-verb-tenses",
+      "stem": "Look at those dark clouds: it ___ rain.",
+      "choices": [
+        "has",
+        "did",
+        "is going to",
+        "would"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Signe visible → be going to.",
+          "why_wrong": [
+            "A : « has » ne s'emploie pas avec « rain » ici.",
+            "B : Passé : le sens est futur.",
+            "D : « would » est un conditionnel, pas une prévision à partir d'un signe visible."
+          ],
+          "example": "He is going to fall!"
+        },
+        "en": {
+          "rule": "Visible sign → be going to.",
+          "why_wrong": [
+            "A: 'has' does not fit 'rain' here.",
+            "B: Past: the meaning is future.",
+            "D: 'would' is a conditional, not a prediction from a visible sign."
+          ],
+          "example": "He is going to fall!"
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-conjugation-06-past-perfect-future-05",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-verb-tenses",
+      "stem": "I'm sorry, the manager is busy; he ___ with the client until noon.",
+      "choices": [
+        "met",
+        "will be meeting",
+        "had met",
+        "has met"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Action en cours dans le futur → will be + -ing.",
+          "why_wrong": [
+            "A : Prétérit : le sens est futur.",
+            "C : Plus-que-parfait : le sens est futur.",
+            "D : Présent parfait : pas de durée future."
+          ],
+          "example": "At noon, I will be working."
+        },
+        "en": {
+          "rule": "Action in progress in the future → will be + -ing.",
+          "why_wrong": [
+            "A: Simple past: the meaning is future.",
+            "C: Past perfect: the meaning is future.",
+            "D: Present perfect: no future duration."
+          ],
+          "example": "At noon, I will be working."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-conjugation-06-past-perfect-future-06",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-verb-tenses",
+      "stem": "The auditors had left ___ we found the error.",
+      "choices": [
+        "unless",
+        "before",
+        "until",
+        "after"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "had + participe … before + prétérit.",
+          "why_wrong": [
+            "A : « unless » = à moins que.",
+            "C : « until » ne convient pas ici.",
+            "D : Contresens : ils sont partis avant la découverte."
+          ],
+          "example": "She had left before he called."
+        },
+        "en": {
+          "rule": "had + participle … before + simple past.",
+          "why_wrong": [
+            "A: 'unless' = if not.",
+            "C: 'until' does not fit here.",
+            "D: Wrong sense: they left before the discovery."
+          ],
+          "example": "She had left before he called."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-conjugation-06-past-perfect-future-07",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-verb-tenses",
+      "stem": "Which sentence is correct?",
+      "choices": [
+        "If the shipment arrived on Monday, we will start on Tuesday.",
+        "If the shipment is arriving on Monday, we start on Tuesday.",
+        "If the shipment will arrive on Monday, we will start on Tuesday.",
+        "If the shipment arrives on Monday, we will start on Tuesday."
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "If + présent, will + base.",
+          "why_wrong": [
+            "A : Concordance incorrecte (prétérit puis futur).",
+            "B : Formes de temps incohérentes pour une prévision.",
+            "C : Pas de « will » après « if »."
+          ],
+          "example": "If it rains, we will stay."
+        },
+        "en": {
+          "rule": "If + present, will + base.",
+          "why_wrong": [
+            "A: Incorrect sequence (past then future).",
+            "B: Inconsistent tense forms for a prediction.",
+            "C: No 'will' after 'if'."
+          ],
+          "example": "If it rains, we will stay."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-conjugation-06-past-perfect-future-08",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-verb-tenses",
+      "stem": "They ___ the report before the board meeting started.",
+      "choices": [
+        "have finished",
+        "finish",
+        "had finished",
+        "will finish"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Action antérieure → had + participe.",
+          "why_wrong": [
+            "A : « started » est au passé : plus-que-parfait.",
+            "B : Présent : le contexte est passé.",
+            "D : Futur : le contexte est passé."
+          ],
+          "example": "He had left."
+        },
+        "en": {
+          "rule": "Earlier action → had + participle.",
+          "why_wrong": [
+            "A: 'started' is past: past perfect.",
+            "B: Present: the context is past.",
+            "D: Future: the context is past."
+          ],
+          "example": "He had left."
+        }
+      },
+      "vocab": []
+    }
+  ]
+}

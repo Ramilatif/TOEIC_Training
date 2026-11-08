@@ -1,0 +1,287 @@
+{
+  "batch": "lesson-conjugation-07-passive-forms",
+  "part": 5,
+  "passages": [],
+  "questions": [
+    {
+      "id": "lq-conjugation-07-passive-forms-01",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-passive-voice",
+      "stem": "The new regulations ___ by the board last week.",
+      "choices": [
+        "were approved",
+        "have approved",
+        "are approving",
+        "approved"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Prétérit passif : was/were + participe.",
+          "why_wrong": [
+            "B : Actif : les règles ne peuvent pas approuver.",
+            "C : Actif progressif : mauvais sens.",
+            "D : Il manque l'auxiliaire du passif."
+          ],
+          "example": "It was sent."
+        },
+        "en": {
+          "rule": "Simple past passive: was/were + participle.",
+          "why_wrong": [
+            "B: Active: regulations cannot approve.",
+            "C: Active progressive: wrong meaning.",
+            "D: The passive auxiliary is missing."
+          ],
+          "example": "It was sent."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-conjugation-07-passive-forms-02",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-passive-voice",
+      "stem": "The offices ___ at the moment, so please use the side entrance.",
+      "choices": [
+        "are being painted",
+        "will paint",
+        "are painted",
+        "have painted"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Présent continu passif : am/is/are being + participe.",
+          "why_wrong": [
+            "B : Actif futur : mauvais sens.",
+            "C : « at the moment » demande un passif progressif.",
+            "D : Actif : mauvais sens."
+          ],
+          "example": "The road is being repaired."
+        },
+        "en": {
+          "rule": "Present continuous passive: am/is/are being + participle.",
+          "why_wrong": [
+            "B: Active future: wrong meaning.",
+            "C: 'at the moment' needs a progressive passive.",
+            "D: Active: wrong meaning."
+          ],
+          "example": "The road is being repaired."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-conjugation-07-passive-forms-03",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-passive-voice",
+      "stem": "The order ___ already ___ shipped.",
+      "choices": [
+        "was / be",
+        "has / being",
+        "is / been",
+        "has / been"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Present perfect passif : has/have been + participe.",
+          "why_wrong": [
+            "A : « was » exige un participe, pas « be ».",
+            "B : « has » exige « been ».",
+            "C : « is » + « been » est impossible."
+          ],
+          "example": "It has been done."
+        },
+        "en": {
+          "rule": "Present perfect passive: has/have been + participle.",
+          "why_wrong": [
+            "A: 'was' requires a participle, not 'be'.",
+            "B: 'has' requires 'been'.",
+            "C: 'is' + 'been' is impossible."
+          ],
+          "example": "It has been done."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-conjugation-07-passive-forms-04",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-passive-voice",
+      "stem": "All forms must ___ before the deadline.",
+      "choices": [
+        "be submit",
+        "being submitted",
+        "submitted",
+        "be submitted"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Modal + be + participe passé.",
+          "why_wrong": [
+            "A : Il faut le participe passé.",
+            "B : Après un modal : la base « be ».",
+            "C : Après un modal : be + participe."
+          ],
+          "example": "It must be done."
+        },
+        "en": {
+          "rule": "Modal + be + past participle.",
+          "why_wrong": [
+            "A: A past participle is required.",
+            "B: After a modal: the base 'be'.",
+            "C: After a modal: be + participle."
+          ],
+          "example": "It must be done."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-conjugation-07-passive-forms-05",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-passive-voice",
+      "stem": "By next Friday, the building ___ completely renovated.",
+      "choices": [
+        "has been",
+        "was",
+        "will be",
+        "will have been"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Futur antérieur passif : will have been + participe.",
+          "why_wrong": [
+            "A : Présent parfait : le sens est futur.",
+            "B : Prétérit : le sens est futur.",
+            "C : Pour une action achevée avant un moment futur : futur antérieur."
+          ],
+          "example": "It will have been finished."
+        },
+        "en": {
+          "rule": "Future perfect passive: will have been + participle.",
+          "why_wrong": [
+            "A: Present perfect: the meaning is future.",
+            "B: Simple past: the meaning is future.",
+            "C: For an action completed before a future moment: future perfect."
+          ],
+          "example": "It will have been finished."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-conjugation-07-passive-forms-06",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-passive-voice",
+      "stem": "Which sentence is correct?",
+      "choices": [
+        "The package has deliver this morning.",
+        "The package was deliver this morning.",
+        "The package delivered this morning.",
+        "The package was delivered this morning."
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "was + participe passé.",
+          "why_wrong": [
+            "A : Forme incorrecte.",
+            "B : Participe passé nécessaire : delivered.",
+            "C : Il manque « was »."
+          ],
+          "example": "It was finished."
+        },
+        "en": {
+          "rule": "was + past participle.",
+          "why_wrong": [
+            "A: Incorrect form.",
+            "B: Past participle needed: delivered.",
+            "C: 'was' is missing."
+          ],
+          "example": "It was finished."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-conjugation-07-passive-forms-07",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-passive-voice",
+      "stem": "The conference ___ every year in Chicago.",
+      "choices": [
+        "holds",
+        "is holding",
+        "has hold",
+        "is held"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Présent simple passif : is/are + participe.",
+          "why_wrong": [
+            "A : Actif : une conférence ne « tient » rien.",
+            "B : Actif progressif : mauvais sens.",
+            "C : Forme incorrecte."
+          ],
+          "example": "It is held in May."
+        },
+        "en": {
+          "rule": "Simple present passive: is/are + participle.",
+          "why_wrong": [
+            "A: Active: a conference does not 'hold' anything.",
+            "B: Active progressive: wrong meaning.",
+            "C: Incorrect form."
+          ],
+          "example": "It is held in May."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-conjugation-07-passive-forms-08",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-passive-voice",
+      "stem": "The documents ___ before the audit began.",
+      "choices": [
+        "will be reviewed",
+        "had been reviewed",
+        "were reviewing",
+        "have been reviewed"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Plus-que-parfait passif : had been + participe.",
+          "why_wrong": [
+            "A : Futur : le contexte est passé.",
+            "C : Actif progressif : mauvais sens.",
+            "D : « began » est au passé : plus-que-parfait."
+          ],
+          "example": "It had been sent."
+        },
+        "en": {
+          "rule": "Past perfect passive: had been + participle.",
+          "why_wrong": [
+            "A: Future: the context is past.",
+            "C: Active progressive: wrong meaning.",
+            "D: 'began' is past: past perfect."
+          ],
+          "example": "It had been sent."
+        }
+      },
+      "vocab": []
+    }
+  ]
+}

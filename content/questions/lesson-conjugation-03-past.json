@@ -1,0 +1,287 @@
+{
+  "batch": "lesson-conjugation-03-past",
+  "part": 5,
+  "passages": [],
+  "questions": [
+    {
+      "id": "lq-conjugation-03-past-01",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-verb-tenses",
+      "stem": "The shipment ___ two days ago.",
+      "choices": [
+        "has arrived",
+        "arrives",
+        "arrived",
+        "was arriving"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "ago / yesterday → prétérit.",
+          "why_wrong": [
+            "A : « ago » interdit le present perfect.",
+            "B : Présent : le sens est passé.",
+            "D : Le continu ne convient pas à une arrivée datée."
+          ],
+          "example": "He left two days ago."
+        },
+        "en": {
+          "rule": "ago / yesterday → simple past.",
+          "why_wrong": [
+            "A: 'ago' rules out the present perfect.",
+            "B: Present: the meaning is past.",
+            "D: The continuous does not fit a dated arrival."
+          ],
+          "example": "He left two days ago."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-conjugation-03-past-02",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-verb-tenses",
+      "stem": "Did the supervisor ___ the schedule last week?",
+      "choices": [
+        "changed",
+        "changes",
+        "change",
+        "changing"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Did + base verbale.",
+          "why_wrong": [
+            "A : Après « did », base verbale.",
+            "B : Après « did », pas de -s.",
+            "D : Après « did », pas de -ing."
+          ],
+          "example": "Did she call?"
+        },
+        "en": {
+          "rule": "Did + base form.",
+          "why_wrong": [
+            "A: After 'did', base form.",
+            "B: After 'did', no -s.",
+            "D: After 'did', no -ing."
+          ],
+          "example": "Did she call?"
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-conjugation-03-past-03",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-verb-tenses",
+      "stem": "When the fire alarm rang, the staff ___ a meeting.",
+      "choices": [
+        "was having",
+        "had",
+        "were having",
+        "have"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Action de fond interrompue → was/were + -ing.",
+          "why_wrong": [
+            "A : Sujet pluriel : « were ».",
+            "B : Le prétérit seul ne montre pas l'action de fond.",
+            "D : Présent : le sens est passé."
+          ],
+          "example": "I was reading when he called."
+        },
+        "en": {
+          "rule": "Background interrupted action → was/were + -ing.",
+          "why_wrong": [
+            "A: Plural subject: 'were'.",
+            "B: The simple past alone does not show the background action.",
+            "D: Present: the meaning is past."
+          ],
+          "example": "I was reading when he called."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-conjugation-03-past-04",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-verb-tenses",
+      "stem": "Which past form of 'send' is correct?",
+      "choices": [
+        "sent",
+        "senden",
+        "sended",
+        "sending"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "send → sent → sent.",
+          "why_wrong": [
+            "B : Forme inexistante.",
+            "C : Verbe irrégulier : sent.",
+            "D : C'est la forme en -ing."
+          ],
+          "example": "We sent the file."
+        },
+        "en": {
+          "rule": "send → sent → sent.",
+          "why_wrong": [
+            "B: Non-existent form.",
+            "C: Irregular verb: sent.",
+            "D: That is the -ing form."
+          ],
+          "example": "We sent the file."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-conjugation-03-past-05",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-verb-tenses",
+      "stem": "The company ___ its headquarters in 2019.",
+      "choices": [
+        "moved",
+        "is moving",
+        "has moved",
+        "moves"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Date passée précise → prétérit.",
+          "why_wrong": [
+            "B : Présent continu : le sens est passé.",
+            "C : Date précise : prétérit.",
+            "D : Présent : le sens est passé."
+          ],
+          "example": "It opened in 2020."
+        },
+        "en": {
+          "rule": "Precise past date → simple past.",
+          "why_wrong": [
+            "B: Present continuous: the meaning is past.",
+            "C: Precise date: simple past.",
+            "D: Present: the meaning is past."
+          ],
+          "example": "It opened in 2020."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-conjugation-03-past-06",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-verb-tenses",
+      "stem": "She ___ the report because the file was damaged.",
+      "choices": [
+        "not finished",
+        "did not finished",
+        "was not finish",
+        "did not finish"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "did not + base verbale.",
+          "why_wrong": [
+            "A : La négation exige « did ».",
+            "B : Après « did not », base verbale.",
+            "C : « was » ne s'emploie pas avec la base verbale."
+          ],
+          "example": "He did not come."
+        },
+        "en": {
+          "rule": "did not + base form.",
+          "why_wrong": [
+            "A: The negative needs 'did'.",
+            "B: After 'did not', base form.",
+            "C: 'was' is not used with a base verb."
+          ],
+          "example": "He did not come."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-conjugation-03-past-07",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-verb-tenses",
+      "stem": "Which spelling is correct?",
+      "choices": [
+        "stopped",
+        "stoped",
+        "stoping",
+        "stopt"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "stop → stopped.",
+          "why_wrong": [
+            "B : Mot court : doubler le p.",
+            "C : Forme en -ing incomplète et incorrecte.",
+            "D : Orthographe incorrecte."
+          ],
+          "example": "plan → planned"
+        },
+        "en": {
+          "rule": "stop → stopped.",
+          "why_wrong": [
+            "B: Short word: double the p.",
+            "C: Incorrect -ing form.",
+            "D: Wrong spelling."
+          ],
+          "example": "plan → planned"
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-conjugation-03-past-08",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-verb-tenses",
+      "stem": "The clients ___ in the lobby when the manager arrived.",
+      "choices": [
+        "were waiting",
+        "are waiting",
+        "was waiting",
+        "waited"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "was/were + -ing = en cours dans le passé.",
+          "why_wrong": [
+            "B : Présent : le sens est passé.",
+            "C : Sujet pluriel : « were ».",
+            "D : Le prétérit n'insiste pas sur l'action en cours."
+          ],
+          "example": "I was sleeping."
+        },
+        "en": {
+          "rule": "was/were + -ing = in progress in the past.",
+          "why_wrong": [
+            "B: Present: the meaning is past.",
+            "C: Plural subject: 'were'.",
+            "D: The simple past does not stress the ongoing action."
+          ],
+          "example": "I was sleeping."
+        }
+      },
+      "vocab": []
+    }
+  ]
+}

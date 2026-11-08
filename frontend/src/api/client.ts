@@ -123,7 +123,7 @@ export interface Overview {
 
 export interface LessonItem {
   id: string;
-  type: "grammar" | "vocab" | "method";
+  type: "grammar" | "conjugation" | "vocab" | "method";
   category_id: string;
   level: string;
   minutes: number;
@@ -157,7 +157,7 @@ export interface QuizResult {
 }
 
 export interface ModuleProgress {
-  type: "grammar" | "vocab" | "method";
+  type: "grammar" | "conjugation" | "vocab" | "method";
   lessons: number;
   read: number;
   quiz_passed: number;

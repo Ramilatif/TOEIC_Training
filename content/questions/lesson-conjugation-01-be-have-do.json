@@ -1,0 +1,287 @@
+{
+  "batch": "lesson-conjugation-01-be-have-do",
+  "part": 5,
+  "passages": [],
+  "questions": [
+    {
+      "id": "lq-conjugation-01-be-have-do-01",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-subject-verb-agreement",
+      "stem": "The new software ___ installed on all computers by Friday.",
+      "choices": [
+        "is having",
+        "will be",
+        "will have",
+        "does"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Passif = be + participe passé.",
+          "why_wrong": [
+            "A : Forme progressive de « have » : mauvais sens.",
+            "C : « have » + participe passé = temps parfait ; ici il faut un passif (be + participe).",
+            "D : « do » sert aux questions et négations, pas au passif."
+          ],
+          "example": "The room will be cleaned."
+        },
+        "en": {
+          "rule": "Passive = be + past participle.",
+          "why_wrong": [
+            "A: Progressive of 'have': wrong meaning.",
+            "C: 'have' + past participle = perfect; here a passive (be + participle) is needed.",
+            "D: 'do' is for questions and negatives, not the passive."
+          ],
+          "example": "The room will be cleaned."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-conjugation-01-be-have-do-02",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-subject-verb-agreement",
+      "stem": "___ the manager approve the budget yesterday?",
+      "choices": [
+        "Did",
+        "Was",
+        "Does",
+        "Has"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Question au prétérit : Did + sujet + base verbale.",
+          "why_wrong": [
+            "B : « was » ne s'emploie pas avec un verbe à la forme de base.",
+            "C : « does » est au présent ; « yesterday » demande le prétérit.",
+            "D : « has » demande un participe passé : « Has … approved »."
+          ],
+          "example": "Did she call?"
+        },
+        "en": {
+          "rule": "Past question: Did + subject + base verb.",
+          "why_wrong": [
+            "B: 'was' is not used with a base-form verb.",
+            "C: 'does' is present; 'yesterday' needs the past.",
+            "D: 'has' needs a past participle: 'Has … approved'."
+          ],
+          "example": "Did she call?"
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-conjugation-01-be-have-do-03",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-subject-verb-agreement",
+      "stem": "Ms. Tan ___ three offices in Asia.",
+      "choices": [
+        "has",
+        "have",
+        "does have",
+        "is having"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "He/she/it → has.",
+          "why_wrong": [
+            "B : Sujet singulier : « has ».",
+            "C : Forme emphatique inutile ici et incorrecte sans contexte.",
+            "D : « have » de possession ne se met pas à la forme progressive."
+          ],
+          "example": "He has a car."
+        },
+        "en": {
+          "rule": "He/she/it → has.",
+          "why_wrong": [
+            "B: Singular subject: 'has'.",
+            "C: Emphatic form is unnecessary here.",
+            "D: 'have' of possession is not used in the progressive."
+          ],
+          "example": "He has a car."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-conjugation-01-be-have-do-04",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-subject-verb-agreement",
+      "stem": "The clients ___ waiting in the lobby since nine o'clock.",
+      "choices": [
+        "are",
+        "had",
+        "have been",
+        "were being"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "have/has been + -ing = présent parfait progressif.",
+          "why_wrong": [
+            "A : « since » demande un temps parfait.",
+            "B : « had waiting » est impossible : il manque « been ».",
+            "D : Passif progressif : mauvais sens."
+          ],
+          "example": "I have been working."
+        },
+        "en": {
+          "rule": "have/has been + -ing = present perfect progressive.",
+          "why_wrong": [
+            "A: 'since' requires a perfect tense.",
+            "B: 'had waiting' is impossible: 'been' is missing.",
+            "D: Passive progressive: wrong meaning."
+          ],
+          "example": "I have been working."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-conjugation-01-be-have-do-05",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-subject-verb-agreement",
+      "stem": "Which sentence is correct?",
+      "choices": [
+        "She not needs a visa.",
+        "She does not need a visa.",
+        "She is not need a visa.",
+        "She does not needs a visa."
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "does not + base verbale.",
+          "why_wrong": [
+            "A : La négation exige l'auxiliaire « do ».",
+            "C : « is » et un verbe à la base ne se combinent pas.",
+            "D : Après « does », la base verbale : « need »."
+          ],
+          "example": "He does not know."
+        },
+        "en": {
+          "rule": "does not + base form.",
+          "why_wrong": [
+            "A: The negative needs the auxiliary 'do'.",
+            "C: 'is' cannot combine with a base verb.",
+            "D: After 'does', the base form: 'need'."
+          ],
+          "example": "He does not know."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-conjugation-01-be-have-do-06",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-subject-verb-agreement",
+      "stem": "Our colleagues ___ 30 years old on average.",
+      "choices": [
+        "make",
+        "have",
+        "are",
+        "do"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "L'âge : be + nombre.",
+          "why_wrong": [
+            "A : « make » n'exprime pas l'âge.",
+            "B : Erreur de francophone : l'âge se dit avec « be ».",
+            "D : « do » n'exprime pas l'âge."
+          ],
+          "example": "I am 25."
+        },
+        "en": {
+          "rule": "Age: be + number.",
+          "why_wrong": [
+            "A: 'make' does not express age.",
+            "B: French-speaker error: age uses 'be'.",
+            "D: 'do' does not express age."
+          ],
+          "example": "I am 25."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-conjugation-01-be-have-do-07",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-subject-verb-agreement",
+      "stem": "The conference room ___ cleaned right now, so please wait.",
+      "choices": [
+        "is been",
+        "does being",
+        "is being",
+        "has being"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Passif progressif : is/are being + participe passé.",
+          "why_wrong": [
+            "A : « been » ne s'emploie pas après « is ».",
+            "B : Combinaison impossible.",
+            "D : « has » ne se combine pas avec « being »."
+          ],
+          "example": "The report is being written."
+        },
+        "en": {
+          "rule": "Passive progressive: is/are being + past participle.",
+          "why_wrong": [
+            "A: 'been' is not used after 'is'.",
+            "B: Impossible combination.",
+            "D: 'has' does not combine with 'being'."
+          ],
+          "example": "The report is being written."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-conjugation-01-be-have-do-08",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-subject-verb-agreement",
+      "stem": "The auditors ___ not finished their review.",
+      "choices": [
+        "have",
+        "has",
+        "do",
+        "are"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Présent parfait : have/has + participe passé.",
+          "why_wrong": [
+            "B : Sujet pluriel : « have ».",
+            "C : « do » + participe passé est impossible.",
+            "D : « are » + participe passé = passif ; ici présent parfait actif."
+          ],
+          "example": "They have left."
+        },
+        "en": {
+          "rule": "Present perfect: have/has + past participle.",
+          "why_wrong": [
+            "B: Plural subject: 'have'.",
+            "C: 'do' + past participle is impossible.",
+            "D: 'are' + past participle = passive; here an active present perfect."
+          ],
+          "example": "They have left."
+        }
+      },
+      "vocab": []
+    }
+  ]
+}

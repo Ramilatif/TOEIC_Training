@@ -30,7 +30,7 @@
 | Part 6 | 32                | 32                  | oui           |
 | Part 7 | 108 (+54 extension)| 162                 | oui           |
 
-Leçons : grammaire 18 · vocabulaire 17 · méthodologie 7 = 42 leçons ; tous les quiz ont 8 questions (336 au total). Chaque cours d'origine a une section de complément (pièges de francophones, mots complémentaires ou plan d'entraînement).
+Leçons : grammaire 18 · conjugaison 10 · vocabulaire 17 · méthodologie 7 = 52 leçons ; tous les quiz ont 8 questions (416 au total). Chaque cours d'origine a une section de complément (pièges de francophones, mots complémentaires ou plan d'entraînement).
 
 ## Journal des décisions
 
@@ -61,6 +61,8 @@ Leçons : grammaire 18 · vocabulaire 17 · méthodologie 7 = 42 leçons ; tous 
 2026-10-27 — Extension terminée : quiz de vocabulaire et de méthodologie à 8 questions (+ « mots complémentaires » / « plan d'entraînement »), lot part7-batch05 (54 questions : 10 passages simples, 2 doubles, 3 triples). Banque d'examen : 514 questions
 
 2026-10-27 — Lots d'extension Listening : part2-batch03 (25), part3-batch03 (13 conversations, 39 questions, 2 documents associés), part4-batch03 (10 exposés, 30 questions, 2 documents associés). Banque d'examen : 608 questions (Part 1 : 12 en attente des photos). Audio toujours par synthèse vocale du navigateur
+
+2026-11-08 — Nouveau module de cours « Conjugaison » (type `conjugation`, 10 leçons numérotées, quiz de 8 questions chacune) : être/avoir/faire, présent, passé, verbes irréguliers, present perfect, plus-que-parfait et futurs, passif, modaux, conditionnels, orthographe des terminaisons. Réutilise les catégories existantes ; la progression est calculée par module comme les autres types
 
 ## Problèmes rencontrés
 

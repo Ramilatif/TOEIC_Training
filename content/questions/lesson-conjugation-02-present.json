@@ -1,0 +1,287 @@
+{
+  "batch": "lesson-conjugation-02-present",
+  "part": 5,
+  "passages": [],
+  "questions": [
+    {
+      "id": "lq-conjugation-02-present-01",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-verb-tenses",
+      "stem": "Our accountant ___ the tax forms every March.",
+      "choices": [
+        "prepare",
+        "prepares",
+        "is preparing",
+        "preparing"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Habitude → présent simple (-s à la 3e personne).",
+          "why_wrong": [
+            "A : 3e personne du singulier : -s obligatoire.",
+            "C : « every March » exprime une habitude : présent simple.",
+            "D : Il manque l'auxiliaire."
+          ],
+          "example": "She prepares reports."
+        },
+        "en": {
+          "rule": "Habit → simple present (-s in the third person).",
+          "why_wrong": [
+            "A: Third person singular: -s is required.",
+            "C: 'every March' expresses a habit: simple present.",
+            "D: The auxiliary is missing."
+          ],
+          "example": "She prepares reports."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-conjugation-02-present-02",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-verb-tenses",
+      "stem": "Please be quiet: the director ___ a call at the moment.",
+      "choices": [
+        "does take",
+        "takes",
+        "take",
+        "is taking"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "At the moment → am/is/are + -ing.",
+          "why_wrong": [
+            "A : Forme emphatique : pas de sens ici.",
+            "B : « at the moment » demande le présent continu.",
+            "C : Sans -s et sans -ing : incorrect."
+          ],
+          "example": "I am working now."
+        },
+        "en": {
+          "rule": "At the moment → am/is/are + -ing.",
+          "why_wrong": [
+            "A: Emphatic form: not meant here.",
+            "B: 'at the moment' needs the present continuous.",
+            "C: No -s and no -ing: incorrect."
+          ],
+          "example": "I am working now."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-conjugation-02-present-03",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-verb-tenses",
+      "stem": "The shop ___ at 9 a.m. and closes at 6 p.m.",
+      "choices": [
+        "opens",
+        "is opening",
+        "opened",
+        "open"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Horaires fixes → présent simple.",
+          "why_wrong": [
+            "B : Un horaire fixe se dit au présent simple.",
+            "C : Le prétérit ne convient pas à un horaire habituel.",
+            "D : Sujet singulier : -s."
+          ],
+          "example": "The bus leaves at 8."
+        },
+        "en": {
+          "rule": "Fixed timetables → simple present.",
+          "why_wrong": [
+            "B: A fixed timetable uses the simple present.",
+            "C: The past does not fit a regular timetable.",
+            "D: Singular subject: -s."
+          ],
+          "example": "The bus leaves at 8."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-conjugation-02-present-04",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-verb-tenses",
+      "stem": "Which verb form is correct? She ___ English and French.",
+      "choices": [
+        "study",
+        "studys",
+        "studyes",
+        "studies"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "consonne + y → ies.",
+          "why_wrong": [
+            "A : 3e personne : -s (ici -ies).",
+            "B : consonne + y → ies.",
+            "C : Orthographe incorrecte : « studies »."
+          ],
+          "example": "He tries hard."
+        },
+        "en": {
+          "rule": "consonant + y → ies.",
+          "why_wrong": [
+            "A: Third person: -s (here -ies).",
+            "B: consonant + y → ies.",
+            "C: Wrong spelling: 'studies'."
+          ],
+          "example": "He tries hard."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-conjugation-02-present-05",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-verb-tenses",
+      "stem": "We ___ the new policy, so we cannot comment yet.",
+      "choices": [
+        "are not understanding",
+        "not understand",
+        "do not understand",
+        "does not understand"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Verbes d'état : jamais au continu.",
+          "why_wrong": [
+            "A : « understand » est un verbe d'état : pas de forme continue.",
+            "B : La négation exige « do ».",
+            "D : Sujet « we » : « do not »."
+          ],
+          "example": "I know the answer."
+        },
+        "en": {
+          "rule": "State verbs: never continuous.",
+          "why_wrong": [
+            "A: 'understand' is a state verb: no continuous form.",
+            "B: The negative needs 'do'.",
+            "D: Subject 'we': 'do not'."
+          ],
+          "example": "I know the answer."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-conjugation-02-present-06",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-verb-tenses",
+      "stem": "___ your team work on Saturdays?",
+      "choices": [
+        "Do",
+        "Does",
+        "Are",
+        "Is"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Does + sujet singulier + base verbale.",
+          "why_wrong": [
+            "A : Sujet singulier (team) : « does ».",
+            "C : « are » + base verbale est impossible.",
+            "D : « is » + base verbale est impossible."
+          ],
+          "example": "Does she know?"
+        },
+        "en": {
+          "rule": "Does + singular subject + base verb.",
+          "why_wrong": [
+            "A: Singular subject (team): 'does'.",
+            "C: 'are' + base verb is impossible.",
+            "D: 'is' + base verb is impossible."
+          ],
+          "example": "Does she know?"
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-conjugation-02-present-07",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-verb-tenses",
+      "stem": "The technician usually ___ the printers on Mondays.",
+      "choices": [
+        "checks",
+        "checking",
+        "check",
+        "is checking"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "usually / every… → présent simple.",
+          "why_wrong": [
+            "B : Sans auxiliaire.",
+            "C : -s manquant.",
+            "D : « usually » : habitude, présent simple."
+          ],
+          "example": "He often travels."
+        },
+        "en": {
+          "rule": "usually / every… → simple present.",
+          "why_wrong": [
+            "B: No auxiliary.",
+            "C: Missing -s.",
+            "D: 'usually': habit, simple present."
+          ],
+          "example": "He often travels."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-conjugation-02-present-08",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-verb-tenses",
+      "stem": "Which sentence is correct?",
+      "choices": [
+        "He gos to the gym after work.",
+        "He goes to the gym after work.",
+        "He is go to the gym after work.",
+        "He go to the gym after work."
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "go → goes.",
+          "why_wrong": [
+            "A : Verbe en -o : + es.",
+            "C : « is » ne s'associe pas à la base verbale.",
+            "D : 3e personne : goes."
+          ],
+          "example": "She does her best."
+        },
+        "en": {
+          "rule": "go → goes.",
+          "why_wrong": [
+            "A: Verb ending in -o: + es.",
+            "C: 'is' does not go with a base verb.",
+            "D: Third person: goes."
+          ],
+          "example": "She does her best."
+        }
+      },
+      "vocab": []
+    }
+  ]
+}
