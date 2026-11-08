@@ -1,0 +1,287 @@
+{
+  "batch": "lesson-advanced-12-business-idioms",
+  "part": 5,
+  "passages": [],
+  "questions": [
+    {
+      "id": "lq-advanced-12-business-idioms-01",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-general",
+      "stem": "The first prototype failed, so we are back to square one. What does the speaker mean?",
+      "choices": [
+        "The team must start over.",
+        "The team will hire more staff.",
+        "The team received a square-shaped prototype.",
+        "The team has finished the project."
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "back to square one = recommencer.",
+          "why_wrong": [
+            "B : Rien ne l'indique.",
+            "C : Sens littéral à écarter.",
+            "D : Sens contraire."
+          ],
+          "example": "We're back to square one."
+        },
+        "en": {
+          "rule": "back to square one = start again.",
+          "why_wrong": [
+            "B: Nothing indicates this.",
+            "C: Literal reading to rule out.",
+            "D: Opposite meaning."
+          ],
+          "example": "We're back to square one."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-12-business-idioms-02",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-general",
+      "stem": "Could you give me a ballpark figure for the total cost?",
+      "choices": [
+        "A rough estimate",
+        "A discount rate",
+        "A final contract",
+        "An exact invoice"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "ballpark figure = estimation.",
+          "why_wrong": [
+            "B : Hors sujet.",
+            "C : Hors sujet.",
+            "D : Un chiffre approximatif, pas exact."
+          ],
+          "example": "A ballpark number."
+        },
+        "en": {
+          "rule": "ballpark figure = estimate.",
+          "why_wrong": [
+            "B: Off topic.",
+            "C: Off topic.",
+            "D: A ballpark figure is approximate, not exact."
+          ],
+          "example": "A ballpark number."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-12-business-idioms-03",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-general",
+      "stem": "Let's touch base on Friday to review progress. What will the speakers do on Friday?",
+      "choices": [
+        "Contact each other briefly",
+        "Move offices",
+        "Cancel the project",
+        "Sign a contract"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "touch base = prendre contact brièvement.",
+          "why_wrong": [
+            "B : Hors sujet.",
+            "C : Hors sujet.",
+            "D : Hors sujet."
+          ],
+          "example": "Let's touch base later."
+        },
+        "en": {
+          "rule": "touch base = make brief contact.",
+          "why_wrong": [
+            "B: Off topic.",
+            "C: Off topic.",
+            "D: Off topic."
+          ],
+          "example": "Let's touch base later."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-12-business-idioms-04",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-general",
+      "stem": "The manager asked the team to keep her in the loop. What does she want?",
+      "choices": [
+        "To approve every decision in advance",
+        "To join a circle",
+        "To be left alone",
+        "To be informed of developments"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "keep someone in the loop = tenir informé.",
+          "why_wrong": [
+            "A : Pas ce que dit l'idiome.",
+            "B : Sens littéral à écarter.",
+            "C : Sens contraire."
+          ],
+          "example": "Keep me posted."
+        },
+        "en": {
+          "rule": "keep someone in the loop = keep informed.",
+          "why_wrong": [
+            "A: Not what the idiom says.",
+            "B: Literal reading to rule out.",
+            "C: Opposite meaning."
+          ],
+          "example": "Keep me posted."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-12-business-idioms-05",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-general",
+      "stem": "After three years in the red, the company is now ___ the black.",
+      "choices": [
+        "at",
+        "on",
+        "in",
+        "to"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "in the red / in the black.",
+          "why_wrong": [
+            "A : « at the black » n'existe pas.",
+            "B : « on the black » n'existe pas.",
+            "D : « to the black » n'existe pas."
+          ],
+          "example": "We're in the black."
+        },
+        "en": {
+          "rule": "in the red / in the black.",
+          "why_wrong": [
+            "A: 'at the black' does not exist.",
+            "B: 'on the black' does not exist.",
+            "D: 'to the black' does not exist."
+          ],
+          "example": "We're in the black."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-12-business-idioms-06",
+      "part": 5,
+      "difficulty": 3,
+      "category": "voc-general",
+      "stem": "The contract was signed down to the wire. What does this mean?",
+      "choices": [
+        "It was signed very early.",
+        "It was signed at the last possible moment.",
+        "It was signed electronically.",
+        "It was signed by an electrician."
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "down to the wire = au dernier moment.",
+          "why_wrong": [
+            "A : Sens contraire.",
+            "C : Rien ne l'indique.",
+            "D : Sens littéral à écarter."
+          ],
+          "example": "It went down to the wire."
+        },
+        "en": {
+          "rule": "down to the wire = at the last moment.",
+          "why_wrong": [
+            "A: Opposite meaning.",
+            "C: Nothing indicates this.",
+            "D: Literal reading to rule out."
+          ],
+          "example": "It went down to the wire."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-12-business-idioms-07",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-general",
+      "stem": "We will take your feedback on board when we redesign the product. What will they do?",
+      "choices": [
+        "Ignore the feedback",
+        "Send the feedback abroad",
+        "Consider the feedback",
+        "Carry the feedback on a ship"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "take on board = prendre en compte.",
+          "why_wrong": [
+            "A : Sens contraire.",
+            "B : Rien ne l'indique.",
+            "D : Sens littéral à écarter."
+          ],
+          "example": "We'll take it on board."
+        },
+        "en": {
+          "rule": "take on board = accept and consider.",
+          "why_wrong": [
+            "A: Opposite meaning.",
+            "B: Nothing indicates this.",
+            "D: Literal reading to rule out."
+          ],
+          "example": "We'll take it on board."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-12-business-idioms-08",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-general",
+      "stem": "New employees are expected to hit the ground running. What does the manager expect?",
+      "choices": [
+        "A long training period",
+        "A quick resignation",
+        "Productive work from the start",
+        "A running contest"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "hit the ground running = être efficace dès le début.",
+          "why_wrong": [
+            "A : Sens contraire.",
+            "B : Hors sujet.",
+            "D : Sens littéral à écarter."
+          ],
+          "example": "She hit the ground running."
+        },
+        "en": {
+          "rule": "hit the ground running = be effective at once.",
+          "why_wrong": [
+            "A: Opposite meaning.",
+            "B: Off topic.",
+            "D: Literal reading to rule out."
+          ],
+          "example": "She hit the ground running."
+        }
+      },
+      "vocab": []
+    }
+  ]
+}

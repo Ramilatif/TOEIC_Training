@@ -1,0 +1,287 @@
+{
+  "batch": "lesson-advanced-15-confusable-words",
+  "part": 5,
+  "passages": [],
+  "questions": [
+    {
+      "id": "lq-advanced-15-confusable-words-01",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-general",
+      "stem": "The new tax policy will directly ___ small businesses.",
+      "choices": [
+        "affect",
+        "effect",
+        "affection",
+        "effects"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "affect = verbe (influencer).",
+          "why_wrong": [
+            "B : Nom : un verbe est attendu après « will ».",
+            "C : = affection.",
+            "D : Nom au pluriel."
+          ],
+          "example": "It affects us."
+        },
+        "en": {
+          "rule": "affect = verb (to influence).",
+          "why_wrong": [
+            "B: Noun: a verb is expected after 'will'.",
+            "C: = fondness.",
+            "D: Plural noun."
+          ],
+          "example": "It affects us."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-15-confusable-words-02",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-general",
+      "stem": "The delay had a serious ___ on our sales.",
+      "choices": [
+        "affected",
+        "effect",
+        "affect",
+        "affecting"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "effect = nom (résultat).",
+          "why_wrong": [
+            "A : Participe : un nom est attendu.",
+            "C : Verbe : un nom est attendu après « a serious ».",
+            "D : Gérondif : un nom est attendu."
+          ],
+          "example": "side effect"
+        },
+        "en": {
+          "rule": "effect = noun (result).",
+          "why_wrong": [
+            "A: Participle: a noun is expected.",
+            "C: Verb: a noun is expected after 'a serious'.",
+            "D: Gerund: a noun is expected."
+          ],
+          "example": "side effect"
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-15-confusable-words-03",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-general",
+      "stem": "Please add pens and notepads to the office ___ order.",
+      "choices": [
+        "stationing",
+        "stationery",
+        "stationary",
+        "station"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "stationery (e) = papeterie ; stationary (a) = immobile.",
+          "why_wrong": [
+            "A : = action de stationner.",
+            "C : = immobile.",
+            "D : = gare."
+          ],
+          "example": "buy stationery"
+        },
+        "en": {
+          "rule": "stationery (e) = paper goods; stationary (a) = not moving.",
+          "why_wrong": [
+            "A: = posting.",
+            "C: = not moving.",
+            "D: = train stop."
+          ],
+          "example": "buy stationery"
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-15-confusable-words-04",
+      "part": 5,
+      "difficulty": 3,
+      "category": "voc-general",
+      "stem": "Of the two proposals, the ___ was cheaper and was approved.",
+      "choices": [
+        "latter",
+        "later",
+        "lateral",
+        "lately"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "latter = le second de deux.",
+          "why_wrong": [
+            "B : = plus tard.",
+            "C : = latéral.",
+            "D : = récemment."
+          ],
+          "example": "the former… the latter"
+        },
+        "en": {
+          "rule": "latter = the second of two.",
+          "why_wrong": [
+            "B: = afterwards.",
+            "C: = sideways.",
+            "D: = recently."
+          ],
+          "example": "the former… the latter"
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-15-confusable-words-05",
+      "part": 5,
+      "difficulty": 3,
+      "category": "voc-general",
+      "stem": "The firm's ___ reason for the layoffs is the fall in demand.",
+      "choices": [
+        "principal",
+        "principally",
+        "principals",
+        "principle"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "principal = adjectif (principal) ; principle = nom (règle).",
+          "why_wrong": [
+            "B : Adverbe : un adjectif est attendu devant « reason ».",
+            "C : Nom au pluriel.",
+            "D : Nom : un adjectif est attendu."
+          ],
+          "example": "the principal cause"
+        },
+        "en": {
+          "rule": "principal = adjective (main); principle = noun (rule).",
+          "why_wrong": [
+            "B: Adverb: an adjective is expected before 'reason'.",
+            "C: Plural noun.",
+            "D: Noun: an adjective is expected."
+          ],
+          "example": "the principal cause"
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-15-confusable-words-06",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-general",
+      "stem": "Visitors may bring cameras ___ in the laboratory.",
+      "choices": [
+        "except",
+        "exempt",
+        "expect",
+        "accept"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "except = sauf ; accept = accepter.",
+          "why_wrong": [
+            "B : = exempté.",
+            "C : = s'attendre à.",
+            "D : = accepter : verbe."
+          ],
+          "example": "everyone except me"
+        },
+        "en": {
+          "rule": "except = apart from; accept = receive.",
+          "why_wrong": [
+            "B: = free from.",
+            "C: = anticipate.",
+            "D: = receive: verb."
+          ],
+          "example": "everyone except me"
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-15-confusable-words-07",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-general",
+      "stem": "The firm will ___ with the plan despite the objections.",
+      "choices": [
+        "process",
+        "proceeds",
+        "proceed",
+        "precede"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "proceed = continuer.",
+          "why_wrong": [
+            "A : = traiter.",
+            "B : Nom (produits d'une vente) ou 3e personne.",
+            "D : = précéder."
+          ],
+          "example": "proceed to checkout"
+        },
+        "en": {
+          "rule": "proceed = go on.",
+          "why_wrong": [
+            "A: = handle.",
+            "B: Noun (sale income) or third person.",
+            "D: = come before."
+          ],
+          "example": "proceed to checkout"
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-15-confusable-words-08",
+      "part": 5,
+      "difficulty": 3,
+      "category": "voc-general",
+      "stem": "The company must ___ that all goods are properly packed.",
+      "choices": [
+        "ensure",
+        "assure",
+        "assurance",
+        "insure"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "ensure = veiller à ce que.",
+          "why_wrong": [
+            "B : = rassurer quelqu'un.",
+            "C : Nom.",
+            "D : = assurer (contre un risque)."
+          ],
+          "example": "ensure safety"
+        },
+        "en": {
+          "rule": "ensure = make certain.",
+          "why_wrong": [
+            "B: = reassure someone.",
+            "C: Noun.",
+            "D: = cover with insurance."
+          ],
+          "example": "ensure safety"
+        }
+      },
+      "vocab": []
+    }
+  ]
+}

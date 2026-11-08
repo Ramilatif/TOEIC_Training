@@ -30,7 +30,7 @@
 | Part 6 | 32                | 32                  | oui           |
 | Part 7 | 108 (+54 extension)| 162                 | oui           |
 
-Leçons : grammaire 18 · conjugaison 10 · vocabulaire 17 · méthodologie 7 = 52 leçons ; tous les quiz ont 8 questions (416 au total). Chaque cours d'origine a une section de complément (pièges de francophones, mots complémentaires ou plan d'entraînement).
+Leçons : grammaire 18 · conjugaison 10 · vocabulaire 17 · méthodologie 7 · niveau avancé C1 15 = 67 leçons ; tous les quiz ont 8 questions (536 au total). Chaque cours d'origine a une section de complément (pièges de francophones, mots complémentaires ou plan d'entraînement).
 
 ## Journal des décisions
 
@@ -63,6 +63,8 @@ Leçons : grammaire 18 · conjugaison 10 · vocabulaire 17 · méthodologie 7 = 
 2026-10-27 — Lots d'extension Listening : part2-batch03 (25), part3-batch03 (13 conversations, 39 questions, 2 documents associés), part4-batch03 (10 exposés, 30 questions, 2 documents associés). Banque d'examen : 608 questions (Part 1 : 12 en attente des photos). Audio toujours par synthèse vocale du navigateur
 
 2026-11-08 — Nouveau module de cours « Conjugaison » (type `conjugation`, 10 leçons numérotées, quiz de 8 questions chacune) : être/avoir/faire, présent, passé, verbes irréguliers, present perfect, plus-que-parfait et futurs, passif, modaux, conditionnels, orthographe des terminaisons. Réutilise les catégories existantes ; la progression est calculée par module comme les autres types
+
+2026-11-08 — Module « Niveau avancé (C1) » (type `advanced`, 15 leçons numérotées, quiz de 8 questions) : 10 leçons de grammaire (inversion, phrases clivées, subjonctif et wish, modaux et atténuation, passifs avancés et causatif, propositions participiales, connecteurs formels, nominalisation, gérondif/infinitif avancés, accord complexe) et 5 leçons lexicales (collocations, idiomes, vocabulaire formel, verbes à particule avancés, mots confusables). Affiché en dernier dans la page Cours ; le planning le place après les autres types. Limite assumée : l'appli ne couvre ni l'expression écrite ni l'expression orale, donc un C1 complet n'est pas évaluable ici ; le TOEIC L&R situe le C1 vers 945
 
 ## Problèmes rencontrés
 

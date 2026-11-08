@@ -179,7 +179,7 @@ Le quiz d'une leçon (5 à 10 questions, exigé à l'import) = les questions du 
 exclues de l'entraînement, des examens, des statistiques et du score estimé. Le quiz est validé à
 70 % ; réussir le quiz marque aussi la leçon comme lue. Progression d'un module = moyenne de
 50 % (lue) + 50 % (quiz réussi) par leçon. L'id d'une leçon commence par son type (`grammar-`,
-`conjugation-`, `vocab-`, `method-`, `advanced-`) ; les leçons de méthodologie s'appellent `method-part-1` à `method-part-7` ; les leçons de conjugaison sont numérotées (`conjugation-01-…` à `conjugation-10-…`) pour s'afficher dans l'ordre pédagogique. Elles partagent les catégories de grammaire existantes (temps, passif, modaux, conditionnels, familles de mots) : le lien « leçon liée » préfère toujours la leçon de grammaire.
+`conjugation-`, `vocab-`, `method-`, `advanced-`) ; les leçons de méthodologie s'appellent `method-part-1` à `method-part-7` ; les leçons de conjugaison sont numérotées (`conjugation-01-…` à `conjugation-10-…`) pour s'afficher dans l'ordre pédagogique. Les leçons du niveau avancé (`advanced-01-…` à `advanced-15-…`) suivent la même logique de numérotation. Elles partagent les catégories existantes (temps, passif, modaux, conditionnels, familles de mots) : le lien « leçon liée » préfère toujours la leçon de grammaire.
 
 ## 7. Liste des catégories (référence unique)
 

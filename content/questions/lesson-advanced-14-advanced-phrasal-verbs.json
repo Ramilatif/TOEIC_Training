@@ -1,0 +1,287 @@
+{
+  "batch": "lesson-advanced-14-advanced-phrasal-verbs",
+  "part": 5,
+  "passages": [],
+  "questions": [
+    {
+      "id": "lq-advanced-14-advanced-phrasal-verbs-01",
+      "part": 5,
+      "difficulty": 3,
+      "category": "voc-collocations",
+      "stem": "The company decided to ___ its printed catalog and move entirely online.",
+      "choices": [
+        "phase in",
+        "fall behind",
+        "carry over",
+        "phase out"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "phase out = supprimer progressivement.",
+          "why_wrong": [
+            "A : = introduire progressivement : sens contraire.",
+            "B : = prendre du retard.",
+            "C : = reporter."
+          ],
+          "example": "phase out a product"
+        },
+        "en": {
+          "rule": "phase out = stop gradually.",
+          "why_wrong": [
+            "A: = introduce gradually: opposite meaning.",
+            "B: = lag.",
+            "C: = move to the next period."
+          ],
+          "example": "phase out a product"
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-14-advanced-phrasal-verbs-02",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-collocations",
+      "stem": "The merger ___ at the last minute because the investors withdrew.",
+      "choices": [
+        "fell behind",
+        "fell through",
+        "fell for",
+        "fell off"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "fall through = échouer.",
+          "why_wrong": [
+            "A : = prendre du retard.",
+            "C : = se laisser piéger / tomber amoureux de.",
+            "D : = diminuer."
+          ],
+          "example": "The plan fell through."
+        },
+        "en": {
+          "rule": "fall through = fail to happen.",
+          "why_wrong": [
+            "A: = lag.",
+            "C: = be tricked by.",
+            "D: = decrease."
+          ],
+          "example": "The plan fell through."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-14-advanced-phrasal-verbs-03",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-collocations",
+      "stem": "The legal team will ___ a draft agreement by Friday.",
+      "choices": [
+        "draw in",
+        "draw up",
+        "draw on",
+        "draw back"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "draw up = rédiger.",
+          "why_wrong": [
+            "A : = attirer / se rapprocher.",
+            "C : = puiser dans.",
+            "D : = reculer."
+          ],
+          "example": "draw up a plan"
+        },
+        "en": {
+          "rule": "draw up = write out.",
+          "why_wrong": [
+            "A: = attract / approach.",
+            "C: = use resources of.",
+            "D: = retreat."
+          ],
+          "example": "draw up a plan"
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-14-advanced-phrasal-verbs-04",
+      "part": 5,
+      "difficulty": 3,
+      "category": "voc-collocations",
+      "stem": "Some details still need to be ironed ___ before we can sign.",
+      "choices": [
+        "out",
+        "over",
+        "in",
+        "up"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "iron out = régler un problème.",
+          "why_wrong": [
+            "B : « iron over » n'a pas ce sens.",
+            "C : « iron in » n'existe pas.",
+            "D : « iron up » n'existe pas."
+          ],
+          "example": "iron out the wrinkles"
+        },
+        "en": {
+          "rule": "iron out = resolve a problem.",
+          "why_wrong": [
+            "B: 'iron over' does not have this meaning.",
+            "C: 'iron in' does not exist.",
+            "D: 'iron up' does not exist."
+          ],
+          "example": "iron out the wrinkles"
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-14-advanced-phrasal-verbs-05",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-collocations",
+      "stem": "Following the scandal, the chairman decided to ___ with immediate effect.",
+      "choices": [
+        "step over",
+        "step up",
+        "step down",
+        "step in"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "step down = démissionner d'un poste.",
+          "why_wrong": [
+            "A : = enjamber.",
+            "B : = intensifier.",
+            "D : = intervenir."
+          ],
+          "example": "He stepped down."
+        },
+        "en": {
+          "rule": "step down = resign.",
+          "why_wrong": [
+            "A: = cross over.",
+            "B: = increase.",
+            "D: = intervene."
+          ],
+          "example": "He stepped down."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-14-advanced-phrasal-verbs-06",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-collocations",
+      "stem": "The firm plans to ___ 200 workers because of falling demand.",
+      "choices": [
+        "bring about",
+        "take on",
+        "carry over",
+        "lay off"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "lay off = licencier.",
+          "why_wrong": [
+            "A : = provoquer.",
+            "B : = embaucher : sens contraire.",
+            "C : = reporter."
+          ],
+          "example": "They laid off staff."
+        },
+        "en": {
+          "rule": "lay off = dismiss for economic reasons.",
+          "why_wrong": [
+            "A: = cause.",
+            "B: = hire: opposite meaning.",
+            "C: = move to the next period."
+          ],
+          "example": "They laid off staff."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-14-advanced-phrasal-verbs-07",
+      "part": 5,
+      "difficulty": 3,
+      "category": "voc-collocations",
+      "stem": "The debate ultimately ___ to a question of cost.",
+      "choices": [
+        "boiled over",
+        "boiled up",
+        "boiled off",
+        "boiled down"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "boil down to = se résumer à.",
+          "why_wrong": [
+            "A : = déborder.",
+            "B : « boil up » n'a pas ce sens.",
+            "C : = s'évaporer."
+          ],
+          "example": "It boils down to money."
+        },
+        "en": {
+          "rule": "boil down to = be essentially.",
+          "why_wrong": [
+            "A: = overflow.",
+            "B: 'boil up' does not have this meaning.",
+            "C: = evaporate."
+          ],
+          "example": "It boils down to money."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-14-advanced-phrasal-verbs-08",
+      "part": 5,
+      "difficulty": 3,
+      "category": "voc-collocations",
+      "stem": "Management has ___ the proposal and work can now begin.",
+      "choices": [
+        "signed off on",
+        "signed away",
+        "signed in",
+        "signed up for"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "sign off on = valider officiellement.",
+          "why_wrong": [
+            "B : = céder par signature.",
+            "C : = se connecter.",
+            "D : = s'inscrire à."
+          ],
+          "example": "sign off on the budget"
+        },
+        "en": {
+          "rule": "sign off on = formally approve.",
+          "why_wrong": [
+            "B: = give up by signing.",
+            "C: = log in.",
+            "D: = register for."
+          ],
+          "example": "sign off on the budget"
+        }
+      },
+      "vocab": []
+    }
+  ]
+}

@@ -1,0 +1,287 @@
+{
+  "batch": "lesson-advanced-13-formal-academic-vocabulary",
+  "part": 5,
+  "passages": [],
+  "questions": [
+    {
+      "id": "lq-advanced-13-formal-academic-vocabulary-01",
+      "part": 5,
+      "difficulty": 3,
+      "category": "voc-general",
+      "stem": "The company took immediate steps to ___ the impact of the supply shortage.",
+      "choices": [
+        "ascertain",
+        "commence",
+        "exacerbate",
+        "mitigate"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "mitigate = atténuer.",
+          "why_wrong": [
+            "A : = établir.",
+            "B : = commencer.",
+            "C : Sens contraire : aggraver."
+          ],
+          "example": "mitigate the risk"
+        },
+        "en": {
+          "rule": "mitigate = reduce the severity.",
+          "why_wrong": [
+            "A: = find out.",
+            "B: = begin.",
+            "C: Opposite meaning: worsen."
+          ],
+          "example": "mitigate the risk"
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-13-formal-academic-vocabulary-02",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-general",
+      "stem": "The new software will ___ communication between the three offices.",
+      "choices": [
+        "exacerbate",
+        "inadvertently",
+        "facilitate",
+        "negotiate"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "facilitate = rendre plus facile.",
+          "why_wrong": [
+            "A : = aggraver.",
+            "B : Adverbe : un verbe est attendu.",
+            "D : = négocier."
+          ],
+          "example": "facilitate access"
+        },
+        "en": {
+          "rule": "facilitate = make easier.",
+          "why_wrong": [
+            "A: = worsen.",
+            "B: Adverb: a verb is expected.",
+            "D: = bargain."
+          ],
+          "example": "facilitate access"
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-13-formal-academic-vocabulary-03",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-general",
+      "stem": "Please submit the form ___ the end of the month.",
+      "choices": [
+        "prior to",
+        "inherent in",
+        "subsequent to",
+        "pursuant to"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "prior to = avant.",
+          "why_wrong": [
+            "B : = inhérent à.",
+            "C : = après.",
+            "D : = conformément à."
+          ],
+          "example": "prior to the meeting"
+        },
+        "en": {
+          "rule": "prior to = before.",
+          "why_wrong": [
+            "B: = belonging naturally to.",
+            "C: = after.",
+            "D: = in accordance with."
+          ],
+          "example": "prior to the meeting"
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-13-formal-academic-vocabulary-04",
+      "part": 5,
+      "difficulty": 3,
+      "category": "voc-general",
+      "stem": "The report was ___ sent to all employees instead of only to the management.",
+      "choices": [
+        "preliminary",
+        "comprehensively",
+        "substantially",
+        "inadvertently"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "inadvertently = par erreur.",
+          "why_wrong": [
+            "A : Adjectif : un adverbe est attendu.",
+            "B : = de façon exhaustive : sens faux.",
+            "C : = considérablement : sens faux."
+          ],
+          "example": "inadvertently deleted"
+        },
+        "en": {
+          "rule": "inadvertently = by mistake.",
+          "why_wrong": [
+            "A: Adjective: an adverb is expected.",
+            "B: = thoroughly: wrong meaning.",
+            "C: = greatly: wrong meaning."
+          ],
+          "example": "inadvertently deleted"
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-13-formal-academic-vocabulary-05",
+      "part": 5,
+      "difficulty": 3,
+      "category": "voc-general",
+      "stem": "Management will ___ a full review of the safety procedures next month.",
+      "choices": [
+        "reinforce",
+        "mitigate",
+        "rectify",
+        "undertake"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "undertake a review = entreprendre une révision.",
+          "why_wrong": [
+            "A : = renforcer.",
+            "B : = atténuer.",
+            "C : = rectifier (corriger)."
+          ],
+          "example": "undertake a task"
+        },
+        "en": {
+          "rule": "undertake a review = carry out a review.",
+          "why_wrong": [
+            "A: = strengthen.",
+            "B: = reduce.",
+            "C: = correct."
+          ],
+          "example": "undertake a task"
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-13-formal-academic-vocabulary-06",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-general",
+      "stem": "The impact of the price change on our profits is expected to be ___.",
+      "choices": [
+        "negligible",
+        "substantial",
+        "ambiguous",
+        "viable"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "negligible = négligeable.",
+          "why_wrong": [
+            "B : Sens contraire : considérable.",
+            "C : = ambigu.",
+            "D : = viable."
+          ],
+          "example": "a negligible amount"
+        },
+        "en": {
+          "rule": "negligible = too small to matter.",
+          "why_wrong": [
+            "B: Opposite meaning: large.",
+            "C: = unclear.",
+            "D: = workable."
+          ],
+          "example": "a negligible amount"
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-13-formal-academic-vocabulary-07",
+      "part": 5,
+      "difficulty": 3,
+      "category": "voc-general",
+      "stem": "The terms of the contract are ___; each side interprets them differently.",
+      "choices": [
+        "preliminary",
+        "ambiguous",
+        "comprehensive",
+        "negligible"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "ambiguous = qui prête à deux interprétations.",
+          "why_wrong": [
+            "A : = préliminaire.",
+            "C : = complet.",
+            "D : = négligeable."
+          ],
+          "example": "an ambiguous answer"
+        },
+        "en": {
+          "rule": "ambiguous = open to two readings.",
+          "why_wrong": [
+            "A: = initial.",
+            "C: = thorough.",
+            "D: = very small."
+          ],
+          "example": "an ambiguous answer"
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-13-formal-academic-vocabulary-08",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-general",
+      "stem": "We will ___ the error in the invoice and send you a corrected copy.",
+      "choices": [
+        "rectify",
+        "undertake",
+        "exacerbate",
+        "endeavor"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "rectify = corriger.",
+          "why_wrong": [
+            "B : = entreprendre.",
+            "C : = aggraver.",
+            "D : = s'efforcer."
+          ],
+          "example": "rectify the situation"
+        },
+        "en": {
+          "rule": "rectify = put right.",
+          "why_wrong": [
+            "B: = begin.",
+            "C: = worsen.",
+            "D: = try hard."
+          ],
+          "example": "rectify the situation"
+        }
+      },
+      "vocab": []
+    }
+  ]
+}

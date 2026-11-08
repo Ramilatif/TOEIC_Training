@@ -1,0 +1,287 @@
+{
+  "batch": "lesson-advanced-11-business-collocations",
+  "part": 5,
+  "passages": [],
+  "questions": [
+    {
+      "id": "lq-advanced-11-business-collocations-01",
+      "part": 5,
+      "difficulty": 3,
+      "category": "voc-collocations",
+      "stem": "The study ___ new light on how customers choose their suppliers.",
+      "choices": [
+        "brings out",
+        "makes",
+        "puts",
+        "sheds"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "shed light on = éclairer.",
+          "why_wrong": [
+            "A : « bring out light on » n'existe pas.",
+            "B : « make light on » n'existe pas.",
+            "C : « put light on » n'est pas la collocation."
+          ],
+          "example": "This sheds light on the matter."
+        },
+        "en": {
+          "rule": "shed light on = clarify.",
+          "why_wrong": [
+            "A: 'bring out light on' does not exist.",
+            "B: 'make light on' does not exist.",
+            "C: 'put light on' is not the collocation."
+          ],
+          "example": "This sheds light on the matter."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-11-business-collocations-02",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-collocations",
+      "stem": "The board finally ___ a consensus after three hours of debate.",
+      "choices": [
+        "made",
+        "did",
+        "arrived",
+        "reached"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "reach a consensus / an agreement / a decision.",
+          "why_wrong": [
+            "A : « make a consensus » est incorrect : on dit « reach a consensus ».",
+            "B : « do a consensus » n'existe pas.",
+            "C : « arrive a consensus » est incorrect."
+          ],
+          "example": "We reached an agreement."
+        },
+        "en": {
+          "rule": "reach a consensus / an agreement / a decision.",
+          "why_wrong": [
+            "A: 'make a consensus' is wrong: 'reach a consensus'.",
+            "B: 'do a consensus' does not exist.",
+            "C: 'arrive a consensus' is incorrect."
+          ],
+          "example": "We reached an agreement."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-11-business-collocations-03",
+      "part": 5,
+      "difficulty": 3,
+      "category": "voc-collocations",
+      "stem": "Sales ___ short of our expectations in the third quarter.",
+      "choices": [
+        "sat",
+        "stood",
+        "fell",
+        "went"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "fall short of = ne pas atteindre.",
+          "why_wrong": [
+            "A : « sit short of » n'existe pas.",
+            "B : « stand short of » n'existe pas.",
+            "D : « go short of » n'est pas la collocation standard."
+          ],
+          "example": "It fell short of target."
+        },
+        "en": {
+          "rule": "fall short of = fail to reach.",
+          "why_wrong": [
+            "A: 'sit short of' does not exist.",
+            "B: 'stand short of' does not exist.",
+            "D: 'go short of' is not the standard collocation."
+          ],
+          "example": "It fell short of target."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-11-business-collocations-04",
+      "part": 5,
+      "difficulty": 3,
+      "category": "voc-collocations",
+      "stem": "We must ___ a balance between short-term profit and long-term growth.",
+      "choices": [
+        "lift",
+        "make",
+        "do",
+        "strike"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "strike a balance = trouver un équilibre.",
+          "why_wrong": [
+            "A : « lift a balance » n'existe pas.",
+            "B : « make a balance » n'est pas correct.",
+            "C : « do a balance » n'existe pas."
+          ],
+          "example": "strike a deal"
+        },
+        "en": {
+          "rule": "strike a balance = find a compromise.",
+          "why_wrong": [
+            "A: 'lift a balance' does not exist.",
+            "B: 'make a balance' is not correct.",
+            "C: 'do a balance' does not exist."
+          ],
+          "example": "strike a deal"
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-11-business-collocations-05",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-collocations",
+      "stem": "Several analysts ___ concerns about the company's rising debt.",
+      "choices": [
+        "raised",
+        "rose",
+        "lifted",
+        "grew"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "raise a concern = soulever une inquiétude.",
+          "why_wrong": [
+            "B : « rose » est intransitif : il ne peut pas avoir de complément.",
+            "C : « lift concerns » a un autre sens (apaiser).",
+            "D : « grow concerns » n'est pas la collocation."
+          ],
+          "example": "raise a question"
+        },
+        "en": {
+          "rule": "raise a concern = voice a worry.",
+          "why_wrong": [
+            "B: 'rose' is intransitive: it cannot take an object.",
+            "C: 'lift concerns' means something else.",
+            "D: 'grow concerns' is not the collocation."
+          ],
+          "example": "raise a question"
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-11-business-collocations-06",
+      "part": 5,
+      "difficulty": 3,
+      "category": "voc-collocations",
+      "stem": "The new regulations ___ a serious threat to small businesses.",
+      "choices": [
+        "pose",
+        "give",
+        "put",
+        "do"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "pose a threat / a problem / a question.",
+          "why_wrong": [
+            "B : « give a threat » : un autre sens (menacer quelqu'un).",
+            "C : « put a threat » n'est pas la collocation.",
+            "D : « do a threat » n'existe pas."
+          ],
+          "example": "pose a risk"
+        },
+        "en": {
+          "rule": "pose a threat / a problem / a question.",
+          "why_wrong": [
+            "B: 'give a threat': different meaning (threaten someone).",
+            "C: 'put a threat' is not the collocation.",
+            "D: 'do a threat' does not exist."
+          ],
+          "example": "pose a risk"
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-11-business-collocations-07",
+      "part": 5,
+      "difficulty": 3,
+      "category": "voc-collocations",
+      "stem": "The project ___ into serious difficulties when the funding was cut.",
+      "choices": [
+        "came",
+        "walked",
+        "ran",
+        "jumped"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "run into difficulties = rencontrer des difficultés.",
+          "why_wrong": [
+            "A : « come into difficulties » est inhabituel.",
+            "B : « walk into difficulties » est inhabituel.",
+            "D : « jump into difficulties » n'existe pas."
+          ],
+          "example": "run into trouble"
+        },
+        "en": {
+          "rule": "run into difficulties = encounter problems.",
+          "why_wrong": [
+            "A: 'come into difficulties' is unusual.",
+            "B: 'walk into difficulties' is unusual.",
+            "D: 'jump into difficulties' does not exist."
+          ],
+          "example": "run into trouble"
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-11-business-collocations-08",
+      "part": 5,
+      "difficulty": 3,
+      "category": "voc-collocations",
+      "stem": "Prices have fallen ___ this year, with a steep decline in the second quarter.",
+      "choices": [
+        "strongly",
+        "loudly",
+        "highly",
+        "sharply"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "fall sharply / rise steadily / increase significantly.",
+          "why_wrong": [
+            "A : « fall strongly » n'est pas la collocation habituelle.",
+            "B : « loudly » ne s'emploie pas pour une baisse de prix.",
+            "C : « highly » ne s'emploie pas avec « fall »."
+          ],
+          "example": "rise sharply"
+        },
+        "en": {
+          "rule": "fall sharply / rise steadily / increase significantly.",
+          "why_wrong": [
+            "A: 'fall strongly' is not the usual collocation.",
+            "B: 'loudly' is not used for a price drop.",
+            "C: 'highly' is not used with 'fall'."
+          ],
+          "example": "rise sharply"
+        }
+      },
+      "vocab": []
+    }
+  ]
+}
