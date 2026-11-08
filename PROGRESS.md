@@ -71,6 +71,8 @@ Leçons : grammaire 18 · conjugaison 10 · vocabulaire 17 · méthodologie 7 ·
 
 2026-11-08 — Photos Part 1 : 12 photos libres (licence Pexels) téléchargées, vérifiées visuellement une à une contre les énoncés de chaque question, créditées dans credits.json ; CSS : hauteur des photos limitée à 65 % de l'écran (3 photos sont en portrait). La banque d'examen est complète : 708 questions, dont les 12 Part 1
 
+2026-11-08 — V1 terminée (tag v1.0). Rappel : le contenu n'est importé qu'au démarrage du backend ; après un ajout de photo ou de question, lancer `docker compose restart backend` (sinon la Part 1 affiche « Photos manquantes »)
+
 ## Problèmes rencontrés
 
 <!-- Format : date — problème — solution ou statut -->
