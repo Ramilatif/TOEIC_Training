@@ -1,0 +1,1256 @@
+{
+  "batch": "part6-batch03",
+  "part": 6,
+  "passages": [
+    {
+      "id": "p6-b03-pass-01",
+      "kind": "text",
+      "title": "Email: training session moved",
+      "body": "To: All sales staff\nFrom: Marcus Bell, Training Coordinator\nSubject: Product training rescheduled\n\nDue to a scheduling conflict at the conference center, the product training that (1) ___ for Tuesday has been moved to Thursday, May 9. The session will still begin at 9:00 A.M. in Room 4. (2) ___. Attendees should bring their laptops, as the afternoon workshop requires them. (3) ___ you cannot attend on the new date, please notify me by Friday so that I can arrange a recorded version. Thank you for your (4) ___.",
+      "transcript": null,
+      "image": null
+    },
+    {
+      "id": "p6-b03-pass-02",
+      "kind": "text",
+      "title": "Notice: building maintenance",
+      "body": "NOTICE TO TENANTS\n\nThe building's elevators (1) ___ for inspection on Saturday, June 15, between 8:00 A.M. and 2:00 P.M. During that time, tenants are asked to use the stairs. (2) ___. We apologize for any inconvenience this may cause. The inspection is part of our (3) ___ effort to keep the building safe. Residents with mobility difficulties may call the front desk, and a staff member will (4) ___ them with their luggage or groceries.",
+      "transcript": null,
+      "image": null
+    },
+    {
+      "id": "p6-b03-pass-03",
+      "kind": "text",
+      "title": "Article: city bike-sharing program",
+      "body": "CITY LAUNCHES BIKE-SHARING PROGRAM\n\nSPRINGFIELD (March 3) — City officials announced yesterday that a bike-sharing program will begin next month, with 40 stations located (1) ___ the downtown area. Residents will be able to rent a bicycle for a flat fee of two dollars per hour. (2) ___. Mayor Julia Park said the program is intended to reduce traffic and (3) ___ healthier habits. Although similar programs have succeeded elsewhere, (4) ___ officials caution that the city's hills could limit its popularity.",
+      "transcript": null,
+      "image": null
+    },
+    {
+      "id": "p6-b03-pass-04",
+      "kind": "text",
+      "title": "Memo: remote work policy",
+      "body": "MEMO\n\nTo: All employees\nFrom: Human Resources\nDate: October 2\nRe: Updated remote work policy\n\nBeginning November 1, employees (1) ___ work from home up to two days per week, provided that their supervisor approves. (2) ___. Remote employees must be available during core hours, from 10:00 A.M. to 3:00 P.M. Equipment such as monitors and chairs may be borrowed, but (3) ___ items must be returned if the arrangement ends. We believe this policy will improve both productivity and (4) ___ satisfaction.",
+      "transcript": null,
+      "image": null
+    },
+    {
+      "id": "p6-b03-pass-05",
+      "kind": "text",
+      "title": "Letter: job offer",
+      "body": "Dear Ms. Ortega,\n\nIt gives me great pleasure to offer you the position of Senior Accountant at Harlow & Finch, (1) ___ on June 3. Your annual salary will be $68,000, and you will be eligible for health insurance after ninety days. (2) ___. Please sign and return the enclosed contract by May 20. (3) ___ you have any questions, do not hesitate to contact me. We are (4) ___ to welcoming you to our team.",
+      "transcript": null,
+      "image": null
+    },
+    {
+      "id": "p6-b03-pass-06",
+      "kind": "text",
+      "title": "Advertisement: language courses",
+      "body": "BRIDGE LANGUAGE ACADEMY\n\nImprove your career prospects with a language course at Bridge Academy! Our instructors are native speakers (1) ___ more than ten years of teaching experience. Classes are offered in the morning, afternoon and evening. (2) ___. Register by August 31 and you will (3) ___ a 15 percent discount on your first term. Spaces are limited, so (4) ___ early to avoid disappointment.",
+      "transcript": null,
+      "image": null
+    },
+    {
+      "id": "p6-b03-pass-07",
+      "kind": "text",
+      "title": "Email: apology for shipment delay",
+      "body": "To: Mr. Yuen\nFrom: Customer Care, Redwood Furniture\nSubject: Your order #44721\n\nDear Mr. Yuen,\n\nWe are sorry to inform you that your dining table (1) ___ on May 12 as promised. A shortage of oak panels at our supplier caused the delay. (2) ___. The new delivery date is May 20, and the shipping fee will be refunded to your card. (3) ___ we cannot change the delay, we hope this gesture shows how much we value your (4) ___.",
+      "transcript": null,
+      "image": null
+    },
+    {
+      "id": "p6-b03-pass-08",
+      "kind": "text",
+      "title": "Announcement: museum exhibit",
+      "body": "HARTWELL MUSEUM — NEW EXHIBIT\n\nThis fall, the Hartwell Museum (1) ___ a major exhibit on the history of navigation, featuring more than 200 historic instruments. (2) ___. Guided tours run daily at 11:00 A.M. and 2:00 P.M., and (3) ___ tickets can be purchased online at a reduced price. Members enjoy free admission. We invite you to (4) ___ this fascinating journey through time.",
+      "transcript": null,
+      "image": null
+    }
+  ],
+  "questions": [
+    {
+      "id": "p6-b03-01",
+      "part": 6,
+      "difficulty": 2,
+      "category": "gram-passive-voice",
+      "stem": "Blank (1)",
+      "choices": [
+        "has scheduled",
+        "is scheduling",
+        "was scheduled",
+        "schedules"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Passif au prétérit : la formation « était programmée ».",
+          "why_wrong": [
+            "A : actif : la formation ne programme pas elle-même.",
+            "B : actif progressif : mauvais sens.",
+            "D : actif présent : le sujet ne programme pas."
+          ],
+          "example": "was scheduled"
+        },
+        "en": {
+          "rule": "Past passive: the training 'was scheduled'.",
+          "why_wrong": [
+            "A: active: the training does not schedule itself.",
+            "B: active progressive: wrong meaning.",
+            "D: active present: the subject does not schedule."
+          ],
+          "example": "was scheduled"
+        }
+      },
+      "vocab": [],
+      "passage": "p6-b03-pass-01",
+      "position": 1
+    },
+    {
+      "id": "p6-b03-02",
+      "part": 6,
+      "difficulty": 3,
+      "category": "qt-sentence-insertion",
+      "stem": "Which sentence best fits blank (2)?",
+      "choices": [
+        "Several managers have already resigned.",
+        "The agenda and the list of speakers remain unchanged.",
+        "Parking is expensive near the airport.",
+        "The conference center will close in June."
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "La phrase prolonge le changement de date en rassurant sur le programme.",
+          "why_wrong": [
+            "A : hors sujet.",
+            "C : hors sujet.",
+            "D : information sans rapport avec la formation."
+          ],
+          "example": "The agenda and the list of speakers remain unchanged."
+        },
+        "en": {
+          "rule": "The sentence extends the date change by reassuring about the program.",
+          "why_wrong": [
+            "A: off topic.",
+            "C: off topic.",
+            "D: unrelated information."
+          ],
+          "example": "The agenda and the list of speakers remain unchanged."
+        }
+      },
+      "vocab": [],
+      "passage": "p6-b03-pass-01",
+      "position": 2
+    },
+    {
+      "id": "p6-b03-03",
+      "part": 6,
+      "difficulty": 1,
+      "category": "gram-conditionals",
+      "stem": "Blank (3)",
+      "choices": [
+        "Unless",
+        "Although",
+        "If",
+        "Whereas"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "If + présent = condition réelle.",
+          "why_wrong": [
+            "A : « unless » inverse le sens : « à moins que vous ne puissiez pas… ».",
+            "B : concession : sens incorrect.",
+            "D : contraste : sens incorrect."
+          ],
+          "example": "If you cannot…"
+        },
+        "en": {
+          "rule": "If + present = real condition.",
+          "why_wrong": [
+            "A: 'unless' reverses the meaning.",
+            "B: concession: wrong meaning.",
+            "D: contrast: wrong meaning."
+          ],
+          "example": "If you cannot…"
+        }
+      },
+      "vocab": [],
+      "passage": "p6-b03-pass-01",
+      "position": 3
+    },
+    {
+      "id": "p6-b03-04",
+      "part": 6,
+      "difficulty": 2,
+      "category": "gram-word-forms",
+      "stem": "Blank (4)",
+      "choices": [
+        "understanding",
+        "understood",
+        "understand",
+        "understandable"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Après un possessif : nom (understanding).",
+          "why_wrong": [
+            "B : participe : même problème.",
+            "C : verbe : un nom/gérondif est attendu après « your ».",
+            "D : adjectif : il manque le nom."
+          ],
+          "example": "your understanding"
+        },
+        "en": {
+          "rule": "After a possessive: noun (understanding).",
+          "why_wrong": [
+            "B: participle: same issue.",
+            "C: verb: a noun/gerund is expected after 'your'.",
+            "D: adjective: the noun is missing."
+          ],
+          "example": "your understanding"
+        }
+      },
+      "vocab": [],
+      "passage": "p6-b03-pass-01",
+      "position": 4
+    },
+    {
+      "id": "p6-b03-05",
+      "part": 6,
+      "difficulty": 2,
+      "category": "gram-verb-tenses",
+      "stem": "Blank (1)",
+      "choices": [
+        "has shut down",
+        "shuts down",
+        "will be shut down",
+        "shutting down"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Futur passif : « will be shut down ».",
+          "why_wrong": [
+            "A : passé : la date est dans le futur.",
+            "B : actif présent : le sujet ne ferme pas lui-même.",
+            "D : participe sans auxiliaire : phrase incomplète."
+          ],
+          "example": "will be shut down"
+        },
+        "en": {
+          "rule": "Future passive: 'will be shut down'.",
+          "why_wrong": [
+            "A: past: the date is in the future.",
+            "B: active present: the subject does not shut itself.",
+            "D: participle with no auxiliary: incomplete sentence."
+          ],
+          "example": "will be shut down"
+        }
+      },
+      "vocab": [],
+      "passage": "p6-b03-pass-02",
+      "position": 1
+    },
+    {
+      "id": "p6-b03-06",
+      "part": 6,
+      "difficulty": 3,
+      "category": "qt-sentence-insertion",
+      "stem": "Which sentence best fits blank (2)?",
+      "choices": [
+        "The elevators were installed in 1998.",
+        "Rents will rise by five percent next year.",
+        "Notices will also be posted in each lobby.",
+        "The stairs are painted blue."
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "La phrase ajoute une précision sur l'information donnée aux locataires.",
+          "why_wrong": [
+            "A : information historique sans lien avec la phrase suivante.",
+            "B : hors sujet.",
+            "D : détail sans intérêt."
+          ],
+          "example": "Notices will also be posted in each lobby."
+        },
+        "en": {
+          "rule": "The sentence adds a detail about informing tenants.",
+          "why_wrong": [
+            "A: historical detail unrelated to the next sentence.",
+            "B: off topic.",
+            "D: irrelevant detail."
+          ],
+          "example": "Notices will also be posted in each lobby."
+        }
+      },
+      "vocab": [],
+      "passage": "p6-b03-pass-02",
+      "position": 2
+    },
+    {
+      "id": "p6-b03-07",
+      "part": 6,
+      "difficulty": 2,
+      "category": "gram-word-forms",
+      "stem": "Blank (3)",
+      "choices": [
+        "gone",
+        "going",
+        "ongoingly",
+        "ongoing"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "ongoing = en cours, continu (adjectif).",
+          "why_wrong": [
+            "A : participe : sens contraire.",
+            "B : participe incomplet.",
+            "C : adverbe : un adjectif est attendu devant « effort »."
+          ],
+          "example": "an ongoing effort"
+        },
+        "en": {
+          "rule": "ongoing = continuing (adjective).",
+          "why_wrong": [
+            "A: participle: opposite meaning.",
+            "B: incomplete participle.",
+            "C: adverb: an adjective is expected before 'effort'."
+          ],
+          "example": "an ongoing effort"
+        }
+      },
+      "vocab": [],
+      "passage": "p6-b03-pass-02",
+      "position": 3
+    },
+    {
+      "id": "p6-b03-08",
+      "part": 6,
+      "difficulty": 2,
+      "category": "voc-office",
+      "stem": "Blank (4)",
+      "choices": [
+        "assist",
+        "assume",
+        "assemble",
+        "assure"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "assist someone with something = aider.",
+          "why_wrong": [
+            "B : = supposer.",
+            "C : = assembler.",
+            "D : = rassurer : sens différent."
+          ],
+          "example": "assist them with"
+        },
+        "en": {
+          "rule": "assist someone with something = help.",
+          "why_wrong": [
+            "B: = suppose.",
+            "C: = put together.",
+            "D: = reassure: different meaning."
+          ],
+          "example": "assist them with"
+        }
+      },
+      "vocab": [],
+      "passage": "p6-b03-pass-02",
+      "position": 4
+    },
+    {
+      "id": "p6-b03-09",
+      "part": 6,
+      "difficulty": 2,
+      "category": "gram-prepositions",
+      "stem": "Blank (1)",
+      "choices": [
+        "since",
+        "throughout",
+        "during",
+        "between"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "throughout = partout dans.",
+          "why_wrong": [
+            "A : « since » s'emploie pour le temps.",
+            "C : « during » s'emploie pour une durée.",
+            "D : « between » demande deux éléments précis."
+          ],
+          "example": "throughout the city"
+        },
+        "en": {
+          "rule": "throughout = all over.",
+          "why_wrong": [
+            "A: 'since' is for time.",
+            "C: 'during' is for time.",
+            "D: 'between' needs two specific elements."
+          ],
+          "example": "throughout the city"
+        }
+      },
+      "vocab": [],
+      "passage": "p6-b03-pass-03",
+      "position": 1
+    },
+    {
+      "id": "p6-b03-10",
+      "part": 6,
+      "difficulty": 3,
+      "category": "qt-sentence-insertion",
+      "stem": "Which sentence best fits blank (2)?",
+      "choices": [
+        "The mayor was elected in 2018.",
+        "Many residents prefer to take the bus.",
+        "Bicycles have two wheels.",
+        "Payment can be made with a card or through a smartphone app."
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "La phrase suit logiquement le tarif en précisant le paiement.",
+          "why_wrong": [
+            "A : information sans lien avec le tarif.",
+            "B : contredit l'idée de promotion du programme.",
+            "C : évident et sans intérêt."
+          ],
+          "example": "Payment can be made with a card or through a smartphone app."
+        },
+        "en": {
+          "rule": "The sentence follows the fee by explaining payment.",
+          "why_wrong": [
+            "A: information unrelated to the fee.",
+            "B: undermines the promotion idea.",
+            "C: obvious and irrelevant."
+          ],
+          "example": "Payment can be made with a card or through a smartphone app."
+        }
+      },
+      "vocab": [],
+      "passage": "p6-b03-pass-03",
+      "position": 2
+    },
+    {
+      "id": "p6-b03-11",
+      "part": 6,
+      "difficulty": 2,
+      "category": "voc-general",
+      "stem": "Blank (3)",
+      "choices": [
+        "replace",
+        "encourage",
+        "discourage",
+        "require"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "encourage = encourager (cohérent avec « healthier habits »).",
+          "why_wrong": [
+            "A : = remplacer.",
+            "C : sens contraire.",
+            "D : = exiger."
+          ],
+          "example": "encourage use"
+        },
+        "en": {
+          "rule": "encourage = promote (consistent with 'healthier habits').",
+          "why_wrong": [
+            "A: = substitute.",
+            "C: opposite meaning.",
+            "D: = demand."
+          ],
+          "example": "encourage use"
+        }
+      },
+      "vocab": [],
+      "passage": "p6-b03-pass-03",
+      "position": 3
+    },
+    {
+      "id": "p6-b03-12",
+      "part": 6,
+      "difficulty": 3,
+      "category": "gram-pronouns",
+      "stem": "Blank (4)",
+      "choices": [
+        "some",
+        "one another",
+        "any",
+        "each other"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "some officials = certains responsables.",
+          "why_wrong": [
+            "B : pronom réciproque : sens incorrect.",
+            "C : « any » s'emploie surtout dans les phrases négatives et interrogatives.",
+            "D : pronom réciproque : sens incorrect."
+          ],
+          "example": "some officials"
+        },
+        "en": {
+          "rule": "some officials = certain officials.",
+          "why_wrong": [
+            "B: reciprocal pronoun: wrong meaning.",
+            "C: 'any' is used mostly in negatives and questions.",
+            "D: reciprocal pronoun: wrong meaning."
+          ],
+          "example": "some officials"
+        }
+      },
+      "vocab": [],
+      "passage": "p6-b03-pass-03",
+      "position": 4
+    },
+    {
+      "id": "p6-b03-13",
+      "part": 6,
+      "difficulty": 1,
+      "category": "gram-modals",
+      "stem": "Blank (1)",
+      "choices": [
+        "would",
+        "may",
+        "should have",
+        "must"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "may = permission.",
+          "why_wrong": [
+            "A : conditionnel : ne convient pas à une règle.",
+            "C : reproche : sens incorrect.",
+            "D : obligation : sens incorrect pour une permission."
+          ],
+          "example": "You may work from home."
+        },
+        "en": {
+          "rule": "may = permission.",
+          "why_wrong": [
+            "A: conditional: does not suit a rule.",
+            "C: criticism: wrong meaning.",
+            "D: obligation: wrong meaning for a permission."
+          ],
+          "example": "You may work from home."
+        }
+      },
+      "vocab": [],
+      "passage": "p6-b03-pass-04",
+      "position": 1
+    },
+    {
+      "id": "p6-b03-14",
+      "part": 6,
+      "difficulty": 3,
+      "category": "qt-sentence-insertion",
+      "stem": "Which sentence best fits blank (2)?",
+      "choices": [
+        "The company was founded by two engineers.",
+        "Requests should be submitted at least one week in advance.",
+        "Several employees have moved to other cities.",
+        "The cafeteria is closed on Mondays."
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "La phrase précise la procédure d'approbation.",
+          "why_wrong": [
+            "A : hors sujet.",
+            "C : hors sujet.",
+            "D : hors sujet."
+          ],
+          "example": "Requests should be submitted at least one week in advance."
+        },
+        "en": {
+          "rule": "The sentence specifies the approval procedure.",
+          "why_wrong": [
+            "A: off topic.",
+            "C: off topic.",
+            "D: off topic."
+          ],
+          "example": "Requests should be submitted at least one week in advance."
+        }
+      },
+      "vocab": [],
+      "passage": "p6-b03-pass-04",
+      "position": 2
+    },
+    {
+      "id": "p6-b03-15",
+      "part": 6,
+      "difficulty": 2,
+      "category": "gram-pronouns",
+      "stem": "Blank (3)",
+      "choices": [
+        "these",
+        "this",
+        "it",
+        "that"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "these items = ces objets.",
+          "why_wrong": [
+            "B : singulier : « items » est pluriel.",
+            "C : pronom : il faut un déterminant devant « items ».",
+            "D : singulier : « items » est pluriel."
+          ],
+          "example": "these items"
+        },
+        "en": {
+          "rule": "these items = these things.",
+          "why_wrong": [
+            "B: singular: 'items' is plural.",
+            "C: pronoun: a determiner is needed before 'items'.",
+            "D: singular: 'items' is plural."
+          ],
+          "example": "these items"
+        }
+      },
+      "vocab": [],
+      "passage": "p6-b03-pass-04",
+      "position": 3
+    },
+    {
+      "id": "p6-b03-16",
+      "part": 6,
+      "difficulty": 3,
+      "category": "gram-word-forms",
+      "stem": "Blank (4)",
+      "choices": [
+        "employing",
+        "employ",
+        "employed",
+        "employee"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "employee satisfaction = satisfaction des employés (nom composé).",
+          "why_wrong": [
+            "A : gérondif.",
+            "B : verbe.",
+            "C : participe/adjectif : un nom est attendu."
+          ],
+          "example": "employee satisfaction"
+        },
+        "en": {
+          "rule": "employee satisfaction = noun compound.",
+          "why_wrong": [
+            "A: gerund.",
+            "B: verb.",
+            "C: participle/adjective: a noun is expected."
+          ],
+          "example": "employee satisfaction"
+        }
+      },
+      "vocab": [],
+      "passage": "p6-b03-pass-04",
+      "position": 4
+    },
+    {
+      "id": "p6-b03-17",
+      "part": 6,
+      "difficulty": 3,
+      "category": "gram-participles",
+      "stem": "Blank (1)",
+      "choices": [
+        "starts",
+        "start",
+        "starting",
+        "started"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Participe présent pour une précision de date : « starting on June 3 ».",
+          "why_wrong": [
+            "A : présent : la phrase deviendrait deux propositions sans liaison.",
+            "B : base verbale : incorrect après la virgule.",
+            "D : participe passé : sens passif incorrect."
+          ],
+          "example": "starting on June 3"
+        },
+        "en": {
+          "rule": "Present participle for a date detail: 'starting on June 3'.",
+          "why_wrong": [
+            "A: present: this would make two clauses with no link.",
+            "B: base form: incorrect after the comma.",
+            "D: past participle: passive sense wrong."
+          ],
+          "example": "starting on June 3"
+        }
+      },
+      "vocab": [],
+      "passage": "p6-b03-pass-05",
+      "position": 1
+    },
+    {
+      "id": "p6-b03-18",
+      "part": 6,
+      "difficulty": 3,
+      "category": "qt-sentence-insertion",
+      "stem": "Which sentence best fits blank (2)?",
+      "choices": [
+        "The office has recently been repainted.",
+        "You will also receive twenty days of paid vacation per year.",
+        "The company was founded in 1962.",
+        "Ms. Ortega's previous employer was located in Madrid."
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "La phrase continue la liste des avantages.",
+          "why_wrong": [
+            "A : détail sans lien.",
+            "C : hors sujet.",
+            "D : hors sujet."
+          ],
+          "example": "You will also receive twenty days of paid vacation per year."
+        },
+        "en": {
+          "rule": "The sentence continues the list of benefits.",
+          "why_wrong": [
+            "A: unrelated detail.",
+            "C: off topic.",
+            "D: off topic."
+          ],
+          "example": "You will also receive twenty days of paid vacation per year."
+        }
+      },
+      "vocab": [],
+      "passage": "p6-b03-pass-05",
+      "position": 2
+    },
+    {
+      "id": "p6-b03-19",
+      "part": 6,
+      "difficulty": 3,
+      "category": "gram-conditionals",
+      "stem": "Blank (3)",
+      "choices": [
+        "Should",
+        "Would",
+        "Did",
+        "Had"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Should you have… = If you have… (formel).",
+          "why_wrong": [
+            "B : ne forme pas l'inversion conditionnelle.",
+            "C : question au passé.",
+            "D : exige un participe passé."
+          ],
+          "example": "Should you need help…"
+        },
+        "en": {
+          "rule": "Should you have… = If you have… (formal).",
+          "why_wrong": [
+            "B: does not form the conditional inversion.",
+            "C: past question.",
+            "D: requires a past participle."
+          ],
+          "example": "Should you need help…"
+        }
+      },
+      "vocab": [],
+      "passage": "p6-b03-pass-05",
+      "position": 3
+    },
+    {
+      "id": "p6-b03-20",
+      "part": 6,
+      "difficulty": 2,
+      "category": "gram-prepositions",
+      "stem": "Blank (4)",
+      "choices": [
+        "looking up",
+        "looking over",
+        "looking forward",
+        "looking after"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "look forward to + -ing.",
+          "why_wrong": [
+            "A : = chercher.",
+            "B : = parcourir.",
+            "D : = s'occuper de."
+          ],
+          "example": "looking forward to hearing"
+        },
+        "en": {
+          "rule": "look forward to + -ing.",
+          "why_wrong": [
+            "A: = search for.",
+            "B: = scan.",
+            "D: = take care of."
+          ],
+          "example": "looking forward to hearing"
+        }
+      },
+      "vocab": [],
+      "passage": "p6-b03-pass-05",
+      "position": 4
+    },
+    {
+      "id": "p6-b03-21",
+      "part": 6,
+      "difficulty": 1,
+      "category": "gram-prepositions",
+      "stem": "Blank (1)",
+      "choices": [
+        "with",
+        "at",
+        "by",
+        "to"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "with + possession : avec plus de dix ans d'expérience.",
+          "why_wrong": [
+            "B : « at » ne s'emploie pas ici.",
+            "C : « by » exprime l'agent ou l'échéance.",
+            "D : « to » ne convient pas."
+          ],
+          "example": "with experience"
+        },
+        "en": {
+          "rule": "with + possession: with more than ten years' experience.",
+          "why_wrong": [
+            "B: 'at' is not used here.",
+            "C: 'by' expresses agent or deadline.",
+            "D: 'to' does not fit."
+          ],
+          "example": "with experience"
+        }
+      },
+      "vocab": [],
+      "passage": "p6-b03-pass-06",
+      "position": 1
+    },
+    {
+      "id": "p6-b03-22",
+      "part": 6,
+      "difficulty": 3,
+      "category": "qt-sentence-insertion",
+      "stem": "Which sentence best fits blank (2)?",
+      "choices": [
+        "Many bookstores sell language textbooks.",
+        "Students may also choose between small groups and private lessons.",
+        "Teachers must wear a uniform.",
+        "The academy opened in a former factory."
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "La phrase continue la présentation des modalités de cours.",
+          "why_wrong": [
+            "A : hors sujet.",
+            "C : hors sujet.",
+            "D : détail sans lien."
+          ],
+          "example": "Students may also choose between small groups and private lessons."
+        },
+        "en": {
+          "rule": "The sentence continues describing course formats.",
+          "why_wrong": [
+            "A: off topic.",
+            "C: off topic.",
+            "D: unrelated detail."
+          ],
+          "example": "Students may also choose between small groups and private lessons."
+        }
+      },
+      "vocab": [],
+      "passage": "p6-b03-pass-06",
+      "position": 2
+    },
+    {
+      "id": "p6-b03-23",
+      "part": 6,
+      "difficulty": 1,
+      "category": "gram-verb-tenses",
+      "stem": "Blank (3)",
+      "choices": [
+        "received",
+        "receive",
+        "receives",
+        "have received"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "will + base verbale.",
+          "why_wrong": [
+            "A : prétérit : sens futur attendu.",
+            "C : 3e personne : sujet « you ».",
+            "D : présent parfait : sens futur attendu."
+          ],
+          "example": "you will receive"
+        },
+        "en": {
+          "rule": "will + base verb.",
+          "why_wrong": [
+            "A: past: future meaning expected.",
+            "C: third person: subject 'you'.",
+            "D: present perfect: future meaning expected."
+          ],
+          "example": "you will receive"
+        }
+      },
+      "vocab": [],
+      "passage": "p6-b03-pass-06",
+      "position": 3
+    },
+    {
+      "id": "p6-b03-24",
+      "part": 6,
+      "difficulty": 1,
+      "category": "gram-verb-tenses",
+      "stem": "Blank (4)",
+      "choices": [
+        "registered",
+        "register",
+        "registering",
+        "registers"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Impératif : register early.",
+          "why_wrong": [
+            "A : participe.",
+            "C : gérondif : l'impératif est attendu.",
+            "D : 3e personne."
+          ],
+          "example": "register early"
+        },
+        "en": {
+          "rule": "Imperative: register early.",
+          "why_wrong": [
+            "A: participle.",
+            "C: gerund: an imperative is expected.",
+            "D: third person."
+          ],
+          "example": "register early"
+        }
+      },
+      "vocab": [],
+      "passage": "p6-b03-pass-06",
+      "position": 4
+    },
+    {
+      "id": "p6-b03-25",
+      "part": 6,
+      "difficulty": 3,
+      "category": "gram-verb-tenses",
+      "stem": "Blank (1)",
+      "choices": [
+        "could not be delivered",
+        "will not deliver",
+        "cannot deliver",
+        "is not delivering"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Passif modal passé : « could not be delivered ».",
+          "why_wrong": [
+            "B : actif et futur : sens incorrect.",
+            "C : actif : la table ne livre pas.",
+            "D : actif progressif : sens incorrect."
+          ],
+          "example": "could not be delivered"
+        },
+        "en": {
+          "rule": "Past modal passive: 'could not be delivered'.",
+          "why_wrong": [
+            "B: active and future: wrong meaning.",
+            "C: active: the table does not deliver.",
+            "D: active progressive: wrong meaning."
+          ],
+          "example": "could not be delivered"
+        }
+      },
+      "vocab": [],
+      "passage": "p6-b03-pass-07",
+      "position": 1
+    },
+    {
+      "id": "p6-b03-26",
+      "part": 6,
+      "difficulty": 3,
+      "category": "qt-sentence-insertion",
+      "stem": "Which sentence best fits blank (2)?",
+      "choices": [
+        "Oak is a common wood in the region.",
+        "Customers often prefer pine.",
+        "Our showroom has recently been renovated.",
+        "Your order is now scheduled for the next available truck."
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "La phrase annonce la solution, introduite avant la nouvelle date.",
+          "why_wrong": [
+            "A : détail sans intérêt.",
+            "B : hors sujet.",
+            "C : sans lien avec la livraison."
+          ],
+          "example": "Your order is now scheduled for the next available truck."
+        },
+        "en": {
+          "rule": "The sentence announces the solution before the new date.",
+          "why_wrong": [
+            "A: irrelevant detail.",
+            "B: off topic.",
+            "C: unrelated to the delivery."
+          ],
+          "example": "Your order is now scheduled for the next available truck."
+        }
+      },
+      "vocab": [],
+      "passage": "p6-b03-pass-07",
+      "position": 2
+    },
+    {
+      "id": "p6-b03-27",
+      "part": 6,
+      "difficulty": 2,
+      "category": "gram-conjunctions",
+      "stem": "Blank (3)",
+      "choices": [
+        "Unless",
+        "Although",
+        "Despite",
+        "Because"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Although + proposition = bien que.",
+          "why_wrong": [
+            "A : condition négative : sens incorrect.",
+            "C : préposition : une proposition suit.",
+            "D : cause : sens incorrect."
+          ],
+          "example": "Although we cannot…"
+        },
+        "en": {
+          "rule": "Although + clause = even though.",
+          "why_wrong": [
+            "A: negative condition: wrong meaning.",
+            "C: preposition: a clause follows.",
+            "D: cause: wrong meaning."
+          ],
+          "example": "Although we cannot…"
+        }
+      },
+      "vocab": [],
+      "passage": "p6-b03-pass-07",
+      "position": 3
+    },
+    {
+      "id": "p6-b03-28",
+      "part": 6,
+      "difficulty": 2,
+      "category": "gram-word-forms",
+      "stem": "Blank (4)",
+      "choices": [
+        "patients",
+        "patiently",
+        "patient",
+        "patience"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "your patience = votre patience (nom).",
+          "why_wrong": [
+            "A : = patients (médecine) : sens différent.",
+            "B : adverbe.",
+            "C : adjectif : un nom est attendu après « your »."
+          ],
+          "example": "your patience"
+        },
+        "en": {
+          "rule": "your patience = noun.",
+          "why_wrong": [
+            "A: = people receiving treatment: different meaning.",
+            "B: adverb.",
+            "C: adjective: a noun is expected after 'your'."
+          ],
+          "example": "your patience"
+        }
+      },
+      "vocab": [],
+      "passage": "p6-b03-pass-07",
+      "position": 4
+    },
+    {
+      "id": "p6-b03-29",
+      "part": 6,
+      "difficulty": 3,
+      "category": "gram-verb-tenses",
+      "stem": "Blank (1)",
+      "choices": [
+        "is presenting",
+        "presented",
+        "has presented",
+        "presenting"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Présent continu à valeur de programme.",
+          "why_wrong": [
+            "B : prétérit : « this fall » annonce un événement à venir ou en cours.",
+            "C : présent parfait : sens incorrect.",
+            "D : participe sans auxiliaire."
+          ],
+          "example": "is presenting"
+        },
+        "en": {
+          "rule": "Present continuous with scheduled meaning.",
+          "why_wrong": [
+            "B: past: 'this fall' announces a current/upcoming event.",
+            "C: present perfect: wrong meaning.",
+            "D: participle with no auxiliary."
+          ],
+          "example": "is presenting"
+        }
+      },
+      "vocab": [],
+      "passage": "p6-b03-pass-08",
+      "position": 1
+    },
+    {
+      "id": "p6-b03-30",
+      "part": 6,
+      "difficulty": 3,
+      "category": "qt-sentence-insertion",
+      "stem": "Which sentence best fits blank (2)?",
+      "choices": [
+        "The museum café serves excellent coffee.",
+        "The museum is closed on Mondays.",
+        "Parking is available behind the building.",
+        "Many of the items have never been displayed in public before."
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "La phrase prolonge la description de l'exposition.",
+          "why_wrong": [
+            "A : détail sans lien.",
+            "B : hors sujet à ce stade.",
+            "C : pratique mais sans lien avec le contenu de l'exposition."
+          ],
+          "example": "Many of the items have never been displayed in public before."
+        },
+        "en": {
+          "rule": "The sentence extends the exhibit's description.",
+          "why_wrong": [
+            "A: unrelated detail.",
+            "B: off topic at this point.",
+            "C: practical but unrelated to the exhibit's content."
+          ],
+          "example": "Many of the items have never been displayed in public before."
+        }
+      },
+      "vocab": [],
+      "passage": "p6-b03-pass-08",
+      "position": 2
+    },
+    {
+      "id": "p6-b03-31",
+      "part": 6,
+      "difficulty": 3,
+      "category": "gram-word-forms",
+      "stem": "Blank (3)",
+      "choices": [
+        "advancing",
+        "advance",
+        "advanced",
+        "advancement"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "advance tickets = billets à l'avance.",
+          "why_wrong": [
+            "A : participe.",
+            "C : adjectif : mauvais sens ici.",
+            "D : nom : « advancement tickets » est incorrect."
+          ],
+          "example": "advance tickets"
+        },
+        "en": {
+          "rule": "advance tickets = tickets bought beforehand.",
+          "why_wrong": [
+            "A: participle.",
+            "C: adjective: wrong meaning here.",
+            "D: noun: 'advancement tickets' is incorrect."
+          ],
+          "example": "advance tickets"
+        }
+      },
+      "vocab": [],
+      "passage": "p6-b03-pass-08",
+      "position": 3
+    },
+    {
+      "id": "p6-b03-32",
+      "part": 6,
+      "difficulty": 3,
+      "category": "voc-travel",
+      "stem": "Blank (4)",
+      "choices": [
+        "embark on",
+        "embark from",
+        "embark over",
+        "embark about"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "embark on a journey = se lancer dans un voyage.",
+          "why_wrong": [
+            "B : = partir de.",
+            "C : n'existe pas.",
+            "D : n'existe pas."
+          ],
+          "example": "embark on a journey"
+        },
+        "en": {
+          "rule": "embark on a journey = begin a journey.",
+          "why_wrong": [
+            "B: = leave from.",
+            "C: does not exist.",
+            "D: does not exist."
+          ],
+          "example": "embark on a journey"
+        }
+      },
+      "vocab": [],
+      "passage": "p6-b03-pass-08",
+      "position": 4
+    }
+  ]
+}

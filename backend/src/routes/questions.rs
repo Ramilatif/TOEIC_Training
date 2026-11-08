@@ -152,6 +152,77 @@ pub async fn list(
     Ok(Json(out))
 }
 
+#[derive(Serialize)]
+pub struct PartSummary {
+    part: i64,
+    /// Questions disponibles (hors quiz de cours).
+    total: i64,
+    /// Questions déjà tentées par l'utilisateur.
+    seen: i64,
+    /// Questions dont la dernière tentative est juste.
+    mastered: i64,
+}
+
+#[derive(Serialize)]
+pub struct CategorySummary {
+    part: i64,
+    category: String,
+    total: i64,
+}
+
+#[derive(Serialize)]
+pub struct Summary {
+    parts: Vec<PartSummary>,
+    categories: Vec<CategorySummary>,
+}
+
+/// Résumé de la banque pour l'écran d'entraînement : avancement par partie et catégories disponibles.
+pub async fn summary(State(state): State<AppState>, user: AuthUser) -> ApiResult<Json<Summary>> {
+    let parts: Vec<(i64, i64, i64, i64)> = sqlx::query_as(
+        "SELECT q.part, COUNT(*),
+                SUM(CASE WHEN l.qid IS NULL THEN 0 ELSE 1 END),
+                SUM(CASE WHEN l.ok THEN 1 ELSE 0 END)
+         FROM questions q
+         LEFT JOIN (
+             SELECT a.question_id AS qid, a.is_correct AS ok FROM attempts a
+             WHERE a.user_id = $1 AND a.answered_at = (
+                 SELECT MAX(a2.answered_at) FROM attempts a2
+                 WHERE a2.user_id = a.user_id AND a2.question_id = a.question_id)
+         ) l ON l.qid = q.id
+         WHERE q.batch NOT LIKE 'lesson-%'
+         GROUP BY q.part ORDER BY q.part",
+    )
+    .bind(&user.id)
+    .fetch_all(&state.pool)
+    .await?;
+    let categories: Vec<(i64, String, i64)> = sqlx::query_as(
+        "SELECT part, category_id, COUNT(*) FROM questions
+         WHERE batch NOT LIKE 'lesson-%'
+         GROUP BY part, category_id ORDER BY part, category_id",
+    )
+    .fetch_all(&state.pool)
+    .await?;
+    Ok(Json(Summary {
+        parts: parts
+            .into_iter()
+            .map(|(part, total, seen, mastered)| PartSummary {
+                part,
+                total,
+                seen,
+                mastered,
+            })
+            .collect(),
+        categories: categories
+            .into_iter()
+            .map(|(part, category, total)| CategorySummary {
+                part,
+                category,
+                total,
+            })
+            .collect(),
+    }))
+}
+
 #[derive(Deserialize)]
 pub struct AnswerReq {
     chosen_index: usize,

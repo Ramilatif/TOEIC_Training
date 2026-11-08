@@ -121,6 +121,18 @@ export interface Overview {
   weak_categories: CategoryStat[];
 }
 
+export interface CategoryItem {
+  id: string;
+  kind: string;
+  label_fr: string;
+  label_en: string;
+}
+
+export interface QuestionSummary {
+  parts: { part: number; total: number; seen: number; mastered: number }[];
+  categories: { part: number; category: string; total: number }[];
+}
+
 export interface LessonItem {
   id: string;
   type: "grammar" | "conjugation" | "vocab" | "method" | "advanced";
@@ -241,6 +253,8 @@ export const api = {
     for (const [k, v] of Object.entries(params)) if (v !== undefined) qs.set(k, String(v));
     return request<Question[]>("GET", `/questions?${qs}`);
   },
+  categories: () => request<CategoryItem[]>("GET", "/categories"),
+  questionSummary: () => request<QuestionSummary>("GET", "/questions/summary"),
   answer: (id: string, chosen_index: number, time_ms?: number, mode?: "practice" | "review") =>
     request<AnswerResult>("POST", `/questions/${id}/answer`, { chosen_index, time_ms, mode }),
   overview: () => request<Overview>("GET", "/stats/overview"),

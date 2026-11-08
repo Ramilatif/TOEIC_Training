@@ -57,3 +57,40 @@ test("répond à une question puis affiche l'explication et le score", async () 
   await userEvent.click(screen.getByRole("button", { name: "Finish" }));
   await waitFor(() => expect(screen.getByText(/Score : 1 \/ 1/)).toBeInTheDocument());
 });
+
+test("raccourcis clavier : lettre pour choisir, Entrée pour valider puis continuer", async () => {
+  render(
+    <MemoryRouter initialEntries={["/practice/5?limit=1"]}>
+      <Routes>
+        <Route path="/practice/:part" element={<Practice />} />
+      </Routes>
+    </MemoryRouter>,
+  );
+  await screen.findByText("She ___ home.");
+  await userEvent.keyboard("b");
+  await userEvent.keyboard("{Enter}");
+  await screen.findByText("Correct!");
+  expect(api.answer).toHaveBeenCalledWith("q1", 1, expect.any(Number), "practice");
+  await userEvent.keyboard("{Enter}");
+  await screen.findByText(/Score : 1 \/ 1/);
+  // Récapitulatif de séance : la question répondue y figure avec sa réussite.
+  expect(screen.getByText("She ___ home.")).toBeInTheDocument();
+});
+
+test("transmet difficulté et nouveauté à l'API", async () => {
+  render(
+    <MemoryRouter initialEntries={["/practice/5?limit=3&difficulty=2&unseen=1&category=gram-modals"]}>
+      <Routes>
+        <Route path="/practice/:part" element={<Practice />} />
+      </Routes>
+    </MemoryRouter>,
+  );
+  await screen.findByText("She ___ home.");
+  expect(api.questions).toHaveBeenCalledWith({
+    part: 5,
+    limit: 3,
+    category: "gram-modals",
+    difficulty: 2,
+    unseen: true,
+  });
+});

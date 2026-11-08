@@ -740,3 +740,76 @@ async fn planning_genere_et_suivi() {
     .await;
     assert_eq!(s, StatusCode::NOT_FOUND);
 }
+
+#[tokio::test]
+async fn resume_de_la_banque_pour_l_entrainement() {
+    let app = setup().await;
+    let (_, v) = call(
+        &app,
+        "POST",
+        "/api/auth/login",
+        None,
+        json!({"pseudo": "Resume"}),
+    )
+    .await;
+    let token = v["token"].as_str().unwrap().to_string();
+
+    let (s, sum) = call(
+        &app,
+        "GET",
+        "/api/questions/summary",
+        Some(&token),
+        Value::Null,
+    )
+    .await;
+    assert_eq!(s, StatusCode::OK);
+    let part5 = sum["parts"]
+        .as_array()
+        .unwrap()
+        .iter()
+        .find(|p| p["part"] == 5)
+        .unwrap();
+    // Les quiz de cours (batch lesson-*) ne comptent pas dans la banque d'entraînement.
+    assert!(part5["total"].as_i64().unwrap() >= 120);
+    assert_eq!(part5["seen"], 0);
+    assert!(!sum["categories"].as_array().unwrap().is_empty());
+
+    // Après une réponse, la question est « vue ».
+    let (_, qs) = call(
+        &app,
+        "GET",
+        "/api/questions?part=5&limit=1",
+        Some(&token),
+        Value::Null,
+    )
+    .await;
+    let id = qs[0]["id"].as_str().unwrap();
+    let (_, a) = call(
+        &app,
+        "POST",
+        &format!("/api/questions/{id}/answer"),
+        Some(&token),
+        json!({"chosen_index": 0}),
+    )
+    .await;
+    let (_, sum2) = call(
+        &app,
+        "GET",
+        "/api/questions/summary",
+        Some(&token),
+        Value::Null,
+    )
+    .await;
+    let p5 = sum2["parts"]
+        .as_array()
+        .unwrap()
+        .iter()
+        .find(|p| p["part"] == 5)
+        .unwrap();
+    assert_eq!(p5["seen"], 1);
+    assert_eq!(p5["mastered"], if a["correct"] == true { 1 } else { 0 });
+
+    // Authentification requise.
+    let (s, _) = call(&app, "GET", "/api/questions/summary", None, Value::Null).await;
+    assert_eq!(s, StatusCode::UNAUTHORIZED);
+}

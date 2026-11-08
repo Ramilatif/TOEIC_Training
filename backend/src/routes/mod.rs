@@ -18,6 +18,7 @@ pub fn router() -> Router<AppState> {
         .route("/me", get(account::me).patch(account::update_me))
         .route("/categories", get(account::categories))
         .route("/questions", get(questions::list))
+        .route("/questions/summary", get(questions::summary))
         .route("/questions/{id}/answer", post(questions::answer))
         .route("/stats/overview", get(stats::overview))
         .route("/stats/by-part", get(stats::by_part))
