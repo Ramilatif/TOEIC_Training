@@ -1,0 +1,287 @@
+{
+  "batch": "lesson-advanced-08-nominalization",
+  "part": 5,
+  "passages": [],
+  "questions": [
+    {
+      "id": "lq-advanced-08-nominalization-01",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-word-forms",
+      "stem": "The ___ of the new software will begin next month.",
+      "choices": [
+        "implementation",
+        "implemented",
+        "implement",
+        "implementing"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "the + __ + of → nom.",
+          "why_wrong": [
+            "B : Participe : un nom est attendu.",
+            "C : Verbe : un nom est attendu après « the ».",
+            "D : Gérondif : le nom abstrait est attendu avec « of »."
+          ],
+          "example": "the completion of the work"
+        },
+        "en": {
+          "rule": "the + __ + of → noun.",
+          "why_wrong": [
+            "B: Participle: a noun is expected.",
+            "C: Verb: a noun is expected after 'the'.",
+            "D: Gerund: the abstract noun is expected before 'of'."
+          ],
+          "example": "the completion of the work"
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-08-nominalization-02",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-word-forms",
+      "stem": "A thorough ___ of the risks is required before approval.",
+      "choices": [
+        "assess",
+        "assessment",
+        "assessing",
+        "assessed"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Adjectif + __ + of → nom.",
+          "why_wrong": [
+            "A : Verbe.",
+            "C : Gérondif.",
+            "D : Participe."
+          ],
+          "example": "a detailed analysis of costs"
+        },
+        "en": {
+          "rule": "Adjective + __ + of → noun.",
+          "why_wrong": [
+            "A: Verb.",
+            "C: Gerund.",
+            "D: Participle."
+          ],
+          "example": "a detailed analysis of costs"
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-08-nominalization-03",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-word-forms",
+      "stem": "Employees must ensure ___ with all safety regulations.",
+      "choices": [
+        "complying",
+        "comply",
+        "compliance",
+        "compliant"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "ensure + nom + with.",
+          "why_wrong": [
+            "A : Gérondif : forme moins naturelle ici.",
+            "B : Verbe.",
+            "D : Adjectif : un nom est attendu avec « with »."
+          ],
+          "example": "compliance with the law"
+        },
+        "en": {
+          "rule": "ensure + noun + with.",
+          "why_wrong": [
+            "A: Gerund: less natural here.",
+            "B: Verb.",
+            "D: Adjective: a noun is expected."
+          ],
+          "example": "compliance with the law"
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-08-nominalization-04",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-word-forms",
+      "stem": "The firm experienced rapid ___ over the past decade.",
+      "choices": [
+        "grow",
+        "grew",
+        "grown",
+        "growth"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Adjectif + nom : rapid growth.",
+          "why_wrong": [
+            "A : Verbe.",
+            "B : Prétérit.",
+            "C : Participe : un nom est attendu après « rapid »."
+          ],
+          "example": "steady growth"
+        },
+        "en": {
+          "rule": "Adjective + noun: rapid growth.",
+          "why_wrong": [
+            "A: Verb.",
+            "B: Past tense.",
+            "C: Participle: a noun is expected after 'rapid'."
+          ],
+          "example": "steady growth"
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-08-nominalization-05",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-word-forms",
+      "stem": "Staff must have regular access to the ___ of safety equipment.",
+      "choices": [
+        "avail",
+        "availability",
+        "available",
+        "availably"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "the + __ + of → nom.",
+          "why_wrong": [
+            "A : Verbe rare.",
+            "C : Adjectif : un nom est attendu après « the ».",
+            "D : Forme inexistante."
+          ],
+          "example": "the availability of staff"
+        },
+        "en": {
+          "rule": "the + __ + of → noun.",
+          "why_wrong": [
+            "A: Rare verb.",
+            "C: Adjective: a noun is expected after 'the'.",
+            "D: Non-existent form."
+          ],
+          "example": "the availability of staff"
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-08-nominalization-06",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-word-forms",
+      "stem": "Which sentence uses nominal (formal) style?",
+      "choices": [
+        "They cut the costs and got new software.",
+        "Costs went down because they bought new software.",
+        "They reduced costs after they introduced new software.",
+        "The reduction in costs followed the introduction of new software."
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Style nominal = noms abstraits.",
+          "why_wrong": [
+            "A : Style verbal et familier.",
+            "B : Style verbal et familier.",
+            "C : Style verbal."
+          ],
+          "example": "The decision followed a fall."
+        },
+        "en": {
+          "rule": "Nominal style = abstract nouns.",
+          "why_wrong": [
+            "A: Verbal and informal style.",
+            "B: Verbal and informal style.",
+            "C: Verbal style."
+          ],
+          "example": "The decision followed a fall."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-08-nominalization-07",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-word-forms",
+      "stem": "Please give this proposal your full ___.",
+      "choices": [
+        "consider",
+        "considerate",
+        "consideration",
+        "considering"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "give consideration to = prendre en compte.",
+          "why_wrong": [
+            "A : Verbe.",
+            "B : Adjectif (prévenant).",
+            "D : Participe : un nom est attendu."
+          ],
+          "example": "due consideration"
+        },
+        "en": {
+          "rule": "give consideration to = take into account.",
+          "why_wrong": [
+            "A: Verb.",
+            "B: Adjective (thoughtful).",
+            "D: Participle: a noun is expected."
+          ],
+          "example": "due consideration"
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-08-nominalization-08",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-word-forms",
+      "stem": "The company's ___ to adapt to market changes has been impressive.",
+      "choices": [
+        "ability",
+        "able",
+        "ably",
+        "enable"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Possessif + nom.",
+          "why_wrong": [
+            "B : Adjectif : un nom est attendu après un possessif.",
+            "C : Adverbe.",
+            "D : Verbe."
+          ],
+          "example": "their ability to cope"
+        },
+        "en": {
+          "rule": "Possessive + noun.",
+          "why_wrong": [
+            "B: Adjective: a noun is expected after a possessive.",
+            "C: Adverb.",
+            "D: Verb."
+          ],
+          "example": "their ability to cope"
+        }
+      },
+      "vocab": []
+    }
+  ]
+}

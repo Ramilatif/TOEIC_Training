@@ -1,0 +1,287 @@
+{
+  "batch": "lesson-advanced-06-participle-clauses",
+  "part": 5,
+  "passages": [],
+  "questions": [
+    {
+      "id": "lq-advanced-06-participle-clauses-01",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-participles",
+      "stem": "___ the contract carefully, the lawyer advised us to sign it.",
+      "choices": [
+        "To review",
+        "Review",
+        "Having reviewed",
+        "Reviewed"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Having + participe passé = action antérieure.",
+          "why_wrong": [
+            "A : But : sens différent.",
+            "B : Base verbale : incorrect en tête de phrase.",
+            "D : Sens passif : le juriste a fait l'action."
+          ],
+          "example": "Having eaten, we left."
+        },
+        "en": {
+          "rule": "Having + past participle = earlier action.",
+          "why_wrong": [
+            "A: Purpose: different meaning.",
+            "B: Base form: incorrect at sentence start.",
+            "D: Passive sense: the lawyer did the action."
+          ],
+          "example": "Having eaten, we left."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-06-participle-clauses-02",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-participles",
+      "stem": "___ in 1998, the building needs urgent renovation.",
+      "choices": [
+        "Built",
+        "Having build",
+        "Building",
+        "Being build"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Participe passé = sens passif.",
+          "why_wrong": [
+            "B : Participe incorrect.",
+            "C : Sens actif : le bâtiment n'a pas construit quelque chose.",
+            "D : Participe incorrect."
+          ],
+          "example": "Written in May, the letter is old."
+        },
+        "en": {
+          "rule": "Past participle = passive meaning.",
+          "why_wrong": [
+            "B: Incorrect participle.",
+            "C: Active sense: the building did not build anything.",
+            "D: Incorrect participle."
+          ],
+          "example": "Written in May, the letter is old."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-06-participle-clauses-03",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-participles",
+      "stem": "The employees ___ in the east wing will move next month.",
+      "choices": [
+        "who working",
+        "to work",
+        "working",
+        "worked"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Relative réduite : nom + participe présent.",
+          "why_wrong": [
+            "A : « who » + participe seul est incorrect.",
+            "B : Infinitif : sens différent.",
+            "D : Participe passé : sens passif, faux ici."
+          ],
+          "example": "the man standing there"
+        },
+        "en": {
+          "rule": "Reduced relative: noun + present participle.",
+          "why_wrong": [
+            "A: 'who' + bare participle is incorrect.",
+            "B: Infinitive: different meaning.",
+            "D: Past participle: passive meaning, wrong here."
+          ],
+          "example": "the man standing there"
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-06-participle-clauses-04",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-participles",
+      "stem": "___ that the budget is limited, we must prioritize our projects.",
+      "choices": [
+        "Giving",
+        "Given as",
+        "Gave",
+        "Given"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Given that = étant donné que.",
+          "why_wrong": [
+            "A : « Giving that » n'est pas la locution figée.",
+            "B : Locution inexistante.",
+            "C : Prétérit : incorrect."
+          ],
+          "example": "Given that it's late, let's stop."
+        },
+        "en": {
+          "rule": "Given that = since.",
+          "why_wrong": [
+            "A: 'Giving that' is not the fixed phrase.",
+            "B: Non-existent phrase.",
+            "C: Past tense: incorrect."
+          ],
+          "example": "Given that it's late, let's stop."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-06-participle-clauses-05",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-participles",
+      "stem": "Which sentence contains a dangling participle?",
+      "choices": [
+        "Walking into the office, she answered the phone.",
+        "Having signed the form, he left.",
+        "Seen from above, the city looks small.",
+        "Walking into the office, the phone started ringing."
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Le sujet implicite doit être celui de la principale.",
+          "why_wrong": [
+            "A : Le sujet de la principale est bien celui qui marche.",
+            "B : Cohérent.",
+            "C : Cohérent : la ville est vue."
+          ],
+          "example": "Walking home, I saw a fox."
+        },
+        "en": {
+          "rule": "The implied subject must be the main-clause subject.",
+          "why_wrong": [
+            "A: The main-clause subject is the one walking.",
+            "B: Consistent.",
+            "C: Consistent: the city is seen."
+          ],
+          "example": "Walking home, I saw a fox."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-06-participle-clauses-06",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-participles",
+      "stem": "___ the answer, he asked a colleague for help.",
+      "choices": [
+        "Not knowing",
+        "Knowing not",
+        "Don't knowing",
+        "Not known"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Négation du participe : not + participe.",
+          "why_wrong": [
+            "B : Ordre incorrect.",
+            "C : Forme impossible.",
+            "D : Sens passif : incorrect."
+          ],
+          "example": "Not wanting to wait, she left."
+        },
+        "en": {
+          "rule": "Negative participle: not + participle.",
+          "why_wrong": [
+            "B: Wrong order.",
+            "C: Impossible form.",
+            "D: Passive sense: incorrect."
+          ],
+          "example": "Not wanting to wait, she left."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-06-participle-clauses-07",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-participles",
+      "stem": "The ___ audience left the hall before the end of the lecture.",
+      "choices": [
+        "boring",
+        "bore",
+        "boredom",
+        "bored"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "-ed = ressent ; -ing = provoque.",
+          "why_wrong": [
+            "A : -ing = qui ennuie ; le public ressent l'ennui.",
+            "B : Base verbale : un adjectif est attendu.",
+            "C : Nom : un adjectif est attendu."
+          ],
+          "example": "an interested client"
+        },
+        "en": {
+          "rule": "-ed = feels; -ing = causes.",
+          "why_wrong": [
+            "A: -ing = causes boredom; the audience feels it.",
+            "B: Base verb: an adjective is expected.",
+            "C: Noun: an adjective is expected."
+          ],
+          "example": "an interested client"
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-06-participle-clauses-08",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-participles",
+      "stem": "___ by the late train, the delegation missed the opening ceremony.",
+      "choices": [
+        "Having delay",
+        "Delayed",
+        "Delaying",
+        "To delay"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Participe passé = subi une action.",
+          "why_wrong": [
+            "A : Participe incorrect.",
+            "C : Sens actif : la délégation n'a pas retardé.",
+            "D : Infinitif de but : mauvais sens."
+          ],
+          "example": "Delayed by fog, we landed late."
+        },
+        "en": {
+          "rule": "Past participle = received an action.",
+          "why_wrong": [
+            "A: Incorrect participle.",
+            "C: Active sense: the delegation did not delay.",
+            "D: Infinitive of purpose: wrong meaning."
+          ],
+          "example": "Delayed by fog, we landed late."
+        }
+      },
+      "vocab": []
+    }
+  ]
+}

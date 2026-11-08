@@ -1,0 +1,287 @@
+{
+  "batch": "lesson-advanced-01-inversion",
+  "part": 5,
+  "passages": [],
+  "questions": [
+    {
+      "id": "lq-advanced-01-inversion-01",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-reported-speech",
+      "stem": "Hardly ___ the presentation begun when the projector failed.",
+      "choices": [
+        "did",
+        "has",
+        "was",
+        "had"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Hardly + had + sujet + participe … when.",
+          "why_wrong": [
+            "A : « did » exigerait un verbe à la forme de base.",
+            "B : Avec « hardly … when » le récit est au passé : plus-que-parfait.",
+            "C : « was begun » est un passif et ne convient pas."
+          ],
+          "example": "Hardly had I sat down when he called."
+        },
+        "en": {
+          "rule": "Hardly + had + subject + participle … when.",
+          "why_wrong": [
+            "A: 'did' would require a base-form verb.",
+            "B: 'hardly … when' narrates the past: past perfect.",
+            "C: 'was begun' is a passive and does not fit."
+          ],
+          "example": "Hardly had I sat down when he called."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-01-inversion-02",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-reported-speech",
+      "stem": "Under no circumstances ___ confidential files be removed from the office.",
+      "choices": [
+        "they should",
+        "should",
+        "do",
+        "are"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Under no circumstances + modal + sujet.",
+          "why_wrong": [
+            "A : Après l'expression négative en tête : auxiliaire AVANT le sujet.",
+            "C : « do » ne se combine pas avec « be removed ».",
+            "D : « are be removed » est impossible."
+          ],
+          "example": "On no account should you leave."
+        },
+        "en": {
+          "rule": "Under no circumstances + modal + subject.",
+          "why_wrong": [
+            "A: After the negative opener: auxiliary BEFORE the subject.",
+            "C: 'do' does not combine with 'be removed'.",
+            "D: 'are be removed' is impossible."
+          ],
+          "example": "On no account should you leave."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-01-inversion-03",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-reported-speech",
+      "stem": "Not only ___ the contract late, but it also contained several errors.",
+      "choices": [
+        "did",
+        "was",
+        "the contract was",
+        "is"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Not only + auxiliaire/be + sujet.",
+          "why_wrong": [
+            "A : « did » exige une base verbale, pas « late ».",
+            "C : Inversion obligatoire après « Not only » en tête.",
+            "D : Temps incohérent avec « contained »."
+          ],
+          "example": "Not only was he late, he was rude."
+        },
+        "en": {
+          "rule": "Not only + auxiliary/be + subject.",
+          "why_wrong": [
+            "A: 'did' needs a base verb, not 'late'.",
+            "C: Inversion is required after sentence-initial 'Not only'.",
+            "D: Tense inconsistent with 'contained'."
+          ],
+          "example": "Not only was he late, he was rude."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-01-inversion-04",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-reported-speech",
+      "stem": "___ you require further information, please contact our office.",
+      "choices": [
+        "Should",
+        "Would",
+        "If should",
+        "Do"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Should + sujet + base = if + présent.",
+          "why_wrong": [
+            "B : « Would you require » n'est pas l'inversion conditionnelle.",
+            "C : Redondant : « Should » remplace « if ».",
+            "D : « Do you require » est une question, pas une condition."
+          ],
+          "example": "Should you need help, call me."
+        },
+        "en": {
+          "rule": "Should + subject + base = if + present.",
+          "why_wrong": [
+            "B: 'Would you require' is not the conditional inversion.",
+            "C: Redundant: 'Should' replaces 'if'.",
+            "D: 'Do you require' is a question, not a condition."
+          ],
+          "example": "Should you need help, call me."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-01-inversion-05",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-reported-speech",
+      "stem": "Seldom ___ such a detailed proposal.",
+      "choices": [
+        "have we received",
+        "we have received",
+        "we received",
+        "did we received"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Seldom + auxiliaire + sujet + participe.",
+          "why_wrong": [
+            "B : Après « seldom » en tête : auxiliaire avant le sujet.",
+            "C : Pas d'inversion et pas d'auxiliaire.",
+            "D : Après « did », la base verbale."
+          ],
+          "example": "Rarely have I seen this."
+        },
+        "en": {
+          "rule": "Seldom + auxiliary + subject + participle.",
+          "why_wrong": [
+            "B: After sentence-initial 'seldom': auxiliary before subject.",
+            "C: No inversion and no auxiliary.",
+            "D: After 'did', the base form."
+          ],
+          "example": "Rarely have I seen this."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-01-inversion-06",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-reported-speech",
+      "stem": "No sooner had the CEO announced the merger ___ shares rose sharply.",
+      "choices": [
+        "than",
+        "then",
+        "when",
+        "that"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "No sooner … than ; hardly … when.",
+          "why_wrong": [
+            "B : « then » ne forme pas la structure.",
+            "C : « No sooner » se combine avec « than » (« hardly » avec « when »).",
+            "D : « that » ne convient pas ici."
+          ],
+          "example": "No sooner had he left than it rained."
+        },
+        "en": {
+          "rule": "No sooner … than; hardly … when.",
+          "why_wrong": [
+            "B: 'then' does not form the structure.",
+            "C: 'No sooner' pairs with 'than' ('hardly' with 'when').",
+            "D: 'that' does not fit here."
+          ],
+          "example": "No sooner had he left than it rained."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-01-inversion-07",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-reported-speech",
+      "stem": "So complex ___ the regulations that few firms could comply.",
+      "choices": [
+        "did",
+        "were",
+        "was",
+        "had"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "So + adjectif + be + sujet + that.",
+          "why_wrong": [
+            "A : « did » exigerait un verbe lexical.",
+            "C : Sujet pluriel « the regulations » : « were ».",
+            "D : « had » ne convient pas avec « complex »."
+          ],
+          "example": "So great was the demand that…"
+        },
+        "en": {
+          "rule": "So + adjective + be + subject + that.",
+          "why_wrong": [
+            "A: 'did' would require a lexical verb.",
+            "C: Plural subject 'the regulations': 'were'.",
+            "D: 'had' does not fit with 'complex'."
+          ],
+          "example": "So great was the demand that…"
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-01-inversion-08",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-reported-speech",
+      "stem": "Only after the audit ___ the error in the accounts.",
+      "choices": [
+        "the team discovered",
+        "did the team discover",
+        "had the team discover",
+        "the team did discover"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Only after + proposition + auxiliaire + sujet + base.",
+          "why_wrong": [
+            "A : Après « only after » en tête : inversion.",
+            "C : Mélange de formes.",
+            "D : Pas d'inversion : incorrect."
+          ],
+          "example": "Only then did I understand."
+        },
+        "en": {
+          "rule": "Only after + clause + auxiliary + subject + base.",
+          "why_wrong": [
+            "A: After sentence-initial 'only after': inversion.",
+            "C: Mixes forms.",
+            "D: No inversion: incorrect."
+          ],
+          "example": "Only then did I understand."
+        }
+      },
+      "vocab": []
+    }
+  ]
+}

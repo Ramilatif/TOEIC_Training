@@ -23,7 +23,7 @@ pub const FULL_EXAM_MINUTES: i64 = 120;
 pub struct LessonRef {
     pub id: String,
     pub category: String,
-    pub kind: String, // grammar | conjugation | vocab | method
+    pub kind: String, // grammar | conjugation | vocab | method | advanced
     pub minutes: i64,
 }
 
@@ -53,6 +53,7 @@ fn kind_rank(kind: &str) -> u8 {
     match kind {
         "method" => 1,
         "grammar" | "conjugation" => 2,
+        "advanced" => 4,
         _ => 3,
     }
 }

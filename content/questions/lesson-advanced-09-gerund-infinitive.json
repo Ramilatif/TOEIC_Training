@@ -1,0 +1,287 @@
+{
+  "batch": "lesson-advanced-09-gerund-infinitive",
+  "part": 5,
+  "passages": [],
+  "questions": [
+    {
+      "id": "lq-advanced-09-gerund-infinitive-01",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-gerund-infinitive",
+      "stem": "I clearly remember ___ the contract last Tuesday.",
+      "choices": [
+        "to sign",
+        "sign",
+        "having to sign",
+        "signing"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "remember + -ing = se rappeler avoir fait.",
+          "why_wrong": [
+            "A : « remember to » = penser à faire (futur) ; ici le souvenir est passé.",
+            "B : Base verbale : incorrect.",
+            "C : Sens différent."
+          ],
+          "example": "I remember meeting her."
+        },
+        "en": {
+          "rule": "remember + -ing = recall having done.",
+          "why_wrong": [
+            "A: 'remember to' = not forget to do (future); here the memory is past.",
+            "B: Base form: incorrect.",
+            "C: Different meaning."
+          ],
+          "example": "I remember meeting her."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-09-gerund-infinitive-02",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-gerund-infinitive",
+      "stem": "Please remember ___ the lights before you leave the office.",
+      "choices": [
+        "turning off",
+        "to turn off",
+        "turn off",
+        "to turning off"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "remember + to = ne pas oublier de.",
+          "why_wrong": [
+            "A : « remember -ing » = souvenir d'une action passée.",
+            "C : Base verbale : incorrect.",
+            "D : Mélange de formes."
+          ],
+          "example": "Remember to call."
+        },
+        "en": {
+          "rule": "remember + to = don't forget to.",
+          "why_wrong": [
+            "A: 'remember -ing' = memory of a past action.",
+            "C: Base form: incorrect.",
+            "D: Mixed forms."
+          ],
+          "example": "Remember to call."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-09-gerund-infinitive-03",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-gerund-infinitive",
+      "stem": "After 20 years in sales, he is used to ___ under pressure.",
+      "choices": [
+        "to work",
+        "worked",
+        "working",
+        "work"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "be used to + -ing = être habitué à.",
+          "why_wrong": [
+            "A : « used to + base » a un autre sens.",
+            "B : Participe passé : incorrect.",
+            "D : « be used to » est suivi d'un gérondif."
+          ],
+          "example": "I'm used to waking early."
+        },
+        "en": {
+          "rule": "be used to + -ing = be accustomed to.",
+          "why_wrong": [
+            "A: 'used to + base' has another meaning.",
+            "B: Past participle: incorrect.",
+            "D: 'be used to' takes a gerund."
+          ],
+          "example": "I'm used to waking early."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-09-gerund-infinitive-04",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-gerund-infinitive",
+      "stem": "We regret ___ you that the position has been filled.",
+      "choices": [
+        "inform",
+        "to informing",
+        "to inform",
+        "informing"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "regret to + verbe = formule d'annonce formelle.",
+          "why_wrong": [
+            "A : Base verbale : incorrect.",
+            "B : Mélange de formes.",
+            "D : « regret -ing » = regretter d'avoir fait."
+          ],
+          "example": "We regret to say…"
+        },
+        "en": {
+          "rule": "regret to + verb = formal announcement.",
+          "why_wrong": [
+            "A: Base form: incorrect.",
+            "B: Mixed forms.",
+            "D: 'regret -ing' = regret having done."
+          ],
+          "example": "We regret to say…"
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-09-gerund-infinitive-05",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-gerund-infinitive",
+      "stem": "He denied ___ the confidential report to the press.",
+      "choices": [
+        "to have leaked",
+        "to leak",
+        "having leaked",
+        "leak"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "deny + gérondif (parfait = antérieur).",
+          "why_wrong": [
+            "A : « deny » n'est pas suivi de l'infinitif.",
+            "B : « deny » est suivi du gérondif.",
+            "D : Base verbale : incorrect."
+          ],
+          "example": "He denied taking it."
+        },
+        "en": {
+          "rule": "deny + gerund (perfect = earlier).",
+          "why_wrong": [
+            "A: 'deny' is not followed by an infinitive.",
+            "B: 'deny' takes a gerund.",
+            "D: Base form: incorrect."
+          ],
+          "example": "He denied taking it."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-09-gerund-infinitive-06",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-gerund-infinitive",
+      "stem": "It is no use ___ about the schedule now; the decision has been made.",
+      "choices": [
+        "complain",
+        "complaining",
+        "to complain",
+        "complained"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "It is no use + -ing.",
+          "why_wrong": [
+            "A : Base verbale : incorrect.",
+            "C : « It is no use » + gérondif.",
+            "D : Participe passé : incorrect."
+          ],
+          "example": "It's no good waiting."
+        },
+        "en": {
+          "rule": "It is no use + -ing.",
+          "why_wrong": [
+            "A: Base form: incorrect.",
+            "C: 'It is no use' + gerund.",
+            "D: Past participle: incorrect."
+          ],
+          "example": "It's no good waiting."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-09-gerund-infinitive-07",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-gerund-infinitive",
+      "stem": "The room is too small ___ all the participants.",
+      "choices": [
+        "holding",
+        "to hold",
+        "for hold",
+        "hold"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "too + adjectif + to + base.",
+          "why_wrong": [
+            "A : « too … to » + infinitif.",
+            "C : Construction incorrecte.",
+            "D : « to » manque."
+          ],
+          "example": "too tired to work"
+        },
+        "en": {
+          "rule": "too + adjective + to + base.",
+          "why_wrong": [
+            "A: 'too … to' + infinitive.",
+            "C: Incorrect construction.",
+            "D: 'to' is missing."
+          ],
+          "example": "too tired to work"
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-09-gerund-infinitive-08",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-gerund-infinitive",
+      "stem": "The team stopped ___ a break after three hours of work.",
+      "choices": [
+        "taking",
+        "take",
+        "to taking",
+        "to take"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "stop + to = s'arrêter pour.",
+          "why_wrong": [
+            "A : « stop -ing » = cesser de ; ici « s'arrêter pour ».",
+            "B : Base verbale : incorrect.",
+            "C : Mélange de formes."
+          ],
+          "example": "She stopped to rest."
+        },
+        "en": {
+          "rule": "stop + to = stop in order to.",
+          "why_wrong": [
+            "A: 'stop -ing' = cease to; here 'stop in order to'.",
+            "B: Base form: incorrect.",
+            "C: Mixed forms."
+          ],
+          "example": "She stopped to rest."
+        }
+      },
+      "vocab": []
+    }
+  ]
+}

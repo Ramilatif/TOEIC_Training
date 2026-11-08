@@ -1,0 +1,287 @@
+{
+  "batch": "lesson-advanced-02-cleft-sentences",
+  "part": 5,
+  "passages": [],
+  "questions": [
+    {
+      "id": "lq-advanced-02-cleft-sentences-01",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-pronouns",
+      "stem": "___ the client complained about was the lack of communication.",
+      "choices": [
+        "What",
+        "Which",
+        "It",
+        "That"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "What + sujet + verbe + be + élément.",
+          "why_wrong": [
+            "B : « Which » ne convient pas ici.",
+            "C : « It » appelle « It was … that ».",
+            "D : « That » ne peut pas ouvrir une phrase clivée en « What… was »."
+          ],
+          "example": "What I need is time."
+        },
+        "en": {
+          "rule": "What + subject + verb + be + element.",
+          "why_wrong": [
+            "B: 'Which' does not fit here.",
+            "C: 'It' calls for 'It was … that'.",
+            "D: 'That' cannot open a 'What… was' cleft."
+          ],
+          "example": "What I need is time."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-02-cleft-sentences-02",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-pronouns",
+      "stem": "It was Ms. Hoffman ___ proposed the new pricing strategy.",
+      "choices": [
+        "which",
+        "whom",
+        "what",
+        "who"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "It was + personne + who.",
+          "why_wrong": [
+            "A : « which » n'est pas pour une personne.",
+            "B : « whom » est un complément ; ici c'est le sujet.",
+            "C : « what » ne convient pas dans « It was… that/who »."
+          ],
+          "example": "It was Tom who called."
+        },
+        "en": {
+          "rule": "It was + person + who.",
+          "why_wrong": [
+            "A: 'which' is not for people.",
+            "B: 'whom' is an object; here it is the subject.",
+            "C: 'what' does not fit 'It was… that/who'."
+          ],
+          "example": "It was Tom who called."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-02-cleft-sentences-03",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-pronouns",
+      "stem": "What matters most ___ the quality of the service, not the price.",
+      "choices": [
+        "were",
+        "is",
+        "are",
+        "being"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Wh-cleft : What … is + groupe nominal.",
+          "why_wrong": [
+            "A : Temps et accord incohérents.",
+            "C : « What matters » est suivi de « is » (singulier).",
+            "D : Participe sans auxiliaire : phrase incomplète."
+          ],
+          "example": "What counts is the result."
+        },
+        "en": {
+          "rule": "Wh-cleft: What … is + noun phrase.",
+          "why_wrong": [
+            "A: Inconsistent tense and agreement.",
+            "C: 'What matters' takes 'is' (singular).",
+            "D: Participle with no auxiliary: incomplete sentence."
+          ],
+          "example": "What counts is the result."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-02-cleft-sentences-04",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-pronouns",
+      "stem": "It was in 2018 ___ the company opened its first overseas office.",
+      "choices": [
+        "which",
+        "who",
+        "that",
+        "what"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "It was + moment + that.",
+          "why_wrong": [
+            "A : « which » exigerait un antécédent chose.",
+            "B : « who » est réservé aux personnes.",
+            "D : « what » ne convient pas ici."
+          ],
+          "example": "It was last week that we met."
+        },
+        "en": {
+          "rule": "It was + time + that.",
+          "why_wrong": [
+            "A: 'which' would need a thing antecedent.",
+            "B: 'who' is for people.",
+            "D: 'what' does not fit here."
+          ],
+          "example": "It was last week that we met."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-02-cleft-sentences-05",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-pronouns",
+      "stem": "Which sentence emphasizes the reason for the delay?",
+      "choices": [
+        "It the storm was that caused the delay.",
+        "The storm caused the delay that.",
+        "What the storm was caused the delay.",
+        "It was the storm that caused the delay."
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "It + be + élément + that.",
+          "why_wrong": [
+            "A : Ordre incorrect.",
+            "B : Ordre incorrect.",
+            "C : Structure impossible."
+          ],
+          "example": "It was the noise that annoyed me."
+        },
+        "en": {
+          "rule": "It + be + element + that.",
+          "why_wrong": [
+            "A: Wrong order.",
+            "B: Wrong order.",
+            "C: Impossible structure."
+          ],
+          "example": "It was the noise that annoyed me."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-02-cleft-sentences-06",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-pronouns",
+      "stem": "All ___ we need now is your signature.",
+      "choices": [
+        "which",
+        "that",
+        "who",
+        "what"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "All that + sujet + verbe + is…",
+          "why_wrong": [
+            "A : « which » ne s'emploie pas après « all ».",
+            "C : « who » est pour une personne.",
+            "D : Après « all », on emploie « that » (ou rien)."
+          ],
+          "example": "All that remains is to sign."
+        },
+        "en": {
+          "rule": "All that + subject + verb + is…",
+          "why_wrong": [
+            "A: 'which' is not used after 'all'.",
+            "C: 'who' is for people.",
+            "D: After 'all', use 'that' (or nothing)."
+          ],
+          "example": "All that remains is to sign."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-02-cleft-sentences-07",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-pronouns",
+      "stem": "I really ___ appreciate your quick response.",
+      "choices": [
+        "does",
+        "did",
+        "am",
+        "do"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "« do » emphatique = renforcement.",
+          "why_wrong": [
+            "A : Sujet « I » : « do ».",
+            "B : Le contexte est au présent.",
+            "C : « am appreciate » est impossible."
+          ],
+          "example": "I do understand."
+        },
+        "en": {
+          "rule": "Emphatic 'do' = reinforcement.",
+          "why_wrong": [
+            "A: Subject 'I': 'do'.",
+            "B: The context is present.",
+            "C: 'am appreciate' is impossible."
+          ],
+          "example": "I do understand."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-02-cleft-sentences-08",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-pronouns",
+      "stem": "The reason ___ we cancelled the event was the weather.",
+      "choices": [
+        "why",
+        "what",
+        "for",
+        "because"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "the reason why + proposition.",
+          "why_wrong": [
+            "B : « what » ne convient pas après « reason ».",
+            "C : « reason for » exigerait un nom ensuite.",
+            "D : « reason » est suivi de « why »."
+          ],
+          "example": "The reason why he left is clear."
+        },
+        "en": {
+          "rule": "the reason why + clause.",
+          "why_wrong": [
+            "B: 'what' does not fit after 'reason'.",
+            "C: 'reason for' would need a noun after it.",
+            "D: 'reason' is followed by 'why'."
+          ],
+          "example": "The reason why he left is clear."
+        }
+      },
+      "vocab": []
+    }
+  ]
+}

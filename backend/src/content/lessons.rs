@@ -76,7 +76,7 @@ pub fn parse_lesson(src: &str) -> anyhow::Result<Lesson> {
 /// Valide les métadonnées d'une leçon.
 pub fn validate_lesson(l: &Lesson, categories: &HashSet<String>) -> anyhow::Result<()> {
     let m = &l.meta;
-    if !["grammar", "conjugation", "vocab", "method"].contains(&m.kind.as_str()) {
+    if !["grammar", "conjugation", "vocab", "method", "advanced"].contains(&m.kind.as_str()) {
         bail!("{}: type invalide '{}'", m.id, m.kind);
     }
     if !["beginner", "intermediate", "advanced"].contains(&m.level.as_str()) {

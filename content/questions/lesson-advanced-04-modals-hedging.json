@@ -1,0 +1,287 @@
+{
+  "batch": "lesson-advanced-04-modals-hedging",
+  "part": 5,
+  "passages": [],
+  "questions": [
+    {
+      "id": "lq-advanced-04-modals-hedging-01",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-modals",
+      "stem": "The lights are on in his office; he ___ still be working.",
+      "choices": [
+        "should have",
+        "must",
+        "would",
+        "needn't"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "must = quasi certain.",
+          "why_wrong": [
+            "A : Reproche, pas déduction présente.",
+            "C : Conditionnel : pas de déduction ici.",
+            "D : Ne convient pas pour une déduction."
+          ],
+          "example": "He must be tired."
+        },
+        "en": {
+          "rule": "must = almost certain.",
+          "why_wrong": [
+            "A: Criticism, not present deduction.",
+            "C: Conditional: no deduction here.",
+            "D: Does not fit a deduction."
+          ],
+          "example": "He must be tired."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-04-modals-hedging-02",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-modals",
+      "stem": "You ___ have called me; I was waiting for your message all day.",
+      "choices": [
+        "must",
+        "might",
+        "can",
+        "should"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "should have + p.p. = reproche.",
+          "why_wrong": [
+            "A : « must have » = déduction, pas reproche.",
+            "B : Possibilité, pas un reproche.",
+            "C : « can have » n'existe pas dans cet emploi."
+          ],
+          "example": "You should have told me."
+        },
+        "en": {
+          "rule": "should have + p.p. = criticism.",
+          "why_wrong": [
+            "A: 'must have' = deduction, not criticism.",
+            "B: Possibility, not criticism.",
+            "C: 'can have' is not used this way."
+          ],
+          "example": "You should have told me."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-04-modals-hedging-03",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-modals",
+      "stem": "The deadline was extended, so we ___ have worked so late.",
+      "choices": [
+        "don't",
+        "needn't",
+        "mustn't",
+        "shouldn't need"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "needn't have + p.p. = fait inutilement.",
+          "why_wrong": [
+            "A : « don't have » : mauvais temps.",
+            "C : Interdiction : sens faux.",
+            "D : Forme incorrecte."
+          ],
+          "example": "You needn't have come."
+        },
+        "en": {
+          "rule": "needn't have + p.p. = done unnecessarily.",
+          "why_wrong": [
+            "A: 'don't have': wrong tense.",
+            "C: Prohibition: wrong meaning.",
+            "D: Incorrect form."
+          ],
+          "example": "You needn't have come."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-04-modals-hedging-04",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-modals",
+      "stem": "Prices in this sector ___ to fall in the summer months.",
+      "choices": [
+        "would",
+        "must",
+        "tend",
+        "may"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "tend to = avoir tendance à.",
+          "why_wrong": [
+            "A : « would to » est impossible.",
+            "B : « must to » est impossible.",
+            "D : « may to » est impossible."
+          ],
+          "example": "Sales tend to rise."
+        },
+        "en": {
+          "rule": "tend to = be inclined to.",
+          "why_wrong": [
+            "A: 'would to' is impossible.",
+            "B: 'must to' is impossible.",
+            "D: 'may to' is impossible."
+          ],
+          "example": "Sales tend to rise."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-04-modals-hedging-05",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-modals",
+      "stem": "She ___ have seen the memo; she would have replied.",
+      "choices": [
+        "should",
+        "needn't",
+        "can't",
+        "must"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "can't have = impossible.",
+          "why_wrong": [
+            "A : Reproche : sens faux.",
+            "B : Ne convient pas ici.",
+            "D : Contradiction : si elle avait vu le mémo, elle aurait répondu."
+          ],
+          "example": "He can't have known."
+        },
+        "en": {
+          "rule": "can't have = impossible.",
+          "why_wrong": [
+            "A: Criticism: wrong meaning.",
+            "B: Does not fit here.",
+            "D: Contradiction: had she seen it, she would have replied."
+          ],
+          "example": "He can't have known."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-04-modals-hedging-06",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-modals",
+      "stem": "Which sentence is the most appropriately hedged for a report?",
+      "choices": [
+        "The results appear to suggest a decline in demand.",
+        "Demand is definitely going to fall.",
+        "Everyone knows demand is falling.",
+        "The results prove demand will crash."
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "hedging : appear to + suggest.",
+          "why_wrong": [
+            "B : Trop catégorique.",
+            "C : Généralisation excessive.",
+            "D : Trop catégorique."
+          ],
+          "example": "It would appear that…"
+        },
+        "en": {
+          "rule": "hedging: appear to + suggest.",
+          "why_wrong": [
+            "B: Too categorical.",
+            "C: Overgeneralization.",
+            "D: Too categorical."
+          ],
+          "example": "It would appear that…"
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-04-modals-hedging-07",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-modals",
+      "stem": "The Prime Minister ___ to address the nation tonight.",
+      "choices": [
+        "will",
+        "can",
+        "is",
+        "does"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "be to + verbe = prévu officiellement.",
+          "why_wrong": [
+            "A : « will to » est impossible.",
+            "B : « can to » est impossible.",
+            "D : « does to address » est impossible."
+          ],
+          "example": "The CEO is to resign."
+        },
+        "en": {
+          "rule": "be to + verb = officially planned.",
+          "why_wrong": [
+            "A: 'will to' is impossible.",
+            "B: 'can to' is impossible.",
+            "D: 'does to address' is impossible."
+          ],
+          "example": "The CEO is to resign."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-04-modals-hedging-08",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-modals",
+      "stem": "Every summer we ___ visit the manufacturing plant in Leeds.",
+      "choices": [
+        "will to",
+        "should",
+        "would",
+        "must"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "would = habitude passée.",
+          "why_wrong": [
+            "A : Pas de « to » après un modal.",
+            "B : Conseil : sens faux.",
+            "D : Obligation : sens faux."
+          ],
+          "example": "He would call every week."
+        },
+        "en": {
+          "rule": "would = past habit.",
+          "why_wrong": [
+            "A: No 'to' after a modal.",
+            "B: Advice: wrong meaning.",
+            "D: Obligation: wrong meaning."
+          ],
+          "example": "He would call every week."
+        }
+      },
+      "vocab": []
+    }
+  ]
+}

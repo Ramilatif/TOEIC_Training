@@ -1,0 +1,287 @@
+{
+  "batch": "lesson-advanced-07-formal-linkers",
+  "part": 5,
+  "passages": [],
+  "questions": [
+    {
+      "id": "lq-advanced-07-formal-linkers-01",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-conjunctions",
+      "stem": "___ the unexpected delay, the project was completed on schedule.",
+      "choices": [
+        "Hence",
+        "Whereas",
+        "Notwithstanding",
+        "Albeit"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Notwithstanding + nom = malgré.",
+          "why_wrong": [
+            "A : « Hence » exprime la conséquence.",
+            "B : « Whereas » est suivi d'une proposition.",
+            "D : « Albeit » s'emploie avec un adjectif ou un groupe court."
+          ],
+          "example": "Notwithstanding the rain, we left."
+        },
+        "en": {
+          "rule": "Notwithstanding + noun = despite.",
+          "why_wrong": [
+            "A: 'Hence' expresses result.",
+            "B: 'Whereas' is followed by a clause.",
+            "D: 'Albeit' is used with an adjective or short phrase."
+          ],
+          "example": "Notwithstanding the rain, we left."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-07-formal-linkers-02",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-conjunctions",
+      "stem": "Sales in Asia rose by 10 percent, ___ sales in Europe fell by 5 percent.",
+      "choices": [
+        "hence",
+        "provided",
+        "therefore",
+        "whereas"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "whereas = alors que (contraste).",
+          "why_wrong": [
+            "A : Exprime la conséquence, pas le contraste.",
+            "B : Exprime la condition.",
+            "C : Exprime la conséquence, pas le contraste."
+          ],
+          "example": "He is rich, whereas she is poor."
+        },
+        "en": {
+          "rule": "whereas = while (contrast).",
+          "why_wrong": [
+            "A: Expresses result, not contrast.",
+            "B: Expresses condition.",
+            "C: Expresses result, not contrast."
+          ],
+          "example": "He is rich, whereas she is poor."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-07-formal-linkers-03",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-conjunctions",
+      "stem": "The company cut its energy costs, ___ increasing its annual profit.",
+      "choices": [
+        "however",
+        "unless",
+        "thereby",
+        "therefore"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "thereby + -ing = ce faisant.",
+          "why_wrong": [
+            "A : Opposition : sens faux.",
+            "B : Condition : sens faux.",
+            "D : « therefore » ne se combine pas avec « increasing »."
+          ],
+          "example": "He quit, thereby ending debate."
+        },
+        "en": {
+          "rule": "thereby + -ing = by doing so.",
+          "why_wrong": [
+            "A: Contrast: wrong meaning.",
+            "B: Condition: wrong meaning.",
+            "D: 'therefore' does not combine with 'increasing'."
+          ],
+          "example": "He quit, thereby ending debate."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-07-formal-linkers-04",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-conjunctions",
+      "stem": "Despite ___ late, the delegates were welcomed warmly.",
+      "choices": [
+        "to arrive",
+        "arrived",
+        "arriving",
+        "they arrived"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Despite + -ing / nom.",
+          "why_wrong": [
+            "A : Infinitif : incorrect après « despite ».",
+            "B : Participe passé : incorrect.",
+            "D : « Despite » est suivi d'un nom ou d'un -ing, pas d'une proposition."
+          ],
+          "example": "Despite being tired…"
+        },
+        "en": {
+          "rule": "Despite + -ing / noun.",
+          "why_wrong": [
+            "A: Infinitive: incorrect after 'despite'.",
+            "B: Past participle: incorrect.",
+            "D: 'Despite' is followed by a noun or -ing, not a clause."
+          ],
+          "example": "Despite being tired…"
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-07-formal-linkers-05",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-conjunctions",
+      "stem": "We will approve the budget ___ the figures are verified by an independent auditor.",
+      "choices": [
+        "provided that",
+        "although",
+        "notwithstanding",
+        "whereas"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "provided that = à condition que.",
+          "why_wrong": [
+            "B : Concession : sens faux.",
+            "C : Préposition : pas de proposition ensuite.",
+            "D : Contraste : sens faux."
+          ],
+          "example": "Provided that you pay, we ship."
+        },
+        "en": {
+          "rule": "provided that = on condition that.",
+          "why_wrong": [
+            "B: Concession: wrong meaning.",
+            "C: Preposition: no clause after it.",
+            "D: Contrast: wrong meaning."
+          ],
+          "example": "Provided that you pay, we ship."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-07-formal-linkers-06",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-conjunctions",
+      "stem": "The scheme is a useful, ___ limited, solution to the problem.",
+      "choices": [
+        "although",
+        "albeit",
+        "whereas",
+        "despite"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "albeit + adjectif = quoique.",
+          "why_wrong": [
+            "A : « although » est suivi d'une proposition.",
+            "C : Contraste entre propositions.",
+            "D : Préposition : incorrect devant un adjectif ici."
+          ],
+          "example": "A cheap, albeit slow, service."
+        },
+        "en": {
+          "rule": "albeit + adjective = although it is.",
+          "why_wrong": [
+            "A: 'although' is followed by a clause.",
+            "C: Contrast between clauses.",
+            "D: Preposition: incorrect before an adjective here."
+          ],
+          "example": "A cheap, albeit slow, service."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-07-formal-linkers-07",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-conjunctions",
+      "stem": "Which sentence is correct?",
+      "choices": [
+        "Owing to that the strike, all flights were cancelled.",
+        "Owing to the strike, all flights were cancelled.",
+        "Owing to the strike were happening, all flights were cancelled.",
+        "Owing the strike, all flights were cancelled."
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Owing to + nom.",
+          "why_wrong": [
+            "A : Construction incorrecte.",
+            "C : « Owing to » est suivi d'un nom.",
+            "D : Il manque « to »."
+          ],
+          "example": "Owing to rain, we left."
+        },
+        "en": {
+          "rule": "Owing to + noun.",
+          "why_wrong": [
+            "A: Incorrect construction.",
+            "C: 'Owing to' is followed by a noun.",
+            "D: 'to' is missing."
+          ],
+          "example": "Owing to rain, we left."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-07-formal-linkers-08",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-conjunctions",
+      "stem": "The first option is cheaper; ___, the second is more reliable.",
+      "choices": [
+        "for instance",
+        "in conclusion",
+        "namely",
+        "on the other hand"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "on the other hand = en revanche.",
+          "why_wrong": [
+            "A : Introduit un exemple.",
+            "B : Annonce la conclusion.",
+            "C : Introduit une précision."
+          ],
+          "example": "On the one hand… on the other hand…"
+        },
+        "en": {
+          "rule": "on the other hand = by contrast.",
+          "why_wrong": [
+            "A: Introduces an example.",
+            "B: Signals the conclusion.",
+            "C: Introduces a specification."
+          ],
+          "example": "On the one hand… on the other hand…"
+        }
+      },
+      "vocab": []
+    }
+  ]
+}

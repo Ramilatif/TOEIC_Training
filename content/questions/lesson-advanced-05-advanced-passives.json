@@ -1,0 +1,287 @@
+{
+  "batch": "lesson-advanced-05-advanced-passives",
+  "part": 5,
+  "passages": [],
+  "questions": [
+    {
+      "id": "lq-advanced-05-advanced-passives-01",
+      "part": 5,
+      "difficulty": 1,
+      "category": "gram-passive-voice",
+      "stem": "We ___ our office repainted last month.",
+      "choices": [
+        "had",
+        "did",
+        "were",
+        "made"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "have + objet + participe passé.",
+          "why_wrong": [
+            "B : « did » + participe ne forme pas la causative.",
+            "C : « were repainted » changerait le sujet.",
+            "D : « made » + participe est incorrect ici."
+          ],
+          "example": "I had my hair cut."
+        },
+        "en": {
+          "rule": "have + object + past participle.",
+          "why_wrong": [
+            "B: 'did' + participle does not form the causative.",
+            "C: 'were repainted' would change the subject.",
+            "D: 'made' + participle is incorrect here."
+          ],
+          "example": "I had my hair cut."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-05-advanced-passives-02",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-passive-voice",
+      "stem": "The company is said ___ planning a major expansion.",
+      "choices": [
+        "being",
+        "it is",
+        "that is",
+        "to be"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "be said to + infinitif.",
+          "why_wrong": [
+            "A : Après « is said » : infinitif.",
+            "B : Structure incorrecte avec un sujet déjà exprimé.",
+            "C : « said that is » est incorrect : « said that it is »."
+          ],
+          "example": "He is believed to be abroad."
+        },
+        "en": {
+          "rule": "be said to + infinitive.",
+          "why_wrong": [
+            "A: After 'is said': infinitive.",
+            "B: Incorrect structure with an expressed subject.",
+            "C: 'said that is' is incorrect: 'said that it is'."
+          ],
+          "example": "He is believed to be abroad."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-05-advanced-passives-03",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-passive-voice",
+      "stem": "The director is believed ___ the company two years ago.",
+      "choices": [
+        "to have left",
+        "to leave",
+        "leaving",
+        "to be left"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "be believed to have + p.p. = antériorité.",
+          "why_wrong": [
+            "B : Action antérieure à la croyance : infinitif parfait.",
+            "C : Gérondif incorrect ici.",
+            "D : Passif : le directeur ne « est quitté »."
+          ],
+          "example": "She is thought to have resigned."
+        },
+        "en": {
+          "rule": "be believed to have + p.p. = earlier.",
+          "why_wrong": [
+            "B: Action before the belief: perfect infinitive.",
+            "C: Gerund incorrect here.",
+            "D: Passive: the director is not 'left'."
+          ],
+          "example": "She is thought to have resigned."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-05-advanced-passives-04",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-passive-voice",
+      "stem": "I need to ___ my passport renewed before the trip.",
+      "choices": [
+        "make",
+        "get",
+        "take",
+        "do"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "get + objet + participe passé.",
+          "why_wrong": [
+            "A : « make » + participe est incorrect ici.",
+            "C : « take » ne forme pas la causative.",
+            "D : « do » + participe ne forme pas la causative."
+          ],
+          "example": "I got my car fixed."
+        },
+        "en": {
+          "rule": "get + object + past participle.",
+          "why_wrong": [
+            "A: 'make' + participle is incorrect here.",
+            "C: 'take' does not form the causative.",
+            "D: 'do' + participle does not form the causative."
+          ],
+          "example": "I got my car fixed."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-05-advanced-passives-05",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-passive-voice",
+      "stem": "She had the intern ___ the meeting room.",
+      "choices": [
+        "to prepare",
+        "prepared",
+        "prepare",
+        "preparing"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "have + personne + base.",
+          "why_wrong": [
+            "A : « have » ne prend pas « to ».",
+            "B : « have + personne » : base verbale.",
+            "D : Gérondif incorrect ici."
+          ],
+          "example": "She had him call."
+        },
+        "en": {
+          "rule": "have + person + base.",
+          "why_wrong": [
+            "A: 'have' takes no 'to'.",
+            "B: 'have + person': base form.",
+            "D: Gerund incorrect here."
+          ],
+          "example": "She had him call."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-05-advanced-passives-06",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-passive-voice",
+      "stem": "The staff were ___ a bonus for meeting the target.",
+      "choices": [
+        "being offering",
+        "offer",
+        "offering",
+        "offered"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "offer → passif personnel : were offered.",
+          "why_wrong": [
+            "A : Forme impossible.",
+            "B : Base verbale : un participe est attendu.",
+            "C : Participe présent : sens actif."
+          ],
+          "example": "I was given a book."
+        },
+        "en": {
+          "rule": "offer → personal passive: were offered.",
+          "why_wrong": [
+            "A: Impossible form.",
+            "B: Base form: a participle is expected.",
+            "C: Present participle: active meaning."
+          ],
+          "example": "I was given a book."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-05-advanced-passives-07",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-passive-voice",
+      "stem": "He dislikes ___ in meetings.",
+      "choices": [
+        "interrupt",
+        "being interrupted",
+        "to be interrupt",
+        "to interrupt"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Gérondif passif : being + participe.",
+          "why_wrong": [
+            "A : Base verbale : incorrect.",
+            "C : Participe passé manquant.",
+            "D : Actif et infinitif : sens inversé."
+          ],
+          "example": "I hate being late."
+        },
+        "en": {
+          "rule": "Passive gerund: being + participle.",
+          "why_wrong": [
+            "A: Base form: incorrect.",
+            "C: Past participle missing.",
+            "D: Active infinitive: reversed meaning."
+          ],
+          "example": "I hate being late."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-05-advanced-passives-08",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-passive-voice",
+      "stem": "The merger is expected ___ completed by the end of the year.",
+      "choices": [
+        "that",
+        "being",
+        "for",
+        "to be"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "be expected to be + participe.",
+          "why_wrong": [
+            "A : Structure impersonnelle différente.",
+            "B : Après « is expected » : infinitif.",
+            "C : « for » ne convient pas."
+          ],
+          "example": "It is expected to be done."
+        },
+        "en": {
+          "rule": "be expected to be + participle.",
+          "why_wrong": [
+            "A: Different impersonal structure.",
+            "B: After 'is expected': infinitive.",
+            "C: 'for' does not fit."
+          ],
+          "example": "It is expected to be done."
+        }
+      },
+      "vocab": []
+    }
+  ]
+}

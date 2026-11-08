@@ -1,0 +1,287 @@
+{
+  "batch": "lesson-advanced-10-agreement-determiners",
+  "part": 5,
+  "passages": [],
+  "questions": [
+    {
+      "id": "lq-advanced-10-agreement-determiners-01",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-quantifiers",
+      "stem": "The number of applicants for the position ___ risen sharply this year.",
+      "choices": [
+        "were",
+        "have",
+        "has",
+        "are"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "The number of + pluriel → verbe singulier.",
+          "why_wrong": [
+            "A : Pluriel et passé : incorrect.",
+            "B : « The number of » : accord singulier.",
+            "D : « are » ne convient pas avec « risen »."
+          ],
+          "example": "The number of errors is low."
+        },
+        "en": {
+          "rule": "The number of + plural → singular verb.",
+          "why_wrong": [
+            "A: Plural and past: incorrect.",
+            "B: 'The number of': singular agreement.",
+            "D: 'are' does not fit 'risen'."
+          ],
+          "example": "The number of errors is low."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-10-agreement-determiners-02",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-quantifiers",
+      "stem": "A number of customers ___ expressed concern about the new fees.",
+      "choices": [
+        "is",
+        "was",
+        "has",
+        "have"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "A number of + pluriel → verbe pluriel.",
+          "why_wrong": [
+            "A : Singulier : incorrect.",
+            "B : Singulier : incorrect.",
+            "C : « A number of » : accord pluriel."
+          ],
+          "example": "A number of people agree."
+        },
+        "en": {
+          "rule": "A number of + plural → plural verb.",
+          "why_wrong": [
+            "A: Singular: incorrect.",
+            "B: Singular: incorrect.",
+            "C: 'A number of': plural agreement."
+          ],
+          "example": "A number of people agree."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-10-agreement-determiners-03",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-quantifiers",
+      "stem": "Neither the director nor her assistants ___ aware of the changes.",
+      "choices": [
+        "is",
+        "was",
+        "has been",
+        "were"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "neither … nor : accord avec le sujet le plus proche.",
+          "why_wrong": [
+            "A : Singulier : incorrect.",
+            "B : Accord avec le sujet le plus proche : « assistants » (pluriel).",
+            "C : Singulier : incorrect."
+          ],
+          "example": "Neither he nor they were late."
+        },
+        "en": {
+          "rule": "neither … nor: agree with the nearest subject.",
+          "why_wrong": [
+            "A: Singular: incorrect.",
+            "B: Agreement with the nearest subject: 'assistants' (plural).",
+            "C: Singular: incorrect."
+          ],
+          "example": "Neither he nor they were late."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-10-agreement-determiners-04",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-quantifiers",
+      "stem": "The CEO, together with her senior team, ___ attending the conference.",
+      "choices": [
+        "have been",
+        "is",
+        "were",
+        "are"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "A together with B → accord avec A.",
+          "why_wrong": [
+            "A : Pluriel : incorrect.",
+            "C : Pluriel et passé : incorrect.",
+            "D : « together with » n'ajoute pas au sujet : accord avec « CEO »."
+          ],
+          "example": "She, along with him, is here."
+        },
+        "en": {
+          "rule": "A together with B → agree with A.",
+          "why_wrong": [
+            "A: Plural: incorrect.",
+            "C: Plural and past: incorrect.",
+            "D: 'together with' does not add to the subject: agree with 'CEO'."
+          ],
+          "example": "She, along with him, is here."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-10-agreement-determiners-05",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-quantifiers",
+      "stem": "The ___ for selecting candidates are clearly stated in the handbook.",
+      "choices": [
+        "criterions",
+        "criterion",
+        "criterias",
+        "criteria"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "criterion → criteria (pluriel).",
+          "why_wrong": [
+            "A : Pluriel inexistant.",
+            "B : Singulier : le verbe « are » est pluriel.",
+            "C : Pluriel inexistant."
+          ],
+          "example": "phenomenon → phenomena"
+        },
+        "en": {
+          "rule": "criterion → criteria (plural).",
+          "why_wrong": [
+            "A: Non-existent plural.",
+            "B: Singular: the verb 'are' is plural.",
+            "C: Non-existent plural."
+          ],
+          "example": "phenomenon → phenomena"
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-10-agreement-determiners-06",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-quantifiers",
+      "stem": "The company's premises ___ closed for renovation until June.",
+      "choices": [
+        "has been",
+        "are",
+        "was",
+        "is"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "premises = pluriel.",
+          "why_wrong": [
+            "A : Singulier : incorrect.",
+            "C : Singulier : incorrect.",
+            "D : « premises » est toujours pluriel."
+          ],
+          "example": "The goods are ready."
+        },
+        "en": {
+          "rule": "premises = plural.",
+          "why_wrong": [
+            "A: Singular: incorrect.",
+            "C: Singular: incorrect.",
+            "D: 'premises' is always plural."
+          ],
+          "example": "The goods are ready."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-10-agreement-determiners-07",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-quantifiers",
+      "stem": "Much of the equipment ___ outdated.",
+      "choices": [
+        "were",
+        "are",
+        "have been",
+        "is"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Much of + non dénombrable → singulier.",
+          "why_wrong": [
+            "A : Pluriel : incorrect.",
+            "B : « equipment » est non dénombrable : singulier.",
+            "C : Pluriel : incorrect."
+          ],
+          "example": "Much of the work is done."
+        },
+        "en": {
+          "rule": "Much of + uncountable → singular.",
+          "why_wrong": [
+            "A: Plural: incorrect.",
+            "B: 'equipment' is uncountable: singular.",
+            "C: Plural: incorrect."
+          ],
+          "example": "Much of the work is done."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-10-agreement-determiners-08",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-quantifiers",
+      "stem": "The majority of the participants ___ in favor of the proposal.",
+      "choices": [
+        "is",
+        "has been",
+        "were",
+        "was"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "The majority of + pluriel → pluriel.",
+          "why_wrong": [
+            "A : Singulier : incorrect.",
+            "B : Singulier : incorrect.",
+            "D : « majority of » + pluriel (participants) : pluriel."
+          ],
+          "example": "Most of them agree."
+        },
+        "en": {
+          "rule": "The majority of + plural → plural.",
+          "why_wrong": [
+            "A: Singular: incorrect.",
+            "B: Singular: incorrect.",
+            "D: 'majority of' + plural (participants): plural."
+          ],
+          "example": "Most of them agree."
+        }
+      },
+      "vocab": []
+    }
+  ]
+}

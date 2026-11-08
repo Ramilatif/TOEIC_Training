@@ -1,0 +1,287 @@
+{
+  "batch": "lesson-advanced-03-subjunctive-wish",
+  "part": 5,
+  "passages": [],
+  "questions": [
+    {
+      "id": "lq-advanced-03-subjunctive-wish-01",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-conditionals",
+      "stem": "The committee recommends that the proposal ___ before the end of the month.",
+      "choices": [
+        "approved",
+        "is approved",
+        "be approved",
+        "will be approved"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "recommend that + sujet + base.",
+          "why_wrong": [
+            "A : Il manque l'auxiliaire du passif.",
+            "B : Après « recommend that » : subjonctif (base), pas « is ».",
+            "D : Le subjonctif n'utilise pas « will »."
+          ],
+          "example": "I suggest that he be there."
+        },
+        "en": {
+          "rule": "recommend that + subject + base.",
+          "why_wrong": [
+            "A: The passive auxiliary is missing.",
+            "B: After 'recommend that': subjunctive (base), not 'is'.",
+            "D: The subjunctive does not use 'will'."
+          ],
+          "example": "I suggest that he be there."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-03-subjunctive-wish-02",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-conditionals",
+      "stem": "I wish I ___ more time to prepare for tomorrow's presentation.",
+      "choices": [
+        "have",
+        "will have",
+        "would have",
+        "had"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "wish + prétérit = regret présent.",
+          "why_wrong": [
+            "A : « wish » + regret présent : prétérit.",
+            "B : Pas de futur après « wish ».",
+            "C : « would have » + participe est pour le passé."
+          ],
+          "example": "I wish I knew."
+        },
+        "en": {
+          "rule": "wish + past = present regret.",
+          "why_wrong": [
+            "A: 'wish' + present regret: past tense.",
+            "B: No future after 'wish'.",
+            "C: 'would have' + participle is for the past."
+          ],
+          "example": "I wish I knew."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-03-subjunctive-wish-03",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-conditionals",
+      "stem": "It is high time we ___ our pricing policy.",
+      "choices": [
+        "will review",
+        "reviewed",
+        "reviewing",
+        "review"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "It is (high) time + sujet + prétérit.",
+          "why_wrong": [
+            "A : Pas de futur après « It is time ».",
+            "C : Participe sans auxiliaire.",
+            "D : « It is time » + prétérit."
+          ],
+          "example": "It is time we left."
+        },
+        "en": {
+          "rule": "It is (high) time + subject + past.",
+          "why_wrong": [
+            "A: No future after 'It is time'.",
+            "C: Participle with no auxiliary.",
+            "D: 'It is time' + past."
+          ],
+          "example": "It is time we left."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-03-subjunctive-wish-04",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-conditionals",
+      "stem": "The director insisted that every employee ___ the safety course.",
+      "choices": [
+        "completes",
+        "would complete",
+        "complete",
+        "completed"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "insist that + sujet + base.",
+          "why_wrong": [
+            "A : Subjonctif : pas de -s.",
+            "B : Pas de « would » au subjonctif mandatif.",
+            "D : Le prétérit change le sens."
+          ],
+          "example": "She demanded that he leave."
+        },
+        "en": {
+          "rule": "insist that + subject + base.",
+          "why_wrong": [
+            "A: Subjunctive: no -s.",
+            "B: No 'would' in the mandative subjunctive.",
+            "D: The past tense changes the meaning."
+          ],
+          "example": "She demanded that he leave."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-03-subjunctive-wish-05",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-conditionals",
+      "stem": "She talks as if she ___ the owner of the company.",
+      "choices": [
+        "has been",
+        "is",
+        "were",
+        "will be"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "as if + prétérit (were).",
+          "why_wrong": [
+            "A : Mauvais temps pour l'irréel.",
+            "B : Comparaison irréelle : « were ».",
+            "D : Pas de futur après « as if »."
+          ],
+          "example": "He acts as if he were rich."
+        },
+        "en": {
+          "rule": "as if + past (were).",
+          "why_wrong": [
+            "A: Wrong tense for the unreal.",
+            "B: Unreal comparison: 'were'.",
+            "D: No future after 'as if'."
+          ],
+          "example": "He acts as if he were rich."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-03-subjunctive-wish-06",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-conditionals",
+      "stem": "If only we ___ the warning earlier, we could have avoided the loss.",
+      "choices": [
+        "hear",
+        "had heard",
+        "heard",
+        "would hear"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "If only + had + participe = regret sur le passé.",
+          "why_wrong": [
+            "A : Base verbale : incorrect.",
+            "C : « If only » + prétérit = regret présent, ici le regret porte sur le passé.",
+            "D : « would » ne s'emploie pas après « if only » pour un regret passé."
+          ],
+          "example": "If only I had known."
+        },
+        "en": {
+          "rule": "If only + had + participle = regret about the past.",
+          "why_wrong": [
+            "A: Base form: incorrect.",
+            "C: 'If only' + past = present regret; here the regret is about the past.",
+            "D: 'would' is not used after 'if only' for a past regret."
+          ],
+          "example": "If only I had known."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-03-subjunctive-wish-07",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-conditionals",
+      "stem": "___ your timely support, the project would not have been completed.",
+      "choices": [
+        "If not",
+        "But for",
+        "Despite",
+        "Although"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "But for + nom = sans.",
+          "why_wrong": [
+            "A : « if not » demanderait une proposition.",
+            "C : « Despite » exprime la concession, pas la condition irréelle.",
+            "D : « Although » est suivi d'une proposition."
+          ],
+          "example": "But for you, I'd have failed."
+        },
+        "en": {
+          "rule": "But for + noun = without.",
+          "why_wrong": [
+            "A: 'if not' would need a clause.",
+            "C: 'Despite' expresses concession, not an unreal condition.",
+            "D: 'Although' is followed by a clause."
+          ],
+          "example": "But for you, I'd have failed."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "lq-advanced-03-subjunctive-wish-08",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-conditionals",
+      "stem": "I wish my colleague ___ answer emails more promptly.",
+      "choices": [
+        "can",
+        "will",
+        "shall",
+        "would"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "wish + would = plainte sur une habitude.",
+          "why_wrong": [
+            "A : Mauvaise forme pour une plainte.",
+            "B : « wish » + « will » est impossible.",
+            "C : Mauvaise forme pour une plainte."
+          ],
+          "example": "I wish he would stop."
+        },
+        "en": {
+          "rule": "wish + would = complaint about a habit.",
+          "why_wrong": [
+            "A: Wrong form for a complaint.",
+            "B: 'wish' + 'will' is impossible.",
+            "C: Wrong form for a complaint."
+          ],
+          "example": "I wish he would stop."
+        }
+      },
+      "vocab": []
+    }
+  ]
+}
