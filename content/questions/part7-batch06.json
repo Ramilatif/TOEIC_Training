@@ -1,0 +1,1010 @@
+{
+  "batch": "part7-batch06",
+  "part": 7,
+  "passages": [
+    {
+      "id": "p7-b06-pass-01",
+      "kind": "single",
+      "title": "Article: a four-day work week",
+      "body": "A MIDSIZE FIRM TRIES A FOUR-DAY WEEK\n\nLEEDS (April 11) — When Calder Logistics announced last year that its 140 employees would work four days a week for the same pay, many competitors were skeptical. Twelve months later, the results are difficult to dismiss. Absences fell by a third, and the number of resignations dropped from fourteen to four. Revenue, meanwhile, rose by 6 percent.\n\nManaging director Sophie Lang said the change was not a perk but a strategy. \"We were losing good people to larger firms that could pay more,\" she said. \"We could not compete on salary, so we competed on time.\"\n\nNot everything went smoothly. Customer-service staff initially struggled to cover all five days, and the company hired three part-time workers to fill the gap. Ms. Lang also admitted that some managers found it hard to let go of the habit of measuring effort by hours rather than results.\n\nSeveral other firms in the region have since asked to visit Calder's offices to learn how the system works. Ms. Lang says she will welcome them, \"though I would warn them that it only works if you redesign meetings first.\"",
+      "transcript": null,
+      "image": null
+    },
+    {
+      "id": "p7-b06-pass-02",
+      "kind": "single",
+      "title": "Report: customer satisfaction",
+      "body": "HARLOW TELECOM — CUSTOMER SATISFACTION REPORT, Q3 SUMMARY\n\nOverall satisfaction: 78% (Q2: 74%)\n\nBy channel:\n• Phone support: 71% (Q2: 75%)\n• Online chat: 84% (Q2: 70%)\n• In-store: 82% (Q2: 80%)\n\nMain sources of complaints (share of all complaints):\n• Long waiting times on the phone: 41%\n• Billing errors: 27%\n• Unclear contracts: 19%\n• Other: 13%\n\nRecommendations:\n1. Redirect some phone staff to the chat service, which costs less per contact and is rated higher by customers.\n2. Review the billing software before the end of Q4.\n3. Simplify contract language. A pilot in the Leeds store reduced related complaints by half.",
+      "transcript": null,
+      "image": null
+    },
+    {
+      "id": "p7-b06-pass-03",
+      "kind": "single",
+      "title": "Email chain: contract renewal",
+      "body": "From: Priya Shah, Meridian Foods\nTo: Tom Wyatt, Eastway Packaging\nDate: September 5\nSubject: Re: Contract renewal\n\nTom, thank you for the revised draft. We are happy with the unit price of $0.42 and with the delivery schedule. However, clause 7 worries us: it allows Eastway to raise prices with only 30 days' notice. Given the volatility of paper costs, we understand the need for flexibility, but we would like the notice period extended to 90 days, and any increase capped at 5 percent a year. If you can agree to this, I am confident we can sign by September 20.\n\n- - - - - - - - - -\n\nFrom: Tom Wyatt, Eastway Packaging\nTo: Priya Shah, Meridian Foods\nDate: September 6\nSubject: Re: Re: Contract renewal\n\nPriya, I appreciate the clarity. A 90-day notice period is acceptable. A fixed cap is harder: our costs have moved by as much as 12 percent in a single year. What I can offer is a cap of 8 percent, with an additional clause allowing you to end the contract without penalty if an increase exceeds 5 percent. I hope this works. I can send an amended draft tomorrow.",
+      "transcript": null,
+      "image": null
+    },
+    {
+      "id": "p7-b06-pass-04",
+      "kind": "double",
+      "title": "Job posting and cover letter",
+      "body": "NORTHGATE RETAIL — Assistant Procurement Manager\n\nNorthgate Retail seeks an Assistant Procurement Manager to support our sourcing team.\n\nRequirements:\n• At least three years of experience in procurement or purchasing\n• A degree in business or a related field\n• Working knowledge of Spanish or Portuguese (many of our suppliers are in Latin America)\n• Willingness to travel up to four weeks per year\n\nPreferred: experience with SAP software.\n\nTo apply, send a cover letter and two references by March 15.\n\n- - - - - - - - - -\n\nDear Hiring Manager,\n\nI am writing to apply for the position of Assistant Procurement Manager. I hold a degree in economics and have spent four years as a purchasing officer at Brightwell Foods, where I managed relationships with suppliers in Mexico and Colombia. My Spanish is fluent, although I do not speak Portuguese.\n\nI have worked with Oracle rather than SAP, but I learn new systems quickly. I am glad to travel as required, though I would need the schedule in advance because of family commitments. References from my current director and from a supplier are enclosed.\n\nSincerely,\nDaniel Mora",
+      "transcript": null,
+      "image": null
+    },
+    {
+      "id": "p7-b06-pass-05",
+      "kind": "triple",
+      "title": "Webpage, email and confirmation for a summit",
+      "body": "TECH FORWARD SUMMIT — November 12–13, Berlin\n\nRegistration fees (per person):\n• Early bird (before October 1): $320\n• Standard (from October 1): $380\n• Student: $150\n• Groups of four or more from the same company: 15% off the applicable price\n• Optional workshops: $60 each\n\nCancellation: full details below. Cancel by October 25 for a 50% refund. No refund after that date.\n\n- - - - - - - - - -\n\nTo: registration@techforward.example\nFrom: Marta Keller, Orion Systems\nDate: October 14\nSubject: Group registration\n\nHello, I would like to register three colleagues and myself for the summit. I know the early-bird period has ended. We would also like to attend two workshops each. Could you confirm the total cost?\n\nThank you,\nMarta Keller\n\n- - - - - - - - - -\n\nTo: Marta Keller\nFrom: Tech Forward Registration\nDate: October 15\nSubject: Confirmation\n\nDear Ms. Keller, thank you. As a group of four, you qualify for the 15% discount on the standard price: $323 per person, or $1,292 for the conference. Eight workshop places ($480) are also reserved. Your total is $1,772. A reminder: cancellations made by October 25 receive a 50% refund.",
+      "transcript": null,
+      "image": null
+    }
+  ],
+  "questions": [
+    {
+      "id": "p7-b06-01",
+      "part": 7,
+      "difficulty": 1,
+      "category": "qt-reading-main-idea",
+      "stem": "What is the article mainly about?",
+      "choices": [
+        "A new logistics technology",
+        "A firm's positive experience with a shorter working week",
+        "A plan to reduce salaries",
+        "A competitor's failed experiment"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Le texte décrit les résultats d'une semaine de quatre jours.",
+          "why_wrong": [
+            "A : aucune technologie n'est évoquée.",
+            "C : les salaires sont inchangés.",
+            "D : l'expérience est présentée comme réussie."
+          ],
+          "example": "A firm's positive experience with a shorter working week"
+        },
+        "en": {
+          "rule": "The text describes the results of a four-day week.",
+          "why_wrong": [
+            "A: no technology is mentioned.",
+            "C: pay is unchanged.",
+            "D: the experiment is presented as successful."
+          ],
+          "example": "A firm's positive experience with a shorter working week"
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b06-pass-01",
+      "position": 1
+    },
+    {
+      "id": "p7-b06-02",
+      "part": 7,
+      "difficulty": 1,
+      "category": "qt-reading-detail",
+      "stem": "What happened to resignations at Calder Logistics?",
+      "choices": [
+        "They fell from fourteen to four.",
+        "They fell by six percent.",
+        "They stayed the same.",
+        "They rose by a third."
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "« dropped from fourteen to four ».",
+          "why_wrong": [
+            "B : 6 % concerne le chiffre d'affaires.",
+            "C : elles ont baissé.",
+            "D : ce sont les absences qui ont baissé d'un tiers."
+          ],
+          "example": "They fell from fourteen to four."
+        },
+        "en": {
+          "rule": "'dropped from fourteen to four'.",
+          "why_wrong": [
+            "B: 6 percent is revenue.",
+            "C: they dropped.",
+            "D: absences fell by a third."
+          ],
+          "example": "They fell from fourteen to four."
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b06-pass-01",
+      "position": 2
+    },
+    {
+      "id": "p7-b06-03",
+      "part": 7,
+      "difficulty": 3,
+      "category": "qt-reading-inference",
+      "stem": "Why did Calder introduce the four-day week?",
+      "choices": [
+        "To keep employees who could earn more elsewhere",
+        "To respond to customer complaints",
+        "To copy a larger competitor",
+        "To reduce its electricity costs"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Ms. Lang explique qu'ils perdaient des employés au profit de firmes qui payaient mieux.",
+          "why_wrong": [
+            "B : non mentionné.",
+            "C : les grands concurrents payaient plus ; ce n'est pas une imitation.",
+            "D : non mentionné."
+          ],
+          "example": "To keep employees who could earn more elsewhere"
+        },
+        "en": {
+          "rule": "Ms. Lang explains they were losing staff to better-paying firms.",
+          "why_wrong": [
+            "B: not mentioned.",
+            "C: larger firms paid more; it was not imitation.",
+            "D: not mentioned."
+          ],
+          "example": "To keep employees who could earn more elsewhere"
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b06-pass-01",
+      "position": 3
+    },
+    {
+      "id": "p7-b06-04",
+      "part": 7,
+      "difficulty": 2,
+      "category": "qt-reading-detail",
+      "stem": "Which difficulty is NOT mentioned in the article?",
+      "choices": [
+        "Covering customer service on five days",
+        "Managers judging effort by hours",
+        "The need to hire part-time workers",
+        "A fall in revenue"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Le chiffre d'affaires a augmenté de 6 %.",
+          "why_wrong": [
+            "A : mentionné.",
+            "B : mentionné.",
+            "C : mentionné."
+          ],
+          "example": "A fall in revenue"
+        },
+        "en": {
+          "rule": "Revenue rose by 6 percent.",
+          "why_wrong": [
+            "A: mentioned.",
+            "B: mentioned.",
+            "C: mentioned."
+          ],
+          "example": "A fall in revenue"
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b06-pass-01",
+      "position": 4
+    },
+    {
+      "id": "p7-b06-05",
+      "part": 7,
+      "difficulty": 2,
+      "category": "qt-reading-vocab-context",
+      "stem": "The word \"dismiss\" in paragraph 1 is closest in meaning to",
+      "choices": [
+        "finish",
+        "ignore",
+        "fire",
+        "forgive"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "difficult to dismiss = difficile à ignorer.",
+          "why_wrong": [
+            "A : sens différent.",
+            "C : sens de licencier, faux ici.",
+            "D : sens différent."
+          ],
+          "example": "ignore"
+        },
+        "en": {
+          "rule": "difficult to dismiss = hard to ignore.",
+          "why_wrong": [
+            "A: different meaning.",
+            "C: meaning 'sack', wrong here.",
+            "D: different meaning."
+          ],
+          "example": "ignore"
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b06-pass-01",
+      "position": 5
+    },
+    {
+      "id": "p7-b06-06",
+      "part": 7,
+      "difficulty": 3,
+      "category": "qt-reading-inference",
+      "stem": "What does Ms. Lang suggest other firms should do first?",
+      "choices": [
+        "Change the way meetings are run",
+        "Hire part-time workers",
+        "Increase every salary",
+        "Visit Calder's customers"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "« it only works if you redesign meetings first ».",
+          "why_wrong": [
+            "B : ce n'est pas son conseil final.",
+            "C : non.",
+            "D : non."
+          ],
+          "example": "Change the way meetings are run"
+        },
+        "en": {
+          "rule": "'it only works if you redesign meetings first'.",
+          "why_wrong": [
+            "B: not her final advice.",
+            "C: no.",
+            "D: no."
+          ],
+          "example": "Change the way meetings are run"
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b06-pass-01",
+      "position": 6
+    },
+    {
+      "id": "p7-b06-07",
+      "part": 7,
+      "difficulty": 1,
+      "category": "qt-reading-detail",
+      "stem": "Which channel received a lower rating than in the previous quarter?",
+      "choices": [
+        "All of them",
+        "Phone support",
+        "In-store",
+        "Online chat"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Le téléphone passe de 75 % à 71 %.",
+          "why_wrong": [
+            "A : seul le téléphone a baissé.",
+            "C : 80 % → 82 %.",
+            "D : 70 % → 84 %."
+          ],
+          "example": "Phone support"
+        },
+        "en": {
+          "rule": "Phone fell from 75% to 71%.",
+          "why_wrong": [
+            "A: only phone fell.",
+            "C: 80% → 82%.",
+            "D: 70% → 84%."
+          ],
+          "example": "Phone support"
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b06-pass-02",
+      "position": 1
+    },
+    {
+      "id": "p7-b06-08",
+      "part": 7,
+      "difficulty": 1,
+      "category": "qt-reading-detail",
+      "stem": "What share of complaints concerned billing errors?",
+      "choices": [
+        "27%",
+        "19%",
+        "13%",
+        "41%"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Billing errors : 27 %.",
+          "why_wrong": [
+            "B : contrats peu clairs.",
+            "C : autres.",
+            "D : attentes au téléphone."
+          ],
+          "example": "27%"
+        },
+        "en": {
+          "rule": "Billing errors: 27%.",
+          "why_wrong": [
+            "B: unclear contracts.",
+            "C: other.",
+            "D: phone waiting times."
+          ],
+          "example": "27%"
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b06-pass-02",
+      "position": 2
+    },
+    {
+      "id": "p7-b06-09",
+      "part": 7,
+      "difficulty": 3,
+      "category": "qt-reading-inference",
+      "stem": "Which channel improved the most compared with Q2?",
+      "choices": [
+        "Phone support",
+        "None",
+        "Online chat",
+        "In-store"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Le chat gagne 14 points (70 → 84).",
+          "why_wrong": [
+            "A : il a baissé.",
+            "B : plusieurs ont progressé.",
+            "D : +2 points seulement."
+          ],
+          "example": "Online chat"
+        },
+        "en": {
+          "rule": "Chat gained 14 points (70 → 84).",
+          "why_wrong": [
+            "A: it fell.",
+            "B: several improved.",
+            "D: only +2 points."
+          ],
+          "example": "Online chat"
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b06-pass-02",
+      "position": 3
+    },
+    {
+      "id": "p7-b06-10",
+      "part": 7,
+      "difficulty": 3,
+      "category": "qt-reading-inference",
+      "stem": "Why does the report recommend moving staff from phones to chat?",
+      "choices": [
+        "The Leeds store requested it.",
+        "Customers dislike online services.",
+        "Chat is cheaper and better rated.",
+        "Phone calls are illegal."
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "« costs less per contact and is rated higher ».",
+          "why_wrong": [
+            "A : non.",
+            "B : contraire aux chiffres.",
+            "D : absurde."
+          ],
+          "example": "Chat is cheaper and better rated."
+        },
+        "en": {
+          "rule": "'costs less per contact and is rated higher'.",
+          "why_wrong": [
+            "A: no.",
+            "B: contradicts the figures.",
+            "D: absurd."
+          ],
+          "example": "Chat is cheaper and better rated."
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b06-pass-02",
+      "position": 4
+    },
+    {
+      "id": "p7-b06-11",
+      "part": 7,
+      "difficulty": 2,
+      "category": "qt-reading-detail",
+      "stem": "What was the result of the pilot in Leeds?",
+      "choices": [
+        "The store closed.",
+        "Phone waiting times fell.",
+        "Complaints about contracts fell by half.",
+        "Billing errors disappeared."
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "« reduced related complaints by half ».",
+          "why_wrong": [
+            "A : non.",
+            "B : non.",
+            "D : non."
+          ],
+          "example": "Complaints about contracts fell by half."
+        },
+        "en": {
+          "rule": "'reduced related complaints by half'.",
+          "why_wrong": [
+            "A: no.",
+            "B: no.",
+            "D: no."
+          ],
+          "example": "Complaints about contracts fell by half."
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b06-pass-02",
+      "position": 5
+    },
+    {
+      "id": "p7-b06-12",
+      "part": 7,
+      "difficulty": 1,
+      "category": "qt-reading-main-idea",
+      "stem": "Why did Ms. Shah write to Mr. Wyatt?",
+      "choices": [
+        "To complain about delivery",
+        "To request a lower unit price",
+        "To cancel an order",
+        "To ask for a change to a contract clause"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Elle demande de modifier la clause 7.",
+          "why_wrong": [
+            "A : elle est satisfaite du calendrier.",
+            "B : le prix lui convient.",
+            "C : non."
+          ],
+          "example": "To ask for a change to a contract clause"
+        },
+        "en": {
+          "rule": "She asks to change clause 7.",
+          "why_wrong": [
+            "A: she is satisfied with the schedule.",
+            "B: the price is acceptable.",
+            "C: no."
+          ],
+          "example": "To ask for a change to a contract clause"
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b06-pass-03",
+      "position": 1
+    },
+    {
+      "id": "p7-b06-13",
+      "part": 7,
+      "difficulty": 1,
+      "category": "qt-reading-detail",
+      "stem": "What is Ms. Shah satisfied with?",
+      "choices": [
+        "The contract length",
+        "The notice period",
+        "The unit price and the delivery schedule",
+        "The price cap"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "« happy with the unit price … and the delivery schedule ».",
+          "why_wrong": [
+            "A : non mentionné.",
+            "B : elle veut l'allonger.",
+            "D : c'est sa demande."
+          ],
+          "example": "The unit price and the delivery schedule"
+        },
+        "en": {
+          "rule": "'happy with the unit price … and the delivery schedule'.",
+          "why_wrong": [
+            "A: not mentioned.",
+            "B: she wants it extended.",
+            "D: that is her request."
+          ],
+          "example": "The unit price and the delivery schedule"
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b06-pass-03",
+      "position": 2
+    },
+    {
+      "id": "p7-b06-14",
+      "part": 7,
+      "difficulty": 3,
+      "category": "qt-reading-inference",
+      "stem": "What is Mr. Wyatt's response to the 5 percent cap?",
+      "choices": [
+        "He asks to cancel the contract.",
+        "He declines it but proposes an alternative.",
+        "He ignores the request.",
+        "He accepts it immediately."
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Il propose un plafond de 8 % et une clause de sortie.",
+          "why_wrong": [
+            "A : non.",
+            "C : il y répond.",
+            "D : il propose 8 %."
+          ],
+          "example": "He declines it but proposes an alternative."
+        },
+        "en": {
+          "rule": "He proposes an 8% cap and an exit clause.",
+          "why_wrong": [
+            "A: no.",
+            "C: he answers it.",
+            "D: he proposes 8%."
+          ],
+          "example": "He declines it but proposes an alternative."
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b06-pass-03",
+      "position": 3
+    },
+    {
+      "id": "p7-b06-15",
+      "part": 7,
+      "difficulty": 2,
+      "category": "qt-reading-detail",
+      "stem": "According to Mr. Wyatt's proposal, when could Meridian end the contract without penalty?",
+      "choices": [
+        "If prices rise by more than 12 percent",
+        "If delivery is late",
+        "After 30 days",
+        "If prices rise by more than 5 percent"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "« end the contract without penalty if an increase exceeds 5 percent ».",
+          "why_wrong": [
+            "A : 12 % est la variation passée des coûts.",
+            "B : non.",
+            "C : ancien préavis."
+          ],
+          "example": "If prices rise by more than 5 percent"
+        },
+        "en": {
+          "rule": "'end the contract without penalty if an increase exceeds 5 percent'.",
+          "why_wrong": [
+            "A: 12% is the past cost movement.",
+            "B: no.",
+            "C: old notice period."
+          ],
+          "example": "If prices rise by more than 5 percent"
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b06-pass-03",
+      "position": 4
+    },
+    {
+      "id": "p7-b06-16",
+      "part": 7,
+      "difficulty": 1,
+      "category": "qt-reading-detail",
+      "stem": "What will Mr. Wyatt do next?",
+      "choices": [
+        "Lower the unit price",
+        "Sign the contract",
+        "Visit Meridian",
+        "Send an amended draft"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "« I can send an amended draft tomorrow ».",
+          "why_wrong": [
+            "A : non.",
+            "B : pas encore.",
+            "C : non."
+          ],
+          "example": "Send an amended draft"
+        },
+        "en": {
+          "rule": "'I can send an amended draft tomorrow'.",
+          "why_wrong": [
+            "A: no.",
+            "B: not yet.",
+            "C: no."
+          ],
+          "example": "Send an amended draft"
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b06-pass-03",
+      "position": 5
+    },
+    {
+      "id": "p7-b06-17",
+      "part": 7,
+      "difficulty": 3,
+      "category": "qt-multi-passage",
+      "stem": "How does Mr. Mora compare with the preferred qualifications?",
+      "choices": [
+        "He lacks experience with the preferred software.",
+        "He has used SAP extensively.",
+        "He has no degree.",
+        "He speaks only Portuguese."
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Il a travaillé avec Oracle plutôt que SAP.",
+          "why_wrong": [
+            "B : il a utilisé Oracle.",
+            "C : il a un diplôme d'économie.",
+            "D : il parle espagnol."
+          ],
+          "example": "He lacks experience with the preferred software."
+        },
+        "en": {
+          "rule": "He has worked with Oracle rather than SAP.",
+          "why_wrong": [
+            "B: he used Oracle.",
+            "C: he has an economics degree.",
+            "D: he speaks Spanish."
+          ],
+          "example": "He lacks experience with the preferred software."
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b06-pass-04",
+      "position": 1
+    },
+    {
+      "id": "p7-b06-18",
+      "part": 7,
+      "difficulty": 1,
+      "category": "qt-reading-detail",
+      "stem": "Why does Northgate ask for Spanish or Portuguese?",
+      "choices": [
+        "Interviews are held in Spanish.",
+        "Most customers speak those languages.",
+        "Many suppliers are in Latin America.",
+        "Its headquarters are in Brazil."
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "« many of our suppliers are in Latin America ».",
+          "why_wrong": [
+            "A : non.",
+            "B : non.",
+            "D : non."
+          ],
+          "example": "Many suppliers are in Latin America."
+        },
+        "en": {
+          "rule": "'many of our suppliers are in Latin America'.",
+          "why_wrong": [
+            "A: no.",
+            "B: no.",
+            "D: no."
+          ],
+          "example": "Many suppliers are in Latin America."
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b06-pass-04",
+      "position": 2
+    },
+    {
+      "id": "p7-b06-19",
+      "part": 7,
+      "difficulty": 1,
+      "category": "qt-reading-detail",
+      "stem": "By what date must Mr. Mora apply?",
+      "choices": [
+        "He has no deadline.",
+        "March 15",
+        "April 15",
+        "March 1"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "« by March 15 ».",
+          "why_wrong": [
+            "A : il y a une date limite.",
+            "C : non.",
+            "D : non."
+          ],
+          "example": "March 15"
+        },
+        "en": {
+          "rule": "'by March 15'.",
+          "why_wrong": [
+            "A: there is a deadline.",
+            "C: no.",
+            "D: no."
+          ],
+          "example": "March 15"
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b06-pass-04",
+      "position": 3
+    },
+    {
+      "id": "p7-b06-20",
+      "part": 7,
+      "difficulty": 3,
+      "category": "qt-multi-passage",
+      "stem": "What concern does Mr. Mora raise about the job?",
+      "choices": [
+        "He needs advance notice of travel dates.",
+        "He cannot travel at all.",
+        "He wants a higher salary.",
+        "He dislikes Spanish."
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "« I would need the schedule in advance ».",
+          "why_wrong": [
+            "B : il est prêt à voyager.",
+            "C : non.",
+            "D : non."
+          ],
+          "example": "He needs advance notice of travel dates."
+        },
+        "en": {
+          "rule": "'I would need the schedule in advance'.",
+          "why_wrong": [
+            "B: he is willing to travel.",
+            "C: no.",
+            "D: no."
+          ],
+          "example": "He needs advance notice of travel dates."
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b06-pass-04",
+      "position": 4
+    },
+    {
+      "id": "p7-b06-21",
+      "part": 7,
+      "difficulty": 2,
+      "category": "qt-reading-vocab-context",
+      "stem": "The word \"enclosed\" in the letter is closest in meaning to",
+      "choices": [
+        "locked",
+        "surrounded",
+        "included",
+        "finished"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "enclosed = joint au courrier.",
+          "why_wrong": [
+            "A : sens différent.",
+            "B : sens littéral à écarter.",
+            "D : sens différent."
+          ],
+          "example": "included"
+        },
+        "en": {
+          "rule": "enclosed = included in the mail.",
+          "why_wrong": [
+            "A: different meaning.",
+            "B: literal sense to rule out.",
+            "D: different meaning."
+          ],
+          "example": "included"
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b06-pass-04",
+      "position": 5
+    },
+    {
+      "id": "p7-b06-22",
+      "part": 7,
+      "difficulty": 3,
+      "category": "qt-reading-inference",
+      "stem": "Why does Ms. Keller mention the early-bird period?",
+      "choices": [
+        "She knows she has missed the lower fee.",
+        "She is applying as a student.",
+        "She wants to cancel it.",
+        "She is organizing the summit."
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Elle écrit le 14 octobre, après la date limite du 1er octobre.",
+          "why_wrong": [
+            "B : non.",
+            "C : non.",
+            "D : non."
+          ],
+          "example": "She knows she has missed the lower fee."
+        },
+        "en": {
+          "rule": "She writes on October 14, after the October 1 cutoff.",
+          "why_wrong": [
+            "B: no.",
+            "C: no.",
+            "D: no."
+          ],
+          "example": "She knows she has missed the lower fee."
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b06-pass-05",
+      "position": 1
+    },
+    {
+      "id": "p7-b06-23",
+      "part": 7,
+      "difficulty": 3,
+      "category": "qt-multi-passage",
+      "stem": "How much will each attendee pay for the conference itself?",
+      "choices": [
+        "$320",
+        "$323",
+        "$150",
+        "$380"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "380 × 0,85 = 323.",
+          "why_wrong": [
+            "A : tarif early bird, plus disponible.",
+            "C : tarif étudiant.",
+            "D : tarif standard sans remise de groupe."
+          ],
+          "example": "$323"
+        },
+        "en": {
+          "rule": "380 × 0.85 = 323.",
+          "why_wrong": [
+            "A: early-bird rate, no longer available.",
+            "C: student rate.",
+            "D: standard rate without group discount."
+          ],
+          "example": "$323"
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b06-pass-05",
+      "position": 2
+    },
+    {
+      "id": "p7-b06-24",
+      "part": 7,
+      "difficulty": 3,
+      "category": "qt-multi-passage",
+      "stem": "How many workshop places were reserved in total?",
+      "choices": [
+        "Eight",
+        "Six",
+        "Two",
+        "Four"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "2 ateliers × 4 personnes = 8.",
+          "why_wrong": [
+            "B : non.",
+            "C : deux par personne.",
+            "D : quatre participants."
+          ],
+          "example": "Eight"
+        },
+        "en": {
+          "rule": "2 workshops × 4 people = 8.",
+          "why_wrong": [
+            "B: no.",
+            "C: two per person.",
+            "D: four attendees."
+          ],
+          "example": "Eight"
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b06-pass-05",
+      "position": 3
+    },
+    {
+      "id": "p7-b06-25",
+      "part": 7,
+      "difficulty": 3,
+      "category": "qt-multi-passage",
+      "stem": "What does the total of $1,772 include?",
+      "choices": [
+        "Conference fees and a refund",
+        "Only workshop fees",
+        "Only conference fees",
+        "Conference fees and workshop fees"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "1 292 $ + 480 $ = 1 772 $.",
+          "why_wrong": [
+            "A : aucun remboursement.",
+            "B : les frais de conférence sont inclus.",
+            "C : les ateliers sont inclus."
+          ],
+          "example": "Conference fees and workshop fees"
+        },
+        "en": {
+          "rule": "$1,292 + $480 = $1,772.",
+          "why_wrong": [
+            "A: no refund.",
+            "B: conference fees are included.",
+            "C: workshops are included."
+          ],
+          "example": "Conference fees and workshop fees"
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b06-pass-05",
+      "position": 4
+    },
+    {
+      "id": "p7-b06-26",
+      "part": 7,
+      "difficulty": 3,
+      "category": "qt-multi-passage",
+      "stem": "What would Ms. Keller receive if she cancelled on October 20?",
+      "choices": [
+        "Nothing",
+        "Half of the total back",
+        "A full refund",
+        "A credit for the next summit"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Annulation avant le 25 octobre : 50 % remboursés.",
+          "why_wrong": [
+            "A : avant le 25 octobre, 50 %.",
+            "C : 50 % seulement.",
+            "D : non."
+          ],
+          "example": "Half of the total back"
+        },
+        "en": {
+          "rule": "Cancellation before October 25: 50% refund.",
+          "why_wrong": [
+            "A: before October 25, 50%.",
+            "C: only 50%.",
+            "D: no."
+          ],
+          "example": "Half of the total back"
+        }
+      },
+      "vocab": [],
+      "passage": "p7-b06-pass-05",
+      "position": 5
+    }
+  ]
+}

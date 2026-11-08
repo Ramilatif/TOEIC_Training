@@ -26,9 +26,9 @@
 | Part 2 | 50 (+25 extension) | 75                  | oui           |
 | Part 3 | 78 (+39 extension) | 117                 | oui           |
 | Part 4 | 60 (+30 extension) | 90                  | oui           |
-| Part 5 | 60 (+60 extension)| 120                | oui           |
-| Part 6 | 32                | 32                  | oui           |
-| Part 7 | 108 (+54 extension)| 162                 | oui           |
+| Part 5 | 60 (+102 extension)| 162               | oui           |
+| Part 6 | 32 (+32 extension) | 64                  | oui           |
+| Part 7 | 108 (+80 extension)| 188                 | oui           |
 
 Leçons : grammaire 18 · conjugaison 10 · vocabulaire 17 · méthodologie 7 · niveau avancé C1 15 = 67 leçons ; tous les quiz ont 8 questions (536 au total). Chaque cours d'origine a une section de complément (pièges de francophones, mots complémentaires ou plan d'entraînement).
 
@@ -60,11 +60,14 @@ Leçons : grammaire 18 · conjugaison 10 · vocabulaire 17 · méthodologie 7 ·
 2026-10-27 — Extension du contenu à la demande de l'utilisateur : cours de grammaire enrichis (pièges de francophones, exemples, quiz 8 questions), 5 nouveaux cours, lot part5-batch03 (60 questions, dont 28 de vocabulaire). Les catégories ne changent pas ; plusieurs leçons peuvent partager une catégorie (le lien « leçon liée » prend la première par id)
 2026-10-27 — Extension terminée : quiz de vocabulaire et de méthodologie à 8 questions (+ « mots complémentaires » / « plan d'entraînement »), lot part7-batch05 (54 questions : 10 passages simples, 2 doubles, 3 triples). Banque d'examen : 514 questions
 
-2026-10-27 — Lots d'extension Listening : part2-batch03 (25), part3-batch03 (13 conversations, 39 questions, 2 documents associés), part4-batch03 (10 exposés, 30 questions, 2 documents associés). Banque d'examen : 608 questions (Part 1 : 12 en attente des photos). Audio toujours par synthèse vocale du navigateur
+2026-10-27 — Lots d'extension Listening : part2-batch03 (25), part3-batch03 (13 conversations, 39 questions, 2 documents associés), part4-batch03 (10 exposés, 30 questions, 2 documents associés). Banque d'examen : 608 questions à ce stade (Part 1 : 12 en attente des photos). Audio toujours par synthèse vocale du navigateur
 
 2026-11-08 — Nouveau module de cours « Conjugaison » (type `conjugation`, 10 leçons numérotées, quiz de 8 questions chacune) : être/avoir/faire, présent, passé, verbes irréguliers, present perfect, plus-que-parfait et futurs, passif, modaux, conditionnels, orthographe des terminaisons. Réutilise les catégories existantes ; la progression est calculée par module comme les autres types
 
 2026-11-08 — Module « Niveau avancé (C1) » (type `advanced`, 15 leçons numérotées, quiz de 8 questions) : 10 leçons de grammaire (inversion, phrases clivées, subjonctif et wish, modaux et atténuation, passifs avancés et causatif, propositions participiales, connecteurs formels, nominalisation, gérondif/infinitif avancés, accord complexe) et 5 leçons lexicales (collocations, idiomes, vocabulaire formel, verbes à particule avancés, mots confusables). Affiché en dernier dans la page Cours ; le planning le place après les autres types. Limite assumée : l'appli ne couvre ni l'expression écrite ni l'expression orale, donc un C1 complet n'est pas évaluable ici ; le TOEIC L&R situe le C1 vers 945
+
+2026-11-08 — Reprise de l'entraînement : écran « S'entraîner » refait (réglages : nombre, difficulté, catégorie, questions jamais vues ; avancement par partie ; mélange de toutes les parties ; lien vers les erreurs), raccourcis clavier (A–D / 1–4, Entrée), barre de progression et récapitulatif de séance avec accès à la révision des erreurs ; nouvel endpoint `GET /questions/summary`. Balayage complet de l'API : 696 questions servies, 0 anomalie (index de bonne réponse, explications FR/EN, textes, transcriptions)
+2026-11-08 — Lots ajoutés : part5-batch04 (42 questions de niveau avancé alignées sur le module C1), part6-batch03 (8 textes, 32 questions), part7-batch06 (26 questions : article, rapport, échange d'e-mails, offre d'emploi + lettre, page web + e-mail + confirmation avec calculs). Banque d'examen : 708 questions dont 12 Part 1 en attente des photos. Biais « A » corrigé dans part5-batch03 (23 → 15 bonnes réponses en A)
 
 ## Problèmes rencontrés
 

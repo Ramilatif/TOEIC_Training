@@ -81,6 +81,7 @@ questions(part, category_id).
 | GET/PATCH | /me | profil (objectif, date d'examen, minutes/jour, langue) |
 | GET | /categories | liste des catégories |
 | GET | /questions?part=&category=&difficulty=&limit=&unseen= | sélection pour l'entraînement (sans la réponse) |
+| GET | /questions/summary | avancement par partie (total, vues, maîtrisées) et catégories disponibles, pour l'écran d'entraînement |
 | POST | /questions/{id}/answer | { chosen_index } -> correction, explications, transcription, lien vers leçon |
 | GET | /images/{id} | photo Part 1 (fichiers statiques) |
 | POST | /exams | { kind, parts, count, timed } -> crée l'examen (full = 200 questions, 2 h) |

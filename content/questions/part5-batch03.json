@@ -10,18 +10,18 @@
       "category": "gram-verb-tenses",
       "stem": "Ms. Okafor ___ the quarterly report every Friday afternoon.",
       "choices": [
-        "submits",
-        "is submitted",
         "has submitting",
+        "is submitted",
+        "submits",
         "submitted"
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "fr": {
           "rule": "Habitude : présent simple (3e personne en -s).",
           "why_wrong": [
+            "A : Forme verbale impossible.",
             "B : Passif : Ms. Okafor fait l'action.",
-            "C : Forme verbale impossible.",
             "D : Le prétérit ne convient pas à une habitude présente (« every Friday »)."
           ],
           "example": "He checks email every morning."
@@ -29,8 +29,8 @@
         "en": {
           "rule": "Habit: simple present (third person -s).",
           "why_wrong": [
+            "A: Impossible verb form.",
             "B: Passive: Ms. Okafor does the action.",
-            "C: Impossible verb form.",
             "D: The past tense does not fit a present habit ('every Friday')."
           ],
           "example": "He checks email every morning."
@@ -170,18 +170,18 @@
       "category": "gram-verb-tenses",
       "stem": "Our accounting department ___ a new software program at the moment.",
       "choices": [
-        "is testing",
-        "tested",
         "has tested",
+        "tested",
+        "is testing",
         "tests"
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "fr": {
           "rule": "At the moment → présent continu.",
           "why_wrong": [
+            "A : Present perfect : pas de lien avec « at the moment ».",
             "B : Prétérit : « at the moment » demande le présent continu.",
-            "C : Present perfect : pas de lien avec « at the moment ».",
             "D : Le présent simple décrit une habitude, pas « at the moment »."
           ],
           "example": "She is working now."
@@ -189,8 +189,8 @@
         "en": {
           "rule": "At the moment → present progressive.",
           "why_wrong": [
+            "A: Present perfect: not consistent with 'at the moment'.",
             "B: Past tense: 'at the moment' needs the present progressive.",
-            "C: Present perfect: not consistent with 'at the moment'.",
             "D: The simple present describes a habit, not 'at the moment'."
           ],
           "example": "She is working now."
@@ -210,18 +210,18 @@
       "category": "gram-subject-verb-agreement",
       "stem": "The list of attendees ___ available at the registration desk.",
       "choices": [
-        "is",
-        "were",
         "have been",
+        "were",
+        "is",
         "are"
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "fr": {
           "rule": "Accord avec le noyau du sujet.",
           "why_wrong": [
+            "A : Pluriel : le sujet est singulier.",
             "B : Pluriel et passé : incompatible.",
-            "C : Pluriel : le sujet est singulier.",
             "D : Le sujet est « list » (singulier), pas « attendees »."
           ],
           "example": "The key to success is effort."
@@ -229,8 +229,8 @@
         "en": {
           "rule": "Agree with the head noun of the subject.",
           "why_wrong": [
+            "A: Plural: the subject is singular.",
             "B: Plural and past: inconsistent.",
-            "C: Plural: the subject is singular.",
             "D: The subject is 'list' (singular), not 'attendees'."
           ],
           "example": "The key to success is effort."
@@ -250,18 +250,18 @@
       "category": "gram-subject-verb-agreement",
       "stem": "Each of the technicians ___ responsible for a separate section of the plant.",
       "choices": [
-        "is",
-        "be",
         "are",
+        "be",
+        "is",
         "were"
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "fr": {
           "rule": "Each of + pluriel → verbe singulier.",
           "why_wrong": [
+            "A : « Each » est singulier.",
             "B : Forme de base sans accord.",
-            "C : « Each » est singulier.",
             "D : Pluriel : « each » est singulier."
           ],
           "example": "Each of them has a key."
@@ -269,8 +269,8 @@
         "en": {
           "rule": "Each of + plural → singular verb.",
           "why_wrong": [
+            "A: 'Each' is singular.",
             "B: Base form without agreement.",
-            "C: 'Each' is singular.",
             "D: Plural: 'each' is singular."
           ],
           "example": "Each of them has a key."
@@ -494,18 +494,18 @@
       "category": "gram-prepositions",
       "stem": "Please return the signed contract ___ the end of the week.",
       "choices": [
-        "by",
-        "during",
         "since",
+        "during",
+        "by",
         "until"
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "fr": {
           "rule": "By = au plus tard.",
           "why_wrong": [
+            "A : « since » + point de départ passé.",
             "B : « during » + événement.",
-            "C : « since » + point de départ passé.",
             "D : « until » indique une durée, pas une échéance."
           ],
           "example": "Finish by noon."
@@ -513,8 +513,8 @@
         "en": {
           "rule": "By = no later than.",
           "why_wrong": [
+            "A: 'since' + past starting point.",
             "B: 'during' + event.",
-            "C: 'since' + past starting point.",
             "D: 'until' marks duration, not a deadline."
           ],
           "example": "Finish by noon."
@@ -614,28 +614,28 @@
       "category": "gram-prepositions",
       "stem": "___ the heavy rain, the outdoor event proceeded as planned.",
       "choices": [
-        "Despite",
+        "Due to",
         "Because of",
         "According to",
-        "Due to"
+        "Despite"
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "fr": {
           "rule": "Despite + nom = malgré.",
           "why_wrong": [
+            "A : Cause : le sens est une opposition.",
             "B : Cause : le sens est une opposition.",
-            "C : Source d'information : mauvais sens.",
-            "D : Cause : le sens est une opposition."
+            "C : Source d'information : mauvais sens."
           ],
           "example": "Despite the delay, we won."
         },
         "en": {
           "rule": "Despite + noun = in spite of.",
           "why_wrong": [
+            "A: Cause: the meaning is contrast.",
             "B: Cause: the meaning is contrast.",
-            "C: Source of information: wrong meaning.",
-            "D: Cause: the meaning is contrast."
+            "C: Source of information: wrong meaning."
           ],
           "example": "Despite the delay, we won."
         }
@@ -734,28 +734,28 @@
       "category": "gram-conjunctions",
       "stem": "Employees may work from home ___ they complete their tasks on time.",
       "choices": [
-        "as long as",
+        "even though",
         "so as",
         "in case",
-        "even though"
+        "as long as"
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "fr": {
           "rule": "As long as = à condition que.",
           "why_wrong": [
+            "A : Concession : sens différent.",
             "B : Incomplet.",
-            "C : = au cas où : sens différent.",
-            "D : Concession : sens différent."
+            "C : = au cas où : sens différent."
           ],
           "example": "You can go as long as you're quiet."
         },
         "en": {
           "rule": "As long as = provided that.",
           "why_wrong": [
+            "A: Concession: different meaning.",
             "B: Incomplete.",
-            "C: = just in case: different meaning.",
-            "D: Concession: different meaning."
+            "C: = just in case: different meaning."
           ],
           "example": "You can go as long as you're quiet."
         }
@@ -894,28 +894,28 @@
       "category": "gram-articles-determiners",
       "stem": "Mr. Chen is looking for ___ apartment close to his office.",
       "choices": [
-        "an",
+        "many",
         "the",
         "a",
-        "many"
+        "an"
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "fr": {
           "rule": "An devant son voyelle.",
           "why_wrong": [
+            "A : « many » demande un pluriel.",
             "B : Appartement non précisé : pas de défini.",
-            "C : « apartment » commence par un son voyelle.",
-            "D : « many » demande un pluriel."
+            "C : « apartment » commence par un son voyelle."
           ],
           "example": "an office"
         },
         "en": {
           "rule": "An before a vowel sound.",
           "why_wrong": [
+            "A: 'many' requires a plural noun.",
             "B: Unspecified apartment: no definite article.",
-            "C: 'apartment' starts with a vowel sound.",
-            "D: 'many' requires a plural noun."
+            "C: 'apartment' starts with a vowel sound."
           ],
           "example": "an office"
         }

@@ -6,7 +6,7 @@ contenus 100 % originaux, pour un usage entre amis et collègues.
 ## Fonctionnalités
 
 - Connexion par pseudo (sans mot de passe pour l'instant, module d'authentification isolé)
-- Banque de **608 questions d'examen originales** (plus de 2 examens complets, auxquelles s'ajoutent les quiz de cours), explications en français et en anglais
+- Banque de **708 questions d'examen originales** (plus de 2 examens complets, auxquelles s'ajoutent les quiz de cours), explications en français et en anglais
 - Entraînement par partie (Parts 1 à 7) avec correction immédiate ; audio par synthèse vocale du navigateur
   (accents en-US, en-GB, en-AU quand ils sont installés)
 - Examens blancs : complet (200 questions, 2 h) et mini-tests paramétrables, correction détaillée

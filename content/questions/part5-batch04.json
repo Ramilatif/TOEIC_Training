@@ -1,0 +1,1577 @@
+{
+  "batch": "part5-batch04",
+  "part": 5,
+  "passages": [],
+  "questions": [
+    {
+      "id": "p5-b04-001",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-reported-speech",
+      "stem": "Rarely ___ such a detailed forecast from the planning department.",
+      "choices": [
+        "we have received",
+        "we received",
+        "have we received",
+        "did we received"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Rarely + auxiliaire + sujet + participe.",
+          "why_wrong": [
+            "A : après un adverbe négatif en tête : auxiliaire avant le sujet.",
+            "B : pas d'inversion.",
+            "D : après « did », la base verbale."
+          ],
+          "example": "Rarely have we seen this."
+        },
+        "en": {
+          "rule": "Rarely + auxiliary + subject + participle.",
+          "why_wrong": [
+            "A: after a fronted negative adverb: auxiliary before subject.",
+            "B: no inversion.",
+            "D: after 'did', base form."
+          ],
+          "example": "Rarely have we seen this."
+        }
+      },
+      "vocab": [
+        {
+          "term": "forecast",
+          "fr": "prévision"
+        }
+      ]
+    },
+    {
+      "id": "p5-b04-002",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-reported-speech",
+      "stem": "No sooner had the manager left the room ___ the alarm rang.",
+      "choices": [
+        "than",
+        "when",
+        "that",
+        "then"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "No sooner … than.",
+          "why_wrong": [
+            "B : « no sooner » va avec « than ».",
+            "C : ne convient pas.",
+            "D : ne forme pas la structure."
+          ],
+          "example": "No sooner had I sat down than it began."
+        },
+        "en": {
+          "rule": "No sooner … than.",
+          "why_wrong": [
+            "B: 'no sooner' pairs with 'than'.",
+            "C: does not fit.",
+            "D: does not form the structure."
+          ],
+          "example": "No sooner had I sat down than it began."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "p5-b04-003",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-reported-speech",
+      "stem": "Under no circumstances ___ employees share their passwords.",
+      "choices": [
+        "are",
+        "do",
+        "may to",
+        "should"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Under no circumstances + modal + sujet.",
+          "why_wrong": [
+            "A : « are share » est impossible.",
+            "B : « do should » est impossible.",
+            "C : pas de « to » après un modal."
+          ],
+          "example": "On no account should you leave."
+        },
+        "en": {
+          "rule": "Under no circumstances + modal + subject.",
+          "why_wrong": [
+            "A: 'are share' is impossible.",
+            "B: 'do should' is impossible.",
+            "C: no 'to' after a modal."
+          ],
+          "example": "On no account should you leave."
+        }
+      },
+      "vocab": [
+        {
+          "term": "password",
+          "fr": "mot de passe"
+        }
+      ]
+    },
+    {
+      "id": "p5-b04-004",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-reported-speech",
+      "stem": "Not until the audit was completed ___ the full extent of the losses.",
+      "choices": [
+        "the board did realize",
+        "had the board realize",
+        "the board realized",
+        "did the board realize"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Not until + proposition + auxiliaire + sujet.",
+          "why_wrong": [
+            "A : pas d'inversion.",
+            "B : mélange de formes.",
+            "C : après « not until » en tête : inversion."
+          ],
+          "example": "Not until later did I know."
+        },
+        "en": {
+          "rule": "Not until + clause + auxiliary + subject.",
+          "why_wrong": [
+            "A: no inversion.",
+            "B: mixed forms.",
+            "C: after fronted 'not until': inversion."
+          ],
+          "example": "Not until later did I know."
+        }
+      },
+      "vocab": [
+        {
+          "term": "extent",
+          "fr": "ampleur"
+        }
+      ]
+    },
+    {
+      "id": "p5-b04-005",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-reported-speech",
+      "stem": "So severe ___ the storm that all flights were cancelled.",
+      "choices": [
+        "did",
+        "was",
+        "is",
+        "had"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "So + adjectif + be + sujet + that.",
+          "why_wrong": [
+            "A : « did » + adjectif impossible.",
+            "C : temps incohérent avec « were cancelled ».",
+            "D : forme incorrecte."
+          ],
+          "example": "So great was the noise…"
+        },
+        "en": {
+          "rule": "So + adjective + be + subject + that.",
+          "why_wrong": [
+            "A: 'did' + adjective impossible.",
+            "C: tense inconsistent with 'were cancelled'.",
+            "D: incorrect form."
+          ],
+          "example": "So great was the noise…"
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "p5-b04-006",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-conditionals",
+      "stem": "___ the contract been signed earlier, the delay would have been avoided.",
+      "choices": [
+        "Should",
+        "If",
+        "Had",
+        "Would"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "Had + sujet + p.p. = if + sujet + had + p.p.",
+          "why_wrong": [
+            "A : « should » + participe : impossible ici.",
+            "B : « If had » est incorrect sans sujet entre les deux.",
+            "D : mauvaise inversion."
+          ],
+          "example": "Had I known…"
+        },
+        "en": {
+          "rule": "Had + subject + p.p. = if + subject + had + p.p.",
+          "why_wrong": [
+            "A: 'should' + participle: not possible here.",
+            "B: 'If had' is incorrect without a subject in between.",
+            "D: wrong inversion."
+          ],
+          "example": "Had I known…"
+        }
+      },
+      "vocab": [
+        {
+          "term": "avoid",
+          "fr": "éviter"
+        }
+      ]
+    },
+    {
+      "id": "p5-b04-007",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-conditionals",
+      "stem": "The committee insists that every proposal ___ in writing.",
+      "choices": [
+        "will be submitted",
+        "be submitted",
+        "is submitted",
+        "submitted"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "insist that + sujet + base.",
+          "why_wrong": [
+            "A : le subjonctif n'a pas de « will ».",
+            "C : après « insist that » : subjonctif (base).",
+            "D : auxiliaire du passif manquant."
+          ],
+          "example": "I suggest that he go."
+        },
+        "en": {
+          "rule": "insist that + subject + base.",
+          "why_wrong": [
+            "A: the subjunctive has no 'will'.",
+            "C: after 'insist that': subjunctive (base).",
+            "D: missing passive auxiliary."
+          ],
+          "example": "I suggest that he go."
+        }
+      },
+      "vocab": [
+        {
+          "term": "proposal",
+          "fr": "proposition"
+        }
+      ]
+    },
+    {
+      "id": "p5-b04-008",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-conditionals",
+      "stem": "If only we ___ the warning signs earlier, we could have avoided the crisis.",
+      "choices": [
+        "notice",
+        "had noticed",
+        "would notice",
+        "noticed"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "If only + had + p.p. = regret sur le passé.",
+          "why_wrong": [
+            "A : base verbale.",
+            "C : forme incorrecte.",
+            "D : regret présent, pas passé."
+          ],
+          "example": "If only I had known."
+        },
+        "en": {
+          "rule": "If only + had + p.p. = past regret.",
+          "why_wrong": [
+            "A: base form.",
+            "C: incorrect form.",
+            "D: present regret, not past."
+          ],
+          "example": "If only I had known."
+        }
+      },
+      "vocab": [
+        {
+          "term": "crisis",
+          "fr": "crise"
+        }
+      ]
+    },
+    {
+      "id": "p5-b04-009",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-conditionals",
+      "stem": "The figures arrived after the meeting; I would rather you ___ them before it.",
+      "choices": [
+        "will send",
+        "send",
+        "sent",
+        "had sent"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "would rather + had + p.p. = regret sur le passé.",
+          "why_wrong": [
+            "A : pas de futur.",
+            "B : ne marque pas le passé du regret.",
+            "C : regret présent : pas de passé."
+          ],
+          "example": "I'd rather you had told me."
+        },
+        "en": {
+          "rule": "would rather + had + p.p. = past regret.",
+          "why_wrong": [
+            "A: no future.",
+            "B: does not mark the past regret.",
+            "C: present regret: no past reference."
+          ],
+          "example": "I'd rather you had told me."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "p5-b04-010",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-conditionals",
+      "stem": "It is essential that she ___ the report by Friday.",
+      "choices": [
+        "will finish",
+        "finishes",
+        "finish",
+        "finished"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "It is essential that + sujet + base.",
+          "why_wrong": [
+            "A : pas de « will ».",
+            "B : subjonctif : pas de -s.",
+            "D : passé : incorrect."
+          ],
+          "example": "It is vital that he be there."
+        },
+        "en": {
+          "rule": "It is essential that + subject + base.",
+          "why_wrong": [
+            "A: no 'will'.",
+            "B: subjunctive: no -s.",
+            "D: past: incorrect."
+          ],
+          "example": "It is vital that he be there."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "p5-b04-011",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-modals",
+      "stem": "You ___ have told me earlier; I could have changed the schedule.",
+      "choices": [
+        "should",
+        "might",
+        "can",
+        "must"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "should have + p.p. = reproche.",
+          "why_wrong": [
+            "B : possibilité, pas reproche.",
+            "C : forme impossible.",
+            "D : déduction, pas reproche."
+          ],
+          "example": "You should have called."
+        },
+        "en": {
+          "rule": "should have + p.p. = criticism.",
+          "why_wrong": [
+            "B: possibility, not criticism.",
+            "C: impossible form.",
+            "D: deduction, not criticism."
+          ],
+          "example": "You should have called."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "p5-b04-012",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-modals",
+      "stem": "He ___ have left already; his coat is gone and the office is dark.",
+      "choices": [
+        "should",
+        "would",
+        "must",
+        "needn't"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "must have + p.p. = déduction quasi certaine.",
+          "why_wrong": [
+            "A : reproche, pas déduction.",
+            "B : irréel.",
+            "D : ne convient pas."
+          ],
+          "example": "She must have gone."
+        },
+        "en": {
+          "rule": "must have + p.p. = near-certain deduction.",
+          "why_wrong": [
+            "A: criticism, not deduction.",
+            "B: unreal.",
+            "D: does not fit."
+          ],
+          "example": "She must have gone."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "p5-b04-013",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-modals",
+      "stem": "We ___ have rushed; the deadline was extended to Monday.",
+      "choices": [
+        "can't",
+        "mustn't",
+        "needn't",
+        "shouldn't need"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "needn't have + p.p. = inutilement.",
+          "why_wrong": [
+            "A : impossible : sens faux.",
+            "B : interdiction : sens faux.",
+            "D : forme incorrecte."
+          ],
+          "example": "You needn't have come."
+        },
+        "en": {
+          "rule": "needn't have + p.p. = unnecessarily.",
+          "why_wrong": [
+            "A: impossible: wrong meaning.",
+            "B: prohibition: wrong meaning.",
+            "D: incorrect form."
+          ],
+          "example": "You needn't have come."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "p5-b04-014",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-passive-voice",
+      "stem": "The firm is rumored ___ planning a merger with a European competitor.",
+      "choices": [
+        "to have",
+        "being",
+        "that is",
+        "to be"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "be rumored to be + -ing.",
+          "why_wrong": [
+            "A : sens différent.",
+            "B : après « is rumored » : infinitif.",
+            "C : structure incorrecte."
+          ],
+          "example": "He is said to be rich."
+        },
+        "en": {
+          "rule": "be rumored to be + -ing.",
+          "why_wrong": [
+            "A: different meaning.",
+            "B: after 'is rumored': infinitive.",
+            "C: incorrect structure."
+          ],
+          "example": "He is said to be rich."
+        }
+      },
+      "vocab": [
+        {
+          "term": "rumor",
+          "fr": "rumeur"
+        }
+      ]
+    },
+    {
+      "id": "p5-b04-015",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-passive-voice",
+      "stem": "We had the entire network ___ by an external consultant.",
+      "choices": [
+        "audit",
+        "auditing",
+        "audited",
+        "to audit"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "have + objet + participe passé.",
+          "why_wrong": [
+            "A : causative : participe passé.",
+            "B : causative : participe passé.",
+            "D : causative : participe passé."
+          ],
+          "example": "I had it repaired."
+        },
+        "en": {
+          "rule": "have + object + past participle.",
+          "why_wrong": [
+            "A: causative: past participle.",
+            "B: causative: past participle.",
+            "D: causative: past participle."
+          ],
+          "example": "I had it repaired."
+        }
+      },
+      "vocab": [
+        {
+          "term": "audit",
+          "fr": "auditer"
+        }
+      ]
+    },
+    {
+      "id": "p5-b04-016",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-passive-voice",
+      "stem": "The report is expected ___ by the end of the quarter.",
+      "choices": [
+        "to be completed",
+        "that completed",
+        "to complete",
+        "completing"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "be expected to be + participe.",
+          "why_wrong": [
+            "B : structure incorrecte.",
+            "C : actif : le rapport ne se complète pas lui-même.",
+            "D : forme incorrecte."
+          ],
+          "example": "It is expected to be done."
+        },
+        "en": {
+          "rule": "be expected to be + participle.",
+          "why_wrong": [
+            "B: incorrect structure.",
+            "C: active: the report does not complete itself.",
+            "D: incorrect form."
+          ],
+          "example": "It is expected to be done."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "p5-b04-017",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-participles",
+      "stem": "___ the figures carefully, the analyst noticed a discrepancy.",
+      "choices": [
+        "Checked",
+        "Having checked",
+        "To check",
+        "Check"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Having + p.p. = action antérieure.",
+          "why_wrong": [
+            "A : sens passif.",
+            "C : but.",
+            "D : base verbale."
+          ],
+          "example": "Having eaten, we left."
+        },
+        "en": {
+          "rule": "Having + p.p. = earlier action.",
+          "why_wrong": [
+            "A: passive sense.",
+            "C: purpose.",
+            "D: base form."
+          ],
+          "example": "Having eaten, we left."
+        }
+      },
+      "vocab": [
+        {
+          "term": "discrepancy",
+          "fr": "écart"
+        }
+      ]
+    },
+    {
+      "id": "p5-b04-018",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-participles",
+      "stem": "The documents ___ by the committee were returned to the applicants.",
+      "choices": [
+        "to reject",
+        "rejecting",
+        "having rejected",
+        "rejected"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "Relative réduite passive : participe passé.",
+          "why_wrong": [
+            "A : infinitif.",
+            "B : sens actif.",
+            "C : sens actif."
+          ],
+          "example": "the plan approved by the board"
+        },
+        "en": {
+          "rule": "Reduced passive relative: past participle.",
+          "why_wrong": [
+            "A: infinitive.",
+            "B: active sense.",
+            "C: active sense."
+          ],
+          "example": "the plan approved by the board"
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "p5-b04-019",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-participles",
+      "stem": "___ that funding is limited, we must choose our priorities carefully.",
+      "choices": [
+        "Gave",
+        "Given",
+        "Gives",
+        "Giving"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "Given that = étant donné que.",
+          "why_wrong": [
+            "A : prétérit.",
+            "C : présent.",
+            "D : n'est pas la locution."
+          ],
+          "example": "Given that it's late…"
+        },
+        "en": {
+          "rule": "Given that = since.",
+          "why_wrong": [
+            "A: past tense.",
+            "C: present.",
+            "D: is not the phrase."
+          ],
+          "example": "Given that it's late…"
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "p5-b04-020",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-conjunctions",
+      "stem": "___ the unexpected costs, the project remained within budget.",
+      "choices": [
+        "Notwithstanding",
+        "Whereas",
+        "Hence",
+        "Albeit"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "Notwithstanding + nom.",
+          "why_wrong": [
+            "B : suivi d'une proposition.",
+            "C : conséquence.",
+            "D : avec adjectif."
+          ],
+          "example": "Notwithstanding the rain…"
+        },
+        "en": {
+          "rule": "Notwithstanding + noun.",
+          "why_wrong": [
+            "B: followed by a clause.",
+            "C: result.",
+            "D: with an adjective."
+          ],
+          "example": "Notwithstanding the rain…"
+        }
+      },
+      "vocab": [
+        {
+          "term": "notwithstanding",
+          "fr": "malgré"
+        }
+      ]
+    },
+    {
+      "id": "p5-b04-021",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-conjunctions",
+      "stem": "The scheme offers a cheap, ___ limited, solution to the problem.",
+      "choices": [
+        "albeit",
+        "although",
+        "whereas",
+        "despite"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "albeit + adjectif = quoique.",
+          "why_wrong": [
+            "B : suivi d'une proposition.",
+            "C : contraste entre propositions.",
+            "D : préposition."
+          ],
+          "example": "a slow, albeit steady, increase"
+        },
+        "en": {
+          "rule": "albeit + adjective = although it is.",
+          "why_wrong": [
+            "B: followed by a clause.",
+            "C: contrast between clauses.",
+            "D: preposition."
+          ],
+          "example": "a slow, albeit steady, increase"
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "p5-b04-022",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-conjunctions",
+      "stem": "Costs fell by ten percent, ___ raising profit margins.",
+      "choices": [
+        "therefore",
+        "thereby",
+        "unless",
+        "however"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "thereby + -ing = ce faisant.",
+          "why_wrong": [
+            "A : ne se combine pas avec -ing.",
+            "C : condition.",
+            "D : opposition."
+          ],
+          "example": "He quit, thereby ending it."
+        },
+        "en": {
+          "rule": "thereby + -ing = by doing so.",
+          "why_wrong": [
+            "A: does not combine with -ing.",
+            "C: condition.",
+            "D: contrast."
+          ],
+          "example": "He quit, thereby ending it."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "p5-b04-023",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-conjunctions",
+      "stem": "The plan is sound ___ it is realistic about timing.",
+      "choices": [
+        "because of",
+        "insofar as",
+        "as for",
+        "in spite"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "insofar as = dans la mesure où.",
+          "why_wrong": [
+            "A : préposition.",
+            "C : autre sens.",
+            "D : incomplet."
+          ],
+          "example": "True insofar as it goes."
+        },
+        "en": {
+          "rule": "insofar as = to the extent that.",
+          "why_wrong": [
+            "A: preposition.",
+            "C: other meaning.",
+            "D: incomplete."
+          ],
+          "example": "True insofar as it goes."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "p5-b04-024",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-word-forms",
+      "stem": "Staff must ensure ___ with all safety regulations at all times.",
+      "choices": [
+        "compliant",
+        "comply",
+        "complied",
+        "compliance"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "ensure + nom + with.",
+          "why_wrong": [
+            "A : adjectif.",
+            "B : verbe.",
+            "C : participe."
+          ],
+          "example": "compliance with the law"
+        },
+        "en": {
+          "rule": "ensure + noun + with.",
+          "why_wrong": [
+            "A: adjective.",
+            "B: verb.",
+            "C: participle."
+          ],
+          "example": "compliance with the law"
+        }
+      },
+      "vocab": [
+        {
+          "term": "compliance",
+          "fr": "conformité"
+        }
+      ]
+    },
+    {
+      "id": "p5-b04-025",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-word-forms",
+      "stem": "A thorough ___ of the options is required before a decision is made.",
+      "choices": [
+        "assessing",
+        "assess",
+        "assessment",
+        "assessed"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "adjectif + nom + of.",
+          "why_wrong": [
+            "A : gérondif.",
+            "B : verbe.",
+            "D : participe."
+          ],
+          "example": "an assessment of risk"
+        },
+        "en": {
+          "rule": "adjective + noun + of.",
+          "why_wrong": [
+            "A: gerund.",
+            "B: verb.",
+            "D: participle."
+          ],
+          "example": "an assessment of risk"
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "p5-b04-026",
+      "part": 5,
+      "difficulty": 2,
+      "category": "gram-word-forms",
+      "stem": "The company's ___ to adapt to new technology has been remarkable.",
+      "choices": [
+        "ability",
+        "ably",
+        "enabled",
+        "able"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "possessif + nom.",
+          "why_wrong": [
+            "B : adverbe.",
+            "C : participe.",
+            "D : adjectif."
+          ],
+          "example": "their ability to cope"
+        },
+        "en": {
+          "rule": "possessive + noun.",
+          "why_wrong": [
+            "B: adverb.",
+            "C: participle.",
+            "D: adjective."
+          ],
+          "example": "their ability to cope"
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "p5-b04-027",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-gerund-infinitive",
+      "stem": "We regret ___ you that the position has been filled.",
+      "choices": [
+        "to inform",
+        "inform",
+        "informing",
+        "to informing"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "regret to + verbe = annonce formelle.",
+          "why_wrong": [
+            "B : base verbale.",
+            "C : « regret -ing » = regretter d'avoir fait.",
+            "D : mélange."
+          ],
+          "example": "We regret to say…"
+        },
+        "en": {
+          "rule": "regret to + verb = formal announcement.",
+          "why_wrong": [
+            "B: base form.",
+            "C: 'regret -ing' = regret having done.",
+            "D: mixed forms."
+          ],
+          "example": "We regret to say…"
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "p5-b04-028",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-gerund-infinitive",
+      "stem": "He denied ___ the confidential file to a journalist.",
+      "choices": [
+        "to have shown",
+        "to show",
+        "show",
+        "having shown"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "deny + gérondif (parfait = antérieur).",
+          "why_wrong": [
+            "A : « deny » n'est pas suivi de l'infinitif.",
+            "B : « deny » + gérondif.",
+            "C : base verbale."
+          ],
+          "example": "He denied taking it."
+        },
+        "en": {
+          "rule": "deny + gerund (perfect = earlier).",
+          "why_wrong": [
+            "A: 'deny' is not followed by an infinitive.",
+            "B: 'deny' + gerund.",
+            "C: base form."
+          ],
+          "example": "He denied taking it."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "p5-b04-029",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-gerund-infinitive",
+      "stem": "After years abroad, she found it hard to get used to ___ in a small office.",
+      "choices": [
+        "to work",
+        "working",
+        "work",
+        "worked"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "be/get used to + -ing.",
+          "why_wrong": [
+            "A : get used to est suivi d'un gérondif.",
+            "C : get used to + -ing.",
+            "D : participe passé."
+          ],
+          "example": "I'm used to waking early."
+        },
+        "en": {
+          "rule": "be/get used to + -ing.",
+          "why_wrong": [
+            "A: get used to takes a gerund.",
+            "C: get used to + -ing.",
+            "D: past participle."
+          ],
+          "example": "I'm used to waking early."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "p5-b04-030",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-quantifiers",
+      "stem": "The number of applicants ___ increased significantly this year.",
+      "choices": [
+        "are",
+        "has",
+        "have",
+        "were"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "The number of + pluriel → verbe singulier.",
+          "why_wrong": [
+            "A : ne convient pas.",
+            "C : « the number of » : singulier.",
+            "D : pluriel et passé."
+          ],
+          "example": "The number of errors is low."
+        },
+        "en": {
+          "rule": "The number of + plural → singular verb.",
+          "why_wrong": [
+            "A: does not fit.",
+            "C: 'the number of': singular.",
+            "D: plural and past."
+          ],
+          "example": "The number of errors is low."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "p5-b04-031",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-quantifiers",
+      "stem": "Neither the manager nor her assistants ___ aware of the change.",
+      "choices": [
+        "was",
+        "has been",
+        "were",
+        "is"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "neither … nor : sujet le plus proche.",
+          "why_wrong": [
+            "A : accord avec le sujet le plus proche.",
+            "B : singulier.",
+            "D : singulier."
+          ],
+          "example": "Neither he nor they were late."
+        },
+        "en": {
+          "rule": "neither … nor: nearest subject.",
+          "why_wrong": [
+            "A: agreement with the nearest subject.",
+            "B: singular.",
+            "D: singular."
+          ],
+          "example": "Neither he nor they were late."
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "p5-b04-032",
+      "part": 5,
+      "difficulty": 3,
+      "category": "gram-quantifiers",
+      "stem": "The ___ for selecting candidates are clearly stated in the guidelines.",
+      "choices": [
+        "criterias",
+        "criterion",
+        "criteria",
+        "criterions"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "criterion → criteria.",
+          "why_wrong": [
+            "A : n'existe pas.",
+            "B : singulier.",
+            "D : n'existe pas."
+          ],
+          "example": "phenomenon → phenomena"
+        },
+        "en": {
+          "rule": "criterion → criteria.",
+          "why_wrong": [
+            "A: does not exist.",
+            "B: singular.",
+            "D: does not exist."
+          ],
+          "example": "phenomenon → phenomena"
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "p5-b04-033",
+      "part": 5,
+      "difficulty": 3,
+      "category": "voc-collocations",
+      "stem": "Several analysts have ___ concerns about the company's growing debt.",
+      "choices": [
+        "grew",
+        "raised",
+        "lifted",
+        "rose"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "raise a concern.",
+          "why_wrong": [
+            "A : n'est pas la collocation.",
+            "C : autre sens.",
+            "D : intransitif."
+          ],
+          "example": "raise a question"
+        },
+        "en": {
+          "rule": "raise a concern.",
+          "why_wrong": [
+            "A: not the collocation.",
+            "C: other meaning.",
+            "D: intransitive."
+          ],
+          "example": "raise a question"
+        }
+      },
+      "vocab": []
+    },
+    {
+      "id": "p5-b04-034",
+      "part": 5,
+      "difficulty": 3,
+      "category": "voc-collocations",
+      "stem": "The two firms finally ___ an agreement after months of negotiation.",
+      "choices": [
+        "reached",
+        "did",
+        "arrived",
+        "made up"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "reach an agreement.",
+          "why_wrong": [
+            "B : n'existe pas.",
+            "C : incorrect.",
+            "D : autre sens."
+          ],
+          "example": "reach a consensus"
+        },
+        "en": {
+          "rule": "reach an agreement.",
+          "why_wrong": [
+            "B: does not exist.",
+            "C: incorrect.",
+            "D: other meaning."
+          ],
+          "example": "reach a consensus"
+        }
+      },
+      "vocab": [
+        {
+          "term": "negotiation",
+          "fr": "négociation"
+        }
+      ]
+    },
+    {
+      "id": "p5-b04-035",
+      "part": 5,
+      "difficulty": 3,
+      "category": "voc-collocations",
+      "stem": "The new regulations ___ a serious threat to small retailers.",
+      "choices": [
+        "do",
+        "put",
+        "pose",
+        "hold"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "pose a threat.",
+          "why_wrong": [
+            "A : n'existe pas.",
+            "B : n'est pas la collocation.",
+            "D : n'est pas la collocation."
+          ],
+          "example": "pose a problem"
+        },
+        "en": {
+          "rule": "pose a threat.",
+          "why_wrong": [
+            "A: does not exist.",
+            "B: not the collocation.",
+            "D: not the collocation."
+          ],
+          "example": "pose a problem"
+        }
+      },
+      "vocab": [
+        {
+          "term": "retailer",
+          "fr": "détaillant"
+        }
+      ]
+    },
+    {
+      "id": "p5-b04-036",
+      "part": 5,
+      "difficulty": 3,
+      "category": "voc-general",
+      "stem": "The new rules are intended to ___ the impact of the shortage on customers.",
+      "choices": [
+        "exacerbate",
+        "mitigate",
+        "ascertain",
+        "commence"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "mitigate = atténuer.",
+          "why_wrong": [
+            "A : sens contraire.",
+            "C : = établir.",
+            "D : = commencer."
+          ],
+          "example": "mitigate risk"
+        },
+        "en": {
+          "rule": "mitigate = reduce.",
+          "why_wrong": [
+            "A: opposite meaning.",
+            "C: = find out.",
+            "D: = begin."
+          ],
+          "example": "mitigate risk"
+        }
+      },
+      "vocab": [
+        {
+          "term": "mitigate",
+          "fr": "atténuer"
+        }
+      ]
+    },
+    {
+      "id": "p5-b04-037",
+      "part": 5,
+      "difficulty": 3,
+      "category": "voc-general",
+      "stem": "The sudden increase in fuel prices has ___ the problem of rising costs.",
+      "choices": [
+        "undertaken",
+        "mitigated",
+        "exacerbated",
+        "facilitated"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "exacerbate = aggraver.",
+          "why_wrong": [
+            "A : participe d'un autre verbe.",
+            "B : sens contraire.",
+            "D : = facilité."
+          ],
+          "example": "exacerbate tension"
+        },
+        "en": {
+          "rule": "exacerbate = make worse.",
+          "why_wrong": [
+            "A: participle of another verb.",
+            "B: opposite meaning.",
+            "D: = made easier."
+          ],
+          "example": "exacerbate tension"
+        }
+      },
+      "vocab": [
+        {
+          "term": "exacerbate",
+          "fr": "aggraver"
+        }
+      ]
+    },
+    {
+      "id": "p5-b04-038",
+      "part": 5,
+      "difficulty": 3,
+      "category": "voc-general",
+      "stem": "The merger ___ at the last minute when the main investor withdrew.",
+      "choices": [
+        "fell behind",
+        "fell for",
+        "fell through",
+        "fell off"
+      ],
+      "correct": 2,
+      "explanation": {
+        "fr": {
+          "rule": "fall through = échouer.",
+          "why_wrong": [
+            "A : = prendre du retard.",
+            "B : = se laisser piéger.",
+            "D : = diminuer."
+          ],
+          "example": "The plan fell through."
+        },
+        "en": {
+          "rule": "fall through = fail to happen.",
+          "why_wrong": [
+            "A: = lag.",
+            "B: = be tricked by.",
+            "D: = decrease."
+          ],
+          "example": "The plan fell through."
+        }
+      },
+      "vocab": [
+        {
+          "term": "withdraw",
+          "fr": "se retirer"
+        }
+      ]
+    },
+    {
+      "id": "p5-b04-039",
+      "part": 5,
+      "difficulty": 2,
+      "category": "voc-general",
+      "stem": "A ___ of options is available, from basic plans to premium packages.",
+      "choices": [
+        "rate",
+        "rank",
+        "rage",
+        "range"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "a range of = une gamme de.",
+          "why_wrong": [
+            "A : = taux.",
+            "B : = rang.",
+            "C : = colère."
+          ],
+          "example": "a wide range"
+        },
+        "en": {
+          "rule": "a range of = a variety of.",
+          "why_wrong": [
+            "A: = level.",
+            "B: = position.",
+            "C: = anger."
+          ],
+          "example": "a wide range"
+        }
+      },
+      "vocab": [
+        {
+          "term": "range",
+          "fr": "gamme"
+        }
+      ]
+    },
+    {
+      "id": "p5-b04-040",
+      "part": 5,
+      "difficulty": 3,
+      "category": "voc-office",
+      "stem": "Please ___ the meeting minutes to everyone who attended.",
+      "choices": [
+        "circuit",
+        "circulate",
+        "circle",
+        "circumstance"
+      ],
+      "correct": 1,
+      "explanation": {
+        "fr": {
+          "rule": "circulate = faire circuler.",
+          "why_wrong": [
+            "A : = circuit.",
+            "C : = entourer.",
+            "D : = circonstance."
+          ],
+          "example": "circulate a memo"
+        },
+        "en": {
+          "rule": "circulate = pass around.",
+          "why_wrong": [
+            "A: = route.",
+            "C: = draw around.",
+            "D: = condition."
+          ],
+          "example": "circulate a memo"
+        }
+      },
+      "vocab": [
+        {
+          "term": "minutes",
+          "fr": "compte rendu"
+        }
+      ]
+    },
+    {
+      "id": "p5-b04-041",
+      "part": 5,
+      "difficulty": 3,
+      "category": "voc-finance",
+      "stem": "The firm has ___ its profit forecast downward for the second time this year.",
+      "choices": [
+        "revised",
+        "retired",
+        "reviewed",
+        "revived"
+      ],
+      "correct": 0,
+      "explanation": {
+        "fr": {
+          "rule": "revise a forecast = réviser une prévision.",
+          "why_wrong": [
+            "B : = pris sa retraite.",
+            "C : = examiné.",
+            "D : = ranimé."
+          ],
+          "example": "revised estimate"
+        },
+        "en": {
+          "rule": "revise a forecast = adjust it.",
+          "why_wrong": [
+            "B: = stopped working.",
+            "C: = examined.",
+            "D: = brought back."
+          ],
+          "example": "revised estimate"
+        }
+      },
+      "vocab": [
+        {
+          "term": "forecast",
+          "fr": "prévision"
+        }
+      ]
+    },
+    {
+      "id": "p5-b04-042",
+      "part": 5,
+      "difficulty": 3,
+      "category": "voc-hr",
+      "stem": "Applicants should be able to ___ under pressure and meet tight deadlines.",
+      "choices": [
+        "inform",
+        "reform",
+        "conform",
+        "perform"
+      ],
+      "correct": 3,
+      "explanation": {
+        "fr": {
+          "rule": "perform under pressure = être performant.",
+          "why_wrong": [
+            "A : = informer.",
+            "B : = réformer.",
+            "C : = se conformer."
+          ],
+          "example": "perform well"
+        },
+        "en": {
+          "rule": "perform under pressure = work well.",
+          "why_wrong": [
+            "A: = tell.",
+            "B: = improve.",
+            "C: = comply."
+          ],
+          "example": "perform well"
+        }
+      },
+      "vocab": [
+        {
+          "term": "deadline",
+          "fr": "échéance"
+        }
+      ]
+    }
+  ]
+}
