@@ -2,9 +2,9 @@
 
 ## État actuel
 
-- Phase en cours : terminée (7/7). Reste à votre charge : photos Part 1, relecture du contenu
+- Phase en cours : terminée (7/7). Reste à votre charge : relecture du contenu, test de l'audio
 - Dernière mise à jour : 2026-10-26
-- Prochaine action : déposer les 12 photos Part 1 (content/images/part1/), relire le contenu, tester l'audio dans Chrome/Edge
+- Prochaine action : relire le contenu, tester l'audio dans Chrome/Edge
 
 ## Phases
 
@@ -69,6 +69,8 @@ Leçons : grammaire 18 · conjugaison 10 · vocabulaire 17 · méthodologie 7 ·
 2026-11-08 — Reprise de l'entraînement : écran « S'entraîner » refait (réglages : nombre, difficulté, catégorie, questions jamais vues ; avancement par partie ; mélange de toutes les parties ; lien vers les erreurs), raccourcis clavier (A–D / 1–4, Entrée), barre de progression et récapitulatif de séance avec accès à la révision des erreurs ; nouvel endpoint `GET /questions/summary`. Balayage complet de l'API : 696 questions servies, 0 anomalie (index de bonne réponse, explications FR/EN, textes, transcriptions)
 2026-11-08 — Lots ajoutés : part5-batch04 (42 questions de niveau avancé alignées sur le module C1), part6-batch03 (8 textes, 32 questions), part7-batch06 (26 questions : article, rapport, échange d'e-mails, offre d'emploi + lettre, page web + e-mail + confirmation avec calculs). Banque d'examen : 708 questions dont 12 Part 1 en attente des photos. Biais « A » corrigé dans part5-batch03 (23 → 15 bonnes réponses en A)
 
+2026-11-08 — Photos Part 1 : 12 photos libres (licence Pexels) téléchargées, vérifiées visuellement une à une contre les énoncés de chaque question, créditées dans credits.json ; CSS : hauteur des photos limitée à 65 % de l'écran (3 photos sont en portrait). La banque d'examen est complète : 708 questions, dont les 12 Part 1
+
 ## Problèmes rencontrés
 
 <!-- Format : date — problème — solution ou statut -->
@@ -77,7 +79,7 @@ Leçons : grammaire 18 · conjugaison 10 · vocabulaire 17 · méthodologie 7 ·
 
 - Contenu des 37 leçons et 185 questions de quiz rédigé en une passe : une relecture par vous (ou un enseignant) reste souhaitable, surtout les distracteurs des quiz de vocabulaire et les tableaux de grammaire.
 
-- **Photos Part 1** : déposer p1-01.jpg … p1-12.jpg dans content/images/part1/ et compléter credits.json (voir le README du dossier). Sans elles, les 12 questions Part 1 n'apparaissent pas.
+- **Photos Part 1** : les 12 photos ont été choisies sur Pexels (auteur et lien dans content/images/part1/credits.json). Vérifiez qu'elles vous conviennent ; on peut les remplacer à tout moment (même nom de fichier).
 - Tester l'audio dans Chrome ou Edge : le rendu des voix dépend de celles installées sur Windows (Paramètres > Heure et langue > Voix).
 
 - Part 7 : le format du lot est validé, mais les passages doubles/triples sont à tester en phase 7.

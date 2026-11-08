@@ -30,10 +30,11 @@ Pour l'audio, utilisez Chrome ou Edge (voix installées dans Windows).
 
 ## Photos de la Part 1
 
-Les 12 questions de la Part 1 attendent des photos libres de droits (Unsplash, Pexels). Déposez
-`p1-01.jpg` … `p1-12.jpg` dans `content/images/part1/` et complétez `credits.json` : voir
-[content/images/part1/README.md](content/images/part1/README.md) pour la liste des scènes à chercher.
-Sans les photos, ces questions ne sont simplement pas proposées.
+Les 12 photos de la Part 1 (`content/images/part1/p1-01.jpg` … `p1-12.jpg`) proviennent de Pexels, sous licence
+Pexels (usage libre). L'auteur et le lien de chaque photo sont dans `content/images/part1/credits.json`.
+Pour en changer une, remplacez le fichier JPG (même nom) : la question qui y est liée doit rester vraie
+(voir le tableau des scènes dans `content/images/part1/README.md`). Une photo absente du dossier fait simplement
+que sa question n'est pas proposée.
 
 ## Développement sans Docker
 
